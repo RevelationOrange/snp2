@@ -1,0 +1,631 @@
+FAME_MULTIPLIERS
+  list of stuff with keys:
+    special_item_cost
+    multiplier
+resource_bundle_offers
+  raw_dyes
+  raw_gems
+  raw_glass
+  raw_mithril
+  raw_paper
+  raw_wood
+  raw_herbs
+  raw_crystal
+  raw_iron
+  raw_elfwood
+  raw_hide
+  raw_ironwood
+  raw_oil
+  raw_steel
+  raw_fabric
+  raw_leather
+ELITE_SHOP_PURCHASE_DISCOUNT
+SHOP_DECORATIONS_COSTS
+  list of stuff
+    list of stuff
+SILVER_TONGUE_HOURS
+CUSTOMER_AFFINITY
+  list of stuff
+BASE_WORKER_CAPACITY
+channels
+  list of stuff with keys:
+    name
+    expires
+    __type__
+    nicename_id
+    creator_id
+    flags
+    id
+    uid
+bundle_percent_off
+improvements (city improvements, I think) (definitely)
+  list of stuff with keys:
+    index
+    children_ids
+      list of stuff
+    resource
+    uid
+    level
+    description_id
+    image
+    parents_ids
+      list of stuff
+    __type__
+    build_time
+    building_modifier
+    requirements
+      list of stuff
+    flags
+    x
+    y
+    name_id
+    codename
+    id
+    modifier_unlock
+war_contribution_point_packages
+  list of stuff
+    list of stuff
+      list of stuff
+WORKER_QUEUE_SLOT_COSTS
+  list of stuff
+RESOURCE_UPGRADE_HOURS
+FAME_MULTIPLIER_HOURS
+SPECIAL_ITEMS
+  1
+    tokens
+    codename
+    bundles
+      cost_multiplier_3
+      cost_multiplier_2
+      cost_multiplier_1
+      quantity_1
+      quantity_2
+      quantity_3
+  0
+    tokens
+    codename
+    bundles
+      cost_multiplier_3
+      cost_multiplier_2
+      cost_multiplier_1
+      quantity_1
+      quantity_2
+      quantity_3
+  3
+    tokens
+    codename
+    bundles
+      cost_multiplier_3
+      cost_multiplier_2
+      cost_multiplier_1
+      quantity_1
+      quantity_2
+      quantity_3
+  2
+    tokens
+    codename
+    bundles
+      cost_multiplier_3
+      cost_multiplier_2
+      cost_multiplier_1
+      quantity_1
+      quantity_2
+      quantity_3
+  5
+    tokens
+    codename
+    bundles
+      cost_multiplier_3
+      cost_multiplier_2
+      cost_multiplier_1
+      quantity_1
+      quantity_2
+      quantity_3
+  4
+    tokens
+    codename
+    bundles
+      cost_multiplier_3
+      cost_multiplier_2
+      cost_multiplier_1
+      quantity_1
+      quantity_2
+      quantity_3
+  6
+    tokens
+    codename
+    bundles
+      cost_multiplier_3
+      cost_multiplier_2
+      cost_multiplier_1
+      quantity_1
+      quantity_2
+      quantity_3
+NB_VP_TO_USE_PURE_RANKING
+CRAFTING_TICK_DURATIONS
+  list of stuff
+customer_levels
+  list of stuff
+BREAK_CHANCES
+  list of stuff
+COST_CONVERSION
+  list of stuff
+END_WAR_WAIT_DURATION
+OFFER_LIFESPAN_SECONDS
+workers
+  list of stuff with keys:
+    character_class_id
+    uid
+    ticket_cost
+    color
+    __type__
+    unlock_improvement_id
+    unlock_shop_fame
+    id
+WORKER_CAPACITY
+  list of stuff with keys:
+    capacity
+    level
+MAX_TOURNAMENT_LEVEL
+character_classes
+  list of stuff with keys:
+    bust_image
+    uid
+    sprite_collection
+    description_id
+    gender
+    full_image
+    __type__
+    name_id
+    y_offset
+    x_offset
+    codename
+    id
+    items_mask
+tutorials
+  list of stuff with keys:
+    text_id
+    index
+    scale
+    uid
+    title_id
+    __type__
+    _image
+    flags
+    background
+    highlight
+    position
+    next_id
+    id
+fame_levels
+  list of stuff
+NB_VP_TO_START_RANKING
+resources
+  list of stuff with keys:
+    speed_up_1_golden_medallion_cost
+    uid
+    max_up_4_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    image
+    id
+    index
+    speed_up_3_golden_medallion_cost
+    __type__
+    name_id
+    max_up_3_golden_medallion_cost
+    codename
+    speed_up_4_golden_medallion_cost
+    speed_up_1_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    max_up_3_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    max_up_1_golden_medallion_cost
+    speed_up_4_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    price
+    max_up_4_golden_medallion_cost
+    speed_up_3_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    star_ticket_cost
+    speed_up_2_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    speed_up_2_golden_medallion_cost
+    max_up_2_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    max_up_1_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    max_up_2_golden_medallion_cost
+MAX_VISITORS_PER_DAY
+achievements
+  list of stuff with keys:
+    index
+    rewards
+      list of stuff with keys:
+        type
+        __type__
+        id
+        data
+    description_id
+    image
+    gamename
+    __type__
+    limit
+    parent_id
+    flags
+    name_id
+    type
+    id
+customers
+  list of stuff with keys:
+    character_class_id
+    uid
+    min_fame
+    simple_class
+    max_level
+    __type__
+    color
+    min_appeal
+    starting_level
+    name_id
+    improvement_id
+    id
+    items_mask
+SUGGEST_CHANCES
+  list of stuff
+sv_version
+NB_ITEMS_TO_CRAFT_FOR_NEXT_LEVEL
+  list of stuff
+LOOT_CAPS
+  list of stuff
+TICKS_PER_DAY
+TOURNAMENT_STARS_BY_LEVEL
+  list of stuff
+assets_with_context
+  list of stuff with keys:
+    asset_id
+    uid
+    tags
+    __type__
+    context
+    id
+cl_version
+krown_rewards
+  list of stuff with keys:
+    level
+    amounts
+    prize_index
+    __type__
+    type
+    id
+    prize_uid
+gifts
+  list of stuff with keys:
+    text_id
+    uid
+    min_streak
+    image
+    __type__
+    max_streak
+    data
+    id
+customer_level_values
+  list of stuff
+GOLD_TICKET_CONVERSION
+WORKER_SLOT_KEY_COSTS
+  list of stuff
+ENLARGE_SHOP_COSTS
+  list of stuff
+    list of stuff
+recipe_unlocks
+  list of stuff with keys:
+    worker_codename
+    uid
+    __type__
+    module_level
+    recipe_id
+    crafted_item_id
+    quest_id
+    crafted_item_count
+    module_id
+    fame_level
+    id
+HURRY_PACKAGES
+  list of stuff
+    list of stuff
+WAR_CONTRIBUTION_REWARDS
+  list of stuff
+    list of stuff
+MAX_SIMULTANEOUS_HUNTS
+BASIC_SHOP_SIZE
+BASE_VISITORS_PER_DAY
+SELL_MAXIMUM_PERCENT
+SPECIAL_BUNDLE_OFFERS
+  list of stuff with keys:
+    mithril_gear
+    magical_key
+    mystical_hourglass
+    tokens
+    platinum_hammer
+    star_ticket
+    refund_percent
+    golden_medallion
+assets
+  list of stuff with keys:
+    hid
+    __type__
+    id
+    value
+    uid
+MAX_NB_QUEST_AND_HUNT_CHARACTERS
+items
+  list of stuff with keys:
+    hue
+    uid
+    purchase_cost
+    level
+    image
+    __type__
+    repair_cost
+    purchase_price
+    price
+    name_id
+    craft_xp
+    type_str
+    sell_xp
+    type
+    id
+    unlock_cost
+recipes
+  list of stuff with keys:
+    worker_codename
+    uid
+    crafting_time
+    __type__
+    module_level
+    components
+      list of stuff with keys:
+        index
+        resource_id
+        __type__
+        recipe_id
+        item_id
+        id
+        quantity
+    item_id
+    module_id
+    id
+modules
+  list of stuff with keys:
+    uid
+    disabled
+    resource_codename
+    id
+    max_upgrade_level
+    resource_modifiers
+      list of stuff with keys:
+        while_building
+        is_global
+        __type__
+        iso_y
+        hidden
+        add
+        iso_x
+        radius
+        modifies
+        overwrites
+        id
+        mult
+    __type__
+    parent_id
+    astar_nodes
+      list of stuff
+    name_id
+    codename
+    icon
+    type
+    power
+    pois
+      list of stuff
+    unlock_fame_level
+    shop_appeals
+    modifiers
+      list of stuff
+    scene_objects
+      list of stuff with keys:
+        image_path
+        nb_automated_frames
+        edition_type
+        __type__
+        iso_y_offset
+        children
+          list of stuff
+        x_offset
+        animation
+        y_offset
+        iso_height
+        iso_width
+        iso_x_offset
+        module_id
+        id
+        animation_speed
+    maximum
+    costs
+      list of stuff
+    build_times
+      list of stuff
+    hammer_cost
+appeal_levels
+  list of stuff
+KROWN_COSTS
+  list of stuff
+WAR_CHARACTER_PER_PLAYER
+SELL_MINIMUM_PERCENT
+LOOT_WEIGHTS
+  list of stuff
+SILVER_TONGUE
+  list of stuff with keys:
+    bonus
+    special_item_cost
+quests
+  list of stuff with keys:
+    worker_codename
+    parent_id
+    customer_xp_reward
+    npc_intro_id
+    __type__
+    npc
+    image
+    party_members
+      list of stuff with keys:
+        index
+        codename
+        __type__
+    party_items
+      list of stuff with keys:
+        item_id
+        index
+        __type__
+        item_type_mask
+    name_id
+    npc_conclusion_id
+    duration
+    improvement_id
+    fame_level
+    id
+    loot
+      resource_id
+      __type__
+      special_item
+      amount
+      recipe_id
+      item_id
+WAR_GROUP_CLASSNAMES
+  list of stuff
+    list of stuff
+hunts
+  list of stuff with keys:
+    min_level
+    rewards_mask
+    unlock_fame_level
+    description_id
+    max_value
+    image
+    min_value
+    __type__
+    npc
+    loots
+      list of stuff with keys:
+        index
+        resource_id
+        __type__
+        value
+        amount
+        item_id
+        id
+    max_level
+    quest_id
+    customer_xp_reward
+    duration
+    name_id
+    improvement_id
+    id
+war_bonus
+  list of stuff with keys:
+    fixed_bonus_description_id
+    temp_bonus_name_id
+    improvement_codename
+    fixed_bonus_value_label_id
+    modified_field
+    __type__
+    image_name
+    temp_bonus_description_id
+    fixed_bonus_name_id
+    fixed_bonus_image_name
+    modifier_level_4
+    codename
+    modifier_level_2
+    modifier_level_1
+    id
+    modifier_level_3
+    uid
+
