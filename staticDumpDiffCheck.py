@@ -193,6 +193,7 @@ newSD = res['result']
 # print the new and old version numbers. for posterity.
 print 'old version:', oldSD['sv_version'], '\nnew version:', newSD['sv_version'], '\n'
 
+
 # diffs will hold the entry for each change: [location, type, object(, other object)]
 diffs = []
 # then open the output file,
