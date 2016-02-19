@@ -201,6 +201,7 @@ with open(outputFileName, 'w') as outFile:
     if oldSD != newSD:
         # if so, say so and starting digging into the dictionaries
         print 'some differences'
+        outFile.write('differences between versions {} and {}:\n'.format(oldSD['sv_version'], newSD['sv_version']))
         diffs += findTheDiffs(oldSD, newSD, ['result'], outFile)
         outFile.write('\n')
     else:

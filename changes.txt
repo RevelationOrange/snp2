@@ -1,3 +1,4 @@
+differences between versions 17238 and 17874
   difference found in result
   difference in keys found in result
     new key(s): war_contribution_point_packages, war_bonus
