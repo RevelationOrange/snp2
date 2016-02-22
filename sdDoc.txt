@@ -1,0 +1,790 @@
+// documentation for static dump version 17874
+FAME_MULTIPLIERS
+// these are the costs and bonuses of spending golden medallions to increase shop xp gain for 24 hours
+  list of dicts with keys:
+  // ordered from cheapest cost bonus to most expensive
+    special_item_cost: int
+	// 1, 2, 3, or 5 golden medallions
+    multiplier: float
+	// 0.25, 0.55, 0.85, or 1.25 increase to xp multiplier (default 1.0)
+resource_bundle_offers: dict
+// each thing is of type unicode
+  raw_dyes
+  // raw_wood.raw_leather.raw_leather
+  // I really have no clue what these mean
+  // every one starts with raw_wood, except of course the entry for raw_wood
+  // wtf edgebee
+  raw_gems
+  raw_glass
+  raw_mithril
+  raw_paper
+  raw_wood
+  raw_herbs
+  raw_crystal
+  raw_iron
+  raw_elfwood
+  raw_hide
+  raw_ironwood
+  raw_oil
+  raw_steel
+  raw_fabric
+  raw_leather
+ELITE_SHOP_PURCHASE_DISCOUNT: float = 0.1
+// pretty sure this is just the discount you get from buying an elite package, so the price multiplier
+// would be 1-this = 0.9
+SHOP_DECORATIONS_COSTS
+// this appears to be the info for shop wall status
+  list of lists
+    list of ints
+	// stored as [hammer cost, gold cost, max level limit], it's the prices of each wall upgrade and the max
+	// level the walls will block out (so customers with max level > this level will visit)
+SILVER_TONGUE_HOURS: int = 24
+// this is probly the duration in hours of the customer level bonus that you can buy for medallions
+CUSTOMER_AFFINITY
+// I'm not sure exactly what this is, but best guess: weights for rolling whether a customer will visit
+  list of ints: [100, 75, 25, 10]
+BASE_WORKER_CAPACITY: int = 1 // not sure why this even needed to be stored here, but ok
+channels
+// this is a list of the basic chat channels you can join
+  list of dicts with keys:
+    name: unicode string
+	// just an internal name, like general_chat_1 or something
+    expires: unicode string
+	// it's a string, but it's a date in some format for when the channel will disappear, or something
+	// not really sure how it's used, since they all start with 2014
+    __type__: unicode string
+	// always 'Channel', so you know, that's useful
+    nicename_id: int
+	// this is the id to look for in assets to get the name text of the channel
+    creator_id: int
+	// 0 for the channels here, I imagine it's nonzero for playermade channels and town chats
+    flags: int
+	// not sure what this means yet. for general_chat_1 2 and 3 it's 3, for trade_chat it's 5, for
+	// recruitment_chat it's 9
+    id: int
+	// clearly some unique identifier, though it's 223 to 227 for the 5 channels here
+    uid: unicode string
+	// I don't know what this is for any damn thing, it seems to be unique for every entry in the SD, not
+	// used literally anywhere else, so it doesn't correlate to anything
+	// probly for data verification, 'unique identifier' or something
+bundle_percent_off: float = 0.25
+// no clue what this is
+improvements
+  list of stuff with keys:
+    index: int
+	// not unique to each building level, probly unique to each type of building, ex, all the levels of
+	// the castle probly have the same index (this is true)
+    children_ids
+	// list of building ids of the building(s) that this building unlocks
+      list of ints
+    resource: unicode string (sometimes)
+	// if the building produces a resource, it will be listed here, such as 'raw_herbs'
+	// if it's unicode but doesn't produce a resource, it'll just be an empty string
+	// but sometimes the type is None, which seems to be the case for the pvp buildings
+	// not entirely sure why
+    uid: unicode string
+    level: int
+	// level of the building, dur
+    description_id: int
+	// an id for the building text description stored in assets
+	// though each one for each building level is unique, a lot of them lead to the same text
+	// but not all
+    image: unicode string
+	// part of the url for the building's icon, maybe? doesn't work for some of them? dunno
+    parents_ids
+      list of int
+	  // the building id that unlocks this building, if there is one
+	  // gg making it a list even though a building can't have more than 1 parent, since that doesn't make
+	  // sense; dammit edgebee
+    __type__: unicode string
+	// 'Improvement' for everything in this section
+    build_time: int
+	// time to build in seconds; will usually be more useful in days
+    building_modifier: unicode string
+	// empty string for every building. great.
+    requirements
+      list of dicts with keys:
+	    index: int // always 0
+		customer_xp_reward: int // always 0... okay
+		__type__: unicode string // 'ImprovementRequirement'
+		character_codename: unicode string or None type
+		// if the building needs customers sent to it to upgrade, this will be a string, their class name
+		// otherwise it'll be None
+		amount: int
+		// how many of the thing you need to upgrade it, obvs
+		item_id: int
+		// if the building needs item donations to upgrade, this is the id of the item it needs
+		improvement_id: int
+		// the id of the improvement this requirement obj is associated with
+		// always the same as the improvement it's stored in
+		id: int
+		// unique, ordered id for improvement requirements
+    flags: int
+	// can be 0, 1, or 2; no clue as to the meaning
+    x: int
+    y: int
+	// pretty sure x and y are the coordinates of where to put the picture of the building on the city map
+    name_id: int
+	// id to find in assets to get the building's name text
+    codename: unicode string
+	// a simple version of the building's name, presumably there so you don't have to constantly reference
+	// assets to know what building you're dealing with
+    id: int
+	// the building id, duh
+    modifier_unlock: dict or unicode
+	// usually a dict, sometimes a string that's just '', not sure yet what determines which
+	  min_shop_appeal: int or None
+	  // it's either 0 or None, so that's useful thanks edgebee.
+	  modifier: dict
+	    while_building: bool
+		// always false. awesome. just fuckin' great.
+		is_global: bool
+		// always true. edgebee, come the fuck on.
+		modifies: unicode string
+		// this string describes what the building modifies, for example, resource.count_per_hour.raw_gems
+		// or klash_bonus.rogues, that kind of thing
+		__type__: unicode string
+		// 'Modifier'
+		iso_y: float
+		// always 0.0
+		add: float
+		// this is the amount the improvement adds to whatever it modifies
+		// the monastery doesn't have this key in this location for some reason; it's the only building
+		// where the 'modifier_unlock' is a dict, but 'modifier' in 'modifier_unlock' doesn't have 'add'
+		// odd, but eh
+		iso_x: float
+		// also always 0.0
+		// christ edgebee, get your shit together
+		radius: float
+		// once more, always 0.0
+		hidden: bool
+		// always false
+		// great
+		// just goddamn great
+		overwrites: bool
+		// always false
+		// this kinda makes sense though, ish, I dunno
+		id: int
+		// modifier id, from 147 to 436
+		mult: float
+		// 0.0 except for the monastery, where it's 0.05, so they decided to store the resource % increase
+		// as a 'mult' but every other % increase, like from the bank in 'add'
+		// alright
+		// you know, what the hell ever
+		// damn assholes
+	  __type__: unicode string
+	  // 'Modifier'
+	  id: int
+	  // unique modifier id
+war_contribution_point_packages
+// this contains the klash point costs to activate the bonuses from pvp buildings
+  list of lists
+  // each of these lists corresponds to the 4 levels of pvp buildings (that give bonuses)
+    list of lists
+	// each of these lists corresponds to the 1, 3, and 7 day bonus durations
+      list of ints
+	  // and here is the day length and klash point cost of activation; ex: [3, 20000]
+WORKER_QUEUE_SLOT_COSTS
+// this is simply 1 through 5 for how many mithril gears it costs to unlock a worker's next queue slot
+  list of ints
+RESOURCE_UPGRADE_HOURS: int = 48
+// the duration in hours of the resource capacity (?) bonus that you can buy for medallions
+FAME_MULTIPLIER_HOURS: int = 24
+// the duration in hours of the sell xp bonus that you can buy for medallions
+SPECIAL_ITEMS: dict
+// this contains the info for special items: hammers, hourglasses, coupons, medallions, keys, gears, and
+// krowns, apparently (ah right, because you can spend tokens to get them) (listed in order of dict key 0-6)
+  1: dict // for hourglasses
+    tokens: int
+	// the base cost of a single of these items, even if you can never buy exactly 1 of them
+    codename: unicode string
+	// a simple name for the item; nice not to have to search assets
+    bundles: dict
+	// this stores the amounts of the special item sold in each of the three bundles
+	// the cost of the bundle is tokens*cost_multiplier for each bundle; cost multiplier is the number of
+	// items you pay for, quantity is the number of items you actually get
+	// ex: the first bundle for krowns costs 100*krowns price and you get 100 krowns
+	// the in 3rd bundle, it costs 2500 krowns and you get 3000 krowns
+      cost_multiplier_3: int
+      cost_multiplier_2: int
+      cost_multiplier_1: int
+      quantity_1: int
+      quantity_2: int
+      quantity_3: int
+  0: dict // for hammers
+  // each of these dicts has the exact same structure, so just refer to the entry above
+    tokens
+    codename
+    bundles
+      cost_multiplier_3
+      cost_multiplier_2
+      cost_multiplier_1
+      quantity_1
+      quantity_2
+      quantity_3
+  3: dict // for medallions
+    tokens
+    codename
+    bundles
+      cost_multiplier_3
+      cost_multiplier_2
+      cost_multiplier_1
+      quantity_1
+      quantity_2
+      quantity_3
+  2: dict // for coupons
+    tokens
+    codename
+    bundles
+      cost_multiplier_3
+      cost_multiplier_2
+      cost_multiplier_1
+      quantity_1
+      quantity_2
+      quantity_3
+  5: dict // for gears
+    tokens
+    codename
+    bundles
+      cost_multiplier_3
+      cost_multiplier_2
+      cost_multiplier_1
+      quantity_1
+      quantity_2
+      quantity_3
+  4: dict // for keys
+    tokens
+    codename
+    bundles
+      cost_multiplier_3
+      cost_multiplier_2
+      cost_multiplier_1
+      quantity_1
+      quantity_2
+      quantity_3
+  6: dict // for krowns
+    tokens
+    codename
+    bundles
+      cost_multiplier_3
+      cost_multiplier_2
+      cost_multiplier_1
+      quantity_1
+      quantity_2
+      quantity_3
+NB_VP_TO_USE_PURE_RANKING: int = 40
+// not sure exactly
+CRAFTING_TICK_DURATIONS
+// these are the number of ticks for the 5 different craft times: 100, 200, 300, 400, 700, and 1000
+  list of ints
+customer_levels
+// these are the exp totals a customer needs to level up, though I don't know why they have a zero entry and
+// an extra entry for level 21s
+// example: index 1 (2nd entry) is 10, and it takes 10 xp for a level 1 to get to level 2
+// but index 21 (22nd entry) is 500k; it takes 500k xp for a level 21 to get to level 22?
+// dunno why it's like that, but it is customer xp values
+  list of ints
+BREAK_CHANCES
+// [10, 25, 50, 90], for the % chance to break an item that's 0, 1, 2, or 3 levels higher than a customer
+  list of ints
+COST_CONVERSION
+// [1000.0, 1000.0, 1.0]
+// not totally sure, it looks like it would convert thousands to millions or something like that
+// what cost it's converting, I have no clue; it could be for city pop numbers
+  list of floats
+END_WAR_WAIT_DURATION: int = 600
+// this is how long in seconds after a klash ends that you have to send your last customer if you're still
+// in the middle of a day, or send mercenaries apparently
+OFFER_LIFESPAN_SECONDS: int = 259200
+// the time in seconds that an item posted to world trade will stay there
+workers
+// where data for the- you guessed it- workers is stored!
+  list of dicts with keys:
+    character_class_id: int
+	// id to find in 'character_classes' for the 'name_id' of the worker, as well as stuff like picture, id,
+	// gender (which doesn't actually make sense- more in that section), etc.
+    uid: unicode string
+    ticket_cost: int
+	// cost in starry coupons to hire the worker, in case you feel like wasting them
+    color: int = 0
+	// dunno why it's 0 for all, but whatever
+    __type__: unicode string
+	// 'Worker'
+    unlock_improvement_id: int = 0
+	// 0 for all, fantastic
+	cost: int
+	// gold cost of hiring the worker
+    unlock_shop_fame: int
+	// level requirement to buy this worker in the hire screen
+    id: int
+	// worker id, 1-13
+WORKER_CAPACITY
+// it looks like the entries here determine that your extra worker capacity (that is, not counting your
+// shopkeep) is 'capacity' while your level is less than or equal to 'level'
+  list of dicts with keys:
+    capacity: int
+	// 0-4, how many extra workers you can have
+    level: int, except the last one, which is type long
+	// 2, 10, 40, 75, and fuckin' 9223372036854775807L
+MAX_TOURNAMENT_LEVEL
+character_classes
+  list of stuff with keys:
+    bust_image
+    uid
+    sprite_collection
+    description_id
+    gender
+    full_image
+    __type__
+    name_id
+    y_offset
+    x_offset
+    codename
+    id
+    items_mask
+tutorials
+  list of stuff with keys:
+    text_id
+    index
+    scale
+    uid
+    title_id
+    __type__
+    _image
+    flags
+    background
+    highlight
+    position
+    next_id
+    id
+fame_levels
+  list of stuff
+NB_VP_TO_START_RANKING
+resources
+  list of stuff with keys:
+    speed_up_1_golden_medallion_cost
+    uid
+    max_up_4_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    image
+    id
+    index
+    speed_up_3_golden_medallion_cost
+    __type__
+    name_id
+    max_up_3_golden_medallion_cost
+    codename
+    speed_up_4_golden_medallion_cost
+    speed_up_1_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    max_up_3_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    max_up_1_golden_medallion_cost
+    speed_up_4_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    price
+    max_up_4_golden_medallion_cost
+    speed_up_3_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    star_ticket_cost
+    speed_up_2_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    speed_up_2_golden_medallion_cost
+    max_up_2_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    max_up_1_modifier
+      while_building
+      is_global
+      __type__
+      id
+      iso_y
+      iso_x
+      radius
+      modifies
+      overwrites
+      hidden
+      mult
+    max_up_2_golden_medallion_cost
+MAX_VISITORS_PER_DAY
+achievements
+  list of stuff with keys:
+    index
+    rewards
+      list of stuff with keys:
+        type
+        __type__
+        id
+        data
+    description_id
+    image
+    gamename
+    __type__
+    limit
+    parent_id
+    flags
+    name_id
+    type
+    id
+customers
+  list of stuff with keys:
+    character_class_id
+    uid
+    min_fame
+    simple_class
+    max_level
+    __type__
+    color
+    min_appeal
+    starting_level
+    name_id
+    improvement_id
+    id
+    items_mask
+SUGGEST_CHANCES
+  list of stuff
+sv_version
+NB_ITEMS_TO_CRAFT_FOR_NEXT_LEVEL
+  list of stuff
+LOOT_CAPS
+  list of stuff
+TICKS_PER_DAY
+TOURNAMENT_STARS_BY_LEVEL
+  list of stuff
+assets_with_context
+  list of stuff with keys:
+    asset_id
+    uid
+    tags
+    __type__
+    context
+    id
+cl_version
+krown_rewards
+  list of stuff with keys:
+    level
+    amounts
+    prize_index
+    __type__
+    type
+    id
+    prize_uid
+gifts
+  list of stuff with keys:
+    text_id
+    uid
+    min_streak
+    image
+    __type__
+    max_streak
+    data
+    id
+customer_level_values
+  list of stuff
+GOLD_TICKET_CONVERSION
+WORKER_SLOT_KEY_COSTS
+  list of stuff
+ENLARGE_SHOP_COSTS
+  list of stuff
+    list of stuff
+recipe_unlocks
+  list of stuff with keys:
+    worker_codename
+    uid
+    __type__
+    module_level
+    recipe_id
+    crafted_item_id
+    quest_id
+    crafted_item_count
+    module_id
+    fame_level
+    id
+HURRY_PACKAGES
+  list of stuff
+    list of stuff
+WAR_CONTRIBUTION_REWARDS
+  list of stuff
+    list of stuff
+MAX_SIMULTANEOUS_HUNTS
+BASIC_SHOP_SIZE
+BASE_VISITORS_PER_DAY
+SELL_MAXIMUM_PERCENT
+SPECIAL_BUNDLE_OFFERS
+  list of stuff with keys:
+    mithril_gear
+    magical_key
+    mystical_hourglass
+    tokens
+    platinum_hammer
+    star_ticket
+    refund_percent
+    golden_medallion
+assets
+  list of stuff with keys:
+    hid
+    __type__
+    id
+    value
+    uid
+MAX_NB_QUEST_AND_HUNT_CHARACTERS
+items
+  list of stuff with keys:
+    hue
+    uid
+    purchase_cost
+    level
+    image
+    __type__
+    repair_cost
+    purchase_price
+    price
+    name_id
+    craft_xp
+    type_str
+    sell_xp
+    type
+    id
+    unlock_cost
+recipes
+  list of stuff with keys:
+    worker_codename
+    uid
+    crafting_time
+    __type__
+    module_level
+    components
+      list of stuff with keys:
+        index
+        resource_id
+        __type__
+        recipe_id
+        item_id
+        id
+        quantity
+    item_id
+    module_id
+    id
+modules
+  list of stuff with keys:
+    uid
+    disabled
+    resource_codename
+    id
+    max_upgrade_level
+    resource_modifiers
+      list of stuff with keys:
+        while_building
+        is_global
+        __type__
+        iso_y
+        hidden
+        add
+        iso_x
+        radius
+        modifies
+        overwrites
+        id
+        mult
+    __type__
+    parent_id
+    astar_nodes
+      list of stuff
+    name_id
+    codename
+    icon
+    type
+    power
+    pois
+      list of stuff
+    unlock_fame_level
+    shop_appeals
+    modifiers
+      list of stuff
+    scene_objects
+      list of stuff with keys:
+        image_path
+        nb_automated_frames
+        edition_type
+        __type__
+        iso_y_offset
+        children
+          list of stuff
+        x_offset
+        animation
+        y_offset
+        iso_height
+        iso_width
+        iso_x_offset
+        module_id
+        id
+        animation_speed
+    maximum
+    costs
+      list of stuff
+    build_times
+      list of stuff
+    hammer_cost
+appeal_levels
+  list of stuff
+KROWN_COSTS
+  list of stuff
+WAR_CHARACTER_PER_PLAYER
+SELL_MINIMUM_PERCENT
+LOOT_WEIGHTS
+  list of stuff
+SILVER_TONGUE
+  list of stuff with keys:
+    bonus
+    special_item_cost
+quests
+  list of stuff with keys:
+    worker_codename
+    parent_id
+    customer_xp_reward
+    npc_intro_id
+    __type__
+    npc
+    image
+    party_members
+      list of stuff with keys:
+        index
+        codename
+        __type__
+    party_items
+      list of stuff with keys:
+        item_id
+        index
+        __type__
+        item_type_mask
+    name_id
+    npc_conclusion_id
+    duration
+    improvement_id
+    fame_level
+    id
+    loot
+      resource_id
+      __type__
+      special_item
+      amount
+      recipe_id
+      item_id
+WAR_GROUP_CLASSNAMES
+  list of stuff
+    list of stuff
+hunts
+  list of stuff with keys:
+    min_level
+    rewards_mask
+    unlock_fame_level
+    description_id
+    max_value
+    image
+    min_value
+    __type__
+    npc
+    loots
+      list of stuff with keys:
+        index
+        resource_id
+        __type__
+        value
+        amount
+        item_id
+        id
+    max_level
+    quest_id
+    customer_xp_reward
+    duration
+    name_id
+    improvement_id
+    id
+war_bonus
+  list of stuff with keys:
+    fixed_bonus_description_id
+    temp_bonus_name_id
+    improvement_codename
+    fixed_bonus_value_label_id
+    modified_field
+    __type__
+    image_name
+    temp_bonus_description_id
+    fixed_bonus_name_id
+    fixed_bonus_image_name
+    modifier_level_4
+    codename
+    modifier_level_2
+    modifier_level_1
+    id
+    modifier_level_3
+    uid
