@@ -137,7 +137,8 @@ improvements
     id: int
 	// the building id, duh
     modifier_unlock: dict or unicode
-	// usually a dict, sometimes a string that's just '', not sure yet what determines which
+    // if the building gives a bonus, not just a customer or another building unlock, this will be a dict with
+    // that info, otherwise an empty string ''
 	  min_shop_appeal: int or None
 	  // it's either 0 or None, so that's useful thanks edgebee.
 	  modifier: dict
