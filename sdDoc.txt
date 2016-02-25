@@ -74,8 +74,8 @@ bundle_percent_off: float = 0.25
 improvements
   list of dicts with keys:
     index: int
-	// not unique to each building level, probly unique to each type of building, ex, all the levels of
-	// the castle probly have the same index (this is true)
+	// not unique to each building level, often the same for a building type (like iron mine)
+	// not always
     children_ids
 	// list of building ids of the building(s) that this building unlocks
       list of ints
