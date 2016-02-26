@@ -266,11 +266,16 @@ def getInfo(change=0, newSD=0):
         else: outputBuilding['custUnlocks'] = 'none'
         # finally, get the bonus the building provides, if any
         if type(newBuilding['modifier_unlock']) is dict:
+            # the thing the building modifies will always be there, in modifier -> modifies
             what = newBuilding['modifier_unlock']['modifier']['modifies']
+            # if the key 'add' is present, it contains how much of 'what' the building provides
             if 'add' in newBuilding['modifier_unlock']['modifier']:
                 howMuch = newBuilding['modifier_unlock']['modifier']['add']
+            # if 'add' isn't there, the how much is stored in 'mult', which is only the case for the monastery
+            # so gg there edgebee, way to be consistent
             else: howMuch = newBuilding['modifier_unlock']['modifier']['mult']
             outputBuilding['bonus'] = [what, howMuch]
+        # if there's no 'modifier_unlock', set the 'bonus' to 'none'
         else: outputBuilding['bonus'] = 'none'
         return [change[1], outputBuilding]
     elif changeType == 'customer_levels':
