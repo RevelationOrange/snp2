@@ -1,0 +1,21 @@
+this is a list of stored info that I couldn't figure out the exact meaning
+
+resource_bundle_offers: wtf
+CUSTOMER_AFFINITY: guess
+channels, list, flags: unknown
+bundle_percent_off: unknown
+improvements, list, flags: unknown
+NB_VP_TO_USE_PURE_RANKING: unknown
+COST_CONVERSION: unknown
+tutorials, list, index: unknown
+tutorials, list, flags: unknown
+resources, list, price: unknown
+NB_ITEMS_TO_CRAFT_FOR_NEXT_LEVEL: unknown
+LOOT_CAPS: unknown
+cl_version: unknown, not super important or anything
+GOLD_TICKET_CONVERSION: unknown
+assets, list, hid: unknown
+items, list, hue: guess
+module, list, pois: guess-ish
+module, list, scene_objects, list, edition_type: unknown
+LOOT_WEIGHTS: unknown
