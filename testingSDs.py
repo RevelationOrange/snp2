@@ -109,9 +109,10 @@ for x in tracker:
     print x
 
 goldTotal = 0
-for x in newSD['result']['improvements']:
+for x in newSD['result']['items']:
     #if 'iron_mine' in x['codename']: print x['modifier_unlock']
-    if type(x['modifier_unlock']) is dict:
+    if x['id'] == 553: print x
+    '''
         if 'add' in x['modifier_unlock']['modifier']:
             if x['modifier_unlock']['modifier']['add'] == 0: print x['modifier_unlock']['modifier']['add'], x['modifier_unlock']
         #print 'id {}: children {}, {} ({})'.format(x['id'], x['children_ids'], str(childBuildings)[1:-1], x['parents_ids'])
@@ -120,3 +121,4 @@ for x in newSD['result']['improvements']:
             goldTotal += x['requirements'][0]['amount']
 #print newSD['result']['appeal_levels']
 print goldTotal/1e9
+'''

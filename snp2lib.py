@@ -11,6 +11,8 @@ for now, it's mainly for getInfo, which will deal with customers, city improveme
 cdnBase = "cdn.edgebee.com/static/"
 cndBase = cdnBase
 
+ctimeConverter = {0:'none', 1:'Very Fast', 2:'Fast', 3:'Medium', 4:'Long',  5:'Very Long'}
+
 # I found this solution on stack exchange, to pass a mask as an argument to a list to select which entries to return
 class maskList(list):
     def __getitem__(self, index):
@@ -43,7 +45,7 @@ def getInfo(change=0, newSD=0):
 
     # default return when given no arguments is a list of change types accepted
     if change == 0:
-        return ['customers', 'hunts', 'items', 'improvements']
+        return ['customers', 'hunts', 'improvements', 'items', 'recipes']
 
     # if the main dict was passed as newSD, bypass that silly 'result' key
     if 'result' in newSD:
@@ -54,7 +56,7 @@ def getInfo(change=0, newSD=0):
     catList = maskList( ['swords', 'axes', 'maces', 'spears', 'daggers', 'staves', 'bows', 'music', 'thrown', 'guns',
                          'heavy armor', 'armor', 'clothes', 'heavy helmets', 'helmets', 'hats', 'gauntlets', 'gloves',
                          'bracers', 'heavy boots', 'boots', 'shoes', 'shields', '', 'potions', 'herbs', 'scrolls',
-                         'rings', 'amulets'] )
+                         'rings', 'amulets', 'rare resources'] )
 
     # putting the assets in their own place just saves typing, as nearly every section needs to search through it
     assets = newSD['assets']
@@ -114,6 +116,7 @@ def getInfo(change=0, newSD=0):
         outputCust['iTypes'] = catList[mask]
         # return change[1] (whether it's an add, removal, or change) and the new customer
         return [change[1], outputCust]
+
     elif changeType == 'hunts':
         ''' example quest:
         {u'min_level': 20, u'min_value': 200000, u'unlock_fame_level': 90, u'__type__': u'Hunt', u'max_level': 21,
@@ -174,6 +177,7 @@ def getInfo(change=0, newSD=0):
                 outputQuest['description'] = asset['value']
         # and return the change status and new quest
         return [change[1], outputQuest]
+
     elif changeType == 'improvements':
         ''' example improvement:
         {u'index': 106, u'children_ids': [358], u'resource': None, u'uid': u'9dcb759b22b211eaeafb0b7a9ae7e9cb',
@@ -278,6 +282,7 @@ def getInfo(change=0, newSD=0):
         # if there's no 'modifier_unlock', set the 'bonus' to 'none'
         else: outputBuilding['bonus'] = 'none'
         return [change[1], outputBuilding]
+
     elif changeType == 'customer_levels':
         pass
     elif changeType == 'fame_levels':
@@ -319,8 +324,9 @@ def getInfo(change=0, newSD=0):
             outputItem['type'] = 'rare resource'
         # return the change status and the new item
         return [change[1], outputItem]
+
     elif changeType == 'recipes':
-        '''
+        ''' example recipe:
         {u'worker_codename': u'druid', u'uid': u'80de6bf22b9f3563efa4fa06a71d2469', u'crafting_time': 5,
         u'__type__': u'Recipe', u'module_level': 6, u'components': [{u'index': 1, u'resource_id': 0,
         u'__type__': u'RecipeComponent', u'recipe_id': 561, u'item_id': 454, u'id': 1884, u'quantity': 1},
@@ -330,7 +336,57 @@ def getInfo(change=0, newSD=0):
         u'__type__': u'RecipeComponent', u'recipe_id': 561, u'item_id': 0, u'id': 1887, u'quantity': 10}],
         u'item_id': 561, u'module_id': 54, u'id': 561}
         '''
-        pass
+        # grab the new recipe
+        newRecipe = change[2]
+        allItems = newSD['items']
+        # fill out the easy stuff
+        outputRecipe = {'name':'', 'madeBy':'', 'craftTime':ctimeConverter[newRecipe['crafting_time']], 'madeOn':[],
+                        'ingredients':[], 'type':'', 'id':newRecipe['id']}
+        # get the item name and type from the items section
+        for item in allItems:
+            if item['id'] == newRecipe['id']:
+                iNameID = item['name_id']
+                iTypeNum = item['type']
+        for asset in assets:
+            if asset['id'] == iNameID: outputRecipe['name'] = asset['value']
+        # interpret the item mask using catList
+        iTypeMask = [int(y) for y in reversed([x for x in bin(iTypeNum)][2:]) ]
+        # since it's a specific item, there will only be one result from the type list, so just grab that
+        outputRecipe['type'] = catList[iTypeMask][0]
+        # if it's not a rare resource (only rare resources have a 0 for module_id);
+        if newRecipe['module_id'] != 0:
+            # go through classes to get the name for madeBy
+            for cclass in newSD['character_classes']:
+                if cclass['codename'] == newRecipe['worker_codename']:
+                    clNameID = cclass['name_id']
+            # go through modules to the the name and level for madeOn
+            for module in newSD['modules']:
+                if module['id'] == newRecipe['module_id']:
+                    modNameID = module['name_id']
+                    modLevel = module['power']
+            # then get the names from assets
+            for asset in assets:
+                if asset['id'] == clNameID: outputRecipe['madeBy'] = asset['value']
+                elif asset['id'] == modNameID: outputRecipe['madeOn'] = [asset['value'], modLevel]
+            # finally, get the ingredients
+            for thing in newRecipe['components']:
+                # need the name and amount; amount is easy, so get the name first
+                # exactly one of item_id and resource_id will be nonzero, which determines the type
+                if thing['item_id'] != 0:
+                    for item in allItems:
+                        if item['id'] == thing['item_id']: thingNameID = item['name_id']
+                else:
+                    for res in newSD['resources']:
+                        if res['id'] == thing['resource_id']: thingNameID = res['name_id']
+                for asset in assets:
+                    if asset['id'] == thingNameID: outputRecipe['ingredients'].append([thing['quantity'], asset['value']])
+        # otherwise, set madeBy and madeOn to 'none', as well as 'ingredients'
+        else:
+            outputRecipe['madeBy'] = 'none'
+            outputRecipe['madeOn'] = 'none'
+            outputRecipe['ingredients'] = 'none'
+        return [change[1], outputRecipe]
+
     elif changeType == 'modules':
         ''' example module:
         {u'uid': u'7a24f807012e39da720f8a56ed1de55a', u'disabled': False, u'resource_codename': u'raw_mithril',

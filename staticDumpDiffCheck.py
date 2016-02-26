@@ -131,6 +131,7 @@ def findTheDiffs(oldThing, newThing, keysTrail, theFile, ntabs=1):
                     if type(x[2]) is dict:
                         if 'dummy' in x[2]:
                             changes = True
+                            newThing.remove({'dummy':'dummy'})
                 # if there are changes, say how many, if there are only additions/removals, state how many of each
                 if changes:
                     theFile.write( spacer*(ntabs+1) + str(len(remLists)) + ' ' + keysTrail[-1] + ' changed\n' )
@@ -212,11 +213,12 @@ with open(outputFileName, 'w') as outFile:
 if showDiffs:
     checkList = snp2lib.getInfo()
     for x in diffs:
-        if x[0] == 'improvements':
+        if x[0] == 'recipes':
             #print x[2]['flags']
             a = snp2lib.getInfo(x, newSD)[1]
             print x[0][:-1], x[1]
             #print a['buildUnlocks']
             for k in a:
-                print '{}: {}'.format(k, a[k])
+                print k + ':', a[k]
+                #print '{}: {}'.format(k, a[k])
             print ''
