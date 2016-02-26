@@ -1,6 +1,6 @@
 # from urllib2 import urlopen
 import json
-# import snp2lib
+import snp2lib
 
 
 '''
@@ -178,7 +178,7 @@ outputFileName = 'changes.txt'
 
 # this determines whether or not each thing in diffs (defined later) will be printed
 # if you want to see a bunch of stuff in your terminal, set it to True
-showDiffs = False
+showDiffs = True
 
 # open each file and store in oldSD and newSD
 # res is used to bypass the 'result' key, which isn't particularly interesting
@@ -210,5 +210,13 @@ with open(outputFileName, 'w') as outFile:
 
 # finally, if you set showDiffs to True, you'll see every changed entry
 if showDiffs:
+    checkList = snp2lib.getInfo()
     for x in diffs:
-        print x
+        if x[0] == 'improvements':
+            #print x[2]['flags']
+            a = snp2lib.getInfo(x, newSD)[1]
+            print x[0][:-1], x[1]
+            #print a['buildUnlocks']
+            for k in a:
+                print '{}: {}'.format(k, a[k])
+            print ''

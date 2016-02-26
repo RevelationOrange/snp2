@@ -1,10 +1,27 @@
 import json
 from copy import deepcopy
+import snp2lib
 
 
 '''
 basically a sandbox for playing with the static dump
 '''
+
+spacer = '  '
+def outputInfo(theThing, theFile, ntabs=0):
+    if type(theThing) is dict:
+        for key in theThing:
+            theFile.write(spacer*ntabs + '{}: '.format(key))
+            if type(theThing[key]) is list:
+                theFile.write('\n')
+            outputInfo(theThing[key], theFile, ntabs+1)
+    elif type(theThing) is list:
+        for i in xrange(len(theThing)):
+            theFile.write(spacer*ntabs + 'index {}:\n'.format(str(i)))
+            outputInfo(theThing[i], theFile, ntabs+1)
+    else:
+        theFile.write(str(theThing) + '\n')
+    return
 
 def findAthing(theDict, target, keysTrail, trackList):
     if type(theDict) is dict:
@@ -23,6 +40,7 @@ def findAthing(theDict, target, keysTrail, trackList):
         if type(theDict) is str or type(theDict) is unicode:
             if str(target) in theDict:
                 trackList.append(deepcopy(keysTrail))
+                #print theDict
         else:
             if theDict == target:
                 #print keysTrail
@@ -40,7 +58,7 @@ def changeAthing(theDict):
     return
 
 oldFileName = 'tmp0.json'
-newFileName = 'tmp.json'
+newFileName = 'sd17874.json'
 
 with open(newFileName, 'r') as sdFile:
     Dump = json.load(sdFile)
@@ -50,15 +68,6 @@ with open(oldFileName, 'r') as sdFile:
     Dump = json.load(sdFile)
 oldSD = Dump
 
-#items = newSD['items']
-#for x in items[-3:]:
-#    print x
-
-#print len(items)
-#items[470]['price'] = 21000
-#print items[470]
-#print len(items)
-
 '''
 {u'index': 46, u'children_ids': [313], u'resource': None, u'uid': u'8c650033e57318529c93245a7631986a', u'level': 1,
 u'description_id': 0, u'image': u'46_582x724_mur_top', u'parents_ids': [], u'__type__': u'Improvement',
@@ -66,23 +75,48 @@ u'build_time': 86400, u'building_modifier': u'', u'requirements': [], u'flags': 
 u'name_id': 27690, u'codename': u'northwall', u'id': 312, u'modifier_unlock': u''}
 '''
 
-#print sd['CUSTOMER_AFFINITY']
-
 tracker = []
-targ = 2500
+targ = 'derp'
 #trail = []
 findAthing(newSD, targ, ['result'], tracker)
 
+with open('huntsInfo.txt', 'w') as huntsFile:
+    huntsFile.write('all hunts from static dump\n\n')
+    outputInfo(newSD['result']['hunts'], huntsFile)
+
+name0 = 'genesis codex'
+name1 = 'lucky amulet'
+for x in newSD['result']['assets_with_context']:
+    if x['__type__'] != 'Improvement':
+        pass
+    '''
+    idNum = x['name_id']
+    for y in newSD['result']['assets']:
+        if y['id'] == idNum:
+            theName = y['value'].lower()
+            if theName == name0 or theName == name1:
+                print '{}: purchase: {}, repair: {}, unlock: {}, level: {}'.format(y['value'], x['purchase_cost'], x['repair_cost'], x['unlock_cost'], x['level'])
+    ''' '''
+    a = snp2lib.getInfo(['hunts', 'add', x], newSD['result'])
+    if a is not None:
+        for b in a[1]:
+            print b + ': ' + str(a[1][b])
+        print ''
+    else:
+        print a
+    '''
 for x in tracker:
     print x
 
-#for cust in newSD['customers']:
-#    if cust['id'] == 25:
-#        pass
-
-#for x in tracker:
-#    print x
-n=-5
-for x in [343+n, 351+n, 359+n]:
-    building = newSD['result']['improvements'][x]
-    print building['codename'], building['level'], building['modifier_unlock']['modifier']['add']
+goldTotal = 0
+for x in newSD['result']['improvements']:
+    #if 'iron_mine' in x['codename']: print x['modifier_unlock']
+    if type(x['modifier_unlock']) is dict:
+        if 'add' in x['modifier_unlock']['modifier']:
+            if x['modifier_unlock']['modifier']['add'] == 0: print x['modifier_unlock']['modifier']['add'], x['modifier_unlock']
+        #print 'id {}: children {}, {} ({})'.format(x['id'], x['children_ids'], str(childBuildings)[1:-1], x['parents_ids'])
+    if len(x['requirements']) > 0:
+        if type(x['requirements'][0]['character_codename']) is type(None) and x['requirements'][0]['item_id'] == 0:
+            goldTotal += x['requirements'][0]['amount']
+#print newSD['result']['appeal_levels']
+print goldTotal/1e9
