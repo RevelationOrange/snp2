@@ -132,6 +132,7 @@ def findTheDiffs(oldThing, newThing, keysTrail, theFile, ntabs=1):
                         if 'dummy' in x[2]:
                             changes = True
                             newThing.remove({'dummy':'dummy'})
+                            diffList.remove(x)
                 # if there are changes, say how many, if there are only additions/removals, state how many of each
                 if changes:
                     theFile.write( spacer*(ntabs+1) + str(len(remLists)) + ' ' + keysTrail[-1] + ' changed\n' )
@@ -210,10 +211,12 @@ with open(outputFileName, 'w') as outFile:
         print 'no differences found'
 
 # finally, if you set showDiffs to True, you'll see every changed entry
+print len(diffs)
 if showDiffs:
     checkList = snp2lib.getInfo()
     for x in diffs:
-        if x[0] == 'recipes':
+        if x[0] == 'modules':
+            #if 'dummy' not in x[2]:
             #print x[2]['flags']
             a = snp2lib.getInfo(x, newSD)[1]
             print x[0][:-1], x[1]
@@ -222,3 +225,17 @@ if showDiffs:
                 print k + ':', a[k]
                 #print '{}: {}'.format(k, a[k])
             print ''
+
+'''
+module rem
+levelReq: 1
+appeals: None
+name: Magical Mithril Bin
+bonuses: []
+tier: 4
+times: [345600, 432000, 864000, 1080000, 1296000]
+maxBuyable: 3
+goldCosts: [-1, -1, -1, -1, -1]
+unlockedBy: [u'Mithril Bin 3', 5]
+hammerCost: 250
+'''

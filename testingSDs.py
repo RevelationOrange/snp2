@@ -7,6 +7,9 @@ import snp2lib
 basically a sandbox for playing with the static dump
 '''
 
+def ktt(key, thing):
+    return '{}: {} ({})'.format(key, thing[key], type(thing[key]))
+
 spacer = '  '
 def outputInfo(theThing, theFile, ntabs=0):
     if type(theThing) is dict:
@@ -57,7 +60,7 @@ def changeAthing(theDict):
             del theDict[0]
     return
 
-oldFileName = 'tmp0.json'
+oldFileName = 'sd17873.json'
 newFileName = 'sd17874.json'
 
 with open(newFileName, 'r') as sdFile:
@@ -80,9 +83,11 @@ targ = 'derp'
 #trail = []
 findAthing(newSD, targ, ['result'], tracker)
 
+'''
 with open('huntsInfo.txt', 'w') as huntsFile:
     huntsFile.write('all hunts from static dump\n\n')
     outputInfo(newSD['result']['hunts'], huntsFile)
+'''
 
 name0 = 'genesis codex'
 name1 = 'lucky amulet'
@@ -109,9 +114,21 @@ for x in tracker:
     print x
 
 goldTotal = 0
-for x in newSD['result']['items']:
+chkSection = 'modules'
+testGetInfo = 0
+for x in newSD['result'][chkSection]:
     #if 'iron_mine' in x['codename']: print x['modifier_unlock']
-    if x['id'] == 553: print x
+    if 'table' in x['codename']:
+        print x['codename'], x['power']
+        for y in x['modifiers']:
+            print y
+        print ''
+    if testGetInfo:
+        a = snp2lib.getInfo([chkSection, 'check', x], newSD)
+        print a[0]
+        for k in a[1]:
+            print k + ':', a[1][k]
+        print ''
     '''
         if 'add' in x['modifier_unlock']['modifier']:
             if x['modifier_unlock']['modifier']['add'] == 0: print x['modifier_unlock']['modifier']['add'], x['modifier_unlock']

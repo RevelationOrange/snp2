@@ -937,6 +937,7 @@ modules
 	// highest level this tier of the module can go to; 0 for the base stuff, 1-6 otherwise
     resource_modifiers
 	// if the module modifies a resource, that info is stored here, each index being a level of the module
+	// with 'add' determining the capacity
       list of dicts with keys:
         while_building: bool = False
 		// ok, this is the last place this kind of variable appears, and every single one is always false
@@ -950,7 +951,7 @@ modules
         hidden: bool = False
 		// wonderful
         add: float
-		// the value it adds to the thing it 'modifies'
+		// the capacity that the bin adds to the resource in 'modifies'
         iso_x: float = 0.0
         radius: float = 0.0
 		// again with this bullshit; iso_y, iso_x, and radius, always fuckin' 0.0
@@ -1003,13 +1004,16 @@ modules
 		// also very goddamn useful
 		__type__: unicode string = 'Modifier'
 		add: float
-		// the numeric value added to whatever it 'modifies'
+		// the base numeric value added to whatever it 'modifies'; 'add_level' is added to this, event
+		// at this tier's level 1
 		id: int
 		// unique modifier id, 1-336, skips some
 		iso_y: float = 0.0
 		iso_x: float = 0.0
 		radius: float = 0.0
 		// gg, let's store 3 floats that never change and don't do anything, awesome
+		add_level: float
+		// the value added to whatever it modifies for each level of this tier
 		hidden: bool = False
 		// so very useful
 		overwrites: bool = False

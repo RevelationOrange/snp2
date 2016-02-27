@@ -411,4 +411,41 @@ def getInfo(change=0, newSD=0):
         u'animation_speed': 1.0}], u'shop_appeals': None, u'modifiers': [], u'unlock_fame_level': 1, u'maximum': 3,
         u'costs': [-1, -1, -1, -1, -1], u'build_times': [345600, 432000, 864000, 1080000, 1296000], u'hammer_cost': 250}
         '''
-        pass
+        # get the new module
+        newModule = change[2]
+        # set the easy stuff first
+        outputModule = {'name':'', 'tier':newModule['power'], 'goldCosts':newModule['costs'],
+                        'hammerCost':newModule['hammer_cost'], 'times':[x/3600. for x in newModule['build_times']],
+                        'maxBuyable':newModule['maximum'], 'levelReq':newModule['unlock_fame_level'],
+                        'appeals':newModule['shop_appeals'], 'unlockedBy':[], 'bonuses':[]}
+        # get the name
+        for asset in assets:
+            if asset['id'] == newModule['name_id']: outputModule['name'] = asset['value']
+        # get parent module name, if there is one (otherwise unlcokedBy = 'none')
+        if newModule['parent_id'] != 0:
+            # go through all the modules
+            for mod in newSD['modules']:
+                # find the one that matches the parent id
+                if mod['id'] == newModule['parent_id']:
+                    # get teh name id
+                    pmodNameID = mod['name_id']
+                    # and get the name from assets
+                    for asset in assets:
+                        if asset['id'] == pmodNameID: outputModule['unlockedBy'] = [asset['value'], mod['power']]
+        else: outputModule['unlockedBy'] = 'none'
+        # grab all the bonuses; only one of 'modifiers' and 'resource_modifiers' will have anything in it; if they're
+        # both empty, no 'bonuses' are provided
+        if len(newModule['resource_modifiers']) > 0:
+            what = newModule['resource_modifiers'][0]['modifies']
+            bonusList = [x['add'] for x in newModule['resource_modifiers']]
+            outputModule['bonuses'] = [what, bonusList]
+        else:
+            for mod in newModule['modifiers']:
+                base = mod['add']
+                add = mod['add_level']
+                what = mod['modifies']
+                bonusList = []
+                for i in xrange(newModule['max_upgrade_level']):
+                    bonusList.append(base+add*(i+1))
+                outputModule['bonuses'].append([what, bonusList])
+        return [change[1], outputModule]
