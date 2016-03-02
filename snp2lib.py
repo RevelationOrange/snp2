@@ -1,4 +1,5 @@
 from itertools import compress
+from copy import deepcopy
 
 
 '''
@@ -38,6 +39,43 @@ def traverseDict(theDict, theFile, ntabs=0):
         theFile.write(spacer*ntabs + str(type(theDict)) + '\n')
     return
 
+def findAssetRefs(theDict, target, keysTrail, trackList):
+    if type(theDict) is dict:
+        for key in theDict.keys():
+            keysTrail.append(key)
+            findAssetRefs(theDict[key], target, keysTrail, trackList)
+            del keysTrail[-1]
+    elif type(theDict) is list:
+        i=0
+        for thing in theDict:
+            keysTrail.append(i)
+            findAssetRefs(thing, target, keysTrail, trackList)
+            del keysTrail[-1]
+            i += 1
+    else:
+        if type(theDict) is str or type(theDict) is unicode:
+            if str(target) in theDict:
+                trackList.append(deepcopy(keysTrail))
+        else:
+            if theDict == target:
+                trackList.append(deepcopy(keysTrail))
+    return
+
+def getCats(iMask):
+    # item types are stored in a bit of a strange way: as a bitmask corresponding to the category list:
+    catList = maskList( ['swords', 'axes', 'maces', 'spears', 'daggers', 'staves', 'bows', 'music', 'thrown', 'guns',
+                         'heavy armor', 'armor', 'clothes', 'heavy helmets', 'helmets', 'hats', 'gauntlets', 'gloves',
+                         'bracers', 'heavy boots', 'boots', 'shoes', 'shields', '', 'potions', 'herbs', 'scrolls',
+                         'rings', 'amulets', 'rare resources'] )
+    # the items_mask value must be converted to a binary number, which, when using bin(), actually makes it a string for
+    # some reason, with '0b' at the beginning, so we use element 2 to the end to only get the actual number
+    # then, we need to reverse the number; as stored, the 2^0 bit corresponds to swords, so we want that to always
+    # be the first digit
+    # then just convert each thing to int (since at that point they're all still characters), and save it to mask
+    mask = [int(y) for y in reversed([x for x in bin(iMask)][2:]) ]
+    # apply the mask to the category list and return it
+    return catList[mask]
+
 def getInfo(change=0, newSD=0):
     # getInfo is the master function to determine the type of change in the static dump and all the info about it
     # currently works for: customers (sans color), quests
@@ -45,18 +83,12 @@ def getInfo(change=0, newSD=0):
 
     # default return when given no arguments is a list of change types accepted
     if change == 0:
-        return ['customers', 'hunts', 'improvements', 'items', 'recipes']
+        return ['customers', 'hunts', 'improvements', 'fame_levels', 'customer_level_values', 'recipe_unlocks',
+                'assets', 'items', 'recipes', 'modules', 'quests', 'workers', 'achievements', 'character_classes']
 
     # if the main dict was passed as newSD, bypass that silly 'result' key
     if 'result' in newSD:
         newSD = newSD['result']
-
-    # catlist is the ordered list of item categories, for use with customer item masks
-    # it's used in a few cases, so it needs to be defined here
-    catList = maskList( ['swords', 'axes', 'maces', 'spears', 'daggers', 'staves', 'bows', 'music', 'thrown', 'guns',
-                         'heavy armor', 'armor', 'clothes', 'heavy helmets', 'helmets', 'hats', 'gauntlets', 'gloves',
-                         'bracers', 'heavy boots', 'boots', 'shoes', 'shields', '', 'potions', 'herbs', 'scrolls',
-                         'rings', 'amulets', 'rare resources'] )
 
     # putting the assets in their own place just saves typing, as nearly every section needs to search through it
     assets = newSD['assets']
@@ -104,16 +136,7 @@ def getInfo(change=0, newSD=0):
         # update the output customer
         outputCust['unlockedBy'] = [imprName, imprLevel]
         outputCust['class'] = className
-
-        # and now to deal with the items mask
-        # first the value must be converted to a binary number, which, when using bin(), actually makes it a string for
-        # some reason, with '0b' at the beginning, so we use element 2 to the end to only get the actual number
-        # then, we need to reverse the number; as stored, the 2^0 bit corresponds to swords, so we want that to always
-        # be the first digit
-        # then just convert each thing to int (since at that point they're all still characters), and save it to mask
-        mask = [int(y) for y in reversed([x for x in bin(iMask)][2:]) ]
-        # finally, use the mask on the category list and story in the customer's iTypes
-        outputCust['iTypes'] = catList[mask]
+        outputCust['iTypes'] = getCats(iMask)
         # return change[1] (whether it's an add, removal, or change) and the new customer
         return [change[1], outputCust]
 
@@ -286,13 +309,51 @@ def getInfo(change=0, newSD=0):
     elif changeType == 'customer_levels':
         pass
     elif changeType == 'fame_levels':
-        pass
+        newShopLevel = change[2]
+        outputShopLevel = {'level':newSD[changeType].index(newShopLevel)+1, 'xpNeeded':newShopLevel}
+        return [change[1], outputShopLevel]
+
     elif changeType == 'customer_level_values':
-        pass
+        # very simple section, the new/old/changed level value is the number given
+        newCustLevelValue = change[2]
+        outputLevel = {'value':newCustLevelValue}
+        # if it's an addition, the new level is the length of the list, minus 1
+        if change[1] == 'add': outputLevel['level'] = len(newSD[changeType])-1
+        # if it's a removal, the old level was the length of the list
+        elif change[1] == 'rem': outputLevel['level'] = len(newSD[changeType])
+        # if it's a change, find the index with the new value, that's the level (since it has that weird 0 at the start)
+        else: outputLevel['level'] = newSD[changeType].index(newCustLevelValue)
+        return [change[1], outputLevel]
+
     elif changeType == 'recipe_unlocks':
-        pass
+        ''' example recipe unlock:
+        {u'worker_codename': None, u'uid': u'8ec9d260ca17c4d0ea598e5e04f69c70', u'fame_level': 0,
+        u'__type__': u'RecipeUnlock', u'recipe_id': 484, u'crafted_item_id': 483, u'quest_id': 0,
+        u'crafted_item_count': 48, u'module_level': 0, u'module_id': 0, u'id': 443}
+        '''
+        # grab the recipe unlock
+        newRecUnlock = change[2]
+        # fill out the easy stuff
+        outputRecUnlock = {'itemToCraft':[], 'itemUnlocked':''}
+        # if the item has a crafted item count of 0, it's a starting recipe or it comes with a worker
+        # so for nonzero ones:
+        if newRecUnlock['crafted_item_count'] != 0:
+            for item in newSD['items']:
+                if item['id'] == newRecUnlock['recipe_id']: iUnameID = item['name_id']
+                elif item['id'] == newRecUnlock['crafted_item_id']: cInameID = item['name_id']
+            for asset in assets:
+                if asset['id'] == iUnameID: outputRecUnlock['itemUnlocked'] = asset['value']
+                elif asset['id'] == cInameID: outputRecUnlock['itemToCraft'] = [asset['value'],
+                                                                                newRecUnlock['crafted_item_count']]
+        return [change[1], outputRecUnlock]
+
     elif changeType == 'assets':
-        pass
+        # assets are just text storage, and the only thing to know about them is where they're referenced
+        newAsset = change[2]
+        outputAsset = {'text':newAsset['value'], 'id':newAsset['id'], 'locationsUsed':[]}
+        findAssetRefs(newSD, newAsset['id'], ['result'], outputAsset['locationsUsed'])
+        return [change[1], outputAsset]
+
     elif changeType == 'items':
         ''' example item:
         {u'hue': 0, u'uid': u'cf7201e5909e9104ab35ac4ecd924e27', u'purchase_cost': 21, u'level': 21,
@@ -313,10 +374,8 @@ def getInfo(change=0, newSD=0):
             if asset['id'] == nameID:
                 outputItem['name'] = asset['value']
         # the type for items is stored as a bitmask, just like customers, though it'll always be a single type of course
-        # see the customers section for an explanation of how/why this works
-        typeMask = newItem['type']
-        mask = [int(y) for y in reversed([x for x in bin(typeMask)][2:]) ]
-        iType = catList[mask]
+        # see the getCats function for an explanation of how/why this works
+        iType = getCats(newItem['type'])
         # this length check is because rare resources are in 'items', and they won't get a type from the mask
         if len(iType) > 0:
             outputItem['type'] = iType[0]
@@ -349,10 +408,8 @@ def getInfo(change=0, newSD=0):
                 iTypeNum = item['type']
         for asset in assets:
             if asset['id'] == iNameID: outputRecipe['name'] = asset['value']
-        # interpret the item mask using catList
-        iTypeMask = [int(y) for y in reversed([x for x in bin(iTypeNum)][2:]) ]
         # since it's a specific item, there will only be one result from the type list, so just grab that
-        outputRecipe['type'] = catList[iTypeMask][0]
+        outputRecipe['type'] = getCats(iTypeNum)[0]
         # if it's not a rare resource (only rare resources have a 0 for module_id);
         if newRecipe['module_id'] != 0:
             # go through classes to get the name for madeBy
@@ -415,9 +472,10 @@ def getInfo(change=0, newSD=0):
         newModule = change[2]
         # set the easy stuff first
         outputModule = {'name':'', 'tier':newModule['power'], 'goldCosts':newModule['costs'],
-                        'hammerCost':newModule['hammer_cost'], 'times':[x/3600. for x in newModule['build_times']],
+                        'hammerCost':newModule['hammer_cost'], 'times':newModule['build_times'],
                         'maxBuyable':newModule['maximum'], 'levelReq':newModule['unlock_fame_level'],
-                        'appeals':newModule['shop_appeals'], 'unlockedBy':[], 'bonuses':[]}
+                        'appeals':newModule['shop_appeals'], 'unlockedBy':[], 'bonuses':[],
+                        'picLink':cdnBase+newModule['icon'], 'id':newModule['id']}
         # get the name
         for asset in assets:
             if asset['id'] == newModule['name_id']: outputModule['name'] = asset['value']
@@ -436,16 +494,174 @@ def getInfo(change=0, newSD=0):
         # grab all the bonuses; only one of 'modifiers' and 'resource_modifiers' will have anything in it; if they're
         # both empty, no 'bonuses' are provided
         if len(newModule['resource_modifiers']) > 0:
+            # for 'resource_modifiers', the capacity for each level is stored in a separate 'resource_modifier' object,
+            # and the resource it modifies is stored in each one in 'modifies'
+            # so just grab one of the 'modifies'
             what = newModule['resource_modifiers'][0]['modifies']
+            # and go through each modifier and get 'add', and put it in a list
             bonusList = [x['add'] for x in newModule['resource_modifiers']]
+            # and set bonuses to [what, thatList]
             outputModule['bonuses'] = [what, bonusList]
-        else:
+        elif len(newModule['modifiers']) > 0:
+            # for 'modifiers', 'add' is the base bonus that tier provides, and each level of the module (including the
+            # first) adds the value in 'add_level'
+            # the what is still stored in 'modifies'
+            # so for each modifier, which provides a different bonus:
             for mod in newModule['modifiers']:
-                base = mod['add']
-                add = mod['add_level']
+                # some modifiers don't have 'add' and some don't have 'base', but the end formula is still the same
+                # so just check for each and set them
+                if 'add' in mod: base = mod['add']
+                else: base = 0
+                if 'add_level' in mod: add = mod['add_level']
+                else: add = 0
                 what = mod['modifies']
                 bonusList = []
+                # now, we want a list of the bonus at each level of this module, which is base + add*level
                 for i in xrange(newModule['max_upgrade_level']):
                     bonusList.append(base+add*(i+1))
+                # append the what and bonusList to the 'bonuses' key for each modifier present
                 outputModule['bonuses'].append([what, bonusList])
         return [change[1], outputModule]
+
+    elif changeType == 'quests':
+        '''
+        {u'worker_codename': None, u'party_members': [{u'index': 0, u'codename': u'archer',
+        u'__type__': u'QuestPartyMember'}, {u'index': 1, u'codename': u'soldier', u'__type__': u'QuestPartyMember'},
+        {u'index': 2, u'codename': u'archer', u'__type__': u'QuestPartyMember'}], u'customer_xp_reward': 912,
+        u'npc_intro_id': 25611, u'__type__': u'Quest', u'npc': u'npc_ranger', u'id': 17, u'parent_id': 16,
+        u'party_items': [{u'item_id': 300, u'index': 0, u'__type__': u'QuestPartyItem', u'item_type_mask': 0},
+        {u'item_id': 7, u'index': 1, u'__type__': u'QuestPartyItem', u'item_type_mask': 0}, {u'item_id': 115,
+        u'index': 2, u'__type__': u'QuestPartyItem', u'item_type_mask': 0}], u'name_id': 25610,
+        u'npc_conclusion_id': 25612, u'duration': 216000, u'improvement_id': 0, u'fame_level': 19,
+        u'image': u'shopr2/quests/kurtey.png', u'loot': {u'resource_id': 0, u'__type__': u'QuestLoot',
+        u'special_item': None, u'amount': 3, u'recipe_id': 0, u'item_id': 25}}
+        '''
+        # get the new quest
+        newQuest = change[2]
+        # fill out the easy stuff
+        outputQuest = {'name':'', 'introText':'', 'outroText':'', 'time':newQuest['duration']/3600,
+                       'shopLevelReq':newQuest['fame_level'], 'picLink':cdnBase+newQuest['image'], 'unlockedBy':'none',
+                       'custsNeeded':[], 'itemsNeeded':[], 'reward':[], 'xp':newQuest['customer_xp_reward'],
+                       'id':newQuest['id']}
+        # get the easy text IDs
+        nameTextID = newQuest['name_id']
+        introTextID = newQuest['npc_intro_id']
+        outroTextID = newQuest['npc_conclusion_id']
+        for asset in assets:
+            if asset['id'] == nameTextID: outputQuest['name'] = asset['value']
+            elif asset['id'] == introTextID: outputQuest['introText'] = asset['value']
+            elif asset['id'] == outroTextID: outputQuest['outroText'] = asset['value']
+        # if the quest has a parent id, get the name of the previous quest in the line
+        if newQuest['parent_id'] != 0:
+            for quest in newSD['quests']:
+                if quest['id'] == newQuest['parent_id']: pnameTextID = quest['name_id']
+            for asset in assets:
+                if asset['id'] == pnameTextID: outputQuest['unlockedBy'] = asset['value']
+        # get the customer classes needed
+        for cust in newQuest['party_members']:
+            for cclass in newSD['character_classes']:
+                if cclass['codename'] == cust['codename']:
+                    for asset in assets:
+                        if asset['id'] == cclass['name_id']: outputQuest['custsNeeded'].append(asset['value'])
+        # get the items needed
+        for reqItem in newQuest['party_items']:
+            for item in newSD['items']:
+                if item['id'] == reqItem['item_id']:
+                    for asset in assets:
+                        if asset['id'] == item['name_id']: outputQuest['itemsNeeded'].append(asset['value'])
+        # get the reward info; only one of resource_id, item_id, and special_item will be nonzero/nonNone
+        if newQuest['loot']['resource_id'] != 0:
+            resID = newQuest['loot']['resource_id']
+            for res in newSD['resources']:
+                if res['id'] == resID: rewardTextID = res['name_id']
+        elif newQuest['loot']['item_id'] != 0:
+            itemID = newQuest['loot']['item_id']
+            for i in newSD['items']:
+                if i['id'] == itemID: rewardTextID = i['name_id']
+        else:
+            rewardTextID = 0
+            outputQuest['reward'] = [newQuest['loot']['amount'], newQuest['loot']['special_item']]
+        # if the reward isn't a special item, get the name text from assets
+        if rewardTextID != 0:
+            for asset in assets:
+                if asset['id'] == rewardTextID: outputQuest['reward'] = [newQuest['loot']['amount'], asset['value']]
+        return [change[1], outputQuest]
+
+    elif changeType == 'workers':
+        '''
+        {u'character_class_id': 20, u'uid': u'b2436e9a95f3424c8ee88aec195d7b62', u'ticket_cost': 3, u'color': 0,
+        u'__type__': u'Worker', u'unlock_improvement_id': 0, u'cost': 10000, u'unlock_shop_fame': 14, u'id': 6}
+        '''
+        # get the new worker
+        newWorker = change[2]
+        # fill out the easy stuff
+        outputWorker = {'name':'', 'goldCost':newWorker['cost'], 'couponCost':newWorker['ticket_cost'],
+                        'shopLevelReq':newWorker['unlock_shop_fame'], 'id':newWorker['id']}
+        # get the class name id
+        for cclass in newSD['character_classes']:
+            if cclass['id'] == newWorker['character_class_id']:
+                for asset in assets:
+                    if asset['id'] == cclass['name_id']: outputWorker['name'] = asset['value']
+        return [change[1], outputWorker]
+
+    elif changeType == 'achievements':
+        '''
+        {u'index': 0, u'rewards': [{u'__type__': u'AchievementReward', u'type': 2, u'id': 166, u'data': u'greatmace'}],
+        u'description_id': 26350, u'image': None, u'gamename': u'shopr2', u'__type__': u'Achievement', u'flags': 14,
+        u'parent_id': 482, u'name_id': 26349, u'limit': 100, u'type': 13, u'id': 483}
+        '''
+        # get the new achievement
+        newAchievement = change[2]
+        # fill out the easy stuff
+        outputAchievement = {'name':'', 'requrement':'', 'reward':[]}
+        # get the name and description text from assets
+        for asset in assets:
+            if asset['id'] == newAchievement['name_id']: outputAchievement['name'] = asset['value']
+            elif asset['id'] == newAchievement['description_id']: outputAchievement['requrement'] = asset['value']
+        if newAchievement['rewards'][0]['type'] == 2 or newAchievement['rewards'][0]['type'] == 7:
+            outputAchievement['reward'] = newAchievement['rewards'][0]['data']
+        else:
+            typeDict = {1:'gold', 3:'platinum hammer', 4:'mystical hourglass', 5:'starry coupon', 6:'magical key',
+                        8:'mithril gear'}
+            outputAchievement['reward'] = [newAchievement['rewards'][0]['data'],
+                                           typeDict[newAchievement['rewards'][0]['type']]]
+        return [change[1], outputAchievement]
+
+    elif changeType == 'character_classes':
+        '''
+        {u'bust_image': u'shopr2/characters/heads/monk_female_head.png', u'uid': u'6c827afdc52d3213b8711fcd62766a70',
+        u'sprite_collection': u'monk_f_spritesheet', u'description_id': 0, u'gender': False,
+        u'full_image': u'shopr2/characters/full/portrait_monk_female.png', u'__type__': u'CharacterClass',
+        u'name_id': 27058, u'y_offset': -200, u'x_offset': -125, u'codename': u'monk', u'id': 45,
+        u'items_mask': 522489864}
+        '''
+        # get the new character class
+        newCClass = change[2]
+        # fill out the easy stuff
+        outputCClass = {'name':'none', 'description':'none', 'icon':cdnBase+newCClass['bust_image'],
+                        'fullPic':cdnBase+newCClass['full_image'], 'klashItems':'(not a klasher)'}
+        # any of name, description, and klash items (items_mask) could be zero, so just check each
+        if newCClass['name_id'] != 0:
+            for asset in assets:
+                if asset['id'] == newCClass['name_id']: outputCClass['name'] = asset['value']
+        if newCClass['description_id'] != 0:
+            for asset in assets:
+                if asset['id'] == newCClass['description_id']: outputCClass['description'] = asset['value']
+        if newCClass['items_mask'] != 0: outputCClass['klashItems'] = getCats(newCClass['items_mask'])
+        return [change[1], outputCClass]
+
+    elif changeType == 'krown_rewards':
+        '''
+        {u'level': 0, u'amounts': u'4', u'prize_index': 2, u'__type__': u'KrownReward', u'type': 1, u'id': 3,
+        u'prize_uid': u'rareitem_volcanic_rock'}
+        '''
+        # get the new chest reward
+        newChest = change[2]
+        # fill out the easy stuff
+        outputChest = {'kounter':newChest['level']+1, 'id':newChest['id']}
+        if newChest['type'] == 2: outputChest['prize'] = [newChest['amounts'], 'krowns']
+        else: outputChest['prize'] = [newChest['amounts'], newChest['prize_uid']]
+        return [change[1], outputChest]
+
+    else:
+        return change

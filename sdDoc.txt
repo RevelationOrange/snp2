@@ -685,7 +685,8 @@ krown_rewards
 	// the amount of whatever the reward is
 	// why this is stored as a string is beyond me
     prize_index: int
-	// 0-8, looks like it's just the index of the particular chest
+	// 0-8, looks like it's just the index of the particular chest, or maybe where it appears on the list
+	// of rewards
     __type__: unicode string = 'KrownReward'
     type: int
 	// kind of reward; 1-3; 1 is for rare items, 2 is krowns, 3 is for special items
@@ -1004,7 +1005,7 @@ modules
 		// also very goddamn useful
 		__type__: unicode string = 'Modifier'
 		add: float
-		// the base numeric value added to whatever it 'modifies'; 'add_level' is added to this, event
+		// the base numeric value added to whatever it 'modifies'; 'add_level' is added to this, even
 		// at this tier's level 1
 		id: int
 		// unique modifier id, 1-336, skips some
@@ -1107,7 +1108,7 @@ quests
 	// partial url for the icon of the quest
     party_members
 	// info on the customer types required to start the quest
-      list of stuff with keys:
+      list of dicts with keys:
         index: int
 		// ordered index of this customer in the quest
         codename: unicode string
@@ -1116,14 +1117,14 @@ quests
         __type__: unicode string = 'QuestPartyMember'
     party_items
 	// info on the items needed to start the quest
-      list of dict with keys:
+      list of dicts with keys:
         item_id: int
 		// id of them item required
         index: int
 		// ordered index of this item in the quest
         __type__: unicode string = 'QuestPartyItem'
         item_type_mask: int = 0
-		// great, very useful
+		// great, very useful :/
     name_id: int
 	// id for searching assets to get the text for the quest's name
     npc_conclusion_id: int

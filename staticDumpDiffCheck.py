@@ -211,31 +211,23 @@ with open(outputFileName, 'w') as outFile:
         print 'no differences found'
 
 # finally, if you set showDiffs to True, you'll see every changed entry
-print len(diffs)
+#print len(diffs)
+derp = 1
+# [u'customers', u'sv_version', u'assets', u'items', u'recipes', u'modules', u'cl_version', u'customer_level_values',
+# u'SELL_MINIMUM_PERCENT', u'recipe_unlocks', u'improvements', u'fame_levels', u'hunts']
 if showDiffs:
     checkList = snp2lib.getInfo()
     for x in diffs:
         if x[0] == 'modules':
             #if 'dummy' not in x[2]:
-            #print x[2]['flags']
-            a = snp2lib.getInfo(x, newSD)[1]
-            print x[0][:-1], x[1]
+            #print x
+            if derp:
+                a = snp2lib.getInfo(x, newSD)[1]
+                print x[0][:-1], x[1]
             #print a['buildUnlocks']
-            for k in a:
-                print k + ':', a[k]
+                for k in a:
+                    print k + ':', a[k]
                 #print '{}: {}'.format(k, a[k])
-            print ''
+                print ''
 
-'''
-module rem
-levelReq: 1
-appeals: None
-name: Magical Mithril Bin
-bonuses: []
-tier: 4
-times: [345600, 432000, 864000, 1080000, 1296000]
-maxBuyable: 3
-goldCosts: [-1, -1, -1, -1, -1]
-unlockedBy: [u'Mithril Bin 3', 5]
-hammerCost: 250
-'''
+#print list(set([x[0] for x in diffs]))

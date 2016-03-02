@@ -35,7 +35,7 @@ def findAthing(theDict, target, keysTrail, trackList):
     elif type(theDict) is list:
         i=0
         for thing in theDict:
-            keysTrail.append('[list ' + str(i) + ']')
+            keysTrail.append(i)
             findAthing(thing, target, keysTrail, trackList)
             del keysTrail[-1]
             i += 1
@@ -60,7 +60,7 @@ def changeAthing(theDict):
             del theDict[0]
     return
 
-oldFileName = 'sd17873.json'
+oldFileName = 'sd17238.json'
 newFileName = 'sd17874.json'
 
 with open(newFileName, 'r') as sdFile:
@@ -79,7 +79,7 @@ u'name_id': 27690, u'codename': u'northwall', u'id': 312, u'modifier_unlock': u'
 '''
 
 tracker = []
-targ = 'derp'
+targ = 'bows'
 #trail = []
 findAthing(newSD, targ, ['result'], tracker)
 
@@ -114,28 +114,28 @@ for x in tracker:
     print x
 
 goldTotal = 0
-chkSection = 'modules'
-testGetInfo = 0
+chkSection = 'krown_rewards'
+testGetInfo = 1
+uqIDs = []
+#'''
 for x in newSD['result'][chkSection]:
-    #if 'iron_mine' in x['codename']: print x['modifier_unlock']
-    if 'table' in x['codename']:
-        print x['codename'], x['power']
-        for y in x['modifiers']:
-            print y
-        print ''
+    #print x
+    #if x['id'] not in uqIDs: uqIDs.append(x['id'])
+    #print x
+        #for item in newSD['result']['items']:
+        #    if item['id'] == x['crafted_item_id']: nameID = item['name_id']
+        #for asset in newSD['result']['assets']:
+        #    if asset['id'] == nameID: print asset['value'], x['worker_codename']
     if testGetInfo:
         a = snp2lib.getInfo([chkSection, 'check', x], newSD)
         print a[0]
         for k in a[1]:
             print k + ':', a[1][k]
         print ''
-    '''
-        if 'add' in x['modifier_unlock']['modifier']:
-            if x['modifier_unlock']['modifier']['add'] == 0: print x['modifier_unlock']['modifier']['add'], x['modifier_unlock']
-        #print 'id {}: children {}, {} ({})'.format(x['id'], x['children_ids'], str(childBuildings)[1:-1], x['parents_ids'])
-    if len(x['requirements']) > 0:
-        if type(x['requirements'][0]['character_codename']) is type(None) and x['requirements'][0]['item_id'] == 0:
-            goldTotal += x['requirements'][0]['amount']
-#print newSD['result']['appeal_levels']
-print goldTotal/1e9
-'''
+#'''
+# event quests, workers, achievements, special items
+assetSearch = 0
+if assetSearch:
+    for x in tracker:
+        if x[2] == 'assets':
+            print newSD['result']['assets'][x[3]]
