@@ -79,7 +79,7 @@ u'name_id': 27690, u'codename': u'northwall', u'id': 312, u'modifier_unlock': u'
 '''
 
 tracker = []
-targ = 'bows'
+targ = 392
 #trail = []
 findAthing(newSD, targ, ['result'], tracker)
 
@@ -115,7 +115,7 @@ for x in tracker:
 
 goldTotal = 0
 chkSection = 'krown_rewards'
-testGetInfo = 1
+testGetInfo = 0
 uqIDs = []
 #'''
 for x in newSD['result'][chkSection]:
@@ -139,3 +139,30 @@ if assetSearch:
     for x in tracker:
         if x[2] == 'assets':
             print newSD['result']['assets'][x[3]]
+
+#for x in newSD['result']['assets']:
+#    if x['id'] == 25544: print x
+
+# ['result', u'result', u'recipes', 210, u'id']
+# ['result', u'result', u'items', 210, u'id']
+# ['result', u'result', u'recipe_unlocks', 210, u'id']
+dictA = {'a':0, 'c':0}
+dictB = {'b':'c', 'c':'a'}
+dictD = {1:1, 2:0}
+derp = [['recipes', newSD['result']['recipes'][391]], ['items', newSD['result']['items'][391]], ['recipe_unlocks', newSD['result']['recipe_unlocks'][358]], ['recipe_unlocks', newSD['result']['recipe_unlocks'][358+1]]]
+derpList = []
+for x in derp:
+    y = snp2lib.getInfo([x[0], 'test', x[1]], newSD)
+    derpList.append(y[1])
+testDerp = {}
+for x in derpList:
+    testDerp.update(x)
+for x in derpList:
+    print x
+for x in testDerp:
+    print x + ':', testDerp[x]
+print len(testDerp), 7+9+2+2
+#dictC = dict(dictB, **dictA)
+#dictA.update(dictB)
+#print dictA
+snp2lib.printInfo(['customers'])

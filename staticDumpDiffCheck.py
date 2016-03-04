@@ -1,6 +1,8 @@
 # from urllib2 import urlopen
 import json
 import snp2lib
+from os import sep
+from copy import deepcopy
 
 
 '''
@@ -176,7 +178,7 @@ def placeholder():
 # recorded
 oldFileName = 'sd17238.json'
 newFileName = 'sd17874.json'
-outputFileName = 'changes.txt'
+outputFileName = 'updates'+ sep +'changes.txt'
 
 # this determines whether or not each thing in diffs (defined later) will be printed
 # if you want to see a bunch of stuff in your terminal, set it to True
@@ -212,22 +214,96 @@ with open(outputFileName, 'w') as outFile:
 
 # finally, if you set showDiffs to True, you'll see every changed entry
 #print len(diffs)
-derp = 1
+
 # [u'customers', u'sv_version', u'assets', u'items', u'recipes', u'modules', u'cl_version', u'customer_level_values',
 # u'SELL_MINIMUM_PERCENT', u'recipe_unlocks', u'improvements', u'fame_levels', u'hunts']
+# dict with changeTypes for keys
+diffDict = {}
+for thing in diffs:
+    if thing[0] in diffDict:
+        diffDict[thing[0]]['stuff'] += [thing[1:]]
+    else:
+        diffDict[thing[0]] = {'stuff':[thing[1:]], 'adds':0, 'removals':0, 'changes':0}
+
+# create a 'clean' diff dict, one that finds and combines changes instead of storing them as separate adds and removals
+cleanDiffDict = {}
+for key in diffDict:
+    for thing in diffDict[key]['stuff']:
+        thingMatch = False
+        for otherThing in diffDict[key]['stuff']:
+            if type(thing[1]) is dict:
+                if thing[1]['id'] == otherThing[1]['id']:
+                    if thing != otherThing:
+                        thingMatch = True
+                        if key in cleanDiffDict:
+                            if ['change', otherThing[1], thing[1]] not in cleanDiffDict[key]['stuff']:
+                                cleanDiffDict[key]['stuff'] += [['change', thing[1], otherThing[1]]]
+                        else:
+                            cleanDiffDict[key] = {'stuff':[['change', thing[1], otherThing[1]]], 'adds':0, 'removals':0, 'changes':0}
+        if not thingMatch:
+            if key in cleanDiffDict:
+                cleanDiffDict[key]['stuff'] += [thing]
+            else:
+                cleanDiffDict[key] = {'stuff':[thing], 'adds':0, 'removals':0, 'changes':0}
+
+# sum up totals for cleanDiffDict
+for key in cleanDiffDict:
+    for thing in cleanDiffDict[key]['stuff']:
+        if thing[0] == 'add': cleanDiffDict[key]['adds'] += 1
+        elif thing[0] == 'rem': cleanDiffDict[key]['removals'] += 1
+        elif thing[0] == 'change': cleanDiffDict[key]['changes'] += 1
+        else: print 'derp!'
+
+'''
+print '\n\n{:<25}{:<7}{:<10}{}'.format('key', 'adds', 'removals', 'changes')
+for key in cleanDiffDict:
+    print '{:<25}{:<7}{:<10}{}'.format(key, cleanDiffDict[key]['adds'], cleanDiffDict[key]['removals'], cleanDiffDict[key]['changes'])
+'''
+
+#derp = 0
 if showDiffs:
     checkList = snp2lib.getInfo()
-    for x in diffs:
-        if x[0] == 'modules':
-            #if 'dummy' not in x[2]:
-            #print x
-            if derp:
-                a = snp2lib.getInfo(x, newSD)[1]
-                print x[0][:-1], x[1]
-            #print a['buildUnlocks']
-                for k in a:
-                    print k + ':', a[k]
-                #print '{}: {}'.format(k, a[k])
-                print ''
+    for key in cleanDiffDict:
+        with open('updates'+sep+key+'.txt', 'w') as updateFile:
+            if key in checkList:
+                print key
+                for thing in cleanDiffDict[key]['stuff']:
+                    for change in thing[1:]:
+                        niceThing = snp2lib.getInfo([key]+[thing[0], change], newSD)
+                        #print niceThing[0]
+                        snp2lib.prInfo([key]+niceThing, updateFile)
+                        #for k in niceThing[1]:
+                            #print '{}: {}'.format(k, niceThing[1][k])
+                        #   print k + ':', niceThing[1][k]
+                        #print ''
+                #print '\n'
+            else:
+                print key + ':', cleanDiffDict[key], '\n'
 
 #print list(set([x[0] for x in diffs]))
+
+'''
+add
+name: enraging blade
+madeOn: [u'Mithril Anvil', 6]
+ingredients: [[1, u'blackblade'], [1, u'megalixir'], [1, u'Dark Blood'], [5, u'Crystals']]
+craftTime: Very Long
+madeBy: Enchanter
+type: daggers
+id: 551
+
+add
+repairCost: 5
+name: enraging blade
+level: 21
+craftXP: 336002
+sellXP: 1344008
+type: daggers
+id: 551
+value: 2400000
+picLink: cdn.edgebee.com/static/shopr2/items/WD_enragingblade.png
+
+add
+itemUnlocked: enraging blade
+itemToCraft: [u'blackblade', 100]
+'''

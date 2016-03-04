@@ -72,9 +72,71 @@ def getCats(iMask):
     # then, we need to reverse the number; as stored, the 2^0 bit corresponds to swords, so we want that to always
     # be the first digit
     # then just convert each thing to int (since at that point they're all still characters), and save it to mask
-    mask = [int(y) for y in reversed([x for x in bin(iMask)][2:]) ]
+    mask = [ int(y) for y in reversed([x for x in bin(iMask)][2:]) ]
     # apply the mask to the category list and return it
     return catList[mask]
+
+def prCustomer(modType, cust, theFile):
+    theFile.write('{}\n{} ({}), color: {} (id:{})\n'.format(modType, cust['name'], cust['class'], cust['color'], cust['id']))
+    #theFile.write(modType + '\n' + cust['name'] + ' (' + cust['class'] + '), color: ' + cust['color'] + ' (id:' + str(cust['id']) + ')\n')
+    theFile.write('Level range: ' + str(cust['startLvl']) + '-' + str(cust['maxLvl']) + '\n')
+    theFile.write('Favorite item types: ' + ', '.join(cust['iTypes']) + '\n')
+    theFile.write('Fame required: ' + str(cust['lvlReq']) + '\nAppeal required: ' + str(cust['appealReq']) + '\n')
+    theFile.write('Unlocked by: ')
+    if len(cust['unlockedBy']) > 0:
+        theFile.write(' '.join(str(x) for x in cust['unlockedBy']))
+    else:
+        theFile.write(' -')
+    theFile.write('\n'*2)
+
+def prHunt(modType, cust, theFile):
+    pass
+
+def prImprovement(modType, cust, theFile):
+    pass
+
+def prFameLevel(modType, cust, theFile):
+    pass
+
+def prCustLevelValue(modType, cust, theFile):
+    pass
+
+def prRecUnlock(modType, cust, theFile):
+    pass
+
+def prAsset(modType, cust, theFile):
+    pass
+
+def prItem(modType, cust, theFile):
+    pass
+
+def prRecipe(modType, cust, theFile):
+    pass
+
+def prModule(modType, cust, theFile):
+    pass
+
+def prQuest(modType, cust, theFile):
+    pass
+
+def prWorker(modType, cust, theFile):
+    pass
+
+def prAchievement(modType, cust, theFile):
+    pass
+
+def prCharClass(modType, cust, theFile):
+    pass
+
+def prInfo(printObj=0, outpFile=0):
+    printInfoDict = {'customers':prCustomer, 'hunts':prHunt, 'improvements':prImprovement, 'fame_levels':prFameLevel,
+                     'customer_level_values':prCustLevelValue, 'recipe_unlocks':prRecUnlock, 'assets':prAsset,
+                     'items':prItem, 'recipes':prRecipe, 'modules':prModule, 'quests':prQuest, 'workers':prWorker,
+                     'achievements':prAchievement, 'character_classes':prCharClass}
+    if printObj == 0: return printInfoDict.keys()
+
+    prType = printObj[0]
+    printInfoDict[prType](printObj[1], printObj[2], outpFile)
 
 def getInfo(change=0, newSD=0):
     # getInfo is the master function to determine the type of change in the static dump and all the info about it
@@ -334,7 +396,7 @@ def getInfo(change=0, newSD=0):
         # grab the recipe unlock
         newRecUnlock = change[2]
         # fill out the easy stuff
-        outputRecUnlock = {'itemToCraft':[], 'itemUnlocked':''}
+        outputRecUnlock = {'itemToCraft':[], 'itemUnlocked':'', 'id':newRecUnlock['id']}
         # if the item has a crafted item count of 0, it's a starting recipe or it comes with a worker
         # so for nonzero ones:
         if newRecUnlock['crafted_item_count'] != 0:
@@ -424,7 +486,7 @@ def getInfo(change=0, newSD=0):
             # then get the names from assets
             for asset in assets:
                 if asset['id'] == clNameID: outputRecipe['madeBy'] = asset['value']
-                elif asset['id'] == modNameID: outputRecipe['madeOn'] = [asset['value'], modLevel]
+                elif asset['id'] == modNameID: outputRecipe['madeOn'] = [asset['value'], newRecipe['module_level']]
             # finally, get the ingredients
             for thing in newRecipe['components']:
                 # need the name and amount; amount is easy, so get the name first

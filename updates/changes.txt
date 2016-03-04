@@ -1,0 +1,36 @@
+differences between versions 17238 and 17874:
+  difference found in result
+  difference in keys found in result
+    new key(s): war_contribution_point_packages, war_bonus
+    removed key(s): FEATURE_ACTIVATED
+    difference found in result, customers
+      16 customers added
+      9 customers removed
+    difference found in result, improvements
+      111 improvements added
+      5 improvements removed
+    difference found in result, customer_levels
+    data changed in SELL_MINIMUM_PERCENT: old: 1.2, new: 1.0
+    difference found in result, fame_levels
+      10 fame_levels added
+    data changed in sv_version: old: 17238, new: 17874
+    data changed in cl_version: old: 17083, new: 17873
+    difference found in result, customer_level_values
+      1 customer_level_values added
+    difference found in result, recipe_unlocks
+      12 recipe_unlocks added
+    difference found in result, assets
+      156 assets added
+      17 assets removed
+    difference found in result, items
+      14 items added
+      1 items removed
+    difference found in result, recipes
+      14 recipes added
+      1 recipes removed
+    difference found in result, modules
+    difference found in result, modules
+      29 modules changed
+    difference found in result, hunts
+      1 hunts added
+
