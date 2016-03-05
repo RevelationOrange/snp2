@@ -1,0 +1,3233 @@
+test
+, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/72_755x921_shop1-pancarte.png (id:1)
+
+test
+, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/88_809x993_shop10-pancarte.png (id:2)
+
+test
+, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/86_831x969_shop11-pancarte.png (id:3)
+
+test
+, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/84_803x952_shop12-pancarte.png (id:4)
+
+test
+, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/70_721x913_shop2-pancarte.png (id:5)
+
+test
+, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/74_695x927_shop3-pancarte.png (id:6)
+
+test
+, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/76_666x943_shop4-pancarte.png (id:7)
+
+test
+, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/78_649x967_shop5-pancarte.png (id:8)
+
+test
+, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/80_677x991_shop6-pancarte.png (id:9)
+
+test
+, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/82_713x1020_shop7-pancarte.png (id:10)
+
+test
+, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/92_751x1028_shop8-pancarte.png (id:11)
+
+test
+, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/90_781x1011_shop9-pancarte.png (id:12)
+
+test
+Concrete shop, level 2
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/73_744x912_shop1.png (id:13)
+
+test
+Aqua shop, level 2
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/89_792x988_shop10.png (id:14)
+
+test
+Tall shop, level 2
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/87_819x962_shop11.png (id:15)
+
+test
+Green shop, level 2
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/85_794x942_shop12.png (id:16)
+
+test
+Eastern shop, level 2
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/71_700x897_shop2.png (id:17)
+
+test
+Blue shop, level 2
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/75_681x913_shop3.png (id:18)
+
+test
+Hay shop, level 2
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/77_656x917_shop4.png (id:19)
+
+test
+Victorian shop, level 2
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/79_638x942_shop5.png (id:20)
+
+test
+White shop, level 2
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/81_662x978_shop6.png (id:21)
+
+test
+Sun shop, level 2
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/83_703x1003_shop7.png (id:22)
+
+test
+Brick shop, level 2
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/93_739x1003_shop8.png (id:23)
+
+test
+Red shop, level 2
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/91_770x998_shop9.png (id:24)
+
+test
+City, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/45_421x704_sol.png (id:25)
+
+test
+Trees, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/16_0x1046_arbres.png (id:26)
+
+test
+Forest, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/38_941x617_foret1.png (id:27)
+
+test
+Forest, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/34_968x453_foret2.png (id:28)
+
+test
+Bridge, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/00_385x1138_pont.png (id:29)
+
+test
+Rocks, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/30_1017x160_rocks.png (id:30)
+
+test
+Mountains, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/102_1170x983_montagnes.png (id:31)
+
+test
+City Hall, level 1
+Residence of the city council. 
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: initially available or unlocked by VP
+Buildings unlocked: Barbarian hideout
+Customers unlocked: Ida (Mercenary), Tabita (Mercenary), Sonja (Barbarian), Redde (Barbarian), Chuck (Guard), Chris (Guard), Eve (hunter), Gabrielle (hunter), Algot (Thief), Demos (Thief), Felise (Healer), Rosa (Healer), Omet (Evoker), Gamut (Evoker)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/53_830x737_townhall.png (id:32)
+
+test
+City Hall, level 2
+Build a larger city hall
+Cost to unlock this level: 10000 gold
+Upgrade duration: 48 hours
+Unlocked by: City Hall level 1
+Buildings unlocked: Archery Range, Training Grounds, Barracks, Temple, Library
+Customers unlocked: Wanda (Mercenary), Edma (Barbarian), Mateo (Guard), Turine (hunter), Trougor (Thief), Jocasa (Engineer), Lana (Engineer), Olga (Engineer), Hariane (Healer), Togo (Evoker), Julie (bard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/53_830x737_townhall.png (id:33)
+
+test
+City Hall, level 3
+The mayor requires a private meeting room.
+Cost to unlock this level: 50000 gold
+Upgrade duration: 72 hours
+Unlocked by: City Hall level 2
+Buildings unlocked: University, Bank
+Customers unlocked: Serena (bard), Rosie (bard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/53_830x737_townhall.png (id:34)
+
+test
+City Hall, level 4
+Build a veranda for the mayor's office.
+Cost to unlock this level: 100000 gold
+Upgrade duration: 168 hours
+Unlocked by: City Hall level 3
+Customers unlocked: Keler (Knight), Isla (Musketeer), Christian (Illusionist)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/53_830x737_townhall.png (id:35)
+
+test
+City Hall, level 5
+The roof needs to be redone.
+Cost to unlock this level: 250000 gold
+Upgrade duration: 336 hours
+Unlocked by: City Hall level 4
+Customers unlocked: Powle (Knight), Letia (Musketeer), Fritz (Illusionist)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/53_830x737_townhall.png (id:36)
+
+test
+City Hall, level 6
+The town hall's foundations are cracked!
+Cost to unlock this level: 2500000 gold
+Upgrade duration: 336 hours
+Unlocked by: City Hall level 5
+Customers unlocked: Edmund (Knight), Aramicia (Musketeer), Anthony (Illusionist)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/53_830x737_townhall.png (id:37)
+
+test
+Archery Range, level 1
+Open the archery range.
+Cost to unlock this level: 50 archer
+Upgrade duration: 8 hours
+Unlocked by: City Hall level 2
+Customers unlocked: Abette (hunter), Riopelle (hunter)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/57_1009x945_archery_range.png (id:38)
+
+test
+Archery Range, level 2
+Add more targets for the archers to train with.
+Cost to unlock this level: 75000 gold
+Upgrade duration: 36 hours
+Unlocked by: Archery Range level 1
+Customers unlocked: Anna (hunter)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/57_1009x945_archery_range.png (id:39)
+
+test
+Archery Range, level 3
+Put up a wall behind the targets to prevent accidents...
+Cost to unlock this level: 150000 gold
+Upgrade duration: 72 hours
+Unlocked by: Archery Range level 2
+Customers unlocked: Viola (hunter)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/57_1009x945_archery_range.png (id:40)
+
+test
+Training Grounds, level 1
+Set up a training ground for soldiers.
+Cost to unlock this level: 50 soldier
+Upgrade duration: 8 hours
+Unlocked by: City Hall level 2
+Customers unlocked: Mora (Mercenary), Rioni (Mercenary)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/56_820x1037_training-grounds.png (id:41)
+
+test
+Training Grounds, level 2
+Let's start paying our trainers.
+Cost to unlock this level: 75000 gold
+Upgrade duration: 36 hours
+Unlocked by: Training Grounds level 1
+Customers unlocked: Berangel (Mercenary)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/56_820x1037_training-grounds.png (id:42)
+
+test
+Training Grounds, level 3
+We need to replace our training equipment.
+Cost to unlock this level: 150000 gold
+Upgrade duration: 72 hours
+Unlocked by: Training Grounds level 2
+Buildings unlocked: Stables
+Customers unlocked: Galadrun (Mercenary)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/56_820x1037_training-grounds.png (id:43)
+
+test
+Barracks, level 1
+Build a barracks to train city guards.
+Cost to unlock this level: 75 guard
+Upgrade duration: 24 hours
+Unlocked by: City Hall level 2
+Customers unlocked: Garth (Guard), Tim (Guard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/59_927x944_barracks.png (id:44)
+
+test
+Barracks, level 2
+The barracks needs more rooms.
+Cost to unlock this level: 85000 gold
+Upgrade duration: 48 hours
+Unlocked by: Barracks level 1
+Customers unlocked: Ernest (Guard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/59_927x944_barracks.png (id:45)
+
+test
+Barracks, level 3
+Build turrets on the barracks roof.
+Cost to unlock this level: 100000 gold
+Upgrade duration: 96 hours
+Unlocked by: Barracks level 2
+Customers unlocked: Ferdinand (Guard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/59_927x944_barracks.png (id:46)
+
+test
+Barracks, level 4
+Guards would like a private bathhouse.
+Cost to unlock this level: 250000 gold
+Upgrade duration: 168 hours
+Unlocked by: Barracks level 3
+Customers unlocked: Diane (Musketeer), Lauranna (Musketeer)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/59_927x944_barracks.png (id:47)
+
+test
+Barracks, level 5
+We need separate quarters for the musketeers.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 192 hours
+Unlocked by: Barracks level 4
+Customers unlocked: Bellisa (Musketeer), Chivote (Guard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/59_927x944_barracks.png (id:48)
+
+test
+Barracks, level 6
+Musketeers must be sent to train the recruits.
+Cost to unlock this level: 350 musketeer
+Upgrade duration: 216 hours
+Unlocked by: Barracks level 5
+Customers unlocked: Romaneil (Musketeer), Kerbos (Guard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/59_927x944_barracks.png (id:49)
+
+test
+Stables, level 1
+Train knights with horses at the stable.
+Cost to unlock this level: 150000 gold
+Upgrade duration: 168 hours
+Unlocked by: Training Grounds level 3
+Customers unlocked: Cyrano (Knight), Lancaster (Knight)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/60_964x972_stables.png (id:50)
+
+test
+Stables, level 2
+We need better feed for the horses.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 192 hours
+Unlocked by: Stables level 1
+Customers unlocked: Gallad (Knight)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/60_964x972_stables.png (id:51)
+
+test
+Stables, level 3
+Veteran knights must come and help cleaning up the stalls.
+Cost to unlock this level: 400 knight
+Upgrade duration: 216 hours
+Unlocked by: Stables level 2
+Customers unlocked: Orthur (Knight), Cid (Knight)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/60_964x972_stables.png (id:52)
+
+test
+Inn, level 1
+The city inn.
+Cost to unlock this level: 50000 gold
+Upgrade duration: 48 hours
+Unlocked by: initially available or unlocked by VP
+Customers unlocked: Loden (Thief), Trin (Thief), Onilda (bard), Celine (bard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/47_724x677_inn.png (id:53)
+
+test
+Inn, level 2
+There are too many wannabe thieves in the inn, sniff them out.
+Cost to unlock this level: 250 thief
+Upgrade duration: 72 hours
+Unlocked by: Inn level 1
+Customers unlocked: Durin (Thief), Joan (bard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/47_724x677_inn.png (id:54)
+
+test
+Inn, level 3
+We need a stage for the bards to perform.
+Cost to unlock this level: 350000 gold
+Upgrade duration: 168 hours
+Unlocked by: Inn level 2
+Customers unlocked: Rubert (Thief), Pauline (bard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/47_724x677_inn.png (id:55)
+
+test
+Inn, level 4
+Build an additional floor to have more rooms.
+Cost to unlock this level: 750000 gold
+Upgrade duration: 192 hours
+Unlocked by: Inn level 3
+Customers unlocked: Doug (Illusionist), Harry (Illusionist)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/47_724x677_inn.png (id:56)
+
+test
+Inn, level 5
+We need to hire a celebrity chef to draw more people.
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 192 hours
+Unlocked by: Inn level 4
+Customers unlocked: Penn (Illusionist)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/47_724x677_inn.png (id:57)
+
+test
+Inn, level 6
+A magic show is what we need to get foreigners to come over.
+Cost to unlock this level: 250 illusionist
+Upgrade duration: 216 hours
+Unlocked by: Inn level 5
+Customers unlocked: Tell (Illusionist)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/47_724x677_inn.png (id:58)
+
+test
+University, level 1
+Attract engineers with the builder's university.
+Cost to unlock this level: 25000 gold
+Upgrade duration: 48 hours
+Unlocked by: City Hall level 3
+Customers unlocked: Braya (Engineer), Marine (Engineer)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/52_696x804_school.png (id:59)
+
+test
+University, level 2
+We need some teacher's assistants.
+Cost to unlock this level: 200 engineer
+Upgrade duration: 72 hours
+Unlocked by: University level 1
+Customers unlocked: Rametta (Engineer)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/52_696x804_school.png (id:60)
+
+test
+University, level 3
+The professors want to be paid more money.
+Cost to unlock this level: 250000 gold
+Upgrade duration: 168 hours
+Unlocked by: University level 2
+Customers unlocked: Tina (Engineer)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/52_696x804_school.png (id:61)
+
+test
+Temple, level 1
+Build the temple of healing.
+Cost to unlock this level: 25000 gold
+Upgrade duration: 48 hours
+Unlocked by: City Hall level 2
+Customers unlocked: Disa (Healer), Cecilia (Healer)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/95_569x1093_temple.png (id:62)
+
+test
+Temple, level 2
+The temple is always empty, populate it with healers.
+Cost to unlock this level: 200 healer
+Upgrade duration: 72 hours
+Unlocked by: Temple level 1
+Customers unlocked: Louisa (Healer)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/95_569x1093_temple.png (id:63)
+
+test
+Temple, level 3
+We need to build a statue of the god of healing.
+Cost to unlock this level: 250000 gold
+Upgrade duration: 168 hours
+Unlocked by: Temple level 2
+Customers unlocked: Rianna (Healer)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/95_569x1093_temple.png (id:64)
+
+test
+Barbarian hideout, level 1
+Build the barbarian's hideout.
+Cost to unlock this level: 20000 gold
+Upgrade duration: 8 hours
+Unlocked by: City Hall level 1
+Customers unlocked: Freya (Barbarian), Ovea (Barbarian)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/35_1268x881_rangers.png (id:65)
+
+test
+Barbarian hideout, level 2
+Barbarians are needed to patrol around the hideout.
+Cost to unlock this level: 200 barbarian
+Upgrade duration: 24 hours
+Unlocked by: Barbarian hideout level 1
+Customers unlocked: Conana (Barbarian)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/35_1268x881_rangers.png (id:66)
+
+test
+Barbarian hideout, level 3
+Build an extension to the hideout near the forest.
+Cost to unlock this level: 200000 gold
+Upgrade duration: 96 hours
+Unlocked by: Barbarian hideout level 2
+Customers unlocked: Dominia (Barbarian)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/35_1268x881_rangers.png (id:67)
+
+test
+Library, level 1
+A spellcaster's library will attract powerful mages.
+Cost to unlock this level: 50 evoker
+Upgrade duration: 48 hours
+Unlocked by: City Hall level 2
+Customers unlocked: Rehes (Evoker), Roritch (Evoker)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/98_895x1061_library.png (id:68)
+
+test
+Library, level 2
+We need to purchase more books.
+Cost to unlock this level: 100000 gold
+Upgrade duration: 72 hours
+Unlocked by: Library level 1
+Customers unlocked: Monstan (Evoker)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/98_895x1061_library.png (id:69)
+
+test
+Library, level 3
+Repair damage caused by a misfired fireball spell.
+Cost to unlock this level: 250000 gold
+Upgrade duration: 168 hours
+Unlocked by: Library level 2
+Customers unlocked: Raistlen (Evoker)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/98_895x1061_library.png (id:70)
+
+test
+Sawmill, level 1
+Generates wood resource.
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Bonus: resource.count_per_hour.raw_wood +80.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/67_533x952_sawmill.png (id:71)
+
+test
+Sawmill, level 2
+Generates wood resource.
+Cost to unlock this level: 10000 gold
+Upgrade duration: 24 hours
+Unlocked by: Sawmill level 1
+Buildings unlocked: Elfwood Grove
+Bonus: resource.count_per_hour.raw_wood +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/67_533x952_sawmill.png (id:72)
+
+test
+Sawmill, level 3
+Generates wood resource.
+Cost to unlock this level: 50 hand Axe
+Upgrade duration: 24 hours
+Unlocked by: Sawmill level 2
+Bonus: resource.count_per_hour.raw_wood +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/67_533x952_sawmill.png (id:73)
+
+test
+Sawmill, level 4
+Generates wood resource.
+Cost to unlock this level: 50000 gold
+Upgrade duration: 48 hours
+Unlocked by: Sawmill level 3
+Bonus: resource.count_per_hour.raw_wood +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/67_533x952_sawmill.png (id:74)
+
+test
+Sawmill, level 5
+Generates wood resource.
+Cost to unlock this level: 150 small Axe
+Upgrade duration: 48 hours
+Unlocked by: Sawmill level 4
+Bonus: resource.count_per_hour.raw_wood +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/67_533x952_sawmill.png (id:75)
+
+test
+Sawmill, level 6
+Generates wood resource.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 72 hours
+Unlocked by: Sawmill level 5
+Bonus: resource.count_per_hour.raw_wood +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/67_533x952_sawmill.png (id:76)
+
+test
+Sawmill, level 7
+Generates wood resource.
+Cost to unlock this level: 250 Pole-axe
+Upgrade duration: 72 hours
+Unlocked by: Sawmill level 6
+Bonus: resource.count_per_hour.raw_wood +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/67_533x952_sawmill.png (id:77)
+
+test
+Sawmill, level 8
+Generates wood resource.
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Sawmill level 7
+Bonus: resource.count_per_hour.raw_wood +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/67_533x952_sawmill.png (id:78)
+
+test
+Sawmill, level 9
+Generates wood resource.
+Cost to unlock this level: 2500000 gold
+Upgrade duration: 168 hours
+Unlocked by: Sawmill level 8
+Bonus: resource.count_per_hour.raw_wood +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/67_533x952_sawmill.png (id:79)
+
+test
+Garden, level 1
+Generates herb resource.
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Bonus: resource.count_per_hour.raw_herbs +50.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/48_617x777_garden.png (id:80)
+
+test
+Garden, level 2
+Generates herb resource.
+Cost to unlock this level: 10000 gold
+Upgrade duration: 24 hours
+Unlocked by: Garden level 1
+Buildings unlocked: Glass Plant
+Bonus: resource.count_per_hour.raw_herbs +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/48_617x777_garden.png (id:81)
+
+test
+Garden, level 3
+Generates herb resource.
+Cost to unlock this level: 50000 gold
+Upgrade duration: 24 hours
+Unlocked by: Garden level 2
+Bonus: resource.count_per_hour.raw_herbs +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/48_617x777_garden.png (id:82)
+
+test
+Garden, level 4
+Generates herb resource.
+Cost to unlock this level: 100 soft Gloves
+Upgrade duration: 48 hours
+Unlocked by: Garden level 3
+Bonus: resource.count_per_hour.raw_herbs +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/48_617x777_garden.png (id:83)
+
+test
+Garden, level 5
+Generates herb resource.
+Cost to unlock this level: 100000 gold
+Upgrade duration: 48 hours
+Unlocked by: Garden level 4
+Bonus: resource.count_per_hour.raw_herbs +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/48_617x777_garden.png (id:84)
+
+test
+Garden, level 6
+Generates herb resource.
+Cost to unlock this level: 200 leather gloves
+Upgrade duration: 72 hours
+Unlocked by: Garden level 5
+Bonus: resource.count_per_hour.raw_herbs +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/48_617x777_garden.png (id:85)
+
+test
+Garden, level 7
+Generates herb resource.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 72 hours
+Unlocked by: Garden level 6
+Bonus: resource.count_per_hour.raw_herbs +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/48_617x777_garden.png (id:86)
+
+test
+Garden, level 8
+Generates herb resource.
+Cost to unlock this level: 400 noble's gloves
+Upgrade duration: 168 hours
+Unlocked by: Garden level 7
+Bonus: resource.count_per_hour.raw_herbs +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/48_617x777_garden.png (id:87)
+
+test
+Garden, level 9
+Generates herb resource.
+Cost to unlock this level: 2500000 gold
+Upgrade duration: 168 hours
+Unlocked by: Garden level 8
+Bonus: resource.count_per_hour.raw_herbs +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/48_617x777_garden.png (id:88)
+
+test
+Tannery, level 1
+Generates leather resource.
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Bonus: resource.count_per_hour.raw_leather +80.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/64_563x892_tannery.png (id:89)
+
+test
+Tannery, level 2
+Generates leather resource.
+Cost to unlock this level: 10000 gold
+Upgrade duration: 24 hours
+Unlocked by: Tannery level 1
+Buildings unlocked: Fabric Mill
+Bonus: resource.count_per_hour.raw_leather +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/64_563x892_tannery.png (id:90)
+
+test
+Tannery, level 3
+Generates leather resource.
+Cost to unlock this level: 50 dagger
+Upgrade duration: 24 hours
+Unlocked by: Tannery level 2
+Bonus: resource.count_per_hour.raw_leather +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/64_563x892_tannery.png (id:91)
+
+test
+Tannery, level 4
+Generates leather resource.
+Cost to unlock this level: 50000 gold
+Upgrade duration: 48 hours
+Unlocked by: Tannery level 3
+Bonus: resource.count_per_hour.raw_leather +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/64_563x892_tannery.png (id:92)
+
+test
+Tannery, level 5
+Generates leather resource.
+Cost to unlock this level: 150 dagger
+Upgrade duration: 48 hours
+Unlocked by: Tannery level 4
+Bonus: resource.count_per_hour.raw_leather +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/64_563x892_tannery.png (id:93)
+
+test
+Tannery, level 6
+Generates leather resource.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 72 hours
+Unlocked by: Tannery level 5
+Bonus: resource.count_per_hour.raw_leather +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/64_563x892_tannery.png (id:94)
+
+test
+Tannery, level 7
+Generates leather resource.
+Cost to unlock this level: 250 steel blade
+Upgrade duration: 72 hours
+Unlocked by: Tannery level 6
+Bonus: resource.count_per_hour.raw_leather +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/64_563x892_tannery.png (id:95)
+
+test
+Tannery, level 8
+Generates leather resource.
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Tannery level 7
+Bonus: resource.count_per_hour.raw_leather +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/64_563x892_tannery.png (id:96)
+
+test
+Tannery, level 9
+Generates leather resource.
+Cost to unlock this level: 2500000 gold
+Upgrade duration: 168 hours
+Unlocked by: Tannery level 8
+Bonus: resource.count_per_hour.raw_leather +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/64_563x892_tannery.png (id:97)
+
+test
+Iron Mine, level 1
+Generates iron resource.
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: initially available or unlocked by VP
+Bonus: resource.count_per_hour.raw_iron +80.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/40_922x1098_mines_lvl0.png (id:98)
+
+test
+Iron Mine, level 2
+Generates iron resource.
+Cost to unlock this level: 15000 gold
+Upgrade duration: 24 hours
+Unlocked by: Iron Mine level 1
+Buildings unlocked: Fissure
+Bonus: resource.count_per_hour.raw_iron +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/40_922x1098_mines_lvl0.png (id:99)
+
+test
+Iron Mine, level 3
+Generates iron resource.
+Cost to unlock this level: 50000 gold
+Upgrade duration: 24 hours
+Unlocked by: Iron Mine level 2
+Bonus: resource.count_per_hour.raw_iron +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/40_922x1098_mines_lvl0.png (id:100)
+
+test
+Iron Mine, level 4
+Generates iron resource.
+Cost to unlock this level: 125 metal cap
+Upgrade duration: 48 hours
+Unlocked by: Iron Mine level 3
+Buildings unlocked: Steel Foundry
+Bonus: resource.count_per_hour.raw_iron +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/41_924x1111_mines_lvl1.png (id:101)
+
+test
+Iron Mine, level 5
+Generates iron resource.
+Cost to unlock this level: 100000 gold
+Upgrade duration: 48 hours
+Unlocked by: Iron Mine level 4
+Bonus: resource.count_per_hour.raw_iron +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/41_924x1111_mines_lvl1.png (id:102)
+
+test
+Iron Mine, level 6
+Generates iron resource.
+Cost to unlock this level: 250 brass helmet
+Upgrade duration: 72 hours
+Unlocked by: Iron Mine level 5
+Bonus: resource.count_per_hour.raw_iron +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/41_924x1111_mines_lvl1.png (id:103)
+
+test
+Iron Mine, level 7
+Generates iron resource.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 72 hours
+Unlocked by: Iron Mine level 6
+Bonus: resource.count_per_hour.raw_iron +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/41_924x1111_mines_lvl1.png (id:104)
+
+test
+Iron Mine, level 8
+Generates iron resource.
+Cost to unlock this level: 500 fitting top
+Upgrade duration: 168 hours
+Unlocked by: Iron Mine level 7
+Bonus: resource.count_per_hour.raw_iron +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/41_924x1111_mines_lvl1.png (id:105)
+
+test
+Iron Mine, level 9
+Generates iron resource.
+Cost to unlock this level: 2500000 gold
+Upgrade duration: 168 hours
+Unlocked by: Iron Mine level 8
+Bonus: resource.count_per_hour.raw_iron +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/41_924x1111_mines_lvl1.png (id:106)
+
+test
+Fabric Mill, level 1
+Generates fabric resource.
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: Tannery level 2
+Bonus: resource.count_per_hour.raw_fabric +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/66_468x913_textile.png (id:107)
+
+test
+Fabric Mill, level 2
+Generates fabric resource.
+Cost to unlock this level: 25000 gold
+Upgrade duration: 24 hours
+Unlocked by: Fabric Mill level 1
+Buildings unlocked: Traders
+Bonus: resource.count_per_hour.raw_fabric +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/66_468x913_textile.png (id:108)
+
+test
+Fabric Mill, level 3
+Generates fabric resource.
+Cost to unlock this level: 125 Healing Herbs
+Upgrade duration: 24 hours
+Unlocked by: Fabric Mill level 2
+Bonus: resource.count_per_hour.raw_fabric +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/66_468x913_textile.png (id:109)
+
+test
+Fabric Mill, level 4
+Generates fabric resource.
+Cost to unlock this level: 75000 gold
+Upgrade duration: 48 hours
+Unlocked by: Fabric Mill level 3
+Bonus: resource.count_per_hour.raw_fabric +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/66_468x913_textile.png (id:110)
+
+test
+Fabric Mill, level 5
+Generates fabric resource.
+Cost to unlock this level: 100000 gold
+Upgrade duration: 48 hours
+Unlocked by: Fabric Mill level 4
+Bonus: resource.count_per_hour.raw_fabric +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/66_468x913_textile.png (id:111)
+
+test
+Fabric Mill, level 6
+Generates fabric resource.
+Cost to unlock this level: 250 suple Dust
+Upgrade duration: 72 hours
+Unlocked by: Fabric Mill level 5
+Bonus: resource.count_per_hour.raw_fabric +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/66_468x913_textile.png (id:112)
+
+test
+Fabric Mill, level 7
+Generates fabric resource.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 72 hours
+Unlocked by: Fabric Mill level 6
+Bonus: resource.count_per_hour.raw_fabric +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/66_468x913_textile.png (id:113)
+
+test
+Fabric Mill, level 8
+Generates fabric resource.
+Cost to unlock this level: 500 alert dust
+Upgrade duration: 168 hours
+Unlocked by: Fabric Mill level 7
+Bonus: resource.count_per_hour.raw_fabric +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/66_468x913_textile.png (id:114)
+
+test
+Fabric Mill, level 9
+Generates fabric resource.
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Fabric Mill level 8
+Bonus: resource.count_per_hour.raw_fabric +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/66_468x913_textile.png (id:115)
+
+test
+Fabric Mill, level 10
+Generates fabric resource.
+Cost to unlock this level: 3000000 gold
+Upgrade duration: 264 hours
+Unlocked by: Fabric Mill level 9
+Bonus: resource.count_per_hour.raw_fabric +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/66_468x913_textile.png (id:116)
+
+test
+Elfwood Grove, level 1
+Generates elfwood resource.
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: Sawmill level 2
+Bonus: resource.count_per_hour.raw_elfwood +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/44_1252x535_arbres-fluos.png (id:117)
+
+test
+Elfwood Grove, level 2
+Generates elfwood resource.
+Cost to unlock this level: 25000 gold
+Upgrade duration: 24 hours
+Unlocked by: Elfwood Grove level 1
+Bonus: resource.count_per_hour.raw_elfwood +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/44_1252x535_arbres-fluos.png (id:118)
+
+test
+Elfwood Grove, level 3
+Generates elfwood resource.
+Cost to unlock this level: 50000 gold
+Upgrade duration: 24 hours
+Unlocked by: Elfwood Grove level 2
+Bonus: resource.count_per_hour.raw_elfwood +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/44_1252x535_arbres-fluos.png (id:119)
+
+test
+Elfwood Grove, level 4
+Generates elfwood resource.
+Cost to unlock this level: 150 Cloak
+Upgrade duration: 48 hours
+Unlocked by: Elfwood Grove level 3
+Buildings unlocked: Ironwood Factory
+Bonus: resource.count_per_hour.raw_elfwood +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/44_1252x535_arbres-fluos.png (id:120)
+
+test
+Elfwood Grove, level 5
+Generates elfwood resource.
+Cost to unlock this level: 100000 gold
+Upgrade duration: 48 hours
+Unlocked by: Elfwood Grove level 4
+Bonus: resource.count_per_hour.raw_elfwood +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/44_1252x535_arbres-fluos.png (id:121)
+
+test
+Elfwood Grove, level 6
+Generates elfwood resource.
+Cost to unlock this level: 250 evoker's robe
+Upgrade duration: 72 hours
+Unlocked by: Elfwood Grove level 5
+Bonus: resource.count_per_hour.raw_elfwood +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/44_1252x535_arbres-fluos.png (id:122)
+
+test
+Elfwood Grove, level 7
+Generates elfwood resource.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 72 hours
+Unlocked by: Elfwood Grove level 6
+Bonus: resource.count_per_hour.raw_elfwood +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/44_1252x535_arbres-fluos.png (id:123)
+
+test
+Elfwood Grove, level 8
+Generates elfwood resource.
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Elfwood Grove level 7
+Bonus: resource.count_per_hour.raw_elfwood +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/44_1252x535_arbres-fluos.png (id:124)
+
+test
+Elfwood Grove, level 9
+Generates elfwood resource.
+Cost to unlock this level: 500 rich cloak
+Upgrade duration: 168 hours
+Unlocked by: Elfwood Grove level 8
+Bonus: resource.count_per_hour.raw_elfwood +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/44_1252x535_arbres-fluos.png (id:125)
+
+test
+Elfwood Grove, level 10
+Generates elfwood resource.
+Cost to unlock this level: 5000000 gold
+Upgrade duration: 264 hours
+Unlocked by: Elfwood Grove level 9
+Bonus: resource.count_per_hour.raw_elfwood +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/44_1252x535_arbres-fluos.png (id:126)
+
+test
+Glass Plant, level 1
+Generates glass resource.
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: Garden level 2
+Bonus: resource.count_per_hour.raw_glass +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/65_478x866_glasshouse.png (id:127)
+
+test
+Glass Plant, level 2
+Generates glass resource.
+Cost to unlock this level: 25000 gold
+Upgrade duration: 24 hours
+Unlocked by: Glass Plant level 1
+Bonus: resource.count_per_hour.raw_glass +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/65_478x866_glasshouse.png (id:128)
+
+test
+Glass Plant, level 3
+Generates glass resource.
+Cost to unlock this level: 50000 gold
+Upgrade duration: 24 hours
+Unlocked by: Glass Plant level 2
+Bonus: resource.count_per_hour.raw_glass +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/65_478x866_glasshouse.png (id:129)
+
+test
+Glass Plant, level 4
+Generates glass resource.
+Cost to unlock this level: 150 apprentice's hat
+Upgrade duration: 48 hours
+Unlocked by: Glass Plant level 3
+Bonus: resource.count_per_hour.raw_glass +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/65_478x866_glasshouse.png (id:130)
+
+test
+Glass Plant, level 5
+Generates glass resource.
+Cost to unlock this level: 100000 gold
+Upgrade duration: 48 hours
+Unlocked by: Glass Plant level 4
+Bonus: resource.count_per_hour.raw_glass +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/65_478x866_glasshouse.png (id:131)
+
+test
+Glass Plant, level 6
+Generates glass resource.
+Cost to unlock this level: 250 cleric's hat
+Upgrade duration: 72 hours
+Unlocked by: Glass Plant level 5
+Bonus: resource.count_per_hour.raw_glass +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/65_478x866_glasshouse.png (id:132)
+
+test
+Glass Plant, level 7
+Generates glass resource.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 72 hours
+Unlocked by: Glass Plant level 6
+Bonus: resource.count_per_hour.raw_glass +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/65_478x866_glasshouse.png (id:133)
+
+test
+Glass Plant, level 8
+Generates glass resource.
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Glass Plant level 7
+Bonus: resource.count_per_hour.raw_glass +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/65_478x866_glasshouse.png (id:134)
+
+test
+Glass Plant, level 9
+Generates glass resource.
+Cost to unlock this level: 500 elemental top
+Upgrade duration: 168 hours
+Unlocked by: Glass Plant level 8
+Bonus: resource.count_per_hour.raw_glass +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/65_478x866_glasshouse.png (id:135)
+
+test
+Glass Plant, level 10
+Generates glass resource.
+Cost to unlock this level: 5000000 gold
+Upgrade duration: 264 hours
+Unlocked by: Glass Plant level 9
+Bonus: resource.count_per_hour.raw_glass +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/65_478x866_glasshouse.png (id:136)
+
+test
+Traders, level 1
+Generates dyes resource.
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: Fabric Mill level 2
+Bonus: resource.count_per_hour.raw_dyes +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/21_254x873_maisons_pecheurs.png (id:137)
+
+test
+Traders, level 2
+Generates dyes resource.
+Cost to unlock this level: 25000 gold
+Upgrade duration: 24 hours
+Unlocked by: Traders level 1
+Bonus: resource.count_per_hour.raw_dyes +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/21_254x873_maisons_pecheurs.png (id:138)
+
+test
+Traders, level 3
+Generates dyes resource.
+Cost to unlock this level: 50000 gold
+Upgrade duration: 24 hours
+Unlocked by: Traders level 2
+Buildings unlocked: Refinery
+Bonus: resource.count_per_hour.raw_dyes +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/21_254x873_maisons_pecheurs.png (id:139)
+
+test
+Traders, level 4
+Generates dyes resource.
+Cost to unlock this level: 150 iron spear
+Upgrade duration: 48 hours
+Unlocked by: Traders level 3
+Bonus: resource.count_per_hour.raw_dyes +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/21_254x873_maisons_pecheurs.png (id:140)
+
+test
+Traders, level 5
+Generates dyes resource.
+Cost to unlock this level: 100000 gold
+Upgrade duration: 48 hours
+Unlocked by: Traders level 4
+Bonus: resource.count_per_hour.raw_dyes +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/21_254x873_maisons_pecheurs.png (id:141)
+
+test
+Traders, level 6
+Generates dyes resource.
+Cost to unlock this level: 250 ranseur
+Upgrade duration: 72 hours
+Unlocked by: Traders level 5
+Bonus: resource.count_per_hour.raw_dyes +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/21_254x873_maisons_pecheurs.png (id:142)
+
+test
+Traders, level 7
+Generates dyes resource.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 72 hours
+Unlocked by: Traders level 6
+Bonus: resource.count_per_hour.raw_dyes +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/21_254x873_maisons_pecheurs.png (id:143)
+
+test
+Traders, level 8
+Generates dyes resource.
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Traders level 7
+Bonus: resource.count_per_hour.raw_dyes +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/21_254x873_maisons_pecheurs.png (id:144)
+
+test
+Traders, level 9
+Generates dyes resource.
+Cost to unlock this level: 500 seeking tip
+Upgrade duration: 168 hours
+Unlocked by: Traders level 8
+Bonus: resource.count_per_hour.raw_dyes +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/21_254x873_maisons_pecheurs.png (id:145)
+
+test
+Traders, level 10
+Generates dyes resource.
+Cost to unlock this level: 5000000 gold
+Upgrade duration: 264 hours
+Unlocked by: Traders level 9
+Bonus: resource.count_per_hour.raw_dyes +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/21_254x873_maisons_pecheurs.png (id:146)
+
+test
+Fissure, level 1
+Generates powder resource.
+Cost to unlock this level: starter building
+Upgrade duration: 0 hours
+Unlocked by: Iron Mine level 2
+Bonus: resource.count_per_hour.raw_powder +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/25_1258x225_craque.png (id:147)
+
+test
+Fissure, level 2
+Generates powder resource.
+Cost to unlock this level: 25000 gold
+Upgrade duration: 24 hours
+Unlocked by: Fissure level 1
+Bonus: resource.count_per_hour.raw_powder +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/25_1258x225_craque.png (id:148)
+
+test
+Fissure, level 3
+Generates powder resource.
+Cost to unlock this level: 50000 gold
+Upgrade duration: 24 hours
+Unlocked by: Fissure level 2
+Bonus: resource.count_per_hour.raw_powder +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/25_1258x225_craque.png (id:149)
+
+test
+Fissure, level 4
+Generates powder resource.
+Cost to unlock this level: 150 ebonystaff
+Upgrade duration: 48 hours
+Unlocked by: Fissure level 3
+Buildings unlocked: Crystal Quarry
+Bonus: resource.count_per_hour.raw_powder +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/25_1258x225_craque.png (id:150)
+
+test
+Fissure, level 5
+Generates powder resource.
+Cost to unlock this level: 100000 gold
+Upgrade duration: 48 hours
+Unlocked by: Fissure level 4
+Bonus: resource.count_per_hour.raw_powder +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/25_1258x225_craque.png (id:151)
+
+test
+Fissure, level 6
+Generates powder resource.
+Cost to unlock this level: 250 Combat Staff
+Upgrade duration: 72 hours
+Unlocked by: Fissure level 5
+Bonus: resource.count_per_hour.raw_powder +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/25_1258x225_craque.png (id:152)
+
+test
+Fissure, level 7
+Generates powder resource.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 72 hours
+Unlocked by: Fissure level 6
+Bonus: resource.count_per_hour.raw_powder +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/25_1258x225_craque.png (id:153)
+
+test
+Fissure, level 8
+Generates powder resource.
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Fissure level 7
+Bonus: resource.count_per_hour.raw_powder +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/25_1258x225_craque.png (id:154)
+
+test
+Fissure, level 9
+Generates powder resource.
+Cost to unlock this level: 500 skeleton staff
+Upgrade duration: 168 hours
+Unlocked by: Fissure level 8
+Bonus: resource.count_per_hour.raw_powder +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/25_1258x225_craque.png (id:155)
+
+test
+Fissure, level 10
+Generates powder resource.
+Cost to unlock this level: 5000000 gold
+Upgrade duration: 264 hours
+Unlocked by: Fissure level 9
+Bonus: resource.count_per_hour.raw_powder +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/25_1258x225_craque.png (id:156)
+
+test
+Refinery, level 1
+Generates oil resource.
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: Traders level 3
+Bonus: resource.count_per_hour.raw_oil +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/01_482x1213_watermill.png (id:157)
+
+test
+Refinery, level 2
+Generates oil resource.
+Cost to unlock this level: 100000 gold
+Upgrade duration: 48 hours
+Unlocked by: Refinery level 1
+Bonus: resource.count_per_hour.raw_oil +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/01_482x1213_watermill.png (id:158)
+
+test
+Refinery, level 3
+Generates oil resource.
+Cost to unlock this level: 250000 gold
+Upgrade duration: 48 hours
+Unlocked by: Refinery level 2
+Bonus: resource.count_per_hour.raw_oil +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/01_482x1213_watermill.png (id:159)
+
+test
+Refinery, level 4
+Generates oil resource.
+Cost to unlock this level: 200 crushing bludgeon
+Upgrade duration: 72 hours
+Unlocked by: Refinery level 3
+Buildings unlocked: Volcano
+Bonus: resource.count_per_hour.raw_oil +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/01_482x1213_watermill.png (id:160)
+
+test
+Refinery, level 5
+Generates oil resource.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 72 hours
+Unlocked by: Refinery level 4
+Bonus: resource.count_per_hour.raw_oil +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/01_482x1213_watermill.png (id:161)
+
+test
+Refinery, level 6
+Generates oil resource.
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Refinery level 5
+Bonus: resource.count_per_hour.raw_oil +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/01_482x1213_watermill.png (id:162)
+
+test
+Refinery, level 7
+Generates oil resource.
+Cost to unlock this level: 400 thorn mace
+Upgrade duration: 168 hours
+Unlocked by: Refinery level 6
+Bonus: resource.count_per_hour.raw_oil +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/01_482x1213_watermill.png (id:163)
+
+test
+Refinery, level 8
+Generates oil resource.
+Cost to unlock this level: 5000000 gold
+Upgrade duration: 192 hours
+Unlocked by: Refinery level 7
+Bonus: resource.count_per_hour.raw_oil +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/01_482x1213_watermill.png (id:164)
+
+test
+Refinery, level 9
+Generates oil resource.
+Cost to unlock this level: 600 steel mace
+Upgrade duration: 192 hours
+Unlocked by: Refinery level 8
+Bonus: resource.count_per_hour.raw_oil +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/01_482x1213_watermill.png (id:165)
+
+test
+Refinery, level 10
+Generates oil resource.
+Cost to unlock this level: 25000000 gold
+Upgrade duration: 225 hours
+Unlocked by: Refinery level 9
+Bonus: resource.count_per_hour.raw_oil +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/01_482x1213_watermill.png (id:166)
+
+test
+Steel Foundry, level 1
+Generates steel resource.
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: Iron Mine level 4
+Bonus: resource.count_per_hour.raw_steel +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/63_519x829_foundry.png (id:167)
+
+test
+Steel Foundry, level 2
+Generates steel resource.
+Cost to unlock this level: 100000 gold
+Upgrade duration: 48 hours
+Unlocked by: Steel Foundry level 1
+Bonus: resource.count_per_hour.raw_steel +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/63_519x829_foundry.png (id:168)
+
+test
+Steel Foundry, level 3
+Generates steel resource.
+Cost to unlock this level: 250000 gold
+Upgrade duration: 48 hours
+Unlocked by: Steel Foundry level 2
+Bonus: resource.count_per_hour.raw_steel +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/63_519x829_foundry.png (id:169)
+
+test
+Steel Foundry, level 4
+Generates steel resource.
+Cost to unlock this level: 200 riding boots
+Upgrade duration: 72 hours
+Unlocked by: Steel Foundry level 3
+Buildings unlocked: Mysterious Pillars
+Bonus: resource.count_per_hour.raw_steel +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/63_519x829_foundry.png (id:170)
+
+test
+Steel Foundry, level 5
+Generates steel resource.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 72 hours
+Unlocked by: Steel Foundry level 4
+Bonus: resource.count_per_hour.raw_steel +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/63_519x829_foundry.png (id:171)
+
+test
+Steel Foundry, level 6
+Generates steel resource.
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Steel Foundry level 5
+Bonus: resource.count_per_hour.raw_steel +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/63_519x829_foundry.png (id:172)
+
+test
+Steel Foundry, level 7
+Generates steel resource.
+Cost to unlock this level: 400 loose boots
+Upgrade duration: 168 hours
+Unlocked by: Steel Foundry level 6
+Bonus: resource.count_per_hour.raw_steel +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/63_519x829_foundry.png (id:173)
+
+test
+Steel Foundry, level 8
+Generates steel resource.
+Cost to unlock this level: 5000000 gold
+Upgrade duration: 192 hours
+Unlocked by: Steel Foundry level 7
+Bonus: resource.count_per_hour.raw_steel +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/63_519x829_foundry.png (id:174)
+
+test
+Steel Foundry, level 9
+Generates steel resource.
+Cost to unlock this level: 600 insulated fur boots
+Upgrade duration: 192 hours
+Unlocked by: Steel Foundry level 8
+Bonus: resource.count_per_hour.raw_steel +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/63_519x829_foundry.png (id:175)
+
+test
+Steel Foundry, level 10
+Generates steel resource.
+Cost to unlock this level: 25000000 gold
+Upgrade duration: 225 hours
+Unlocked by: Steel Foundry level 9
+Bonus: resource.count_per_hour.raw_steel +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/63_519x829_foundry.png (id:176)
+
+test
+Ironwood Factory, level 1
+Generates ironwood resource.
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: Elfwood Grove level 4
+Bonus: resource.count_per_hour.raw_ironwood +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/20_349x800_traders-outpost.png (id:177)
+
+test
+Ironwood Factory, level 2
+Generates ironwood resource.
+Cost to unlock this level: 100000 gold
+Upgrade duration: 48 hours
+Unlocked by: Ironwood Factory level 1
+Bonus: resource.count_per_hour.raw_ironwood +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/20_349x800_traders-outpost.png (id:178)
+
+test
+Ironwood Factory, level 3
+Generates ironwood resource.
+Cost to unlock this level: 150 fireball scroll
+Upgrade duration: 48 hours
+Unlocked by: Ironwood Factory level 2
+Bonus: resource.count_per_hour.raw_ironwood +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/20_349x800_traders-outpost.png (id:179)
+
+test
+Ironwood Factory, level 4
+Generates ironwood resource.
+Cost to unlock this level: 350000 gold
+Upgrade duration: 72 hours
+Unlocked by: Ironwood Factory level 3
+Bonus: resource.count_per_hour.raw_ironwood +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/20_349x800_traders-outpost.png (id:180)
+
+test
+Ironwood Factory, level 5
+Generates ironwood resource.
+Cost to unlock this level: 500000 gold
+Upgrade duration: 72 hours
+Unlocked by: Ironwood Factory level 4
+Bonus: resource.count_per_hour.raw_ironwood +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/20_349x800_traders-outpost.png (id:181)
+
+test
+Ironwood Factory, level 6
+Generates ironwood resource.
+Cost to unlock this level: 300 earth scroll
+Upgrade duration: 168 hours
+Unlocked by: Ironwood Factory level 5
+Bonus: resource.count_per_hour.raw_ironwood +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/20_349x800_traders-outpost.png (id:182)
+
+test
+Ironwood Factory, level 7
+Generates ironwood resource.
+Cost to unlock this level: 2500000 gold
+Upgrade duration: 168 hours
+Unlocked by: Ironwood Factory level 6
+Bonus: resource.count_per_hour.raw_ironwood +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/20_349x800_traders-outpost.png (id:183)
+
+test
+Ironwood Factory, level 8
+Generates ironwood resource.
+Cost to unlock this level: 500 protect scroll
+Upgrade duration: 192 hours
+Unlocked by: Ironwood Factory level 7
+Bonus: resource.count_per_hour.raw_ironwood +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/20_349x800_traders-outpost.png (id:184)
+
+test
+Ironwood Factory, level 9
+Generates ironwood resource.
+Cost to unlock this level: 10000000 gold
+Upgrade duration: 192 hours
+Unlocked by: Ironwood Factory level 8
+Bonus: resource.count_per_hour.raw_ironwood +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/20_349x800_traders-outpost.png (id:185)
+
+test
+Ironwood Factory, level 10
+Generates ironwood resource.
+Cost to unlock this level: 25000000 gold
+Upgrade duration: 225 hours
+Unlocked by: Ironwood Factory level 9
+Bonus: resource.count_per_hour.raw_ironwood +15.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/20_349x800_traders-outpost.png (id:186)
+
+test
+Mysterious Pillars, level 1
+Generates mithril resource.
+Cost to unlock this level: starter building
+Upgrade duration: 72 hours
+Unlocked by: Steel Foundry level 4
+Bonus: resource.count_per_hour.raw_mithril +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/26_666x133_statues.png (id:187)
+
+test
+Mysterious Pillars, level 2
+Generates mithril resource.
+Cost to unlock this level: 250000 gold
+Upgrade duration: 168 hours
+Unlocked by: Mysterious Pillars level 1
+Bonus: resource.count_per_hour.raw_mithril +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/26_666x133_statues.png (id:188)
+
+test
+Mysterious Pillars, level 3
+Generates mithril resource.
+Cost to unlock this level: 250 elven flute
+Upgrade duration: 168 hours
+Unlocked by: Mysterious Pillars level 2
+Bonus: resource.count_per_hour.raw_mithril +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/26_666x133_statues.png (id:189)
+
+test
+Mysterious Pillars, level 4
+Generates mithril resource.
+Cost to unlock this level: 1500000 gold
+Upgrade duration: 192 hours
+Unlocked by: Mysterious Pillars level 3
+Bonus: resource.count_per_hour.raw_mithril +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/26_666x133_statues.png (id:190)
+
+test
+Mysterious Pillars, level 5
+Generates mithril resource.
+Cost to unlock this level: 2500000 gold
+Upgrade duration: 192 hours
+Unlocked by: Mysterious Pillars level 4
+Bonus: resource.count_per_hour.raw_mithril +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/26_666x133_statues.png (id:191)
+
+test
+Mysterious Pillars, level 6
+Generates mithril resource.
+Cost to unlock this level: 5000000 gold
+Upgrade duration: 240 hours
+Unlocked by: Mysterious Pillars level 5
+Bonus: resource.count_per_hour.raw_mithril +2.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/26_666x133_statues.png (id:192)
+
+test
+Mysterious Pillars, level 7
+Generates mithril resource.
+Cost to unlock this level: 500 performer's lute
+Upgrade duration: 240 hours
+Unlocked by: Mysterious Pillars level 6
+Bonus: resource.count_per_hour.raw_mithril +2.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/26_666x133_statues.png (id:193)
+
+test
+Mysterious Pillars, level 8
+Generates mithril resource.
+Cost to unlock this level: 10000000 gold
+Upgrade duration: 360 hours
+Unlocked by: Mysterious Pillars level 7
+Bonus: resource.count_per_hour.raw_mithril +3.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/26_666x133_statues.png (id:194)
+
+test
+Mysterious Pillars, level 9
+Generates mithril resource.
+Cost to unlock this level: 750 flute of wonder
+Upgrade duration: 360 hours
+Unlocked by: Mysterious Pillars level 8
+Bonus: resource.count_per_hour.raw_mithril +3.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/26_666x133_statues.png (id:195)
+
+test
+Mysterious Pillars, level 10
+Generates mithril resource.
+Cost to unlock this level: 100000000 gold
+Upgrade duration: 500 hours
+Unlocked by: Mysterious Pillars level 9
+Bonus: resource.count_per_hour.raw_mithril +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/26_666x133_statues.png (id:196)
+
+test
+Crystal Quarry, level 1
+Generates crystal resource.
+Cost to unlock this level: starter building
+Upgrade duration: 72 hours
+Unlocked by: Fissure level 4
+Bonus: resource.count_per_hour.raw_crystal +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/29_255x448_crystal.png (id:197)
+
+test
+Crystal Quarry, level 2
+Generates crystal resource.
+Cost to unlock this level: 250000 gold
+Upgrade duration: 168 hours
+Unlocked by: Crystal Quarry level 1
+Bonus: resource.count_per_hour.raw_crystal +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/29_255x448_crystal.png (id:198)
+
+test
+Crystal Quarry, level 3
+Generates crystal resource.
+Cost to unlock this level: 250 zazen amulet
+Upgrade duration: 168 hours
+Unlocked by: Crystal Quarry level 2
+Bonus: resource.count_per_hour.raw_crystal +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/29_255x448_crystal.png (id:199)
+
+test
+Crystal Quarry, level 4
+Generates crystal resource.
+Cost to unlock this level: 1500000 gold
+Upgrade duration: 192 hours
+Unlocked by: Crystal Quarry level 3
+Bonus: resource.count_per_hour.raw_crystal +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/29_255x448_crystal.png (id:200)
+
+test
+Crystal Quarry, level 5
+Generates crystal resource.
+Cost to unlock this level: 2500000 gold
+Upgrade duration: 192 hours
+Unlocked by: Crystal Quarry level 4
+Bonus: resource.count_per_hour.raw_crystal +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/29_255x448_crystal.png (id:201)
+
+test
+Crystal Quarry, level 6
+Generates crystal resource.
+Cost to unlock this level: 5000000 gold
+Upgrade duration: 240 hours
+Unlocked by: Crystal Quarry level 5
+Bonus: resource.count_per_hour.raw_crystal +2.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/29_255x448_crystal.png (id:202)
+
+test
+Crystal Quarry, level 7
+Generates crystal resource.
+Cost to unlock this level: 500 amulet of darkness
+Upgrade duration: 240 hours
+Unlocked by: Crystal Quarry level 6
+Bonus: resource.count_per_hour.raw_crystal +2.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/29_255x448_crystal.png (id:203)
+
+test
+Crystal Quarry, level 8
+Generates crystal resource.
+Cost to unlock this level: 10000000 gold
+Upgrade duration: 360 hours
+Unlocked by: Crystal Quarry level 7
+Bonus: resource.count_per_hour.raw_crystal +3.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/29_255x448_crystal.png (id:204)
+
+test
+Crystal Quarry, level 9
+Generates crystal resource.
+Cost to unlock this level: 750 pendant of thunder immunity
+Upgrade duration: 360 hours
+Unlocked by: Crystal Quarry level 8
+Bonus: resource.count_per_hour.raw_crystal +3.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/29_255x448_crystal.png (id:205)
+
+test
+Crystal Quarry, level 10
+Generates crystal resource.
+Cost to unlock this level: 100000000 gold
+Upgrade duration: 500 hours
+Unlocked by: Crystal Quarry level 9
+Bonus: resource.count_per_hour.raw_crystal +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/29_255x448_crystal.png (id:206)
+
+test
+Volcano, level 1
+Generates volcano resource.
+Cost to unlock this level: starter building
+Upgrade duration: 72 hours
+Unlocked by: Refinery level 4
+Bonus: resource.count_per_hour.raw_gems +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/27_160x151_volcan-eteint.png (id:207)
+
+test
+Volcano, level 2
+Generates volcano resource.
+Cost to unlock this level: 250000 gold
+Upgrade duration: 168 hours
+Unlocked by: Volcano level 1
+Bonus: resource.count_per_hour.raw_gems +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/27_160x151_volcan-eteint.png (id:208)
+
+test
+Volcano, level 3
+Generates volcano resource.
+Cost to unlock this level: 250 musketeer's rifle
+Upgrade duration: 168 hours
+Unlocked by: Volcano level 2
+Bonus: resource.count_per_hour.raw_gems +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/27_160x151_volcan-eteint.png (id:209)
+
+test
+Volcano, level 4
+Generates volcano resource.
+Cost to unlock this level: 1500000 gold
+Upgrade duration: 192 hours
+Unlocked by: Volcano level 3
+Bonus: resource.count_per_hour.raw_gems +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/27_160x151_volcan-eteint.png (id:210)
+
+test
+Volcano, level 5
+Generates volcano resource.
+Cost to unlock this level: 2500000 gold
+Upgrade duration: 192 hours
+Unlocked by: Volcano level 4
+Bonus: resource.count_per_hour.raw_gems +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/27_160x151_volcan-eteint.png (id:211)
+
+test
+Volcano, level 6
+Generates volcano resource.
+Cost to unlock this level: 500 sniper rifle
+Upgrade duration: 240 hours
+Unlocked by: Volcano level 5
+Bonus: resource.count_per_hour.raw_gems +2.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/27_160x151_volcan-eteint.png (id:212)
+
+test
+Volcano, level 7
+Generates volcano resource.
+Cost to unlock this level: 7500000 gold
+Upgrade duration: 240 hours
+Unlocked by: Volcano level 6
+Bonus: resource.count_per_hour.raw_gems +2.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/27_160x151_volcan-eteint.png (id:213)
+
+test
+Volcano, level 8
+Generates volcano resource.
+Cost to unlock this level: 750 lightning bolt
+Upgrade duration: 360 hours
+Unlocked by: Volcano level 7
+Bonus: resource.count_per_hour.raw_gems +3.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/27_160x151_volcan-eteint.png (id:214)
+
+test
+Volcano, level 9
+Generates volcano resource.
+Cost to unlock this level: 50000000 gold
+Upgrade duration: 360 hours
+Unlocked by: Volcano level 8
+Bonus: resource.count_per_hour.raw_gems +3.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/27_160x151_volcan-eteint.png (id:215)
+
+test
+Volcano, level 10
+Generates volcano resource.
+Cost to unlock this level: 100000000 gold
+Upgrade duration: 500 hours
+Unlocked by: Volcano level 9
+Bonus: resource.count_per_hour.raw_gems +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/27_160x151_volcan-eteint.png (id:216)
+
+test
+City Hall, level 7
+The town hall's foundations are cracked! Again!
+Cost to unlock this level: 50000000 gold
+Upgrade duration: 336 hours
+Unlocked by: City Hall level 6
+Buildings unlocked: Castle
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/53_830x737_townhall.png (id:217)
+
+test
+Temple, level 4
+We need to build a statue of the god of healing.
+Cost to unlock this level: 250 Health Vial
+Upgrade duration: 168 hours
+Unlocked by: Temple level 3
+Customers unlocked: Kunga (Monk), Laoa (Monk)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/95_569x1093_temple.png (id:218)
+
+test
+Temple, level 5
+We need to build a statue of the god of healing.
+Cost to unlock this level: 350 monk
+Upgrade duration: 168 hours
+Unlocked by: Temple level 4
+Customers unlocked: Jeti (Monk), Leea (Monk), Jackie (Monk)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/95_569x1093_temple.png (id:219)
+
+test
+Temple, level 6
+We need to build a statue of the god of healing.
+Cost to unlock this level: 400 potion of return
+Upgrade duration: 168 hours
+Unlocked by: Temple level 5
+Customers unlocked: Chan (Monk), Dalma (Monk)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/95_569x1093_temple.png (id:220)
+
+test
+Barbarian hideout, level 4
+Build an extension to the hideout near the forest.
+Cost to unlock this level: 750000 gold
+Upgrade duration: 168 hours
+Unlocked by: Barbarian hideout level 3
+Buildings unlocked: Berserker Camp
+Customers unlocked: Graf (Berserker)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/35_1268x881_rangers.png (id:221)
+
+test
+Berserker Camp, level 1
+Set up a camp for Berserkers.
+Cost to unlock this level: 10000000 gold
+Upgrade duration: 48 hours
+Unlocked by: Barbarian hideout level 4
+Customers unlocked: Thork (Berserker), Rhuff (Berserker)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/101_736x1267_camp.png (id:222)
+
+test
+Berserker Camp, level 2
+Set up a camp for Berserkers.
+Cost to unlock this level: 500 war labrys
+Upgrade duration: 72 hours
+Unlocked by: Berserker Camp level 1
+Customers unlocked: Pripik (Berserker)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/101_736x1267_camp.png (id:223)
+
+test
+Berserker Camp, level 3
+Set up a camp for Berserkers.
+Cost to unlock this level: 50000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Berserker Camp level 2
+Customers unlocked: Lark (Berserker)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/101_736x1267_camp.png (id:224)
+
+test
+Berserker Camp, level 4
+Set up a camp for Berserkers.
+Cost to unlock this level: 500 fire dagger
+Upgrade duration: 192 hours
+Unlocked by: Berserker Camp level 3
+Customers unlocked: Krull (Berserker), Snorri (Berserker)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/101_736x1267_camp.png (id:225)
+
+test
+Berserker Camp, level 5
+Set up a camp for Berserkers.
+Cost to unlock this level: 250000000 gold
+Upgrade duration: 216 hours
+Unlocked by: Berserker Camp level 4
+Customers unlocked: Terek (Berserker)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/101_736x1267_camp.png (id:226)
+
+test
+Castle, level 1
+Build a castle to attrack royalty.
+Cost to unlock this level: 750 guard
+Upgrade duration: 48 hours
+Unlocked by: City Hall level 7
+Buildings unlocked: Hanging Gardens, Far East Traders, Mage Tower
+Customers unlocked: Bors (Paladin)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/55_829x794_castle.png (id:227)
+
+test
+Castle, level 2
+Build a castle to attrack royalty.
+Cost to unlock this level: 1000 full plate
+Upgrade duration: 72 hours
+Unlocked by: Castle level 1
+Buildings unlocked: War College, Dark Spire
+Customers unlocked: Lucan (Paladin)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/55_829x794_castle.png (id:228)
+
+test
+Castle, level 3
+Build a castle to attrack royalty.
+Cost to unlock this level: 850 knight
+Upgrade duration: 168 hours
+Unlocked by: Castle level 2
+Customers unlocked: Gawain (Paladin), Rodolfa (Engineer)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/55_829x794_castle.png (id:229)
+
+test
+Castle, level 4
+Build a castle to attrack royalty.
+Cost to unlock this level: 750 paladin sword
+Upgrade duration: 336 hours
+Unlocked by: Castle level 3
+Customers unlocked: Tristram (Paladin), Lancelot (Paladin)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/55_829x794_castle.png (id:230)
+
+test
+Castle, level 5
+Build a castle to attrack royalty.
+Cost to unlock this level: 1000000000 gold
+Upgrade duration: 480 hours
+Unlocked by: Castle level 4
+Customers unlocked: Percival (Paladin), Arthur (Paladin)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/55_829x794_castle.png (id:231)
+
+test
+Hanging Gardens, level 1
+Hanging gardens from the fertile desert plains.
+Cost to unlock this level: 25000000 gold
+Upgrade duration: 72 hours
+Unlocked by: Castle level 1
+Customers unlocked: Fahim (Singing Axe), Levent (Singing Axe)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/97_656x1116_hanging-garden.png (id:232)
+
+test
+Hanging Gardens, level 2
+Hanging gardens from the fertile desert plains.
+Cost to unlock this level: 750 plated leather armor
+Upgrade duration: 96 hours
+Unlocked by: Hanging Gardens level 1
+Customers unlocked: Recep (Singing Axe), Takat (Singing Axe)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/97_656x1116_hanging-garden.png (id:233)
+
+test
+Hanging Gardens, level 3
+Hanging gardens from the fertile desert plains.
+Cost to unlock this level: 300 singingaxe
+Upgrade duration: 168 hours
+Unlocked by: Hanging Gardens level 2
+Customers unlocked: Jefi (Singing Axe), Natila (bard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/97_656x1116_hanging-garden.png (id:234)
+
+test
+Hanging Gardens, level 4
+Hanging gardens from the fertile desert plains.
+Cost to unlock this level: 100 enchanted labrys
+Upgrade duration: 192 hours
+Unlocked by: Hanging Gardens level 3
+Customers unlocked: Idris (Singing Axe)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/97_656x1116_hanging-garden.png (id:235)
+
+test
+Hanging Gardens, level 5
+Hanging gardens from the fertile desert plains.
+Cost to unlock this level: 250000000 gold
+Upgrade duration: 216 hours
+Unlocked by: Hanging Gardens level 4
+Customers unlocked: Zafer (Singing Axe)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/97_656x1116_hanging-garden.png (id:236)
+
+test
+Far East Traders, level 1
+Trade channels to the far east.
+Cost to unlock this level: 35000000 gold
+Upgrade duration: 72 hours
+Unlocked by: Castle level 1
+Customers unlocked: Chizu (Ninja), Mai (Ninja)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png (id:237)
+
+test
+Far East Traders, level 2
+Trade channels to the far east.
+Cost to unlock this level: 1000 wakizashi
+Upgrade duration: 96 hours
+Unlocked by: Far East Traders level 1
+Buildings unlocked: Trader's Guild
+Customers unlocked: Mimi (Ninja), Emi (Ninja)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png (id:238)
+
+test
+Far East Traders, level 3
+Trade channels to the far east.
+Cost to unlock this level: 100 evasive armor
+Upgrade duration: 168 hours
+Unlocked by: Far East Traders level 2
+Customers unlocked: Yuko (Ninja), Zhiao (Illusionist)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png (id:239)
+
+test
+Far East Traders, level 4
+Trade channels to the far east.
+Cost to unlock this level: 500 ninja
+Upgrade duration: 192 hours
+Unlocked by: Far East Traders level 3
+Customers unlocked: Aki (Ninja)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png (id:240)
+
+test
+Far East Traders, level 5
+Trade channels to the far east.
+Cost to unlock this level: 10 evil shogun
+Upgrade duration: 216 hours
+Unlocked by: Far East Traders level 4
+Customers unlocked: Sakura (Ninja)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png (id:241)
+
+test
+Mage Tower, level 1
+A mage tower to train in powerful magic.
+Cost to unlock this level: 350 evoker
+Upgrade duration: 72 hours
+Unlocked by: Castle level 1
+Customers unlocked: Ogal (Channeler)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/50_1011x769_tour_mages.png (id:242)
+
+test
+Mage Tower, level 2
+A mage tower to train in powerful magic.
+Cost to unlock this level: 250 elemental rod
+Upgrade duration: 96 hours
+Unlocked by: Mage Tower level 1
+Customers unlocked: Toba (Channeler), Borroba (Channeler)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/50_1011x769_tour_mages.png (id:243)
+
+test
+Mage Tower, level 3
+A mage tower to train in powerful magic.
+Cost to unlock this level: 400 channeler
+Upgrade duration: 168 hours
+Unlocked by: Mage Tower level 2
+Customers unlocked: Anjira (Channeler), Kokori (Channeler)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/50_1011x769_tour_mages.png (id:244)
+
+test
+Mage Tower, level 4
+A mage tower to train in powerful magic.
+Cost to unlock this level: 100 dreadstick
+Upgrade duration: 192 hours
+Unlocked by: Mage Tower level 3
+Customers unlocked: Lunaba (Channeler)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/50_1011x769_tour_mages.png (id:245)
+
+test
+Mage Tower, level 5
+A mage tower to train in powerful magic.
+Cost to unlock this level: 250000000 gold
+Upgrade duration: 216 hours
+Unlocked by: Mage Tower level 4
+Customers unlocked: Pirpiri (Channeler)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/50_1011x769_tour_mages.png (id:246)
+
+test
+War College, level 1
+War college trains powerful wizards of war.
+Cost to unlock this level: 100 ice brand
+Upgrade duration: 72 hours
+Unlocked by: Castle level 2
+Customers unlocked: Hightower (War Wizard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/51_1055x863_tour1.png (id:247)
+
+test
+War College, level 2
+War college trains powerful wizards of war.
+Cost to unlock this level: 50000000 gold
+Upgrade duration: 96 hours
+Unlocked by: War College level 1
+Customers unlocked: Greenlake (War Wizard), Strongarm (War Wizard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/51_1055x863_tour1.png (id:248)
+
+test
+War College, level 3
+War college trains powerful wizards of war.
+Cost to unlock this level: 300 warwizard
+Upgrade duration: 168 hours
+Unlocked by: War College level 2
+Customers unlocked: Wideshield (War Wizard), Longlance (War Wizard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/51_1055x863_tour1.png (id:249)
+
+test
+War College, level 4
+War college trains powerful wizards of war.
+Cost to unlock this level: 250 frozen feather
+Upgrade duration: 192 hours
+Unlocked by: War College level 3
+Customers unlocked: Tornhedges (War Wizard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/51_1055x863_tour1.png (id:250)
+
+test
+War College, level 5
+War college trains powerful wizards of war.
+Cost to unlock this level: 250000000 gold
+Upgrade duration: 216 hours
+Unlocked by: War College level 4
+Customers unlocked: Whitespell (War Wizard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/51_1055x863_tour1.png (id:251)
+
+test
+Dark Spire, level 1
+The dark spire generates evil magic from forgotten dimensions.
+Cost to unlock this level: 300 berserker
+Upgrade duration: 72 hours
+Unlocked by: Castle level 2
+Customers unlocked: Rictus (Necromancer)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/36_1581x662_tower.png (id:252)
+
+test
+Dark Spire, level 2
+The dark spire generates evil magic from forgotten dimensions.
+Cost to unlock this level: 500 serpent band
+Upgrade duration: 96 hours
+Unlocked by: Dark Spire level 1
+Customers unlocked: Morphus (Necromancer), Terrius (Necromancer)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/36_1581x662_tower.png (id:253)
+
+test
+Dark Spire, level 3
+The dark spire generates evil magic from forgotten dimensions.
+Cost to unlock this level: 350 necromancer
+Upgrade duration: 168 hours
+Unlocked by: Dark Spire level 2
+Customers unlocked: Marccus (Necromancer), Viirus (Necromancer)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/36_1581x662_tower.png (id:254)
+
+test
+Dark Spire, level 4
+The dark spire generates evil magic from forgotten dimensions.
+Cost to unlock this level: 100000000 gold
+Upgrade duration: 192 hours
+Unlocked by: Dark Spire level 3
+Customers unlocked: Rolentus (Necromancer)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/36_1581x662_tower.png (id:255)
+
+test
+Dark Spire, level 5
+The dark spire generates evil magic from forgotten dimensions.
+Cost to unlock this level: 100 unholy talisman
+Upgrade duration: 216 hours
+Unlocked by: Dark Spire level 4
+Customers unlocked: Dolorus (Necromancer)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/36_1581x662_tower.png (id:256)
+
+test
+Pier, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 72 hours
+Unlocked by: initially available or unlocked by VP
+Bonus: seller_probability +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/19_165x807_quai.png (id:257)
+
+test
+Pier, level 2
+
+Cost to unlock this level: 10000000 gold
+Upgrade duration: 240 hours
+Unlocked by: Pier level 1
+Bonus: seller_probability +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/19_165x807_quai.png (id:258)
+
+test
+Pier, level 3
+
+Cost to unlock this level: 80000000 gold
+Upgrade duration: 500 hours
+Unlocked by: Pier level 2
+Bonus: seller_probability +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/19_165x807_quai.png (id:259)
+
+test
+Pier, level 4
+
+Cost to unlock this level: 640000000 gold
+Upgrade duration: 668 hours
+Unlocked by: Pier level 3
+Bonus: seller_probability +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/19_165x807_quai.png (id:260)
+
+test
+Monastery, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 72 hours
+Unlocked by: initially available or unlocked by VP
+Bonus: resource.count_per_hour.all +0.05
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/99_777x1143_monastere.png (id:261)
+
+test
+Monastery, level 2
+
+Cost to unlock this level: 10000000 gold
+Upgrade duration: 240 hours
+Unlocked by: Monastery level 1
+Bonus: resource.count_per_hour.all +0.05
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/99_777x1143_monastere.png (id:262)
+
+test
+Monastery, level 3
+
+Cost to unlock this level: 80000000 gold
+Upgrade duration: 500 hours
+Unlocked by: Monastery level 2
+Bonus: resource.count_per_hour.all +0.05
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/99_777x1143_monastere.png (id:263)
+
+test
+Monastery, level 4
+
+Cost to unlock this level: 640000000 gold
+Upgrade duration: 668 hours
+Unlocked by: Monastery level 3
+Bonus: resource.count_per_hour.all +0.05
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/99_777x1143_monastere.png (id:264)
+
+test
+Tiltyard, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 72 hours
+Unlocked by: initially available or unlocked by VP
+Bonus: breaking_chance.war +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/24_573x406_fair.png (id:265)
+
+test
+Tiltyard, level 2
+
+Cost to unlock this level: 10000000 gold
+Upgrade duration: 240 hours
+Unlocked by: Tiltyard level 1
+Bonus: breaking_chance.war +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/24_573x406_fair.png (id:266)
+
+test
+Tiltyard, level 3
+
+Cost to unlock this level: 80000000 gold
+Upgrade duration: 500 hours
+Unlocked by: Tiltyard level 2
+Bonus: breaking_chance.war +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/24_573x406_fair.png (id:267)
+
+test
+Tiltyard, level 4
+
+Cost to unlock this level: 640000000 gold
+Upgrade duration: 668 hours
+Unlocked by: Tiltyard level 3
+Bonus: breaking_chance.war +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/24_573x406_fair.png (id:268)
+
+test
+Lighthouse, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 72 hours
+Unlocked by: initially available or unlocked by VP
+Bonus: breaking_chance.hunt +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/17_194x616_lighthouse.png (id:269)
+
+test
+Lighthouse, level 2
+
+Cost to unlock this level: 10000000 gold
+Upgrade duration: 240 hours
+Unlocked by: Lighthouse level 1
+Bonus: breaking_chance.hunt +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/17_194x616_lighthouse.png (id:270)
+
+test
+Lighthouse, level 3
+
+Cost to unlock this level: 80000000 gold
+Upgrade duration: 500 hours
+Unlocked by: Lighthouse level 2
+Bonus: breaking_chance.hunt +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/17_194x616_lighthouse.png (id:271)
+
+test
+Lighthouse, level 4
+
+Cost to unlock this level: 640000000 gold
+Upgrade duration: 668 hours
+Unlocked by: Lighthouse level 3
+Bonus: breaking_chance.hunt +1.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/17_194x616_lighthouse.png (id:272)
+
+test
+Bank, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: City Hall level 3
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/58_976x887_guardhouse.png (id:273)
+
+test
+Bank, level 2
+
+Cost to unlock this level: 75000 gold
+Upgrade duration: 24 hours
+Unlocked by: Bank level 1
+Bonus: sell_price.all +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/58_976x887_guardhouse.png (id:274)
+
+test
+Bank, level 3
+
+Cost to unlock this level: 200 guard
+Upgrade duration: 48 hours
+Unlocked by: Bank level 2
+Bonus: sell_price.all +25.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/58_976x887_guardhouse.png (id:275)
+
+test
+Bank, level 4
+
+Cost to unlock this level: 200 thief's mark
+Upgrade duration: 72 hours
+Unlocked by: Bank level 3
+Bonus: sell_price_mod.all +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/58_976x887_guardhouse.png (id:276)
+
+test
+Bank, level 5
+
+Cost to unlock this level: 500000 gold
+Upgrade duration: 96 hours
+Unlocked by: Bank level 4
+Bonus: sell_price_mod.all +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/58_976x887_guardhouse.png (id:277)
+
+test
+Bank, level 6
+
+Cost to unlock this level: 2000000 gold
+Upgrade duration: 120 hours
+Unlocked by: Bank level 5
+Bonus: sell_price_mod.all +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/58_976x887_guardhouse.png (id:278)
+
+test
+Bank, level 7
+
+Cost to unlock this level: 800 warwizard
+Upgrade duration: 240 hours
+Unlocked by: Bank level 6
+Bonus: sell_price_mod.all +0.02
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/58_976x887_guardhouse.png (id:279)
+
+test
+Bank, level 8
+
+Cost to unlock this level: 500000000 gold
+Upgrade duration: 384 hours
+Unlocked by: Bank level 7
+Bonus: sell_price_mod.all +0.02
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/58_976x887_guardhouse.png (id:280)
+
+test
+Bank, level 9
+
+Cost to unlock this level: 400 unholy talisman
+Upgrade duration: 480 hours
+Unlocked by: Bank level 8
+Bonus: sell_price_mod.all +0.03
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/58_976x887_guardhouse.png (id:281)
+
+test
+South Wall, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/100_519x1118_mur_bas.png (id:282)
+
+test
+South Wall, level 2
+
+Cost to unlock this level: 75000 gold
+Upgrade duration: 24 hours
+Unlocked by: South Wall level 1
+Bonus: klash_bonus.fighters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/100_519x1118_mur_bas.png (id:283)
+
+test
+South Wall, level 3
+
+Cost to unlock this level: 200 soldier
+Upgrade duration: 48 hours
+Unlocked by: South Wall level 2
+Bonus: klash_bonus.fighters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/100_519x1118_mur_bas.png (id:284)
+
+test
+South Wall, level 4
+
+Cost to unlock this level: 300 claymore
+Upgrade duration: 72 hours
+Unlocked by: South Wall level 3
+Bonus: klash_bonus.fighters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/100_519x1118_mur_bas.png (id:285)
+
+test
+South Wall, level 5
+
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 96 hours
+Unlocked by: South Wall level 4
+Bonus: klash_bonus.fighters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/100_519x1118_mur_bas.png (id:286)
+
+test
+South Wall, level 6
+
+Cost to unlock this level: 300 berserker
+Upgrade duration: 120 hours
+Unlocked by: South Wall level 5
+Bonus: klash_bonus.fighters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/100_519x1118_mur_bas.png (id:287)
+
+test
+South Wall, level 7
+
+Cost to unlock this level: 400 great armor
+Upgrade duration: 144 hours
+Unlocked by: South Wall level 6
+Bonus: klash_bonus.fighters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/100_519x1118_mur_bas.png (id:288)
+
+test
+South Wall, level 8
+
+Cost to unlock this level: 300000000 gold
+Upgrade duration: 168 hours
+Unlocked by: South Wall level 7
+Bonus: klash_bonus.fighters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/100_519x1118_mur_bas.png (id:289)
+
+test
+South Wall, level 9
+
+Cost to unlock this level: 500 paladin
+Upgrade duration: 192 hours
+Unlocked by: South Wall level 8
+Bonus: klash_bonus.fighters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/100_519x1118_mur_bas.png (id:290)
+
+test
+South Wall, level 10
+
+Cost to unlock this level: 600 epic defender
+Upgrade duration: 240 hours
+Unlocked by: South Wall level 9
+Bonus: klash_bonus.fighters +0.02
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/100_519x1118_mur_bas.png (id:291)
+
+test
+East Wall, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/49_1020x818_mur-droite.png (id:292)
+
+test
+East Wall, level 2
+
+Cost to unlock this level: 75000 gold
+Upgrade duration: 24 hours
+Unlocked by: East Wall level 1
+Bonus: klash_bonus.rogues +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/49_1020x818_mur-droite.png (id:293)
+
+test
+East Wall, level 3
+
+Cost to unlock this level: 200 engineer
+Upgrade duration: 48 hours
+Unlocked by: East Wall level 2
+Bonus: klash_bonus.rogues +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/49_1020x818_mur-droite.png (id:294)
+
+test
+East Wall, level 4
+
+Cost to unlock this level: 300 sharpshooter
+Upgrade duration: 72 hours
+Unlocked by: East Wall level 3
+Bonus: klash_bonus.rogues +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/49_1020x818_mur-droite.png (id:295)
+
+test
+East Wall, level 5
+
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 96 hours
+Unlocked by: East Wall level 4
+Bonus: klash_bonus.rogues +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/49_1020x818_mur-droite.png (id:296)
+
+test
+East Wall, level 6
+
+Cost to unlock this level: 300 musketeer
+Upgrade duration: 120 hours
+Unlocked by: East Wall level 5
+Bonus: klash_bonus.rogues +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/49_1020x818_mur-droite.png (id:297)
+
+test
+East Wall, level 7
+
+Cost to unlock this level: 400 elven brigandine
+Upgrade duration: 144 hours
+Unlocked by: East Wall level 6
+Bonus: klash_bonus.rogues +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/49_1020x818_mur-droite.png (id:298)
+
+test
+East Wall, level 8
+
+Cost to unlock this level: 300000000 gold
+Upgrade duration: 168 hours
+Unlocked by: East Wall level 7
+Bonus: klash_bonus.rogues +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/49_1020x818_mur-droite.png (id:299)
+
+test
+East Wall, level 9
+
+Cost to unlock this level: 500 singingaxe
+Upgrade duration: 192 hours
+Unlocked by: East Wall level 8
+Bonus: klash_bonus.rogues +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/49_1020x818_mur-droite.png (id:300)
+
+test
+East Wall, level 10
+
+Cost to unlock this level: 600 boomshaka
+Upgrade duration: 240 hours
+Unlocked by: East Wall level 9
+Bonus: klash_bonus.rogues +0.02
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/49_1020x818_mur-droite.png (id:301)
+
+test
+West Wall, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/62_423x818_mur-gauche.png (id:302)
+
+test
+West Wall, level 2
+
+Cost to unlock this level: 75000 gold
+Upgrade duration: 24 hours
+Unlocked by: West Wall level 1
+Bonus: klash_bonus.spellcasters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/62_423x818_mur-gauche.png (id:303)
+
+test
+West Wall, level 3
+
+Cost to unlock this level: 200 evoker
+Upgrade duration: 48 hours
+Unlocked by: West Wall level 2
+Bonus: klash_bonus.spellcasters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/62_423x818_mur-gauche.png (id:304)
+
+test
+West Wall, level 4
+
+Cost to unlock this level: 300 arm-guard
+Upgrade duration: 72 hours
+Unlocked by: West Wall level 3
+Bonus: klash_bonus.spellcasters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/62_423x818_mur-gauche.png (id:305)
+
+test
+West Wall, level 5
+
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 96 hours
+Unlocked by: West Wall level 4
+Bonus: klash_bonus.spellcasters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/62_423x818_mur-gauche.png (id:306)
+
+test
+West Wall, level 6
+
+Cost to unlock this level: 300 bard
+Upgrade duration: 120 hours
+Unlocked by: West Wall level 5
+Bonus: klash_bonus.spellcasters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/62_423x818_mur-gauche.png (id:307)
+
+test
+West Wall, level 7
+
+Cost to unlock this level: 400 cleansing staff
+Upgrade duration: 144 hours
+Unlocked by: West Wall level 6
+Bonus: klash_bonus.spellcasters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/62_423x818_mur-gauche.png (id:308)
+
+test
+West Wall, level 8
+
+Cost to unlock this level: 300000000 gold
+Upgrade duration: 168 hours
+Unlocked by: West Wall level 7
+Bonus: klash_bonus.spellcasters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/62_423x818_mur-gauche.png (id:309)
+
+test
+West Wall, level 9
+
+Cost to unlock this level: 500 warwizard
+Upgrade duration: 192 hours
+Unlocked by: West Wall level 8
+Bonus: klash_bonus.spellcasters +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/62_423x818_mur-gauche.png (id:310)
+
+test
+West Wall, level 10
+
+Cost to unlock this level: 600 grandmaster's robe
+Upgrade duration: 240 hours
+Unlocked by: West Wall level 9
+Bonus: klash_bonus.spellcasters +0.02
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/62_423x818_mur-gauche.png (id:311)
+
+test
+North Wall, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.png (id:312)
+
+test
+North Wall, level 2
+
+Cost to unlock this level: 200000 gold
+Upgrade duration: 24 hours
+Unlocked by: North Wall level 1
+Bonus: klash_bonus.all +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.png (id:313)
+
+test
+North Wall, level 3
+
+Cost to unlock this level: 400 knight
+Upgrade duration: 48 hours
+Unlocked by: North Wall level 2
+Bonus: klash_bonus.all +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.png (id:314)
+
+test
+North Wall, level 4
+
+Cost to unlock this level: 500 Magic Leaves
+Upgrade duration: 72 hours
+Unlocked by: North Wall level 3
+Bonus: klash_bonus.all +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.png (id:315)
+
+test
+North Wall, level 5
+
+Cost to unlock this level: 2000000 gold
+Upgrade duration: 96 hours
+Unlocked by: North Wall level 4
+Bonus: klash_bonus.all +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.png (id:316)
+
+test
+North Wall, level 6
+
+Cost to unlock this level: 600 ninja
+Upgrade duration: 120 hours
+Unlocked by: North Wall level 5
+Bonus: klash_bonus.all +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.png (id:317)
+
+test
+North Wall, level 7
+
+Cost to unlock this level: 750 elemental pendant
+Upgrade duration: 144 hours
+Unlocked by: North Wall level 6
+Bonus: klash_bonus.all +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.png (id:318)
+
+test
+North Wall, level 8
+
+Cost to unlock this level: 600000000 gold
+Upgrade duration: 168 hours
+Unlocked by: North Wall level 7
+Bonus: klash_bonus.all +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.png (id:319)
+
+test
+North Wall, level 9
+
+Cost to unlock this level: 1000 necromancer
+Upgrade duration: 192 hours
+Unlocked by: North Wall level 8
+Bonus: klash_bonus.all +0.01
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.png (id:320)
+
+test
+North Wall, level 10
+
+Cost to unlock this level: 1000 ring of kings
+Upgrade duration: 240 hours
+Unlocked by: North Wall level 9
+Bonus: klash_bonus.all +0.02
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.png (id:321)
+
+test
+Trader's Guild, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: Far East Traders level 2
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/54_776x831_traders-guild.png (id:322)
+
+test
+Trader's Guild, level 2
+
+Cost to unlock this level: 35000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Trader's Guild level 1
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/54_776x831_traders-guild.png (id:323)
+
+test
+Trader's Guild, level 3
+
+Cost to unlock this level: 800 necromancer
+Upgrade duration: 336 hours
+Unlocked by: Trader's Guild level 2
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/54_776x831_traders-guild.png (id:324)
+
+test
+Trader's Guild, level 4
+
+Cost to unlock this level: 1000 megalixir
+Upgrade duration: 504 hours
+Unlocked by: Trader's Guild level 3
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/54_776x831_traders-guild.png (id:325)
+
+test
+Shrine, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermesshrine.png (id:326)
+
+test
+Shrine, level 2
+
+Cost to unlock this level: 100000 gold
+Upgrade duration: 72 hours
+Unlocked by: Shrine level 1
+Bonus: daily_group_login.krowns +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermesshrine.png (id:327)
+
+test
+Shrine, level 3
+
+Cost to unlock this level: 300 monk
+Upgrade duration: 96 hours
+Unlocked by: Shrine level 2
+Bonus: daily_group_login.krowns +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermesshrine.png (id:328)
+
+test
+Shrine, level 4
+
+Cost to unlock this level: 300 mana Potion
+Upgrade duration: 144 hours
+Unlocked by: Shrine level 3
+Bonus: daily_group_login.krowns +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermesshrine.png (id:329)
+
+test
+Shrine, level 5
+
+Cost to unlock this level: 3000000 gold
+Upgrade duration: 192 hours
+Unlocked by: Shrine level 4
+Bonus: daily_group_login.krowns +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermesshrine.png (id:330)
+
+test
+Shrine, level 6
+
+Cost to unlock this level: 500 healer
+Upgrade duration: 240 hours
+Unlocked by: Shrine level 5
+Bonus: daily_group_login.krowns +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermesshrine.png (id:331)
+
+test
+Shrine, level 7
+
+Cost to unlock this level: 1000 amulet of evil protection
+Upgrade duration: 288 hours
+Unlocked by: Shrine level 6
+Bonus: daily_group_login.krowns +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermesshrine.png (id:332)
+
+test
+Shrine, level 8
+
+Cost to unlock this level: 500000000 gold
+Upgrade duration: 288 hours
+Unlocked by: Shrine level 7
+Bonus: daily_group_login.krowns +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermesshrine.png (id:333)
+
+test
+Shrine, level 9
+
+Cost to unlock this level: 800 paladin
+Upgrade duration: 288 hours
+Unlocked by: Shrine level 7
+Bonus: daily_group_login.krowns +5.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermesshrine.png (id:334)
+
+test
+Shrine, level 10
+
+Cost to unlock this level: 800 atmosring
+Upgrade duration: 360 hours
+Unlocked by: Shrine level 9
+Bonus: daily_group_login.krowns +10.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermesshrine.png (id:335)
+
+test
+Berserker Camp, level 6
+Set up a camp for Berserkers.
+Cost to unlock this level: 500 stalagmite gloves
+Upgrade duration: 336 hours
+Unlocked by: Berserker Camp level 5
+Customers unlocked: Harald (Berserker)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/101_736x1267_camp.png (id:336)
+
+test
+Far East Traders, level 6
+Trade channels to the far east.
+Cost to unlock this level: 500 golden shuriken
+Upgrade duration: 336 hours
+Unlocked by: Far East Traders level 5
+Customers unlocked: Iga (Ninja)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png (id:337)
+
+test
+War College, level 6
+War college trains powerful wizards of war.
+Cost to unlock this level: 500 elemental wonder
+Upgrade duration: 336 hours
+Unlocked by: War College level 5
+Customers unlocked: Paul (War Wizard)
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/51_1055x863_tour1.png (id:338)
+
+test
+Fighters Guild, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/105_1752x104_green_mercs.png (id:339)
+
+test
+Fighters Guild, level 2
+
+Cost to unlock this level: 75000 gold
+Upgrade duration: 24 hours
+Unlocked by: Fighters Guild level 1
+Bonus: klash_merc_max.fighters +100.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/105_1752x104_green_mercs.png (id:340)
+
+test
+Fighters Guild, level 3
+
+Cost to unlock this level: 200 barbarian
+Upgrade duration: 48 hours
+Unlocked by: Fighters Guild level 2
+Bonus: klash_merc_max.fighters +400.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/105_1752x104_green_mercs.png (id:341)
+
+test
+Fighters Guild, level 4
+
+Cost to unlock this level: 300 Soldier's Sword
+Upgrade duration: 72 hours
+Unlocked by: Fighters Guild level 3
+Bonus: klash_merc_max.fighters +500.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/105_1752x104_green_mercs.png (id:342)
+
+test
+Fighters Guild, level 5
+
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 96 hours
+Unlocked by: Fighters Guild level 4
+Bonus: klash_merc_max.fighters +1500.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/105_1752x104_green_mercs.png (id:343)
+
+test
+Fighters Guild, level 6
+
+Cost to unlock this level: 300 berserker
+Upgrade duration: 120 hours
+Unlocked by: Fighters Guild level 5
+Bonus: klash_merc_max.fighters +2500.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/105_1752x104_green_mercs.png (id:344)
+
+test
+Fighters Guild, level 7
+
+Cost to unlock this level: 400 war priest's mace
+Upgrade duration: 144 hours
+Unlocked by: Fighters Guild level 6
+Bonus: klash_merc_max.fighters +5000.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/105_1752x104_green_mercs.png (id:345)
+
+test
+Fighters Guild, level 8
+
+Cost to unlock this level: 500000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Fighters Guild level 7
+Bonus: klash_merc_max.fighters +10000.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/105_1752x104_green_mercs.png (id:346)
+
+test
+Rogues Guild, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/104_1634x116_red_mercs.png (id:347)
+
+test
+Rogues Guild, level 2
+
+Cost to unlock this level: 75000 gold
+Upgrade duration: 24 hours
+Unlocked by: Rogues Guild level 1
+Bonus: klash_merc_max.rogues +100.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/104_1634x116_red_mercs.png (id:348)
+
+test
+Rogues Guild, level 3
+
+Cost to unlock this level: 200 musketeer
+Upgrade duration: 48 hours
+Unlocked by: Rogues Guild level 2
+Bonus: klash_merc_max.rogues +400.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/104_1634x116_red_mercs.png (id:349)
+
+test
+Rogues Guild, level 4
+
+Cost to unlock this level: 300 circus knives
+Upgrade duration: 72 hours
+Unlocked by: Rogues Guild level 3
+Bonus: klash_merc_max.rogues +500.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/104_1634x116_red_mercs.png (id:350)
+
+test
+Rogues Guild, level 5
+
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 96 hours
+Unlocked by: Rogues Guild level 4
+Bonus: klash_merc_max.rogues +1500.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/104_1634x116_red_mercs.png (id:351)
+
+test
+Rogues Guild, level 6
+
+Cost to unlock this level: 300 singingaxe
+Upgrade duration: 120 hours
+Unlocked by: Rogues Guild level 5
+Bonus: klash_merc_max.rogues +2500.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/104_1634x116_red_mercs.png (id:352)
+
+test
+Rogues Guild, level 7
+
+Cost to unlock this level: 400 elven brigandine
+Upgrade duration: 144 hours
+Unlocked by: Rogues Guild level 6
+Bonus: klash_merc_max.rogues +5000.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/104_1634x116_red_mercs.png (id:353)
+
+test
+Rogues Guild, level 8
+
+Cost to unlock this level: 500000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Rogues Guild level 7
+Bonus: klash_merc_max.rogues +10000.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/104_1634x116_red_mercs.png (id:354)
+
+test
+Spellcasters Guild, level 1
+
+Cost to unlock this level: starter building
+Upgrade duration: 24 hours
+Unlocked by: initially available or unlocked by VP
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/106_1830x138_blue_mercs.png (id:355)
+
+test
+Spellcasters Guild, level 2
+
+Cost to unlock this level: 75000 gold
+Upgrade duration: 24 hours
+Unlocked by: Spellcasters Guild level 1
+Bonus: klash_merc_max.spellcasters +100.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/106_1830x138_blue_mercs.png (id:356)
+
+test
+Spellcasters Guild, level 3
+
+Cost to unlock this level: 200 bard
+Upgrade duration: 48 hours
+Unlocked by: Spellcasters Guild level 2
+Bonus: klash_merc_max.spellcasters +400.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/106_1830x138_blue_mercs.png (id:357)
+
+test
+Spellcasters Guild, level 4
+
+Cost to unlock this level: 300 elemental top
+Upgrade duration: 72 hours
+Unlocked by: Spellcasters Guild level 3
+Bonus: klash_merc_max.spellcasters +500.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/106_1830x138_blue_mercs.png (id:358)
+
+test
+Spellcasters Guild, level 5
+
+Cost to unlock this level: 1000000 gold
+Upgrade duration: 96 hours
+Unlocked by: Spellcasters Guild level 4
+Bonus: klash_merc_max.spellcasters +1500.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/106_1830x138_blue_mercs.png (id:359)
+
+test
+Spellcasters Guild, level 6
+
+Cost to unlock this level: 300 necromancer
+Upgrade duration: 120 hours
+Unlocked by: Spellcasters Guild level 5
+Bonus: klash_merc_max.spellcasters +2500.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/106_1830x138_blue_mercs.png (id:360)
+
+test
+Spellcasters Guild, level 7
+
+Cost to unlock this level: 400 cleansing staff
+Upgrade duration: 144 hours
+Unlocked by: Spellcasters Guild level 6
+Bonus: klash_merc_max.spellcasters +5000.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/106_1830x138_blue_mercs.png (id:361)
+
+test
+Spellcasters Guild, level 8
+
+Cost to unlock this level: 500000000 gold
+Upgrade duration: 168 hours
+Unlocked by: Spellcasters Guild level 7
+Bonus: klash_merc_max.spellcasters +10000.0
+Image link: cdn.edgebee.com/static/shopr2/city/improvements/106_1830x138_blue_mercs.png (id:362)
+

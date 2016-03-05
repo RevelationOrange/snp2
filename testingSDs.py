@@ -1,6 +1,8 @@
 import json
 from copy import deepcopy
 import snp2lib
+import math
+from os import sep
 
 
 '''
@@ -79,7 +81,7 @@ u'name_id': 27690, u'codename': u'northwall', u'id': 312, u'modifier_unlock': u'
 '''
 
 tracker = []
-targ = 392
+targ = 'derp'
 #trail = []
 findAthing(newSD, targ, ['result'], tracker)
 
@@ -114,12 +116,15 @@ for x in tracker:
     print x
 
 goldTotal = 0
-chkSection = 'krown_rewards'
-testGetInfo = 0
+chkSection = 'improvements'
+testGetInfo = 1
 uqIDs = []
+colorAvg = []
+testPrint = 1
 #'''
+if testPrint: theFile = open('updates'+sep+chkSection+'.txt', 'w')
 for x in newSD['result'][chkSection]:
-    #print x
+    #colorAvg.append(x['color'])
     #if x['id'] not in uqIDs: uqIDs.append(x['id'])
     #print x
         #for item in newSD['result']['items']:
@@ -128,10 +133,13 @@ for x in newSD['result'][chkSection]:
         #    if asset['id'] == nameID: print asset['value'], x['worker_codename']
     if testGetInfo:
         a = snp2lib.getInfo([chkSection, 'check', x], newSD)
+        if testPrint:
+            snp2lib.prInfo([chkSection, 'test', a[1]], theFile)
         print a[0]
         for k in a[1]:
             print k + ':', a[1][k]
         print ''
+if testPrint: theFile.close()
 #'''
 # event quests, workers, achievements, special items
 assetSearch = 0
@@ -146,23 +154,10 @@ if assetSearch:
 # ['result', u'result', u'recipes', 210, u'id']
 # ['result', u'result', u'items', 210, u'id']
 # ['result', u'result', u'recipe_unlocks', 210, u'id']
-dictA = {'a':0, 'c':0}
-dictB = {'b':'c', 'c':'a'}
-dictD = {1:1, 2:0}
-derp = [['recipes', newSD['result']['recipes'][391]], ['items', newSD['result']['items'][391]], ['recipe_unlocks', newSD['result']['recipe_unlocks'][358]], ['recipe_unlocks', newSD['result']['recipe_unlocks'][358+1]]]
-derpList = []
-for x in derp:
-    y = snp2lib.getInfo([x[0], 'test', x[1]], newSD)
-    derpList.append(y[1])
-testDerp = {}
-for x in derpList:
-    testDerp.update(x)
-for x in derpList:
-    print x
-for x in testDerp:
-    print x + ':', testDerp[x]
-print len(testDerp), 7+9+2+2
-#dictC = dict(dictB, **dictA)
-#dictA.update(dictB)
-#print dictA
-snp2lib.printInfo(['customers'])
+#loots = [[50, 'Gold'], [100, 'Gold'], [150, 'Gold']]
+#print '{} / {} / {}'.format( *[' '.join( str(x) for x in y) for y in loots] )
+#print ' / '.join([[ ' '.join(x[0])] for x in loots])
+#derp = [1000, 'gold']
+#print 'Cost to unlock this level: {} {}'.format(*derp)
+#theStr = 'derp {} {}'
+#print theStr.format('herp', 'gerp', 'derp')

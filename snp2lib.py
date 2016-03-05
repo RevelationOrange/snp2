@@ -77,8 +77,7 @@ def getCats(iMask):
     return catList[mask]
 
 def prCustomer(modType, cust, theFile):
-    theFile.write('{}\n{} ({}), color: {} (id:{})\n'.format(modType, cust['name'], cust['class'], cust['color'], cust['id']))
-    #theFile.write(modType + '\n' + cust['name'] + ' (' + cust['class'] + '), color: ' + cust['color'] + ' (id:' + str(cust['id']) + ')\n')
+    theFile.write('{}\n{} ({}), (id:{})\n'.format(modType, cust['name'], cust['class'], cust['id']))
     theFile.write('Level range: ' + str(cust['startLvl']) + '-' + str(cust['maxLvl']) + '\n')
     theFile.write('Favorite item types: ' + ', '.join(cust['iTypes']) + '\n')
     theFile.write('Fame required: ' + str(cust['lvlReq']) + '\nAppeal required: ' + str(cust['appealReq']) + '\n')
@@ -86,14 +85,40 @@ def prCustomer(modType, cust, theFile):
     if len(cust['unlockedBy']) > 0:
         theFile.write(' '.join(str(x) for x in cust['unlockedBy']))
     else:
-        theFile.write(' -')
-    theFile.write('\n'*2)
+        theFile.write('--')
+    theFile.write('\nColor: ' + cust['color'] + '\n'*2)
 
-def prHunt(modType, cust, theFile):
-    pass
+def prHunt(modType, hunt, theFile):
+    theFile.write('{}\n{}\n{}\n'.format(modType, hunt['name'], hunt['description']))
+    theFile.write('Level range: {}-{}\n'.format(str(hunt['minLvl']), str(hunt['maxLvl'])))
+    if hunt['time'] < 1: time = str(int(hunt['time']*60)) + ' minutes'
+    elif hunt['time'] == 1: time = str(int(hunt['time'])) + ' hour'
+    else: time = str(int(hunt['time'])) + ' hours'
+    theFile.write('Duration: {}\nLevel required: {}\n'.format(time, hunt['shopLvlReq']))
+    theFile.write('Common/Uncommon/Rare loots: {}\n'.format( ' / '.join( [' '.join( str(x) for x in y) for y in hunt['loots']] ) ))
+    theFile.write('XP per loot: {}\nValue for 100% common: {} gold\n'.format(hunt['xpPerLoot'], hunt['comValue']))
+    theFile.write('Icon link: {} (id:{})\n\n'.format(hunt['picLink'], hunt['id']))
 
-def prImprovement(modType, cust, theFile):
-    pass
+def prImprovement(modType, impr, theFile):
+    theFile.write('{}\n{}, level {}\n{}\n'.format(modType, impr['name'], impr['level'], impr['description']))
+    theFile.write('Cost to unlock this level: ')
+    if len(impr['upgradeCost']) > 0:
+        theFile.write('{} {}'.format(*impr['upgradeCost']))
+    else:
+        theFile.write('starter building')
+    theFile.write('\nUpgrade duration: {} hours\nUnlocked by: '.format(impr['time']))
+    if type(impr['unlockedBy']) is list:
+        theFile.write('{} level {}\n'.format(*impr['unlockedBy']))
+    else:
+        theFile.write(impr['unlockedBy'] + '\n')
+    if impr['buildUnlocks'] != 'none':
+        if len(impr['buildUnlocks']) > 0:
+            theFile.write('Buildings unlocked: {}\n'.format(', '.join([x[0] for x in impr['buildUnlocks']])))
+    if impr['bonus'] != 'none': theFile.write('Bonus: {} +{}\n'.format(*impr['bonus']))
+    if impr['custUnlocks'] != 'none':
+        theFile.write('Customers unlocked: {}\n'.format( ', '.join( ['{} ({})'.format(*x) for x in impr['custUnlocks']]  ) ))
+    theFile.write('Image link: {} (id:{})\n\n'.format(impr['picLink'], str(impr['id'])))
+
 
 def prFameLevel(modType, cust, theFile):
     pass
@@ -218,7 +243,7 @@ def getInfo(change=0, newSD=0):
         # common reward (which for some reason is stored in min_value and needs to be doubled, or max_value divided by
         # 10), a link to the quest icon, and empty loot entries, stored as [amount, item/resource/'gold']
         outputQuest = {'name':'', 'minLvl':newHunt['min_level'], 'maxLvl':newHunt['max_level'],
-                       'time':newHunt['duration']/3600, 'shopLvlReq':newHunt['unlock_fame_level'],
+                       'time':newHunt['duration']/3600., 'shopLvlReq':newHunt['unlock_fame_level'],
                        'loots':[[0,''], [0,''], [0,'']], 'xpPerLoot':newHunt['customer_xp_reward'],
                        'comValue':newHunt['min_value']*2, 'description':'', 'picLink':cdnBase+newHunt['image'],
                        'id':newHunt['id']}
