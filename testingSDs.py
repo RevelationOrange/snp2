@@ -3,6 +3,8 @@ from copy import deepcopy
 import snp2lib
 import math
 from os import sep
+import codecs
+from pprint import pprint
 
 
 '''
@@ -116,13 +118,13 @@ for x in tracker:
     print x
 
 goldTotal = 0
-chkSection = 'improvements'
+chkSection = 'recipe_unlocks'
 testGetInfo = 1
 uqIDs = []
 colorAvg = []
 testPrint = 1
 #'''
-if testPrint: theFile = open('updates'+sep+chkSection+'.txt', 'w')
+if testPrint: theFile = codecs.open('updates'+sep+chkSection+'.txt', 'w', 'utf-8')
 for x in newSD['result'][chkSection]:
     #colorAvg.append(x['color'])
     #if x['id'] not in uqIDs: uqIDs.append(x['id'])
@@ -133,11 +135,12 @@ for x in newSD['result'][chkSection]:
         #    if asset['id'] == nameID: print asset['value'], x['worker_codename']
     if testGetInfo:
         a = snp2lib.getInfo([chkSection, 'check', x], newSD)
-        if testPrint:
-            snp2lib.prInfo([chkSection, 'test', a[1]], theFile)
         print a[0]
         for k in a[1]:
-            print k + ':', a[1][k]
+            #print k + ':', a[1][k]
+            print '{}: {}'.format(k, a[1][k])
+        if testPrint and a[1]['craftID'] != 0:
+            snp2lib.prInfo([chkSection, 'test', a[1]], theFile)
         print ''
 if testPrint: theFile.close()
 #'''

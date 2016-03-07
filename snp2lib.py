@@ -116,18 +116,27 @@ def prImprovement(modType, impr, theFile):
             theFile.write('Buildings unlocked: {}\n'.format(', '.join([x[0] for x in impr['buildUnlocks']])))
     if impr['bonus'] != 'none': theFile.write('Bonus: {} +{}\n'.format(*impr['bonus']))
     if impr['custUnlocks'] != 'none':
-        theFile.write('Customers unlocked: {}\n'.format( ', '.join( ['{} ({})'.format(*x) for x in impr['custUnlocks']]  ) ))
+        theFile.write('Customers unlocked: {}\n'.format(', '.join(['{} ({})'.format(*x) for x in impr['custUnlocks']])))
     theFile.write('Image link: {} (id:{})\n\n'.format(impr['picLink'], str(impr['id'])))
 
 
-def prFameLevel(modType, cust, theFile):
+def prFameLevel(modType, fameLevel, theFile):
+    # for this, I want to have it take all the new fame levels at once and write them; one entry per level would be weird
+    # so that's the plan once I come back to this
     pass
 
 def prCustLevelValue(modType, cust, theFile):
     pass
 
-def prRecUnlock(modType, cust, theFile):
-    pass
+def prRecUnlock(modType, recUnlock, theFile):
+    #theFile.write('{}\nTo unlock {}, craft {} {}\n'.format(modType, recUnlock['itemUnlocked'],
+    #                                                        recUnlock['itemToCraft'][1], recUnlock['itemToCraft'][0]))
+    #theFile.write('{}\nTo unlock {}, craft {} '.format(modType, recUnlock['itemUnlocked'], recUnlock['itemToCraft'][1]))
+    theFile.write('{}\nTo unlock '.format(modType))
+    theFile.write(recUnlock['itemUnlocked'])
+    theFile.write(' craft {} '.format(recUnlock['itemToCraft'][1]))
+    theFile.write(recUnlock['itemToCraft'][0])
+    theFile.write('\n(id:{})\n\n'.format(recUnlock['id']))
 
 def prAsset(modType, cust, theFile):
     pass
@@ -421,7 +430,8 @@ def getInfo(change=0, newSD=0):
         # grab the recipe unlock
         newRecUnlock = change[2]
         # fill out the easy stuff
-        outputRecUnlock = {'itemToCraft':[], 'itemUnlocked':'', 'id':newRecUnlock['id']}
+        outputRecUnlock = {'itemToCraft':[], 'itemUnlocked':'', 'id':newRecUnlock['id'],
+                           'craftID':newRecUnlock['crafted_item_id']}
         # if the item has a crafted item count of 0, it's a starting recipe or it comes with a worker
         # so for nonzero ones:
         if newRecUnlock['crafted_item_count'] != 0:

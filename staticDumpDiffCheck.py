@@ -3,6 +3,7 @@ import json
 import snp2lib
 from os import sep
 from copy import deepcopy
+import codecs
 
 
 '''
@@ -264,7 +265,7 @@ for key in cleanDiffDict:
 if showDiffs:
     checkList = snp2lib.getInfo()
     for key in cleanDiffDict:
-        with open('updates'+sep+key+'.txt', 'w') as updateFile:
+        with codecs.open('updates'+sep+key+'.txt', 'w', 'utf-8') as updateFile:
             if key in checkList:
                 print key
                 for thing in cleanDiffDict[key]['stuff']:
