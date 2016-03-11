@@ -154,22 +154,34 @@ def prModule(modType, module, theFile):
     theFile.write("%s\n%s, tier %d\nUnlocked at level %d\nMax buyable with gold: %d\nHammer cost per level: %d\n" %
     (modType, module['name'], module['tier'], module['levelReq'], module['maxBuyable'], module['hammerCost']) )
     theFile.write("Unlocked by: %s\nImage link: %s\n" % (unlck, module['picLink']) )
-    spacerLine = "{:<8}{:<13}{:<13}"
+    spacerList = ["{:<8}{:<9}", "{:<10}"]
     headers = ['Level', 'Gold cost', 'Build time']
     appeals = False
     if module['appeals'] is not None:
         appeals = True
-        spacerLine += "{:<6}\t"
+        spacerList.append("{:<6}")
         headers.append('Appeal')
     bonuses = 0
     for bonus in module['bonuses']:
         bonuses += 1
-        spacerLine += "{:<" + str(len(bonus[0])+1) + "}\t"
+        if len(module['bonuses']) == bonuses:
+            spacerList.append("{:<}")
+        else:
+            spacerList.append("{:<" + str(len(bonus[0])) + "}")
         headers.append(bonus[0])
+    spacerLine = '\t'.join(spacerList)
     theFile.write(spacerLine.format(*headers) + '\n')
+    spacerList[0] = "{:<8}{:<9,}"
+    spacerLine = '\t'.join(spacerList)
     if module['times'] is not None:
         for i in xrange(len(module['times'])):
-            line = [i+1, module['goldCosts'][i], module['times'][i]]
+            if module['times'][i] < 3600:
+                time = '{}m'.format(module['times'][i]/60)
+            elif module['times'][i] < 86400:
+                time = '{}h'.format(module['times'][i]/3600)
+            else:
+                time = '{}h'.format(module['times'][i]/86400)
+            line = [i+1, module['goldCosts'][i], time]
             if appeals: line.append(module['appeals'][i])
             if bonuses: line += [x[1][i] for x in module['bonuses']]
             theFile.write(spacerLine.format(*line) + '\n')
