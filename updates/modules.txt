@@ -1,0 +1,2315 @@
+test
+Wood Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_wood_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_wood 	
+1       50           60           5.0                         	
+2       250          150          6.0                         	
+3       500          300          7.0                         	
+4       750          450          8.0                         	
+5       1000         600          9.0                         	
+(id:1)
+
+test
+Wood Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: Wood Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_wood_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_wood 	
+1       1200         600          11.0                        	
+2       1800         1200         13.0                        	
+3       2800         2400         15.0                        	
+4       4000         3600         17.0                        	
+5       5500         7200         20.0                        	
+(id:2)
+
+test
+Wood Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: Wood Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_wood_4_t.png
+Level   Gold cost    Build time   resource.max_count.raw_wood 	
+1       7000         43200        22.0                        	
+2       8500         86400        25.0                        	
+3       10000        129600       30.0                        	
+4       15000        172800       35.0                        	
+5       25000        259200       40.0                        	
+(id:3)
+
+test
+Herb Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_herbs_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_herbs 	
+1       50           60           4.0                          	
+2       250          150          5.0                          	
+3       500          300          6.0                          	
+4       750          450          7.0                          	
+5       1000         600          8.0                          	
+(id:4)
+
+test
+Herb Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: Herb Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_herbs_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_herbs 	
+1       1200         600          11.0                         	
+2       1800         1200         13.0                         	
+3       2800         2400         15.0                         	
+4       4000         3600         17.0                         	
+5       5500         7200         20.0                         	
+(id:5)
+
+test
+Herb Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: Herb Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_herbs_4_t.png
+Level   Gold cost    Build time   resource.max_count.raw_herbs 	
+1       7000         43200        22.0                         	
+2       8500         86400        25.0                         	
+3       10000        129600       30.0                         	
+4       15000        172800       35.0                         	
+5       25000        259200       40.0                         	
+(id:6)
+
+test
+Iron Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_iron_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_iron 	
+1       50           60           5.0                         	
+2       250          150          6.0                         	
+3       500          300          7.0                         	
+4       750          450          8.0                         	
+5       1000         600          9.0                         	
+(id:7)
+
+test
+Iron Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: Iron Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_iron_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_iron 	
+1       1200         600          11.0                        	
+2       1800         1200         13.0                        	
+3       2800         2400         15.0                        	
+4       4000         3600         17.0                        	
+5       5500         7200         20.0                        	
+(id:8)
+
+test
+Iron Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: Iron Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_iron_4_t.png
+Level   Gold cost    Build time   resource.max_count.raw_iron 	
+1       7000         43200        22.0                        	
+2       8500         86400        25.0                        	
+3       10000        129600       30.0                        	
+4       15000        172800       35.0                        	
+5       25000        259200       40.0                        	
+(id:9)
+
+test
+Leather Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_leather_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_leather 	
+1       50           60           5.0                            	
+2       250          150          6.0                            	
+3       500          300          7.0                            	
+4       750          450          8.0                            	
+5       1000         600          9.0                            	
+(id:10)
+
+test
+Leather Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: Leather Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_leather_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_leather 	
+1       1200         600          11.0                           	
+2       1800         1200         13.0                           	
+3       2800         2400         15.0                           	
+4       4000         3600         17.0                           	
+5       5500         7200         20.0                           	
+(id:11)
+
+test
+Leather Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: Leather Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_leather_4_t.png
+Level   Gold cost    Build time   resource.max_count.raw_leather 	
+1       7000         43200        22.0                           	
+2       8500         86400        25.0                           	
+3       10000        129600       30.0                           	
+4       15000        172800       35.0                           	
+5       25000        259200       40.0                           	
+(id:12)
+
+test
+Fabric Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_fabric_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_fabric 	
+1       50           60           5.0                           	
+2       250          150          6.0                           	
+3       500          300          7.0                           	
+4       750          450          8.0                           	
+5       1000         600          9.0                           	
+(id:13)
+
+test
+Fabric Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: Fabric Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_fabric_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_fabric 	
+1       1200         600          11.0                          	
+2       1800         1200         13.0                          	
+3       2800         2400         15.0                          	
+4       4000         3600         17.0                          	
+5       5500         7200         20.0                          	
+(id:14)
+
+test
+Fabric Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: Fabric Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_fabric_4_t.png
+Level   Gold cost    Build time   resource.max_count.raw_fabric 	
+1       7000         43200        22.0                          	
+2       8500         86400        25.0                          	
+3       10000        129600       30.0                          	
+4       15000        172800       35.0                          	
+5       25000        259200       40.0                          	
+(id:15)
+
+test
+Powder Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_sand_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_powder 	
+1       800          600          3.0                           	
+2       1600         1800         4.0                           	
+3       2500         2400         5.0                           	
+4       3500         3600         6.0                           	
+5       5000         4800         7.0                           	
+(id:16)
+
+test
+Powder Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: Powder Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_sand_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_powder 	
+1       10000        3600         8.0                           	
+2       12500        4800         9.0                           	
+3       15000        7200         11.0                          	
+4       20000        14400        13.0                          	
+5       30000        86400        15.0                          	
+(id:17)
+
+test
+Powder Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Powder Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_sand_4_t.png
+Level   Gold cost    Build time   resource.max_count.raw_powder 	
+1       45000        86400        18.0                          	
+2       60000        129600       20.0                          	
+3       75000        172800       22.0                          	
+4       90000        259200       24.0                          	
+5       120000       345600       26.0                          	
+(id:18)
+
+test
+Dye Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_dye_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_dyes 	
+1       800          600          3.0                         	
+2       1600         1800         4.0                         	
+3       2500         2400         5.0                         	
+4       3500         3600         6.0                         	
+5       5000         4800         7.0                         	
+(id:19)
+
+test
+Dye Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: Dye Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_dye_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_dyes 	
+1       10000        3600         8.0                         	
+2       12500        4800         9.0                         	
+3       15000        7200         11.0                        	
+4       20000        14400        13.0                        	
+5       30000        86400        15.0                        	
+(id:20)
+
+test
+Dye Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Dye Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_dye_4_t.png
+Level   Gold cost    Build time   resource.max_count.raw_dyes 	
+1       45000        86400        18.0                        	
+2       60000        129600       20.0                        	
+3       75000        172800       22.0                        	
+4       90000        259200       24.0                        	
+5       120000       345600       26.0                        	
+(id:21)
+
+test
+Elfwood Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_elfwood_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_elfwood 	
+1       800          600          3.0                            	
+2       1600         1800         4.0                            	
+3       2500         2400         5.0                            	
+4       3500         3600         6.0                            	
+5       5000         4800         7.0                            	
+(id:22)
+
+test
+Elfwood Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: Elfwood Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_elfwood_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_elfwood 	
+1       10000        3600         8.0                            	
+2       12500        4800         9.0                            	
+3       15000        7200         11.0                           	
+4       20000        14400        13.0                           	
+5       30000        86400        15.0                           	
+(id:23)
+
+test
+Elfwood Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Elfwood Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_elfwood_4_t.png
+Level   Gold cost    Build time   resource.max_count.raw_elfwood 	
+1       45000        86400        18.0                           	
+2       60000        129600       20.0                           	
+3       75000        172800       22.0                           	
+4       90000        259200       24.0                           	
+5       120000       345600       26.0                           	
+(id:24)
+
+test
+Glass Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_glass_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_glass 	
+1       800          600          3.0                          	
+2       1600         1800         4.0                          	
+3       2500         2400         5.0                          	
+4       3500         3600         6.0                          	
+5       5000         4800         7.0                          	
+(id:25)
+
+test
+Glass Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: Glass Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_glass_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_glass 	
+1       10000        3600         8.0                          	
+2       12500        4800         9.0                          	
+3       15000        7200         11.0                         	
+4       20000        14400        13.0                         	
+5       30000        86400        15.0                         	
+(id:26)
+
+test
+Glass Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Glass Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_glass_3_t.png
+Level   Gold cost    Build time   resource.max_count.raw_glass 	
+1       45000        86400        18.0                         	
+2       60000        129600       20.0                         	
+3       75000        172800       22.0                         	
+4       90000        259200       24.0                         	
+5       120000       345600       26.0                         	
+(id:27)
+
+test
+Oil Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_oil_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_oil 	
+1       2500         1200         2.0                        	
+2       5000         2400         3.0                        	
+3       7500         3600         4.0                        	
+4       10000        4800         5.0                        	
+5       12500        6000         6.0                        	
+(id:28)
+
+test
+Oil Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Oil Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_oil_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_oil 	
+1       50000        7200         7.0                        	
+2       55000        14400        8.0                        	
+3       70000        28800        9.0                        	
+4       80000        57600        10.0                       	
+5       100000       86400        11.0                       	
+(id:29)
+
+test
+Oil Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 30
+Unlocked by: Oil Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_oil_4_t.png
+Level   Gold cost    Build time   resource.max_count.raw_oil 	
+1       150000       129600       12.0                       	
+2       200000       172800       14.0                       	
+3       250000       259200       16.0                       	
+4       300000       345600       20.0                       	
+5       500000       432000       25.0                       	
+(id:30)
+
+test
+Ironwood Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_ironwood_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_ironwood 	
+1       2500         1200         2.0                             	
+2       5000         2400         3.0                             	
+3       7500         3600         4.0                             	
+4       10000        4800         5.0                             	
+5       12500        6000         6.0                             	
+(id:31)
+
+test
+Ironwood Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Ironwood Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_ironwood_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_ironwood 	
+1       50000        7200         7.0                             	
+2       55000        14400        8.0                             	
+3       70000        28800        9.0                             	
+4       80000        57600        10.0                            	
+5       100000       86400        11.0                            	
+(id:32)
+
+test
+Ironwood Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 30
+Unlocked by: Ironwood Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_ironwood_4_t.png
+Level   Gold cost    Build time   resource.max_count.raw_ironwood 	
+1       150000       129600       12.0                            	
+2       200000       172800       14.0                            	
+3       250000       259200       16.0                            	
+4       300000       345600       20.0                            	
+5       500000       432000       25.0                            	
+(id:33)
+
+test
+Steel Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_steel_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_steel 	
+1       2500         1200         2.0                          	
+2       5000         2400         3.0                          	
+3       7500         3600         4.0                          	
+4       10000        4800         5.0                          	
+5       12500        6000         6.0                          	
+(id:34)
+
+test
+Steel Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Steel Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_steel_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_steel 	
+1       50000        7200         7.0                          	
+2       55000        14400        8.0                          	
+3       70000        28800        9.0                          	
+4       80000        57600        10.0                         	
+5       100000       86400        11.0                         	
+(id:35)
+
+test
+Steel Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 30
+Unlocked by: Steel Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_steel_4_t.png
+Level   Gold cost    Build time   resource.max_count.raw_steel 	
+1       150000       129600       12.0                         	
+2       200000       172800       14.0                         	
+3       250000       259200       16.0                         	
+4       300000       345600       20.0                         	
+5       500000       432000       25.0                         	
+(id:36)
+
+test
+Gems Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_gems_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_gems 	
+1       10000        7200         1.0                         	
+2       15000        14400        2.0                         	
+3       20000        28800        3.0                         	
+4       25000        86400        4.0                         	
+5       30000        129600       5.0                         	
+(id:37)
+
+test
+Gems Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 25
+Unlocked by: Gems Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_gems_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_gems 	
+1       100000       86400        6.0                         	
+2       125000       129600       7.0                         	
+3       150000       172800       8.0                         	
+4       175000       259200       9.0                         	
+5       300000       345600       10.0                        	
+(id:38)
+
+test
+Gems Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Gems Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_gems_3_t.png
+Level   Gold cost    Build time   resource.max_count.raw_gems 	
+1       500000       172800       11.0                        	
+2       650000       259200       12.0                        	
+3       800000       345600       13.0                        	
+4       1000000      432000       14.0                        	
+5       5000000      864000       16.0                        	
+(id:39)
+
+test
+Crystal Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_crystals_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_crystal 	
+1       10000        7200         1.0                            	
+2       15000        14400        2.0                            	
+3       20000        28800        3.0                            	
+4       25000        86400        4.0                            	
+5       30000        129600       5.0                            	
+(id:40)
+
+test
+Crystal Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 25
+Unlocked by: Crystal Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_crystals_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_crystal 	
+1       100000       86400        6.0                            	
+2       125000       129600       7.0                            	
+3       150000       172800       8.0                            	
+4       175000       259200       9.0                            	
+5       300000       345600       10.0                           	
+(id:41)
+
+test
+Crystal Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Crystal Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_crystals_3_t.png
+Level   Gold cost    Build time   resource.max_count.raw_crystal 	
+1       500000       172800       11.0                           	
+2       650000       259200       12.0                           	
+3       800000       345600       13.0                           	
+4       1000000      432000       14.0                           	
+5       5000000      864000       16.0                           	
+(id:42)
+
+test
+Mithril Bin, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_mithril_1_t.png
+Level   Gold cost    Build time   resource.max_count.raw_mithril 	
+1       10000        7200         1.0                            	
+2       15000        14400        2.0                            	
+3       20000        28800        3.0                            	
+4       25000        86400        4.0                            	
+5       30000        129600       5.0                            	
+(id:43)
+
+test
+Mithril Bin 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 25
+Unlocked by: Mithril Bin
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_mithril_2_t.png
+Level   Gold cost    Build time   resource.max_count.raw_mithril 	
+1       100000       86400        6.0                            	
+2       125000       129600       7.0                            	
+3       150000       172800       8.0                            	
+4       175000       259200       9.0                            	
+5       300000       345600       10.0                           	
+(id:44)
+
+test
+Mithril Bin 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Mithril Bin 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/bin_mithril_4_t.png
+Level   Gold cost    Build time   resource.max_count.raw_mithril 	
+1       500000       172800       11.0                           	
+2       650000       259200       12.0                           	
+3       800000       345600       13.0                           	
+4       1000000      432000       14.0                           	
+5       5000000      864000       16.0                           	
+(id:45)
+
+test
+Work Table, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 1
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/worktable_1_t.png
+Level   Gold cost    Build time   
+1       25           30           
+2       75           30           
+3       150          300          
+4       300          600          
+5       600          1800         
+(id:46)
+
+test
+Spacious Table, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: Work Table
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/worktable_2_t.png
+Level   Gold cost    Build time   critical.tinkerer 	critical.jeweler 	
+1       2500         1200         0.016             	0.016            	
+2       5000         14400        0.017             	0.017            	
+3       10000        28800        0.018             	0.018            	
+4       25000        57600        0.019             	0.019            	
+5       50000        86400        0.02              	0.02             	
+(id:47)
+
+test
+Luxurious Table, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 60
+Unlocked by: Spacious Table
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/worktable_3_t.png
+Level   Gold cost    Build time   critical.tinkerer 	critical.jeweler 	
+1       75000        86400        0.032             	0.032            	
+2       150000       129600       0.034             	0.034            	
+3       350000       172800       0.036             	0.036            	
+4       750000       259200       0.038             	0.038            	
+5       2500000      345600       0.04              	0.04             	
+6       5000000      345600       0.042             	0.042            	
+(id:48)
+
+test
+Iron Anvil, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/anvil_1_t.png
+Level   Gold cost    Build time   critical.blacksmith 	critical.armorer 	
+1       50           30           0.0035              	0.0035           	
+2       200          300          0.0045              	0.0045           	
+3       500          900          0.0055              	0.0055           	
+4       1000         3600         0.0065              	0.0065           	
+5       2500         14400        0.0075              	0.0075           	
+(id:49)
+
+test
+Steel Anvil, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 15
+Unlocked by: Iron Anvil
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/anvil_2_t.png
+Level   Gold cost    Build time   critical.blacksmith 	critical.armorer 	
+1       25000        86400        0.016               	0.016            	
+2       30000        129600       0.017               	0.017            	
+3       35000        172800       0.018               	0.018            	
+4       40000        259200       0.019               	0.019            	
+5       50000        345600       0.02                	0.02             	
+(id:50)
+
+test
+Mithril Anvil, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 85
+Unlocked by: Steel Anvil
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/anvil_3_t.png
+Level   Gold cost    Build time   critical.blacksmith 	critical.armorer 	
+1       100000       172800       0.032               	0.032            	
+2       250000       259200       0.034               	0.034            	
+3       500000       345600       0.036               	0.036            	
+4       1000000      432000       0.038               	0.038            	
+5       5000000      864000       0.04                	0.04             	
+6       10000000     864000       0.042               	0.042            	
+(id:51)
+
+test
+Small Cauldron, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/chauldron_1_t.png
+Level   Gold cost    Build time   critical.druid 	critical.sorceress 	critical.enchanter 	
+1       50           30           0.0035         	0.0035             	0.0035             	
+2       200          300          0.0045         	0.0045             	0.0045             	
+3       500          900          0.0055         	0.0055             	0.0055             	
+4       1000         3600         0.0065         	0.0065             	0.0065             	
+5       2500         14400        0.0075         	0.0075             	0.0075             	
+(id:52)
+
+test
+Magic Cauldron, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 15
+Unlocked by: Small Cauldron
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/chauldron_2_t.png
+Level   Gold cost    Build time   critical.druid 	critical.sorceress 	critical.enchanter 	
+1       25000        86400        0.016          	0.016              	0.016              	
+2       30000        129600       0.017          	0.017              	0.017              	
+3       35000        172800       0.018          	0.018              	0.018              	
+4       40000        259200       0.019          	0.019              	0.019              	
+5       50000        345600       0.02           	0.02               	0.02               	
+(id:53)
+
+test
+Mystical Cauldron, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 85
+Unlocked by: Magic Cauldron
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/chauldron_3_t.png
+Level   Gold cost    Build time   critical.druid 	critical.sorceress 	critical.enchanter 	
+1       100000       172800       0.032          	0.032              	0.032              	
+2       250000       259200       0.034          	0.034              	0.034              	
+3       500000       345600       0.036          	0.036              	0.036              	
+4       1000000      432000       0.038          	0.038              	0.038              	
+5       5000000      864000       0.04           	0.04               	0.04               	
+6       10000000     864000       0.042          	0.042              	0.042              	
+(id:54)
+
+test
+Sawbench, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/sawbench_1_t.png
+Level   Gold cost    Build time   critical.carpenter 	critical.bowyer 	critical.luthier 	
+1       50           30           0.0035             	0.0035          	0.0035           	
+2       200          300          0.0045             	0.0045          	0.0045           	
+3       500          900          0.0055             	0.0055          	0.0055           	
+4       1000         3600         0.0065             	0.0065          	0.0065           	
+5       2500         14400        0.0075             	0.0075          	0.0075           	
+(id:55)
+
+test
+Sturdy Sawbench, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 15
+Unlocked by: Sawbench
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/sawbench_2_t.png
+Level   Gold cost    Build time   critical.carpenter 	critical.bowyer 	critical.luthier 	
+1       25000        86400        0.016              	0.016           	0.016            	
+2       30000        129600       0.017              	0.017           	0.017            	
+3       35000        172800       0.018              	0.018           	0.018            	
+4       40000        259200       0.019              	0.019           	0.019            	
+5       50000        345600       0.02               	0.02            	0.02             	
+(id:56)
+
+test
+Quality Sawbench, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 85
+Unlocked by: Sturdy Sawbench
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/sawbench_3_t.png
+Level   Gold cost    Build time   critical.carpenter 	critical.bowyer 	critical.luthier 	
+1       100000       172800       0.032              	0.032           	0.032            	
+2       250000       259200       0.034              	0.034           	0.034            	
+3       500000       345600       0.036              	0.036           	0.036            	
+4       1000000      432000       0.038              	0.038           	0.038            	
+5       5000000      864000       0.04               	0.04            	0.04             	
+6       10000000     864000       0.042              	0.042           	0.042            	
+(id:57)
+
+test
+Cutting Table, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/cutting_table_1_t.png
+Level   Gold cost    Build time   critical.tailor 	critical.leatherworker 	
+1       50           30           0.0035          	0.0035                 	
+2       200          300          0.0045          	0.0045                 	
+3       500          900          0.0055          	0.0055                 	
+4       1000         3600         0.0065          	0.0065                 	
+5       2500         14400        0.0075          	0.0075                 	
+(id:58)
+
+test
+Good Cutting Table, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 15
+Unlocked by: Cutting Table
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/cutting_table_2_t.png
+Level   Gold cost    Build time   critical.tailor 	critical.leatherworker 	
+1       25000        86400        0.016           	0.016                  	
+2       30000        129600       0.017           	0.017                  	
+3       35000        172800       0.018           	0.018                  	
+4       40000        259200       0.019           	0.019                  	
+5       50000        345600       0.02            	0.02                   	
+(id:59)
+
+test
+Fine Cutting Table, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 85
+Unlocked by: Good Cutting Table
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/cutting_table_3_t.png
+Level   Gold cost    Build time   critical.tailor 	critical.leatherworker 	
+1       100000       172800       0.032           	0.032                  	
+2       250000       259200       0.034           	0.034                  	
+3       500000       345600       0.036           	0.036                  	
+4       1000000      432000       0.038           	0.038                  	
+5       5000000      864000       0.04            	0.04                   	
+6       10000000     864000       0.042           	0.042                  	
+(id:60)
+
+test
+Counter, tier 1
+Unlocked at level 1
+Max buyable with gold: -1
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/counter_1_t.png
+Level   Gold cost    Build time   Appeal	sell_price.all 	sell_xp.all 	
+1       0            5            0     	0.0            	0.0         	
+2       250          60           5     	2.0            	1.0         	
+3       750          300          10    	4.0            	2.0         	
+4       1500         900          15    	6.0            	3.0         	
+5       2500         3600         25    	8.0            	4.0         	
+(id:61)
+
+test
+Counter 2, tier 2
+Unlocked at level 1
+Max buyable with gold: -1
+Hammer cost per level: 5
+Unlocked by: Counter
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/counter_2_t.png
+Level   Gold cost    Build time   Appeal	sell_price.all 	sell_xp.all 	
+1       5000         3600         35    	12.0           	6.0         	
+2       6500         7200         40    	16.0           	8.0         	
+3       8500         10800        45    	20.0           	10.0        	
+4       11000        14400        50    	24.0           	12.0        	
+5       15000        18000        60    	28.0           	14.0        	
+(id:62)
+
+test
+Counter 3, tier 3
+Unlocked at level 1
+Max buyable with gold: -1
+Hammer cost per level: 25
+Unlocked by: Counter 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/counter_3_t.png
+Level   Gold cost    Build time   Appeal	sell_price.all 	sell_xp.all 	
+1       50000        86400        70    	65.0           	25.0        	
+2       75000        129600       85    	100.0          	35.0        	
+3       100000       172800       100   	135.0          	45.0        	
+4       150000       259200       125   	170.0          	55.0        	
+5       250000       345600       150   	205.0          	65.0        	
+(id:63)
+
+test
+Counter 4, tier 4
+Unlocked at level 1
+Max buyable with gold: -1
+Hammer cost per level: 60
+Unlocked by: Counter 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/counter_4_t.png
+Level   Gold cost    Build time   Appeal	sell_price.all 	sell_price_mod.all 	sell_xp.all 	
+1       400000       129600       200   	205.0          	0.004              	125.0       	
+2       500000       172800       250   	205.0          	0.008              	175.0       	
+3       750000       259200       300   	205.0          	0.012              	225.0       	
+4       1000000      345600       350   	205.0          	0.016              	275.0       	
+5       1200000      432000       400   	205.0          	0.02               	325.0       	
+(id:64)
+
+test
+Counter 5, tier 5
+Unlocked at level 1
+Max buyable with gold: -1
+Hammer cost per level: 120
+Unlocked by: Counter 4
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/counter_5_t.png
+Level   Gold cost    Build time   Appeal	sell_price.all 	sell_price_mod.all 	sell_xp.all 	
+1       1500000      172800       500   	205.0          	0.026              	650.0       	
+2       2000000      259200       750   	205.0          	0.032              	800.0       	
+3       2500000      345600       1000  	205.0          	0.038              	950.0       	
+4       3500000      432000       1500  	205.0          	0.044              	1100.0      	
+5       5000000      864000       2500  	205.0          	0.05               	1250.0      	
+(id:65)
+
+test
+Chest, tier 1
+Unlocked at level 1
+Max buyable with gold: 5
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/chest_1_t.png
+Level   Gold cost    Build time   craft_xp.all 	
+1       50           5            0.0          	
+2       250          60           1.0          	
+3       750          300          2.0          	
+4       1500         900          3.0          	
+5       2500         1800         4.0          	
+(id:66)
+
+test
+Chest 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 5
+Hammer cost per level: 5
+Unlocked by: Chest
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/chest_2_t.png
+Level   Gold cost    Build time   craft_xp.all 	
+1       4000         2100         6.0          	
+2       5500         7200         7.0          	
+3       6500         10800        8.0          	
+4       10000        14400        9.0          	
+5       12500        18000        10.0         	
+(id:67)
+
+test
+Chest 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 5
+Hammer cost per level: 20
+Unlocked by: Chest 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/chest_3_t.png
+Level   Gold cost    Build time   craft_xp.all 	
+1       35000        86400        17.0         	
+2       50000        129600       22.0         	
+3       75000        172800       27.0         	
+4       125000       259200       32.0         	
+5       200000       345600       37.0         	
+(id:68)
+
+test
+Chest 4, tier 4
+Unlocked at level 1
+Max buyable with gold: 5
+Hammer cost per level: 55
+Unlocked by: Chest 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/chest_4_t.png
+Level   Gold cost    Build time   craft_xp.all 	
+1       250000       129600       75.0         	
+2       350000       172800       100.0        	
+3       500000       259200       125.0        	
+4       850000       345600       150.0        	
+5       1000000      432000       175.0        	
+(id:69)
+
+test
+Chest 5, tier 5
+Unlocked at level 1
+Max buyable with gold: 5
+Hammer cost per level: 110
+Unlocked by: Chest 4
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/chest_5_t.png
+Level   Gold cost    Build time   craft_xp.all 	
+1       1250000      172800       250.0        	
+2       1500000      259200       300.0        	
+3       2000000      345600       350.0        	
+4       2500000      432000       400.0        	
+5       5000000      864000       450.0        	
+(id:70)
+
+test
+Wardrobe, tier 1
+Unlocked at level 11
+Max buyable with gold: 1
+Hammer cost per level: 5
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/wardrobe_1_t.png
+Level   Gold cost    Build time   craft_xp.all 	
+1       5000         1800         12.0         	
+2       6000         2400         14.0         	
+3       7000         3600         16.0         	
+4       8000         7200         18.0         	
+5       10000        7200         20.0         	
+(id:71)
+
+test
+Wardrobe 2, tier 2
+Unlocked at level 11
+Max buyable with gold: 1
+Hammer cost per level: 15
+Unlocked by: Wardrobe
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/wardrobe_2_t.png
+Level   Gold cost    Build time   craft_xp.all 	
+1       25000        129600       75.0         	
+2       35000        172800       100.0        	
+3       45000        259200       125.0        	
+4       60000        345600       150.0        	
+5       80000        432000       175.0        	
+(id:72)
+
+test
+Toolbox, tier 1
+Unlocked at level 6
+Max buyable with gold: -1
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/toolbox_1_t.png
+Level   Gold cost    Build time   critical.all 	
+1       100          60           0.006        	
+2       350          500          0.007        	
+3       750          1800         0.008        	
+4       1250         3600         0.009        	
+5       2500         10800        0.01         	
+(id:73)
+
+test
+Toolbox 2, tier 2
+Unlocked at level 6
+Max buyable with gold: -1
+Hammer cost per level: 5
+Unlocked by: Toolbox
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/toolbox_2_t.png
+Level   Gold cost    Build time   critical.all 	
+1       4000         1800         0.016        	
+2       5500         2400         0.017        	
+3       6500         3600         0.018        	
+4       10000        7200         0.019        	
+5       12500        7200         0.02         	
+(id:74)
+
+test
+Toolbox 3, tier 3
+Unlocked at level 6
+Max buyable with gold: -1
+Hammer cost per level: 20
+Unlocked by: Toolbox 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/toolbox_3_t.png
+Level   Gold cost    Build time   critical.all 	
+1       35000        86400        0.026        	
+2       50000        129600       0.027        	
+3       75000        172800       0.028        	
+4       125000       259200       0.029        	
+5       200000       345600       0.03         	
+(id:75)
+
+test
+Toolbox 4, tier 4
+Unlocked at level 6
+Max buyable with gold: -1
+Hammer cost per level: 55
+Unlocked by: Toolbox 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/toolbox_4_t.png
+Level   Gold cost    Build time   critical.all 	
+1       250000       129600       0.037        	
+2       350000       172800       0.039        	
+3       500000       259200       0.041        	
+4       850000       345600       0.043        	
+5       1000000      432000       0.045        	
+(id:76)
+
+test
+Toolbox 5, tier 5
+Unlocked at level 6
+Max buyable with gold: -1
+Hammer cost per level: 110
+Unlocked by: Toolbox 4
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/toolbox_5_t.png
+Level   Gold cost    Build time   critical.all 	
+1       1250000      172800       0.052        	
+2       1500000      259200       0.054        	
+3       2000000      345600       0.056        	
+4       2500000      432000       0.058        	
+5       5000000      864000       0.06         	
+(id:77)
+
+test
+Fern, tier 1
+Unlocked at level 4
+Max buyable with gold: 10
+Hammer cost per level: 1
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/plant_1_t.png
+Level   Gold cost    Build time   Appeal	
+1       200          60           5     	
+2       500          600          10    	
+3       1000         3600         15    	
+(id:78)
+
+test
+Arrowhead vine, tier 2
+Unlocked at level 4
+Max buyable with gold: 10
+Hammer cost per level: 5
+Unlocked by: Fern
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/plant_4_t.png
+Level   Gold cost    Build time   Appeal	
+1       2500         1800         20    	
+2       5000         3600         25    	
+3       7500         10800        30    	
+(id:79)
+
+test
+Amaryllis, tier 3
+Unlocked at level 4
+Max buyable with gold: 10
+Hammer cost per level: 15
+Unlocked by: Arrowhead vine
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/plant_7_t.png
+Level   Gold cost    Build time   Appeal	
+1       25000        7200         35    	
+2       50000        14400        40    	
+3       100000       28800        50    	
+(id:80)
+
+test
+Bird of paradise, tier 4
+Unlocked at level 4
+Max buyable with gold: 10
+Hammer cost per level: 45
+Unlocked by: Amaryllis
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/plant_8_t.png
+Level   Gold cost    Build time   Appeal	
+1       200000       86400        75    	
+2       300000       129600       100   	
+3       400000       172800       125   	
+4       500000       259200       150   	
+5       600000       345600       175   	
+(id:81)
+
+test
+Phoenix flora, tier 5
+Unlocked at level 4
+Max buyable with gold: 10
+Hammer cost per level: 110
+Unlocked by: Bird of paradise
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/plant_10_t.png
+Level   Gold cost    Build time   Appeal	
+1       1000000      129600       175   	
+2       1250000      172800       200   	
+3       2000000      259200       250   	
+4       3000000      345600       300   	
+5       5000000      432000       350   	
+(id:82)
+
+test
+Mirror, tier 1
+Unlocked at level 12
+Max buyable with gold: 2
+Hammer cost per level: 5
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/mirror_1_t.png
+Level   Gold cost    Build time   Appeal	sell_xp.all 	
+1       3500         1800         10    	2.0         	
+2       5000         2400         15    	3.0         	
+3       6000         3600         20    	4.0         	
+4       7500         7200         25    	5.0         	
+5       10000        7200         30    	6.0         	
+(id:83)
+
+test
+Mirror 2, tier 2
+Unlocked at level 12
+Max buyable with gold: 2
+Hammer cost per level: 10
+Unlocked by: Mirror
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/mirror_2_t.png
+Level   Gold cost    Build time   Appeal	sell_xp.all 	
+1       12500        86400        35    	10.0        	
+2       15000        129600       40    	12.0        	
+3       17500        172800       45    	14.0        	
+4       20000        259200       50    	16.0        	
+5       25000        345600       60    	18.0        	
+(id:84)
+
+test
+Mirror 3, tier 3
+Unlocked at level 12
+Max buyable with gold: 2
+Hammer cost per level: 20
+Unlocked by: Mirror 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/mirror_3_t.png
+Level   Gold cost    Build time   Appeal	sell_xp.all 	
+1       35000        129600       70    	23.0        	
+2       50000        172800       75    	26.0        	
+3       75000        259200       80    	29.0        	
+4       100000       345600       85    	32.0        	
+5       125000       432000       100   	35.0        	
+(id:85)
+
+test
+Mirror 4, tier 4
+Unlocked at level 12
+Max buyable with gold: 2
+Hammer cost per level: 45
+Unlocked by: Mirror 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/mirror_4_t.png
+Level   Gold cost    Build time   Appeal	sell_xp.all 	
+1       200000       172800       115   	95.0        	
+2       300000       259200       125   	110.0       	
+3       400000       345600       150   	125.0       	
+4       500000       432000       175   	140.0       	
+5       600000       864000       200   	155.0       	
+(id:86)
+
+test
+Mirror 5, tier 5
+Unlocked at level 12
+Max buyable with gold: 2
+Hammer cost per level: 110
+Unlocked by: Mirror 4
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/mirror_5_t.png
+Level   Gold cost    Build time   Appeal	sell_xp.all 	
+1       1000000      172800       225   	400.0       	
+2       1250000      259200       250   	500.0       	
+3       2000000      345600       300   	600.0       	
+4       3000000      432000       350   	700.0       	
+5       5000000      864000       400   	800.0       	
+(id:87)
+
+test
+Torch, tier 1
+Unlocked at level 14
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/lamp_1_t.png
+Level   Gold cost    Build time   Appeal	
+1       3500         1800         10    	
+2       6000         2400         15    	
+3       10000        3600         20    	
+(id:88)
+
+test
+Carpet, tier 1
+Unlocked at level 13
+Max buyable with gold: 3
+Hammer cost per level: 5
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/tapis_t.png
+Level   Gold cost    Build time   Appeal	
+1       3000         2400         15    	
+2       5000         3600         20    	
+3       8000         10800        25    	
+(id:89)
+
+test
+Magic Statue, tier 1
+Unlocked at level 20
+Max buyable with gold: 1
+Hammer cost per level: 50
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/statue_1_t.png
+Level   Gold cost    Build time   Appeal	customers.extra_per_day 	
+1       250000       864000       150   	1.0                     	
+2       300000       864000       160   	1.0                     	
+3       400000       864000       175   	1.0                     	
+(id:90)
+
+test
+Blade Rack, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_blade_1_t.png
+Level   Gold cost    Build time   Appeal	sell_price.WS 	sell_price.WA 	sell_price.WD 	
+1       100          60           10    	3.0           	3.0           	3.0           	
+2       250          600          15    	6.0           	6.0           	6.0           	
+3       750          1800         20    	9.0           	9.0           	9.0           	
+4       1500         3600         25    	12.0          	12.0          	12.0          	
+5       3000         7200         30    	15.0          	15.0          	15.0          	
+(id:91)
+
+test
+Blade Rack 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Blade Rack
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_blade_2_t.png
+Level   Gold cost    Build time   Appeal	sell_price.WS 	sell_price.WA 	sell_price.WD 	
+1       10000        86400        35    	40.0          	40.0          	40.0          	
+2       25000        129600       40    	65.0          	65.0          	65.0          	
+3       50000        172800       45    	90.0          	90.0          	90.0          	
+4       100000       259200       50    	115.0         	115.0         	115.0         	
+5       150000       345600       60    	140.0         	140.0         	140.0         	
+(id:92)
+
+test
+Blade Rack 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 80
+Unlocked by: Blade Rack 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_blade_4_t.png
+Level   Gold cost    Build time   Appeal	sell_price.WS 	sell_price_mod.WS 	sell_price.WA 	sell_price_mod.WA 	sell_price.WD 	sell_price_mod.WD 	
+1       250000       172800       70    	140.0         	0.01              	140.0         	0.01              	140.0         	0.01              	
+2       500000       259200       75    	140.0         	0.02              	140.0         	0.02              	140.0         	0.02              	
+3       1000000      345600       80    	140.0         	0.03              	140.0         	0.03              	140.0         	0.03              	
+4       2000000      432000       85    	140.0         	0.04              	140.0         	0.04              	140.0         	0.04              	
+5       3000000      864000       100   	140.0         	0.05              	140.0         	0.05              	140.0         	0.05              	
+(id:93)
+
+test
+Potions Rack, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_potions_1_t.png
+Level   Gold cost    Build time   Appeal	sell_price.UH 	sell_price.UP 	sell_price.US 	
+1       100          60           10    	3.0           	3.0           	3.0           	
+2       250          600          15    	6.0           	6.0           	6.0           	
+3       750          1800         20    	9.0           	9.0           	9.0           	
+4       1500         3600         25    	12.0          	12.0          	12.0          	
+5       3000         7200         30    	15.0          	15.0          	15.0          	
+(id:94)
+
+test
+Potions Rack 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Potions Rack
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_potions_2_t.png
+Level   Gold cost    Build time   Appeal	sell_price.UH 	sell_price.UP 	sell_price.US 	
+1       10000        86400        35    	40.0          	40.0          	40.0          	
+2       25000        129600       40    	65.0          	65.0          	65.0          	
+3       50000        172800       45    	90.0          	90.0          	90.0          	
+4       100000       259200       50    	115.0         	115.0         	115.0         	
+5       150000       345600       60    	140.0         	140.0         	140.0         	
+(id:95)
+
+test
+Potions Rack 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 80
+Unlocked by: Potions Rack 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_potions_3_t.png
+Level   Gold cost    Build time   Appeal	sell_price.UH 	sell_price_mod.UH 	sell_price.UP 	sell_price_mod.UP 	sell_price.US 	sell_price_mod.US 	
+1       250000       172800       70    	140.0         	0.01              	140.0         	0.01              	140.0         	0.01              	
+2       500000       259200       75    	140.0         	0.02              	140.0         	0.02              	140.0         	0.02              	
+3       1000000      345600       80    	140.0         	0.03              	140.0         	0.03              	140.0         	0.03              	
+4       2000000      432000       85    	140.0         	0.04              	140.0         	0.04              	140.0         	0.04              	
+5       3000000      864000       100   	140.0         	0.05              	140.0         	0.05              	140.0         	0.05              	
+(id:96)
+
+test
+Spears-Maces Rack, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_hammers_1_t.png
+Level   Gold cost    Build time   Appeal	sell_price.WP 	sell_price.WM 	
+1       100          60           10    	3.0           	3.0           	
+2       250          600          15    	6.0           	6.0           	
+3       750          1800         20    	9.0           	9.0           	
+4       1500         3600         25    	12.0          	12.0          	
+5       3000         7200         30    	15.0          	15.0          	
+(id:97)
+
+test
+Spears-Maces Rack 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Spears-Maces Rack
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_hammers_2_t.png
+Level   Gold cost    Build time   Appeal	sell_price.WP 	sell_price.WM 	
+1       10000        86400        35    	40.0          	40.0          	
+2       25000        129600       40    	65.0          	65.0          	
+3       50000        172800       45    	90.0          	90.0          	
+4       100000       259200       50    	115.0         	115.0         	
+5       150000       345600       60    	140.0         	140.0         	
+(id:98)
+
+test
+Spears-Maces Rack 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 80
+Unlocked by: Spears-Maces Rack 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_hammers_3_t.png
+Level   Gold cost    Build time   Appeal	sell_price.WP 	sell_price_mod.WP 	sell_price.WM 	sell_price_mod.WM 	
+1       250000       172800       70    	140.0         	0.01              	140.0         	0.01              	
+2       500000       259200       75    	140.0         	0.02              	140.0         	0.02              	
+3       1000000      345600       80    	140.0         	0.03              	140.0         	0.03              	
+4       2000000      432000       85    	140.0         	0.04              	140.0         	0.04              	
+5       3000000      864000       100   	140.0         	0.05              	140.0         	0.05              	
+(id:99)
+
+test
+Wands-Music Rack, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_staff_1_t.png
+Level   Gold cost    Build time   Appeal	sell_price.WL 	sell_price.WT 	
+1       100          60           10    	3.0           	3.0           	
+2       250          600          15    	6.0           	6.0           	
+3       750          1800         20    	9.0           	9.0           	
+4       1500         3600         25    	12.0          	12.0          	
+5       3000         7200         30    	15.0          	15.0          	
+(id:100)
+
+test
+Wands-Music Rack 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Wands-Music Rack
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_staff_2_t.png
+Level   Gold cost    Build time   Appeal	sell_price.WL 	sell_price.WT 	
+1       10000        86400        35    	40.0          	40.0          	
+2       25000        129600       40    	65.0          	65.0          	
+3       50000        172800       45    	90.0          	90.0          	
+4       100000       259200       50    	115.0         	115.0         	
+5       150000       345600       60    	140.0         	140.0         	
+(id:101)
+
+test
+Wands-Music Rack 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 80
+Unlocked by: Wands-Music Rack 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_staff_3_t.png
+Level   Gold cost    Build time   Appeal	sell_price.WL 	sell_price_mod.WL 	sell_price.WT 	sell_price_mod.WT 	
+1       250000       172800       70    	140.0         	0.01              	140.0         	0.01              	
+2       500000       259200       75    	140.0         	0.02              	140.0         	0.02              	
+3       1000000      345600       80    	140.0         	0.03              	140.0         	0.03              	
+4       2000000      432000       85    	140.0         	0.04              	140.0         	0.04              	
+5       3000000      864000       100   	140.0         	0.05              	140.0         	0.05              	
+(id:102)
+
+test
+Heavy Armor Rack, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_heavy_1_t.png
+Level   Gold cost    Build time   Appeal	sell_price.AH 	sell_price.HH 	sell_price.GH 	sell_price.BH 	sell_price.S 	
+1       100          60           10    	3.0           	3.0           	3.0           	3.0           	3.0          	
+2       250          600          15    	6.0           	6.0           	6.0           	6.0           	6.0          	
+3       750          1800         20    	9.0           	9.0           	9.0           	9.0           	9.0          	
+4       1500         3600         25    	12.0          	12.0          	12.0          	12.0          	12.0         	
+5       3000         7200         30    	15.0          	15.0          	15.0          	15.0          	15.0         	
+(id:103)
+
+test
+Heavy Armor Rack 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Heavy Armor Rack
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_heavy_2_t.png
+Level   Gold cost    Build time   Appeal	sell_price.AH 	sell_price.HH 	sell_price.GH 	sell_price.BH 	sell_price.S 	
+1       10000        86400        35    	40.0          	40.0          	40.0          	40.0          	40.0         	
+2       25000        129600       40    	65.0          	65.0          	65.0          	65.0          	65.0         	
+3       50000        172800       45    	90.0          	90.0          	90.0          	90.0          	90.0         	
+4       100000       259200       50    	115.0         	115.0         	115.0         	115.0         	115.0        	
+5       150000       345600       60    	140.0         	140.0         	140.0         	140.0         	140.0        	
+(id:104)
+
+test
+Heavy Armor Rack 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 80
+Unlocked by: Heavy Armor Rack 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_heavy_3_t.png
+Level   Gold cost    Build time   Appeal	sell_price.AH 	sell_price_mod.AH 	sell_price.HH 	sell_price_mod.HH 	sell_price.GH 	sell_price_mod.GH 	sell_price.BH 	sell_price_mod.BH 	sell_price.S 	sell_price_mod.S 	
+1       250000       172800       70    	140.0         	0.01              	140.0         	0.01              	140.0         	0.01              	140.0         	0.01              	140.0        	0.01             	
+2       500000       259200       75    	140.0         	0.02              	140.0         	0.02              	140.0         	0.02              	140.0         	0.02              	140.0        	0.02             	
+3       1000000      345600       80    	140.0         	0.03              	140.0         	0.03              	140.0         	0.03              	140.0         	0.03              	140.0        	0.03             	
+4       2000000      432000       85    	140.0         	0.04              	140.0         	0.04              	140.0         	0.04              	140.0         	0.04              	140.0        	0.04             	
+5       3000000      864000       100   	140.0         	0.05              	140.0         	0.05              	140.0         	0.05              	140.0         	0.05              	140.0        	0.05             	
+(id:105)
+
+test
+Medium Armor Rack, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_medium_1_t.png
+Level   Gold cost    Build time   Appeal	sell_price.AM 	sell_price.HM 	sell_price.GM 	sell_price.BM 	
+1       100          60           10    	3.0           	3.0           	3.0           	3.0           	
+2       250          600          15    	6.0           	6.0           	6.0           	6.0           	
+3       750          1800         20    	9.0           	9.0           	9.0           	9.0           	
+4       1500         3600         25    	12.0          	12.0          	12.0          	12.0          	
+5       3000         7200         30    	15.0          	15.0          	15.0          	15.0          	
+(id:106)
+
+test
+Medium Armor Rack 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Medium Armor Rack
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_medium_2_t.png
+Level   Gold cost    Build time   Appeal	sell_price.AM 	sell_price.HM 	sell_price.GM 	sell_price.BM 	
+1       10000        86400        35    	40.0          	40.0          	40.0          	40.0          	
+2       25000        129600       40    	65.0          	65.0          	65.0          	65.0          	
+3       50000        172800       45    	90.0          	90.0          	90.0          	90.0          	
+4       100000       259200       50    	115.0         	115.0         	115.0         	115.0         	
+5       150000       345600       60    	140.0         	140.0         	140.0         	140.0         	
+(id:107)
+
+test
+Medium Armor Rack 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 80
+Unlocked by: Medium Armor Rack 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_medium_3_t.png
+Level   Gold cost    Build time   Appeal	sell_price.AM 	sell_price_mod.AM 	sell_price.HM 	sell_price_mod.HM 	sell_price.GM 	sell_price_mod.GM 	sell_price.BM 	sell_price_mod.BM 	
+1       250000       172800       70    	140.0         	0.01              	140.0         	0.01              	140.0         	0.01              	140.0         	0.01              	
+2       500000       259200       75    	140.0         	0.02              	140.0         	0.02              	140.0         	0.02              	140.0         	0.02              	
+3       1000000      345600       80    	140.0         	0.03              	140.0         	0.03              	140.0         	0.03              	140.0         	0.03              	
+4       2000000      432000       85    	140.0         	0.04              	140.0         	0.04              	140.0         	0.04              	140.0         	0.04              	
+5       3000000      864000       100   	140.0         	0.05              	140.0         	0.05              	140.0         	0.05              	140.0         	0.05              	
+(id:108)
+
+test
+Light Armor Rack, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_light_1_t.png
+Level   Gold cost    Build time   Appeal	sell_price.AL 	sell_price.HL 	sell_price.GL 	sell_price.BL 	
+1       100          60           10    	3.0           	3.0           	3.0           	3.0           	
+2       250          600          15    	6.0           	6.0           	6.0           	6.0           	
+3       750          1800         20    	9.0           	9.0           	9.0           	9.0           	
+4       1500         3600         25    	12.0          	12.0          	12.0          	12.0          	
+5       3000         7200         30    	15.0          	15.0          	15.0          	15.0          	
+(id:109)
+
+test
+Light Armor Rack 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Light Armor Rack
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_light_2_t.png
+Level   Gold cost    Build time   Appeal	sell_price.AL 	sell_price.HL 	sell_price.GL 	sell_price.BL 	
+1       10000        86400        35    	40.0          	40.0          	40.0          	40.0          	
+2       25000        129600       40    	65.0          	65.0          	65.0          	65.0          	
+3       50000        172800       45    	90.0          	90.0          	90.0          	90.0          	
+4       100000       259200       50    	115.0         	115.0         	115.0         	115.0         	
+5       150000       345600       60    	140.0         	140.0         	140.0         	140.0         	
+(id:110)
+
+test
+Light Armor Rack 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 80
+Unlocked by: Light Armor Rack 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_light_3_t.png
+Level   Gold cost    Build time   Appeal	sell_price.AL 	sell_price_mod.AL 	sell_price.HL 	sell_price_mod.HL 	sell_price.GL 	sell_price_mod.GL 	sell_price.BL 	sell_price_mod.BL 	
+1       250000       172800       70    	140.0         	0.01              	140.0         	0.01              	140.0         	0.01              	140.0         	0.01              	
+2       500000       259200       75    	140.0         	0.02              	140.0         	0.02              	140.0         	0.02              	140.0         	0.02              	
+3       1000000      345600       80    	140.0         	0.03              	140.0         	0.03              	140.0         	0.03              	140.0         	0.03              	
+4       2000000      432000       85    	140.0         	0.04              	140.0         	0.04              	140.0         	0.04              	140.0         	0.04              	
+5       3000000      864000       100   	140.0         	0.05              	140.0         	0.05              	140.0         	0.05              	140.0         	0.05              	
+(id:111)
+
+test
+Ranged Weapons Rack, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_shooter_1_t.png
+Level   Gold cost    Build time   Appeal	sell_price.WB 	sell_price.WG 	sell_price.WK 	
+1       100          60           10    	3.0           	3.0           	3.0           	
+2       250          600          15    	6.0           	6.0           	6.0           	
+3       750          1800         20    	9.0           	9.0           	9.0           	
+4       1500         3600         25    	12.0          	12.0          	12.0          	
+5       3000         7200         30    	15.0          	15.0          	15.0          	
+(id:112)
+
+test
+Ranged Weapons Rack 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Ranged Weapons Rack
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_shooter_2_t.png
+Level   Gold cost    Build time   Appeal	sell_price.WB 	sell_price.WG 	sell_price.WK 	
+1       10000        86400        35    	40.0          	40.0          	40.0          	
+2       25000        129600       40    	65.0          	65.0          	65.0          	
+3       50000        172800       45    	90.0          	90.0          	90.0          	
+4       100000       259200       50    	115.0         	115.0         	115.0         	
+5       150000       345600       60    	140.0         	140.0         	140.0         	
+(id:113)
+
+test
+Ranged Weapons Rack 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 80
+Unlocked by: Ranged Weapons Rack 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_shooter_4_t.png
+Level   Gold cost    Build time   Appeal	sell_price.WB 	sell_price_mod.WB 	sell_price.WG 	sell_price_mod.WG 	sell_price.WK 	sell_price_mod.WK 	
+1       250000       172800       70    	140.0         	0.01              	140.0         	0.01              	140.0         	0.01              	
+2       500000       259200       75    	140.0         	0.02              	140.0         	0.02              	140.0         	0.02              	
+3       1000000      345600       80    	140.0         	0.03              	140.0         	0.03              	140.0         	0.03              	
+4       2000000      432000       85    	140.0         	0.04              	140.0         	0.04              	140.0         	0.04              	
+5       3000000      864000       100   	140.0         	0.05              	140.0         	0.05              	140.0         	0.05              	
+(id:114)
+
+test
+Jewels Rack, tier 1
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 2
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_jewels_1_t.png
+Level   Gold cost    Build time   Appeal	sell_price.XP 	sell_price.XR 	
+1       100          60           10    	3.0           	3.0           	
+2       250          600          15    	6.0           	6.0           	
+3       750          1800         20    	9.0           	9.0           	
+4       1500         3600         25    	12.0          	12.0          	
+5       3000         7200         30    	15.0          	15.0          	
+(id:115)
+
+test
+Jewels Rack 2, tier 2
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: Jewels Rack
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_jewels_2_t.png
+Level   Gold cost    Build time   Appeal	sell_price.XP 	sell_price.XR 	
+1       10000        86400        35    	40.0          	40.0          	
+2       25000        129600       40    	65.0          	65.0          	
+3       50000        172800       45    	90.0          	90.0          	
+4       100000       259200       50    	115.0         	115.0         	
+5       150000       345600       60    	140.0         	140.0         	
+(id:116)
+
+test
+Jewels Rack 3, tier 3
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 80
+Unlocked by: Jewels Rack 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/rack_jewels_3_t.png
+Level   Gold cost    Build time   Appeal	sell_price.XP 	sell_price_mod.XP 	sell_price.XR 	sell_price_mod.XR 	
+1       250000       172800       70    	140.0         	0.01              	140.0         	0.01              	
+2       500000       259200       75    	140.0         	0.02              	140.0         	0.02              	
+3       1000000      345600       80    	140.0         	0.03              	140.0         	0.03              	
+4       2000000      432000       85    	140.0         	0.04              	140.0         	0.04              	
+5       3000000      864000       100   	140.0         	0.05              	140.0         	0.05              	
+(id:117)
+
+test
+, tier 0
+Unlocked at level 1001
+Max buyable with gold: 0
+Hammer cost per level: 0
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/floor_1_t.png
+Level   Gold cost    Build time   
+(id:118)
+
+test
+, tier 0
+Unlocked at level 1001
+Max buyable with gold: 0
+Hammer cost per level: 0
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/floor_horiz_expansion_1_t.png
+Level   Gold cost    Build time   
+(id:119)
+
+test
+, tier 0
+Unlocked at level 1001
+Max buyable with gold: 0
+Hammer cost per level: 0
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/floor_tile_1_t.png
+Level   Gold cost    Build time   
+(id:120)
+
+test
+, tier 0
+Unlocked at level 1001
+Max buyable with gold: 0
+Hammer cost per level: 0
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/floor_vert_expansion_1_t.png
+Level   Gold cost    Build time   
+(id:121)
+
+test
+, tier 0
+Unlocked at level 1001
+Max buyable with gold: 0
+Hammer cost per level: 0
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/wall_1_t.png
+Level   Gold cost    Build time   
+(id:122)
+
+test
+, tier 0
+Unlocked at level 1001
+Max buyable with gold: 0
+Hammer cost per level: 0
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/wallpaper_1_t.png
+Level   Gold cost    Build time   
+(id:123)
+
+test
+, tier 0
+Unlocked at level 1001
+Max buyable with gold: 0
+Hammer cost per level: 0
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/cadre_porte1_t.png
+Level   Gold cost    Build time   
+(id:124)
+
+test
+, tier 0
+Unlocked at level 1001
+Max buyable with gold: 0
+Hammer cost per level: 0
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/cadre_porte2_t.png
+Level   Gold cost    Build time   
+(id:125)
+
+test
+Warrior Banner 1, tier 1
+Unlocked at level 18
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/banner_2_t.png
+Level   Gold cost    Build time   Appeal	quest_xp.fighters 	loot_bonus.fighters 	
+1       35000        86400        10    	2.0               	0.01                	
+2       50000        129600       15    	4.0               	0.02                	
+3       75000        172800       20    	6.0               	0.03                	
+4       125000       259200       25    	8.0               	0.04                	
+5       200000       345600       30    	10.0              	0.05                	
+(id:126)
+
+test
+Warrior Banner 2, tier 2
+Unlocked at level 18
+Max buyable with gold: 3
+Hammer cost per level: 55
+Unlocked by: Warrior Banner 1
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/banner_7_t.png
+Level   Gold cost    Build time   Appeal	quest_xp.fighters 	loot_bonus.fighters 	
+1       250000       129600       35    	15.0              	0.06                	
+2       350000       172800       40    	20.0              	0.07                	
+3       500000       259200       45    	25.0              	0.08                	
+4       850000       345600       50    	30.0              	0.09                	
+5       1000000      432000       60    	35.0              	0.1                 	
+(id:127)
+
+test
+Warrior Banner 3, tier 3
+Unlocked at level 18
+Max buyable with gold: 3
+Hammer cost per level: 110
+Unlocked by: Warrior Banner 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/banner_9_t.png
+Level   Gold cost    Build time   Appeal	quest_xp.fighters 	loot_bonus.fighters 	
+1       1250000      172800       70    	50.0              	0.11                	
+2       1500000      259200       75    	60.0              	0.12                	
+3       2000000      345600       80    	70.0              	0.13                	
+4       2500000      432000       85    	80.0              	0.14                	
+5       5000000      864000       100   	90.0              	0.15                	
+(id:128)
+
+test
+Rogue Banner 1, tier 1
+Unlocked at level 18
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/banner_4_t.png
+Level   Gold cost    Build time   Appeal	quest_xp.rogues 	loot_bonus.rogues 	
+1       35000        86400        10    	2.0             	0.01              	
+2       50000        129600       15    	4.0             	0.02              	
+3       75000        172800       20    	6.0             	0.03              	
+4       125000       259200       25    	8.0             	0.04              	
+5       200000       345600       30    	10.0            	0.05              	
+(id:129)
+
+test
+Rogue Banner 2, tier 2
+Unlocked at level 18
+Max buyable with gold: 3
+Hammer cost per level: 55
+Unlocked by: Rogue Banner 1
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/banner_3_t.png
+Level   Gold cost    Build time   Appeal	quest_xp.rogues 	loot_bonus.rogues 	
+1       250000       129600       35    	15.0            	0.06              	
+2       350000       172800       40    	20.0            	0.07              	
+3       500000       259200       45    	25.0            	0.08              	
+4       850000       345600       50    	30.0            	0.09              	
+5       1000000      432000       60    	35.0            	0.1               	
+(id:130)
+
+test
+Rogue Banner 3, tier 3
+Unlocked at level 18
+Max buyable with gold: 3
+Hammer cost per level: 110
+Unlocked by: Rogue Banner 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/banner_8_t.png
+Level   Gold cost    Build time   Appeal	quest_xp.rogues 	loot_bonus.rogues 	
+1       1250000      172800       70    	50.0            	0.11              	
+2       1500000      259200       75    	60.0            	0.12              	
+3       2000000      345600       80    	70.0            	0.13              	
+4       2500000      432000       85    	80.0            	0.14              	
+5       5000000      864000       100   	90.0            	0.15              	
+(id:131)
+
+test
+Magician Banner 1, tier 1
+Unlocked at level 18
+Max buyable with gold: 3
+Hammer cost per level: 20
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/banner_1_t.png
+Level   Gold cost    Build time   Appeal	quest_xp.spellcasters 	loot_bonus.spellcasters 	
+1       35000        86400        10    	2.0                   	0.01                    	
+2       50000        129600       15    	4.0                   	0.02                    	
+3       75000        172800       20    	6.0                   	0.03                    	
+4       125000       259200       25    	8.0                   	0.04                    	
+5       200000       345600       30    	10.0                  	0.05                    	
+(id:132)
+
+test
+Magician Banner 2, tier 2
+Unlocked at level 18
+Max buyable with gold: 3
+Hammer cost per level: 55
+Unlocked by: Magician Banner 1
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/banner_5_t.png
+Level   Gold cost    Build time   Appeal	quest_xp.spellcasters 	loot_bonus.spellcasters 	
+1       250000       129600       35    	15.0                  	0.06                    	
+2       350000       172800       40    	20.0                  	0.07                    	
+3       500000       259200       45    	25.0                  	0.08                    	
+4       850000       345600       50    	30.0                  	0.09                    	
+5       1000000      432000       60    	35.0                  	0.1                     	
+(id:133)
+
+test
+Magician Banner 3, tier 3
+Unlocked at level 18
+Max buyable with gold: 3
+Hammer cost per level: 110
+Unlocked by: Magician Banner 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/banner_6_t.png
+Level   Gold cost    Build time   Appeal	quest_xp.spellcasters 	loot_bonus.spellcasters 	
+1       1250000      172800       70    	50.0                  	0.11                    	
+2       1500000      259200       75    	60.0                  	0.12                    	
+3       2000000      345600       80    	70.0                  	0.13                    	
+4       2500000      432000       85    	80.0                  	0.14                    	
+5       5000000      864000       100   	90.0                  	0.15                    	
+(id:134)
+
+test
+Grand Banner, tier 2
+Unlocked at level 50
+Max buyable with gold: 3
+Hammer cost per level: 110
+Unlocked by: none
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/banner_10_t.png
+Level   Gold cost    Build time   Appeal	quest_xp.all 	loot_bonus.all 	
+1       1250000      172800       50    	25.0         	0.085          	
+2       1500000      259200       100   	30.0         	0.095          	
+3       2000000      345600       150   	35.0         	0.105          	
+4       2500000      432000       200   	40.0         	0.115          	
+5       5000000      864000       250   	45.0         	0.125          	
+(id:135)
+
+test
+Magical Wood Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Wood Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_wood_t.png
+Level   Gold cost    Build time   resource.max_count.raw_wood 	
+1       -1           172800       45.0                        	
+2       -1           259200       50.0                        	
+3       -1           345600       55.0                        	
+4       -1           432000       60.0                        	
+5       -1           864000       70.0                        	
+(id:136)
+
+test
+Magical Herb Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Herb Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_herbs_t.png
+Level   Gold cost    Build time   resource.max_count.raw_herbs 	
+1       -1           172800       45.0                         	
+2       -1           259200       50.0                         	
+3       -1           345600       55.0                         	
+4       -1           432000       60.0                         	
+5       -1           864000       70.0                         	
+(id:137)
+
+test
+Magical Iron Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Iron Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_iron_t.png
+Level   Gold cost    Build time   resource.max_count.raw_iron 	
+1       -1           172800       45.0                        	
+2       -1           259200       50.0                        	
+3       -1           345600       55.0                        	
+4       -1           432000       60.0                        	
+5       -1           864000       70.0                        	
+(id:138)
+
+test
+Magical Leather Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Leather Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_leather_t.png
+Level   Gold cost    Build time   resource.max_count.raw_leather 	
+1       -1           172800       45.0                           	
+2       -1           259200       50.0                           	
+3       -1           345600       55.0                           	
+4       -1           432000       60.0                           	
+5       -1           864000       70.0                           	
+(id:139)
+
+test
+Magical Fabric Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Fabric Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_fabric_t.png
+Level   Gold cost    Build time   resource.max_count.raw_fabric 	
+1       -1           172800       45.0                          	
+2       -1           259200       50.0                          	
+3       -1           345600       55.0                          	
+4       -1           432000       60.0                          	
+5       -1           864000       70.0                          	
+(id:140)
+
+test
+Magical Powder Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Powder Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_powder_t.png
+Level   Gold cost    Build time   resource.max_count.raw_powder 	
+1       -1           172800       27.0                          	
+2       -1           259200       31.0                          	
+3       -1           345600       35.0                          	
+4       -1           432000       39.0                          	
+5       -1           864000       45.0                          	
+(id:141)
+
+test
+Magical Dye Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Dye Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_dye_t.png
+Level   Gold cost    Build time   resource.max_count.raw_dyes 	
+1       -1           172800       27.0                        	
+2       -1           259200       31.0                        	
+3       -1           345600       35.0                        	
+4       -1           432000       39.0                        	
+5       -1           864000       45.0                        	
+(id:142)
+
+test
+Magical Elfwood Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Elfwood Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_elfwood_t.png
+Level   Gold cost    Build time   resource.max_count.raw_elfwood 	
+1       -1           172800       27.0                           	
+2       -1           259200       31.0                           	
+3       -1           345600       35.0                           	
+4       -1           432000       39.0                           	
+5       -1           864000       45.0                           	
+(id:143)
+
+test
+Magical Glass Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Glass Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_glass_t.png
+Level   Gold cost    Build time   resource.max_count.raw_glass 	
+1       -1           172800       27.0                         	
+2       -1           259200       31.0                         	
+3       -1           345600       35.0                         	
+4       -1           432000       39.0                         	
+5       -1           864000       45.0                         	
+(id:144)
+
+test
+Magical Oil Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Oil Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_oil_t.png
+Level   Gold cost    Build time   resource.max_count.raw_oil 	
+1       -1           172800       27.0                       	
+2       -1           259200       31.0                       	
+3       -1           345600       35.0                       	
+4       -1           432000       39.0                       	
+5       -1           864000       45.0                       	
+(id:145)
+
+test
+Magical Ironwood Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Ironwood Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_ironwood_t.png
+Level   Gold cost    Build time   resource.max_count.raw_ironwood 	
+1       -1           172800       27.0                            	
+2       -1           259200       31.0                            	
+3       -1           345600       35.0                            	
+4       -1           432000       39.0                            	
+5       -1           864000       45.0                            	
+(id:146)
+
+test
+Magical Steel Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Steel Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_steel_t.png
+Level   Gold cost    Build time   resource.max_count.raw_steel 	
+1       -1           172800       27.0                         	
+2       -1           259200       31.0                         	
+3       -1           345600       35.0                         	
+4       -1           432000       39.0                         	
+5       -1           864000       45.0                         	
+(id:147)
+
+test
+Magical Gems Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Gems Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_gem_t.png
+Level   Gold cost    Build time   resource.max_count.raw_gems 	
+1       -1           345600       17.0                        	
+2       -1           432000       20.0                        	
+3       -1           864000       23.0                        	
+4       -1           1080000      26.0                        	
+5       -1           1296000      30.0                        	
+(id:148)
+
+test
+Magical Crystal Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Crystal Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_crystal_t.png
+Level   Gold cost    Build time   resource.max_count.raw_crystal 	
+1       -1           345600       17.0                           	
+2       -1           432000       20.0                           	
+3       -1           864000       23.0                           	
+4       -1           1080000      26.0                           	
+5       -1           1296000      30.0                           	
+(id:149)
+
+test
+Magical Mithril Bin, tier 4
+Unlocked at level 1
+Max buyable with gold: 3
+Hammer cost per level: 40
+Unlocked by: Mithril Bin 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_mithril_t.png
+Level   Gold cost    Build time   resource.max_count.raw_mithril 	
+1       -1           345600       17.0                           	
+2       -1           432000       20.0                           	
+3       -1           864000       23.0                           	
+4       -1           1080000      26.0                           	
+5       -1           1296000      30.0                           	
+(id:150)
+
+test
+Rug, tier 2
+Unlocked at level 13
+Max buyable with gold: 3
+Hammer cost per level: 10
+Unlocked by: Carpet
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/carpet_2_t.png
+Level   Gold cost    Build time   Appeal	
+1       15000        86400        40    	
+2       20000        129600       50    	
+3       25000        172800       60    	
+4       30000        259200       70    	
+5       35000        345600       80    	
+(id:151)
+
+test
+Soft Rug, tier 3
+Unlocked at level 13
+Max buyable with gold: 3
+Hammer cost per level: 25
+Unlocked by: Rug
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/carpet_3_t.png
+Level   Gold cost    Build time   Appeal	
+1       50000        86400        85    	
+2       75000        129600       90    	
+3       100000       172800       95    	
+4       125000       259200       100   	
+5       200000       345600       105   	
+(id:152)
+
+test
+Round Carpet, tier 4
+Unlocked at level 13
+Max buyable with gold: 3
+Hammer cost per level: 55
+Unlocked by: Soft Rug
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/carpet_4_t.png
+Level   Gold cost    Build time   Appeal	
+1       250000       129600       110   	
+2       350000       172800       115   	
+3       500000       259200       120   	
+4       850000       345600       125   	
+5       1000000      432000       130   	
+(id:153)
+
+test
+Luxurious Rug, tier 5
+Unlocked at level 13
+Max buyable with gold: 3
+Hammer cost per level: 110
+Unlocked by: Round Carpet
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/carpet_5_t.png
+Level   Gold cost    Build time   Appeal	
+1       1250000      172800       150   	
+2       1500000      259200       175   	
+3       2000000      345600       200   	
+4       2500000      432000       225   	
+5       5000000      864000       250   	
+(id:154)
+
+test
+Magic Statue 2, tier 2
+Unlocked at level 20
+Max buyable with gold: 1
+Hammer cost per level: 75
+Unlocked by: Magic Statue
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/statue_2_t.png
+Level   Gold cost    Build time   Appeal	customers.extra_per_day 	
+1       500000       864000       200   	1.0                     	
+2       750000       864000       225   	1.0                     	
+3       1000000      864000       250   	1.0                     	
+(id:155)
+
+test
+Magic Statue 3, tier 3
+Unlocked at level 20
+Max buyable with gold: 1
+Hammer cost per level: 100
+Unlocked by: Magic Statue 2
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/statue_3_t.png
+Level   Gold cost    Build time   Appeal	customers.extra_per_day 	
+1       1500000      864000       300   	2.0                     	
+2       2000000      864000       325   	2.0                     	
+3       2500000      864000       350   	2.0                     	
+(id:156)
+
+test
+Magic Statue 4, tier 4
+Unlocked at level 20
+Max buyable with gold: 1
+Hammer cost per level: 125
+Unlocked by: Magic Statue 3
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/statue_4_t.png
+Level   Gold cost    Build time   Appeal	customers.extra_per_day 	
+1       -1           864000       400   	3.0                     	
+2       -1           864000       450   	3.0                     	
+3       -1           864000       500   	3.0                     	
+(id:157)
+
+test
+Magic Statue 5, tier 5
+Unlocked at level 20
+Max buyable with gold: 1
+Hammer cost per level: 250
+Unlocked by: Magic Statue 4
+Image link: cdn.edgebee.com/static/shopr2/shop/icons/statue_5_t.png
+Level   Gold cost    Build time   Appeal	customers.extra_per_day 	
+1       -1           864000       750   	4.0                     	
+2       -1           864000       1000  	4.0                     	
+3       -1           864000       1500  	4.0                     	
+(id:158)
+

@@ -4,7 +4,6 @@ import snp2lib
 import math
 from os import sep
 import codecs
-from pprint import pprint
 
 
 '''
@@ -67,11 +66,11 @@ def changeAthing(theDict):
 oldFileName = 'sd17238.json'
 newFileName = 'sd17874.json'
 
-with open(newFileName, 'r') as sdFile:
+with codecs.open(newFileName, 'r', 'utf-8') as sdFile:
     Dump = json.load(sdFile)
 newSD = Dump
 
-with open(oldFileName, 'r') as sdFile:
+with codecs.open(oldFileName, 'r', 'utf-8') as sdFile:
     Dump = json.load(sdFile)
 oldSD = Dump
 
@@ -118,7 +117,7 @@ for x in tracker:
     print x
 
 goldTotal = 0
-chkSection = 'recipe_unlocks'
+chkSection = 'modules'
 testGetInfo = 1
 uqIDs = []
 colorAvg = []
@@ -137,9 +136,12 @@ for x in newSD['result'][chkSection]:
         a = snp2lib.getInfo([chkSection, 'check', x], newSD)
         print a[0]
         for k in a[1]:
-            #print k + ':', a[1][k]
-            print '{}: {}'.format(k, a[1][k])
-        if testPrint and a[1]['craftID'] != 0:
+            #derp = '{!r}'.format(unicode(a[1][k]))
+            #print derp.encode('utf8')
+            #print '{}: {}'.format(k, derp)
+            print "%s: %s" % (k, a[1][k])
+            #print k + ': ' + unicode(a[1][k])
+        if testPrint:
             snp2lib.prInfo([chkSection, 'test', a[1]], theFile)
         print ''
 if testPrint: theFile.close()
@@ -164,3 +166,11 @@ if assetSearch:
 #print 'Cost to unlock this level: {} {}'.format(*derp)
 #theStr = 'derp {} {}'
 #print theStr.format('herp', 'gerp', 'derp')
+#secondLen = 22
+#prStr = "{:10}{:" + str(secondLen) + "}{}"
+prStr = "{0:8}{1:13}{2:11}".format('Level', 'Gold cost', 'build time')
+print prStr
+
+#spacerLine = "{:8}{:13}{:11}"
+#headerLine = ['Level', 'Gold cost', 'build time']
+#print spacerLine.format(*headerLine)

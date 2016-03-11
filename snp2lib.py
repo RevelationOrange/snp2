@@ -129,25 +129,68 @@ def prCustLevelValue(modType, cust, theFile):
     pass
 
 def prRecUnlock(modType, recUnlock, theFile):
-    #theFile.write('{}\nTo unlock {}, craft {} {}\n'.format(modType, recUnlock['itemUnlocked'],
-    #                                                        recUnlock['itemToCraft'][1], recUnlock['itemToCraft'][0]))
-    #theFile.write('{}\nTo unlock {}, craft {} '.format(modType, recUnlock['itemUnlocked'], recUnlock['itemToCraft'][1]))
-    theFile.write('{}\nTo unlock '.format(modType))
-    theFile.write(recUnlock['itemUnlocked'])
-    theFile.write(' craft {} '.format(recUnlock['itemToCraft'][1]))
-    theFile.write(recUnlock['itemToCraft'][0])
-    theFile.write('\n(id:{})\n\n'.format(recUnlock['id']))
+    theFile.write('%s\nTo unlock %s, craft %d %s\n(id:%d)\n\n' %
+    (modType, recUnlock['itemUnlocked'], recUnlock['itemToCraft'][1], recUnlock['itemToCraft'][0], recUnlock['id']) )
 
-def prAsset(modType, cust, theFile):
-    pass
+def prAsset(modType, asset, theFile):
+    theFile.write("%s\nText: %s\nLocations referencing this text in the static dump:\n" % (modType, asset['text']))
+    for place in asset['locationsUsed']:
+        theFile.write('[' + ']['.join([ str(x) for x in place]) + ']\n')
+    theFile.write("(id:%d)\n\n" % asset['id'])
 
-def prItem(modType, cust, theFile):
-    pass
+def prItem(modType, item, theFile):
+    theFile.write("%s\n%s, level %d\nCategory: %s\nPrice: %d\nCraft xp: %d\nSell xp: %d\n" %
+    (modType, item['name'], item['level'], item['type'], item['value'], item['craftXP'], item['craftXP']) )
+    theFile.write("Coupon cost to buy back: %d\nImage link: %s (id:%d)\n\n" %
+                  (item['repairCost'], item['picLink'], item['id']) )
 
-def prRecipe(modType, cust, theFile):
-    pass
+def prRecipe(modType, rec, theFile):
+    theFile.write("%s\n%s\nWorker: %s\nStation: %s\nIngredients:\n\t%s\nCraft speed: %s\nCategory: %s (id:%s)\n\n" %
+    (modType, rec['name'], rec['madeBy'], ' level '.join(str(x) for x in rec['madeOn']),
+     '\n\t'.join('x '.join([str(x[0]), x[1]]) for x in rec['ingredients']), rec['craftTime'], rec['type'], rec['id']) )
 
-def prModule(modType, cust, theFile):
+def prModule(modType, module, theFile):
+    unlck = module['unlockedBy'] if module['unlockedBy'] == 'none' else module['unlockedBy'][0]
+    theFile.write("%s\n%s, tier %d\nUnlocked at level %d\nMax buyable with gold: %d\nHammer cost per level: %d\n" %
+    (modType, module['name'], module['tier'], module['levelReq'], module['maxBuyable'], module['hammerCost']) )
+    theFile.write("Unlocked by: %s\nImage link: %s\n" % (unlck, module['picLink']) )
+    spacerLine = "{:<8}{:<13}{:<13}"
+    headers = ['Level', 'Gold cost', 'Build time']
+    appeals = False
+    if module['appeals'] is not None:
+        appeals = True
+        spacerLine += "{:<6}\t"
+        headers.append('Appeal')
+    bonuses = 0
+    for bonus in module['bonuses']:
+        bonuses += 1
+        spacerLine += "{:<" + str(len(bonus[0])+1) + "}\t"
+        headers.append(bonus[0])
+    theFile.write(spacerLine.format(*headers) + '\n')
+    if module['times'] is not None:
+        for i in xrange(len(module['times'])):
+            line = [i+1, module['goldCosts'][i], module['times'][i]]
+            if appeals: line.append(module['appeals'][i])
+            if bonuses: line += [x[1][i] for x in module['bonuses']]
+            theFile.write(spacerLine.format(*line) + '\n')
+    theFile.write('(id:{})'.format(module['id']))
+    theFile.write('\n\n')
+
+    '''
+    appeals: [150, 175, 200, 225, 250]
+    maxBuyable: 3
+    levelReq: 13
+    tier: 5
+    goldCosts: [1250000, 1500000, 2000000, 2500000, 5000000]
+    unlockedBy: [u'Round Carpet', 4]
+    picLink: cdn.edgebee.com/static/shopr2/shop/icons/carpet_5_t.png
+    name: Luxurious Rug
+    id: 154
+    times: [172800, 259200, 345600, 432000, 864000]
+    bonuses: []
+    hammerCost: 110
+    '''
+
     pass
 
 def prQuest(modType, cust, theFile):
@@ -598,7 +641,7 @@ def getInfo(change=0, newSD=0):
             # and go through each modifier and get 'add', and put it in a list
             bonusList = [x['add'] for x in newModule['resource_modifiers']]
             # and set bonuses to [what, thatList]
-            outputModule['bonuses'] = [what, bonusList]
+            outputModule['bonuses'].append([what, bonusList])
         elif len(newModule['modifiers']) > 0:
             # for 'modifiers', 'add' is the base bonus that tier provides, and each level of the module (including the
             # first) adds the value in 'add_level'
