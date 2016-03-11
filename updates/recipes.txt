@@ -1,159 +1,4 @@
-test
-Plain Sword
-Worker: Blacksmith
-Station: Iron Anvil level 1
-Ingredients:
-	2x Iron Ore
-Craft speed: Very Fast
-Category: swords (id:1)
-
-test
-Short Sword
-Worker: Blacksmith
-Station: Iron Anvil level 2
-Ingredients:
-	3x Iron Ore
-Craft speed: Very Fast
-Category: swords (id:2)
-
-test
-Rapier
-Worker: Blacksmith
-Station: Iron Anvil level 2
-Ingredients:
-	5x Iron Ore
-	1x Raw Leather
-Craft speed: Medium
-Category: swords (id:3)
-
-test
-Long Sword
-Worker: Blacksmith
-Station: Iron Anvil level 3
-Ingredients:
-	7x Iron Ore
-	2x Raw Leather
-Craft speed: Medium
-Category: swords (id:4)
-
-test
-claymore
-Worker: Blacksmith
-Station: Iron Anvil level 4
-Ingredients:
-	8x Iron Ore
-	4x Raw Leather
-Craft speed: Fast
-Category: swords (id:5)
-
-test
-Fire Sword
-Worker: Blacksmith
-Station: Iron Anvil level 4
-Ingredients:
-	2x Short Sword
-	1x Volcanic Rock
-Craft speed: Fast
-Category: swords (id:6)
-
-test
-highlander
-Worker: Blacksmith
-Station: Iron Anvil level 5
-Ingredients:
-	2x Steel Rods
-	5x Iron Ore
-	2x Raw Leather
-Craft speed: Medium
-Category: swords (id:7)
-
-test
-Soldier's Sword
-Worker: Blacksmith
-Station: Steel Anvil level 2
-Ingredients:
-	3x Steel Rods
-	5x Iron Ore
-Craft speed: Very Fast
-Category: swords (id:8)
-
-test
-templar blade
-Worker: Worker
-Station: Spacious Table level 1
-Ingredients:
-	10x Steel Rods
-	8x Iron Ore
-	3x highlander
-Craft speed: Very Fast
-Category: swords (id:9)
-
-test
-wakizashi
-Worker: Blacksmith
-Station: Steel Anvil level 2
-Ingredients:
-	4x Steel Rods
-Craft speed: Medium
-Category: swords (id:10)
-
-test
-zhanmadao
-Worker: Blacksmith
-Station: Steel Anvil level 3
-Ingredients:
-	4x Steel Rods
-	6x Iron Ore
-	3x Raw Leather
-Craft speed: Medium
-Category: swords (id:11)
-
-test
-white great sword
-Worker: Blacksmith
-Station: Steel Anvil level 5
-Ingredients:
-	2x Mithril Lumps
-	3x Steel Rods
-	8x Iron Ore
-Craft speed: Fast
-Category: swords (id:12)
-
-test
-ice brand
-Worker: Enchanter
-Station: Luxurious Table level 1
-Ingredients:
-	2x frost protector
-	5x Steel Rods
-	1x Eternal Ice
-Craft speed: Medium
-Category: swords (id:13)
-
-test
-murasame
-Worker: Blacksmith
-Station: Mithril Anvil level 2
-Ingredients:
-	2x Mithril Lumps
-	5x Steel Rods
-	5x Oil
-	7x Raw Leather
-Craft speed: Long
-Category: swords (id:14)
-
-test
-demonsbane
-Worker: Blacksmith
-Station: Mithril Anvil level 3
-Ingredients:
-	6x Steel Rods
-	6x Oil
-	2x Mithril Lumps
-Craft speed: Very Long
-Category: swords (id:15)
-
-test
+change
 lonewolf
 Worker: Blacksmith
 Station: Mithril Anvil level 3
@@ -166,150 +11,169 @@ Ingredients:
 Craft speed: Long
 Category: swords (id:16)
 
-test
-the one sword
+change
+lonewolf
 Worker: Blacksmith
-Station: Mithril Anvil level 4
+Station: Mithril Anvil level 3
 Ingredients:
-	2x white great sword
-	6x Mithril Lumps
-	4x Crystals
+	1x Mithril Lumps
 	5x Steel Rods
-	4x Oil
+	1x Roaring Powder
+	5x Long Sword
 Craft speed: Long
-Category: swords (id:17)
+Category: swords (id:16)
 
-test
-excalibur
-Worker: Blacksmith
-Station: Mithril Anvil level 5
-Ingredients:
-	4x Mithril Lumps
-	10x Long Sword
-	1x Divine Leaf
-Craft speed: Very Long
-Category: swords (id:18)
-
-test
-hell sword
+add
+enraging blade
 Worker: Enchanter
-Station: Luxurious Table level 5
+Station: Mithril Anvil level 6
 Ingredients:
-	1x excalibur
-	1x sacrificial blade
-	1x Shadow Essence
-	8x Steel Rods
-	5x Mithril Lumps
+	1x blackblade
+	1x megalixir
+	1x Dark Blood
+	5x Crystals
 Craft speed: Very Long
-Category: swords (id:19)
+Category: daggers (id:551)
 
-test
-knife
-Worker: Worker
-Station: Work Table level 1
-Ingredients:
-	1x Iron Ore
-Craft speed: Very Fast
-Category: daggers (id:20)
-
-test
-dagger
+add
+staraxe
 Worker: Blacksmith
-Station: Iron Anvil level 1
+Station: Mithril Anvil level 6
 Ingredients:
-	2x Iron Ore
-Craft speed: Very Fast
-Category: daggers (id:21)
+	1x planet cutter
+	1x the one ring
+	1x Rising Sun
+	10x Mithril Lumps
+	10x Crystals
+Craft speed: Very Long
+Category: axes (id:552)
 
-test
-main-gauche
-Worker: Blacksmith
-Station: Iron Anvil level 2
+add
+walking forteress
+Worker: Armorer
+Station: Mithril Anvil level 6
 Ingredients:
-	3x Iron Ore
-Craft speed: Very Fast
-Category: daggers (id:22)
+	1x dragon plate
+	1x ice gauntlets
+	1x Dark Blood
+	10x Mithril Lumps
+Craft speed: Very Long
+Category: heavy armor (id:553)
 
-test
-bandit's dagger
-Worker: Blacksmith
-Station: Iron Anvil level 2
+add
+shadow armor
+Worker: Leather-worker
+Station: Fine Cutting Table level 6
 Ingredients:
-	4x Iron Ore
-	1x Wood
-Craft speed: Medium
-Category: daggers (id:23)
+	1x warrior's omen
+	1x soft griffon gloves
+	1x Dark Blood
+	10x Crystals
+Craft speed: Very Long
+Category: armor (id:554)
 
-test
-cutter
-Worker: Blacksmith
-Station: Iron Anvil level 3
+add
+plasmic robe
+Worker: Tailor
+Station: Fine Cutting Table level 6
 Ingredients:
-	5x Iron Ore
-	2x Raw Leather
-Craft speed: Fast
-Category: daggers (id:24)
+	1x grandmaster's robe
+	1x guardian tall shield
+	1x Dark Blood
+	10x Gems
+Craft speed: Very Long
+Category: clothes (id:555)
 
-test
-poison blade
-Worker: Blacksmith
-Station: Iron Anvil level 4
+add
+codex de genèse
+Worker: Sorceress
+Station: Luxurious Table level 6
 Ingredients:
-	3x Iron Ore
-	1x Acid
-Craft speed: Long
-Category: daggers (id:25)
+	1x apocalypscion
+	1x seed of skill
+	1x Dark Blood
+	10x Gems
+Craft speed: Very Long
+Category: scrolls (id:556)
 
-test
-steel blade
-Worker: Blacksmith
-Station: Iron Anvil level 4
+add
+angel bow
+Worker: Bowyer
+Station: Quality Sawbench level 6
 Ingredients:
-	3x Steel Rods
-Craft speed: Fast
-Category: daggers (id:26)
+	1x the hurricane
+	1x gungnir
+	1x Dark Blood
+	10x Crystals
+Craft speed: Very Long
+Category: bows (id:557)
 
-test
-purse-opener
-Worker: Blacksmith
-Station: Iron Anvil level 5
+add
+death star
+Worker: Tinkerer
+Station: Luxurious Table level 6
 Ingredients:
-	1x steel blade
-	1x bandit's dagger
-Craft speed: Medium
-Category: daggers (id:27)
+	2x mithril shuriken
+	2x ice gauntlets
+	1x Dark Blood
+	10x Mithril Lumps
+Craft speed: Very Long
+Category: thrown (id:558)
 
-test
-fire dagger
-Worker: Blacksmith
-Station: Iron Anvil level 5
+add
+crystal drum
+Worker: Luthier
+Station: Quality Sawbench level 6
 Ingredients:
-	5x dagger
-	2x Volcanic Rock
-	8x Iron Ore
-	4x Steel Rods
-	4x Raw Leather
-Craft speed: Fast
-Category: daggers (id:28)
+	1x abyssal tranquility
+	2x war drums
+	1x Dark Blood
+	10x Crystals
+Craft speed: Very Long
+Category: music (id:559)
 
-test
-mailbreaker
-Worker: Blacksmith
-Station: Steel Anvil level 1
+add
+divine judgement
+Worker: Carpenter
+Station: Quality Sawbench level 6
 Ingredients:
-	3x Steel Rods
-	8x Iron Ore
-	6x Raw Leather
-Craft speed: Long
-Category: daggers (id:29)
+	1x dragon skull
+	1x transmundane full helmet
+	1x Dark Blood
+	10x Mithril Lumps
+Craft speed: Very Long
+Category: maces (id:560)
 
-test
-kris
-Worker: Blacksmith
-Station: Steel Anvil level 2
+add
+staff of creation
+Worker: Druid
+Station: Mystical Cauldron level 6
 Ingredients:
-	4x Steel Rods
-	1x Crystals
-Craft speed: Medium
-Category: daggers (id:30)
+	1x staff of power
+	2x mindful staff
+	1x Dark Blood
+	10x Crystals
+Craft speed: Very Long
+Category: staves (id:561)
+
+add
+rage rune
+Worker: Jeweler
+Station: Luxurious Table level 6
+Ingredients:
+	1x death token
+	1x unholy talisman
+	1x Dark Blood
+	10x Gems
+Craft speed: Very Long
+Category: amulets (id:562)
+
+add
+Dark Blood
+Worker: none
+Station: n level o level n level e
+Ingredients:
+	none
+Craft speed: none
+Category: rare resources (id:563)
 

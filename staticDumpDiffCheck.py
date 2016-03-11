@@ -183,7 +183,7 @@ outputFileName = 'updates'+ sep +'changes.txt'
 
 # this determines whether or not each thing in diffs (defined later) will be printed
 # if you want to see a bunch of stuff in your terminal, set it to True
-showDiffs = True
+showDiffs = 1
 
 # open each file and store in oldSD and newSD
 # res is used to bypass the 'result' key, which isn't particularly interesting
@@ -265,46 +265,28 @@ for key in cleanDiffDict:
 if showDiffs:
     checkList = snp2lib.getInfo()
     for key in cleanDiffDict:
-        with codecs.open('updates'+sep+key+'.txt', 'w', 'utf-8') as updateFile:
-            if key in checkList:
+        if key in checkList:
+            with codecs.open('updates'+sep+key+'.txt', 'w', 'utf-8') as updateFile:
                 print key
-                for thing in cleanDiffDict[key]['stuff']:
-                    for change in thing[1:]:
-                        niceThing = snp2lib.getInfo([key]+[thing[0], change], newSD)
-                        #print niceThing[0]
-                        snp2lib.prInfo([key]+niceThing, updateFile)
-                        #for k in niceThing[1]:
+                if key == 'fame_levels':
+                    for change in ['add', 'rem']:
+                        niceThing = snp2lib.getInfo([key, change, [ x[1] for x in cleanDiffDict['fame_levels']['stuff']
+                                                                    if x[0] == change]], newSD)
+                        if len(niceThing[1]) > 0:
+                            snp2lib.prInfo([key]+niceThing, updateFile)
+                else:
+                    for thing in cleanDiffDict[key]['stuff']:
+                        for change in thing[1:]:
+                            niceThing = snp2lib.getInfo([key, thing[0], change], newSD)
+                            #print niceThing[0]
+                            snp2lib.prInfo([key]+niceThing, updateFile)
+                            #for k in niceThing[1]:
                             #print '{}: {}'.format(k, niceThing[1][k])
-                        #   print k + ':', niceThing[1][k]
-                        #print ''
-                #print '\n'
-            else:
-                print key + ':', cleanDiffDict[key], '\n'
-
+                            #   print k + ':', niceThing[1][k]
+                            #print ''
+                            #print '\n'
+        else:
+            print key + ':', cleanDiffDict[key], '\n'
 #print list(set([x[0] for x in diffs]))
 
-'''
-add
-name: enraging blade
-madeOn: [u'Mithril Anvil', 6]
-ingredients: [[1, u'blackblade'], [1, u'megalixir'], [1, u'Dark Blood'], [5, u'Crystals']]
-craftTime: Very Long
-madeBy: Enchanter
-type: daggers
-id: 551
-
-add
-repairCost: 5
-name: enraging blade
-level: 21
-craftXP: 336002
-sellXP: 1344008
-type: daggers
-id: 551
-value: 2400000
-picLink: cdn.edgebee.com/static/shopr2/items/WD_enragingblade.png
-
-add
-itemUnlocked: enraging blade
-itemToCraft: [u'blackblade', 100]
-'''
+print cleanDiffDict['assets']

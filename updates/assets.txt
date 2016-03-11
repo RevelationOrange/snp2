@@ -1,0 +1,1236 @@
+add
+Text: Summer Sale! Everything is 30% off for the whole week! Have a great summer and a happy 4th of July!
+Locations referencing this text in the static dump:
+[result][assets][6][id]
+(id:27661)
+
+add
+Text: Pier
+Locations referencing this text in the static dump:
+[result][improvements][256][name_id]
+[result][assets][19][id]
+(id:27644)
+
+add
+Text: Set up a camp for Berserkers.
+Locations referencing this text in the static dump:
+[result][improvements][335][description_id]
+[result][assets][22][id]
+(id:27703)
+
+add
+Text: Trade channels to the far east.
+Locations referencing this text in the static dump:
+[result][improvements][336][description_id]
+[result][assets][29][id]
+(id:27705)
+
+add
+Text: Tiltyard
+Locations referencing this text in the static dump:
+[result][improvements][267][name_id]
+[result][assets][78][id]
+(id:27655)
+
+add
+Text: Customers come back faster from dungeon.
+Locations referencing this text in the static dump:
+[result][assets][118][id]
+[result][war_bonus][3][temp_bonus_description_id]
+(id:27640)
+
+add
+Text: each Sunday
+Locations referencing this text in the static dump:
+[result][assets][133][id]
+(id:27682)
+
+add
+Text: Klash breaking
+Locations referencing this text in the static dump:
+[result][assets][187][id]
+[result][war_bonus][2][fixed_bonus_name_id]
+(id:27636)
+
+change
+Text: Sell
+Locations referencing this text in the static dump:
+[result][assets][293][id]
+(id:24541)
+
+change
+Text: Sell an Item
+Locations referencing this text in the static dump:
+[result][assets][293][id]
+(id:24541)
+
+add
+Text: Spellcasters Guild
+Locations referencing this text in the static dump:
+[result][improvements][354][name_id]
+[result][improvements][355][name_id]
+[result][improvements][356][name_id]
+[result][improvements][357][name_id]
+[result][improvements][358][name_id]
+[result][improvements][359][name_id]
+[result][improvements][360][name_id]
+[result][improvements][361][name_id]
+[result][assets][299][id]
+(id:27730)
+
+add
+Text: Bank
+Locations referencing this text in the static dump:
+[result][improvements][272][name_id]
+[result][improvements][273][name_id]
+[result][improvements][274][name_id]
+[result][improvements][275][name_id]
+[result][improvements][276][name_id]
+[result][improvements][277][name_id]
+[result][improvements][278][name_id]
+[result][improvements][279][name_id]
+[result][improvements][280][name_id]
+[result][assets][320][id]
+[result][items][324][uid]
+(id:27686)
+
+add
+Text: Temporary bonuses will only be applied once you start a new day.
+Locations referencing this text in the static dump:
+[result][assets][354][id]
+(id:27663)
+
+add
+Text: Item duplication
+Locations referencing this text in the static dump:
+[result][assets][395][id]
+[result][war_bonus][1][temp_bonus_name_id]
+(id:27629)
+
+add
+Text: Recharge rate:
+Locations referencing this text in the static dump:
+[result][assets][408][id]
+[result][assets][2304][uid]
+[result][war_bonus][1][fixed_bonus_value_label_id]
+(id:27633)
+
+change
+Text: A mysterious floating castle was seen hovering over the region.
+Locations referencing this text in the static dump:
+[result][assets][450][id]
+[result][hunts][24][description_id]
+(id:27222)
+
+change
+Text: A mysterious floating castle was seen hovering over the region.
+Locations referencing this text in the static dump:
+[result][assets][450][id]
+[result][hunts][24][description_id]
+(id:27222)
+
+add
+Text: You only have {total}, you can't sell {qty}.
+Locations referencing this text in the static dump:
+[result][assets][463][id]
+(id:27585)
+
+add
+Text: Kerbos
+Locations referencing this text in the static dump:
+[result][customers][144][name_id]
+[result][assets][467][id]
+(id:27709)
+
+add
+Text: Monastery
+Locations referencing this text in the static dump:
+[result][improvements][263][name_id]
+[result][assets][503][id]
+(id:27651)
+
+add
+Text: Pier
+Locations referencing this text in the static dump:
+[result][improvements][259][name_id]
+[result][assets][527][id]
+(id:27647)
+
+add
+Text: Because you're under 18 age, to prevent addiction, you will only be allowed to play 3 hours at a time.
+Locations referencing this text in the static dump:
+[result][assets][552][id]
+(id:27674)
+
+add
+Text: All resources
+Locations referencing this text in the static dump:
+[result][assets][563][id]
+[result][war_bonus][1][fixed_bonus_name_id]
+(id:27631)
+
+add
+Text: 1st of each month
+Locations referencing this text in the static dump:
+[result][assets][566][id]
+(id:27680)
+
+add
+Text: rage rune
+Locations referencing this text in the static dump:
+[result][assets][578][id]
+[result][items][561][name_id]
+(id:27726)
+
+add
+Text: Klash Rogues Bonus
+Locations referencing this text in the static dump:
+[result][assets][589][id]
+(id:27677)
+
+add
+Text: Not in this channel
+Locations referencing this text in the static dump:
+[result][recipe_unlocks][322][uid]
+[result][assets][596][id]
+(id:27550)
+
+add
+Text: Item
+Locations referencing this text in the static dump:
+[result][assets][624][id]
+(id:27584)
+
+add
+Text: Bonus
+Locations referencing this text in the static dump:
+[result][assets][635][id]
+(id:27615)
+
+add
+Text: Pier
+Locations referencing this text in the static dump:
+[result][improvements][258][name_id]
+[result][assets][657][id]
+(id:27646)
+
+add
+Text: Max Cost
+Locations referencing this text in the static dump:
+[result][assets][701][id]
+(id:27592)
+
+add
+Text: PvP Bonus
+Locations referencing this text in the static dump:
+[result][assets][704][id]
+(id:27616)
+
+add
+Text: You have played for more than one hour, please think of taking a rest.
+Locations referencing this text in the static dump:
+[result][assets][705][id]
+(id:27671)
+
+add
+Text: Dark Blood
+Locations referencing this text in the static dump:
+[result][assets][714][id]
+[result][items][562][name_id]
+(id:27727)
+
+add
+Text: All
+Locations referencing this text in the static dump:
+[result][assets][746][id]
+(id:27594)
+
+add
+Text: Waiting for the transaction to complete.
+Locations referencing this text in the static dump:
+[result][assets][891][id]
+[result][assets][1597][hid]
+[result][assets][1597][uid]
+(id:27539)
+
+add
+Text: You've played your daily 5 hours of play time. Come back tomorrow!
+Locations referencing this text in the static dump:
+[result][assets][928][id]
+(id:27670)
+
+add
+Text: Increase the chance of duplicating an item when crafting.
+Locations referencing this text in the static dump:
+[result][assets][962][id]
+[result][war_bonus][1][temp_bonus_description_id]
+(id:27630)
+
+add
+Text: Purchased {gotQty} item(s)
+Locations referencing this text in the static dump:
+[result][assets][998][id]
+(id:27600)
+
+add
+Text: divine judgement
+Locations referencing this text in the static dump:
+[result][recipe_unlocks][320][uid]
+[result][assets][1006][id]
+[result][items][559][name_id]
+(id:27724)
+
+add
+Text: Berserker Camp
+Locations referencing this text in the static dump:
+[result][improvements][335][name_id]
+[result][assets][1020][id]
+(id:27702)
+
+add
+Text: Trader's Guild
+Locations referencing this text in the static dump:
+[result][improvements][321][name_id]
+[result][improvements][322][name_id]
+[result][improvements][323][name_id]
+[result][improvements][324][name_id]
+[result][assets][1025][id]
+(id:27691)
+
+change
+Text: Dimensional Rift
+Locations referencing this text in the static dump:
+[result][assets][1048][id]
+[result][assets][3398][uid]
+[result][hunts][26][name_id]
+(id:27225)
+
+change
+Text: Dimensional Rift
+Locations referencing this text in the static dump:
+[result][assets][1048][id]
+[result][assets][3398][uid]
+[result][hunts][26][name_id]
+(id:27225)
+
+change
+Text: An unexplored mine was just uncovered! Be one of the first to unveil its secrets.
+Locations referencing this text in the static dump:
+[result][assets][1056][id]
+[result][hunts][6][description_id]
+(id:26440)
+
+change
+Text: An unexplored mine was just uncovered! Be one of the first to unveil it's secrets.
+Locations referencing this text in the static dump:
+[result][assets][1056][id]
+[result][hunts][6][description_id]
+(id:26440)
+
+add
+Text: Harald
+Locations referencing this text in the static dump:
+[result][customers][147][name_id]
+[result][assets][1097][id]
+(id:27712)
+
+add
+Text: You have played for more than three hours, for your health you will be automatically locked out.
+Locations referencing this text in the static dump:
+[result][assets][1104][id]
+(id:27673)
+
+add
+Text: Max Mercenary Spellcasters
+Locations referencing this text in the static dump:
+[result][assets][1143][id]
+(id:27701)
+
+add
+Text: Trading Post: Expired Offers
+Locations referencing this text in the static dump:
+[result][assets][1202][id]
+(id:27665)
+
+add
+Text: Klash Spellcasters Bonus
+Locations referencing this text in the static dump:
+[result][assets][1205][id]
+(id:27678)
+
+add
+Text: Chance:
+Locations referencing this text in the static dump:
+[result][assets][1208][id]
+[result][war_bonus][0][fixed_bonus_value_label_id]
+(id:27628)
+
+add
+Text: Max Quantity
+Locations referencing this text in the static dump:
+[result][assets][1297][id]
+(id:27591)
+
+add
+Text: You need to build a {workstation} to complete this tutorial.
+Locations referencing this text in the static dump:
+[result][assets][1318][id]
+(id:27541)
+
+add
+Text: Friends
+Locations referencing this text in the static dump:
+[result][assets][1336][id]
+(id:27543)
+
+add
+Text: angel bow
+Locations referencing this text in the static dump:
+[result][assets][1376][id]
+[result][items][556][name_id]
+(id:27721)
+
+add
+Text: 1 day
+Locations referencing this text in the static dump:
+[result][assets][1411][id]
+(id:27619)
+
+add
+Text: Chivote
+Locations referencing this text in the static dump:
+[result][customers][143][name_id]
+[result][assets][1426][id]
+(id:27708)
+
+add
+Text: Lighthouse
+Locations referencing this text in the static dump:
+[result][improvements][270][name_id]
+[result][assets][1434][id]
+(id:27658)
+
+add
+Text: Max (99)
+Locations referencing this text in the static dump:
+[result][assets][1438][id]
+(id:27596)
+
+add
+Text: Quantity
+Locations referencing this text in the static dump:
+[result][assets][1494][id]
+(id:27583)
+
+add
+Text: 7 days
+Locations referencing this text in the static dump:
+[result][assets][1505][id]
+(id:27621)
+
+add
+Text: Module Upgrade
+Locations referencing this text in the static dump:
+[result][assets][1552][id]
+(id:27540)
+
+change
+Text: The haunted forest has not been explored since the last great war. It is said it holds many powerful artifacts.
+Locations referencing this text in the static dump:
+[result][assets][1554][id]
+[result][hunts][25][description_id]
+(id:27224)
+
+change
+Text: The haunted forest has not been explored since the last great war. It is said it holds many powerful artifacts.
+Locations referencing this text in the static dump:
+[result][assets][1554][id]
+[result][hunts][25][description_id]
+(id:27224)
+
+add
+Text: Monastery
+Locations referencing this text in the static dump:
+[result][improvements][261][name_id]
+[result][assets][1569][id]
+(id:27649)
+
+add
+Text: staraxe
+Locations referencing this text in the static dump:
+[result][assets][1575][id]
+[result][items][551][name_id]
+(id:27716)
+
+add
+Text:  / 14 days
+Locations referencing this text in the static dump:
+[result][assets][1612][id]
+(id:27618)
+
+add
+Text: Snorri
+Locations referencing this text in the static dump:
+[result][customers][146][name_id]
+[result][assets][1705][id]
+(id:27711)
+
+change
+Text: Contributions
+Locations referencing this text in the static dump:
+[result][assets][1737][id]
+(id:24294)
+
+change
+Text: Contributions:
+Locations referencing this text in the static dump:
+[result][assets][1737][id]
+(id:24294)
+
+add
+Text: Suggestion
+Locations referencing this text in the static dump:
+[result][assets][1802][id]
+[result][war_bonus][0][temp_bonus_name_id]
+(id:27624)
+
+add
+Text: Quantity
+Locations referencing this text in the static dump:
+[result][assets][1817][id]
+(id:27588)
+
+add
+Text: Iga
+Locations referencing this text in the static dump:
+[result][customers][148][name_id]
+[result][assets][1878][id]
+(id:27713)
+
+add
+Text: Tutorial
+Locations referencing this text in the static dump:
+[result][assets][1910][id]
+(id:27542)
+
+add
+Text: cost:
+Locations referencing this text in the static dump:
+[result][assets][1924][id]
+(id:27698)
+
+add
+Text: enraging blade
+Locations referencing this text in the static dump:
+[result][assets][1934][id]
+[result][items][550][name_id]
+(id:27715)
+
+add
+Text: Klash Fighters Bonus
+Locations referencing this text in the static dump:
+[result][assets][1936][id]
+(id:27676)
+
+add
+Text: Total cost
+Locations referencing this text in the static dump:
+[result][assets][1945][id]
+(id:27589)
+
+add
+Text: Max
+Locations referencing this text in the static dump:
+[result][assets][1962][id]
+(id:27551)
+
+add
+Text: Warning
+Locations referencing this text in the static dump:
+[result][assets][1964][id]
+(id:27662)
+
+add
+Text: Selling Customer
+Locations referencing this text in the static dump:
+[result][assets][1991][id]
+[result][war_bonus][0][fixed_bonus_name_id]
+(id:27626)
+
+add
+Text: 3 days
+Locations referencing this text in the static dump:
+[result][assets][2083][id]
+(id:27620)
+
+add
+Text: plasmic robe
+Locations referencing this text in the static dump:
+[result][assets][2093][id]
+[result][recipes][28][uid]
+[result][items][554][name_id]
+(id:27719)
+
+add
+Text: Max Price
+Locations referencing this text in the static dump:
+[result][assets][1943][uid]
+[result][assets][2104][id]
+(id:27593)
+
+add
+Text: Congratulation! Everybody in your city logged in today. Here is you reward:
+Locations referencing this text in the static dump:
+[result][assets][2124][id]
+(id:27685)
+
+add
+Text: (Max {max})
+Locations referencing this text in the static dump:
+[result][assets][2178][id]
+(id:27587)
+
+add
+Text: Reduced chance of dungeon breaking. (10/25/50/90%)
+Locations referencing this text in the static dump:
+[result][assets][2199][id]
+[result][war_bonus][3][fixed_bonus_description_id]
+(id:27642)
+
+add
+Text: Dark Abyss
+Locations referencing this text in the static dump:
+[result][assets][2204][id]
+[result][hunts][27][name_id]
+(id:27731)
+
+add
+Text: Rogues Guild
+Locations referencing this text in the static dump:
+[result][improvements][346][name_id]
+[result][improvements][347][name_id]
+[result][improvements][348][name_id]
+[result][improvements][349][name_id]
+[result][improvements][350][name_id]
+[result][improvements][351][name_id]
+[result][improvements][352][name_id]
+[result][improvements][353][name_id]
+[result][assets][2247][id]
+(id:27729)
+
+add
+Text: Klash Customers Bonus
+Locations referencing this text in the static dump:
+[result][assets][2263][id]
+(id:27675)
+
+add
+Text: Daily City Login
+Locations referencing this text in the static dump:
+[result][assets][2281][id]
+(id:27683)
+
+add
+Text: You have played for more than two hours, please think of taking a rest.
+Locations referencing this text in the static dump:
+[result][assets][2282][id]
+(id:27672)
+
+add
+Text: Free World Trade
+Locations referencing this text in the static dump:
+[result][assets][2285][id]
+(id:27679)
+
+add
+Text: Klash XP
+Locations referencing this text in the static dump:
+[result][assets][2325][id]
+[result][war_bonus][2][temp_bonus_name_id]
+(id:27634)
+
+add
+Text: Invoice
+Locations referencing this text in the static dump:
+[result][assets][2342][id]
+(id:27601)
+
+add
+Text: Tiltyard
+Locations referencing this text in the static dump:
+[result][improvements][264][name_id]
+[result][assets][2365][id]
+(id:27652)
+
+change
+Text: Price
+Locations referencing this text in the static dump:
+[result][assets][2371][id]
+(id:24542)
+
+change
+Text: Sell for
+Locations referencing this text in the static dump:
+[result][assets][2371][id]
+(id:24542)
+
+add
+Text: staff of creation
+Locations referencing this text in the static dump:
+[result][assets][2372][id]
+[result][assets][3174][hid]
+[result][items][560][name_id]
+(id:27725)
+
+add
+Text: Contribute
+Locations referencing this text in the static dump:
+[result][assets][2443][id]
+(id:27622)
+
+add
+Text: Tiltyard
+Locations referencing this text in the static dump:
+[result][improvements][266][name_id]
+[result][assets][2453][id]
+(id:27654)
+
+add
+Text: Hire Mercenaries
+Locations referencing this text in the static dump:
+[result][assets][2454][id]
+(id:27697)
+
+add
+Text: Increased the recharge rate of all resources.
+Locations referencing this text in the static dump:
+[result][assets][2466][id]
+[result][war_bonus][1][fixed_bonus_description_id]
+(id:27632)
+
+add
+Text: walking forteress
+Locations referencing this text in the static dump:
+[result][assets][2468][id]
+[result][items][552][name_id]
+(id:27717)
+
+add
+Text: Reduced chance of Klash breaking. (10/25/50/90%)
+Locations referencing this text in the static dump:
+[result][assets][2471][id]
+[result][war_bonus][2][fixed_bonus_description_id]
+(id:27637)
+
+add
+Text: Dungeon breaking
+Locations referencing this text in the static dump:
+[result][assets][1219][hid]
+[result][assets][1219][uid]
+[result][assets][2477][id]
+[result][war_bonus][3][fixed_bonus_name_id]
+(id:27641)
+
+change
+Text: -Gone on a hunt (will not visit shop)
+Locations referencing this text in the static dump:
+[result][assets][2482][id]
+(id:24328)
+
+change
+Text: -Gone on a quest/hunt/job (will not visit shop)
+Locations referencing this text in the static dump:
+[result][assets][2482][id]
+(id:24328)
+
+add
+Text: South Wall
+Locations referencing this text in the static dump:
+[result][improvements][281][name_id]
+[result][improvements][282][name_id]
+[result][improvements][283][name_id]
+[result][improvements][284][name_id]
+[result][improvements][285][name_id]
+[result][improvements][286][name_id]
+[result][improvements][287][name_id]
+[result][improvements][288][name_id]
+[result][improvements][289][name_id]
+[result][improvements][290][name_id]
+[result][assets][2541][id]
+(id:27687)
+
+change
+Text: The mystical pillars region contains many mysteries that only the most powerful adventurers will be able to solve.
+Locations referencing this text in the static dump:
+[result][assets][2559][id]
+[result][hunts][23][description_id]
+(id:27220)
+
+change
+Text: The mystical pillars region contains many mysteries that only the most powerful adventurers will be able to solve.
+Locations referencing this text in the static dump:
+[result][assets][2559][id]
+[result][hunts][23][description_id]
+(id:27220)
+
+add
+Text: Shrine
+Locations referencing this text in the static dump:
+[result][improvements][325][name_id]
+[result][improvements][326][name_id]
+[result][improvements][327][name_id]
+[result][improvements][328][name_id]
+[result][improvements][329][name_id]
+[result][improvements][330][name_id]
+[result][improvements][331][name_id]
+[result][improvements][332][name_id]
+[result][improvements][333][name_id]
+[result][improvements][334][name_id]
+[result][assets][2560][id]
+(id:27692)
+
+add
+Text: Cid
+Locations referencing this text in the static dump:
+[result][customers][145][name_id]
+[result][assets][2563][id]
+(id:27710)
+
+add
+Text: Lighthouse
+Locations referencing this text in the static dump:
+[result][improvements][268][name_id]
+[result][assets][2566][id]
+[result][items][344][uid]
+(id:27656)
+
+add
+Text: Lighthouse
+Locations referencing this text in the static dump:
+[result][improvements][271][name_id]
+[result][assets][2589][id]
+(id:27659)
+
+add
+Text: Here are all your expired offers (all these items were returned to you):<br>%(entries)s
+Locations referencing this text in the static dump:
+[result][recipe_unlocks][401][uid]
+[result][assets][2620][id]
+(id:27666)
+
+add
+Text: Price
+Locations referencing this text in the static dump:
+[result][assets][2628][id]
+(id:27590)
+
+change
+Text: Through the dimensionnal rift is a vast copy of our world filled with unknown dangers and mysteries.
+Locations referencing this text in the static dump:
+[result][assets][2642][id]
+[result][hunts][26][description_id]
+(id:27226)
+
+change
+Text: Through the dimensionnal rift is a vast copy of our world filled with unknown dangers and mysteries.
+Locations referencing this text in the static dump:
+[result][assets][2642][id]
+[result][hunts][26][description_id]
+(id:27226)
+
+add
+Text: Max Mercenary Rogues
+Locations referencing this text in the static dump:
+[result][improvements][135][uid]
+[result][assets][2695][id]
+(id:27700)
+
+add
+Text: War College
+Locations referencing this text in the static dump:
+[result][improvements][337][name_id]
+[result][assets][2700][id]
+(id:27706)
+
+add
+Text: Increase the chance of suggesting an item.\n(Good moods/Bad moods)
+Locations referencing this text in the static dump:
+[result][recipe_unlocks][465][uid]
+[result][assets][2706][id]
+[result][war_bonus][0][temp_bonus_description_id]
+(id:27625)
+
+change
+Text: Total
+Locations referencing this text in the static dump:
+[result][assets][2727][id]
+(id:27441)
+
+change
+Text: Earned Krowns
+Locations referencing this text in the static dump:
+[result][assets][2727][id]
+(id:27441)
+
+add
+Text: Chance:
+Locations referencing this text in the static dump:
+[result][assets][211][uid]
+[result][assets][2746][id]
+[result][war_bonus][3][fixed_bonus_value_label_id]
+(id:27643)
+
+add
+Text: Add time for this bonus.
+Locations referencing this text in the static dump:
+[result][assets][2754][id]
+(id:27617)
+
+add
+Text: East Wall
+Locations referencing this text in the static dump:
+[result][improvements][291][name_id]
+[result][improvements][292][name_id]
+[result][improvements][293][name_id]
+[result][improvements][294][name_id]
+[result][improvements][295][name_id]
+[result][improvements][296][name_id]
+[result][improvements][297][name_id]
+[result][improvements][298][name_id]
+[result][improvements][299][name_id]
+[result][improvements][300][name_id]
+[result][assets][2757][id]
+(id:27688)
+
+add
+Text: shadow armor
+Locations referencing this text in the static dump:
+[result][recipe_unlocks][327][uid]
+[result][assets][2795][id]
+[result][items][553][name_id]
+(id:27718)
+
+add
+Text: <br>Expired <b>%(item)s</b> x%(count)s
+Locations referencing this text in the static dump:
+[result][assets][2812][id]
+(id:27667)
+
+add
+Text: All
+Locations referencing this text in the static dump:
+[result][assets][2832][id]
+(id:27595)
+
+add
+Text: While exploring the fissure we came upon a dark passage leading deep into mother earth. What is awaiting us there?
+Locations referencing this text in the static dump:
+[result][assets][2857][id]
+[result][hunts][27][description_id]
+(id:27732)
+
+add
+Text: Not possible to contribute during the day.
+Locations referencing this text in the static dump:
+[result][assets][2861][id]
+[result][recipes][515][uid]
+(id:27664)
+
+add
+Text: Chance:
+Locations referencing this text in the static dump:
+[result][assets][2874][id]
+[result][war_bonus][2][fixed_bonus_value_label_id]
+(id:27638)
+
+add
+Text: Not enough
+Locations referencing this text in the static dump:
+[result][assets][2887][id]
+(id:27586)
+
+add
+Text: Lighthouse
+Locations referencing this text in the static dump:
+[result][improvements][269][name_id]
+[result][assets][2903][id]
+(id:27657)
+
+add
+Text: Max Mercenary Fighters
+Locations referencing this text in the static dump:
+[result][assets][2906][id]
+(id:27699)
+
+add
+Text: Pier
+Locations referencing this text in the static dump:
+[result][improvements][257][name_id]
+[result][assets][2910][id]
+(id:27645)
+
+add
+Text: Purchased {gotQty} item(s) out of {wantedQty}
+Locations referencing this text in the static dump:
+[result][assets][2927][id]
+(id:27599)
+
+change
+Text: Floating Castle
+Locations referencing this text in the static dump:
+[result][assets][2962][id]
+[result][hunts][24][name_id]
+(id:27221)
+
+change
+Text: Floating Castle
+Locations referencing this text in the static dump:
+[result][assets][2962][id]
+[result][hunts][24][name_id]
+(id:27221)
+
+add
+Text: Monastery
+Locations referencing this text in the static dump:
+[result][improvements][262][name_id]
+[result][assets][2969][id]
+(id:27650)
+
+add
+Text: Total:
+Locations referencing this text in the static dump:
+[result][assets][2975][id]
+(id:27623)
+
+add
+Text: death star
+Locations referencing this text in the static dump:
+[result][assets][3021][id]
+[result][items][557][name_id]
+(id:27722)
+
+add
+Text: West Wall
+Locations referencing this text in the static dump:
+[result][improvements][301][name_id]
+[result][improvements][302][name_id]
+[result][improvements][303][name_id]
+[result][improvements][304][name_id]
+[result][improvements][305][name_id]
+[result][improvements][306][name_id]
+[result][improvements][307][name_id]
+[result][improvements][308][name_id]
+[result][improvements][309][name_id]
+[result][improvements][310][name_id]
+[result][assets][3026][id]
+(id:27689)
+
+change
+Text: Haunted Forest
+Locations referencing this text in the static dump:
+[result][assets][3048][id]
+[result][hunts][25][name_id]
+(id:27223)
+
+change
+Text: Haunted Forest
+Locations referencing this text in the static dump:
+[result][assets][3048][id]
+[result][hunts][25][name_id]
+(id:27223)
+
+change
+Text: Mystical Pillars
+Locations referencing this text in the static dump:
+[result][assets][3052][id]
+[result][hunts][23][name_id]
+(id:27219)
+
+change
+Text: Mystical Pillars
+Locations referencing this text in the static dump:
+[result][assets][3052][id]
+[result][hunts][23][name_id]
+(id:27219)
+
+add
+Text: Total cost
+Locations referencing this text in the static dump:
+[result][assets][3061][id]
+(id:27597)
+
+add
+Text: Tiltyard
+Locations referencing this text in the static dump:
+[result][improvements][265][name_id]
+[result][assets][3125][id]
+(id:27653)
+
+add
+Text: Out Of Play Time
+Locations referencing this text in the static dump:
+[result][assets][710][hid]
+[result][assets][3127][id]
+(id:27669)
+
+change
+Text: -Will visit your shop
+Locations referencing this text in the static dump:
+[result][assets][3132][id]
+(id:24327)
+
+change
+Text: -Available for a quest/hunt/job
+Locations referencing this text in the static dump:
+[result][assets][3132][id]
+(id:24327)
+
+add
+Text: Far East Traders
+Locations referencing this text in the static dump:
+[result][improvements][336][name_id]
+[result][assets][3146][id]
+(id:27704)
+
+add
+Text: codex de genèse
+Locations referencing this text in the static dump:
+[result][assets][3169][id]
+[result][items][555][name_id]
+(id:27720)
+
+add
+Text: Fighters Guild
+Locations referencing this text in the static dump:
+[result][improvements][338][name_id]
+[result][improvements][339][name_id]
+[result][improvements][340][name_id]
+[result][improvements][341][name_id]
+[result][improvements][342][name_id]
+[result][improvements][343][name_id]
+[result][improvements][344][name_id]
+[result][improvements][345][name_id]
+[result][assets][3172][id]
+(id:27728)
+
+add
+Text: Could not find this item for that price
+Locations referencing this text in the static dump:
+[result][assets][1713][hid]
+[result][assets][1713][uid]
+[result][assets][3187][id]
+(id:27598)
+
+add
+Text: Dungeon time
+Locations referencing this text in the static dump:
+[result][assets][3213][id]
+[result][recipes][185][uid]
+[result][war_bonus][3][temp_bonus_name_id]
+(id:27639)
+
+add
+Text: War college trains powerful wizards of war.
+Locations referencing this text in the static dump:
+[result][improvements][337][description_id]
+[result][assets][3222][id]
+(id:27707)
+
+add
+Text: Monastery
+Locations referencing this text in the static dump:
+[result][improvements][260][name_id]
+[result][assets][3238][id]
+(id:27648)
+
+add
+Text: Other
+Locations referencing this text in the static dump:
+[result][customers][146][uid]
+[result][assets][2130][uid]
+[result][assets][3244][id]
+(id:27613)
+
+add
+Text: crystal drum
+Locations referencing this text in the static dump:
+[result][assets][3245][id]
+[result][items][558][name_id]
+(id:27723)
+
+add
+Text: Increase the amount of XP received from Klashes.
+Locations referencing this text in the static dump:
+[result][assets][3272][id]
+[result][items][342][uid]
+[result][war_bonus][2][temp_bonus_description_id]
+(id:27635)
+
+add
+Text: Daily City Login Reward
+Locations referencing this text in the static dump:
+[result][assets][3282][id]
+(id:27684)
+
+add
+Text: 15th of each month
+Locations referencing this text in the static dump:
+[result][assets][3302][id]
+(id:27681)
+
+add
+Text: North Wall
+Locations referencing this text in the static dump:
+[result][improvements][311][name_id]
+[result][improvements][312][name_id]
+[result][improvements][313][name_id]
+[result][improvements][314][name_id]
+[result][improvements][315][name_id]
+[result][improvements][316][name_id]
+[result][improvements][317][name_id]
+[result][improvements][318][name_id]
+[result][improvements][319][name_id]
+[result][improvements][320][name_id]
+[result][assets][3326][id]
+(id:27690)
+
+change
+Text: The town hall's foundations are cracked! Again!
+Locations referencing this text in the static dump:
+[result][improvements][216][description_id]
+[result][assets][3336][id]
+(id:27067)
+
+change
+Text: The town hall's foundations are cracked!
+Locations referencing this text in the static dump:
+[result][improvements][216][description_id]
+[result][assets][3336][id]
+(id:27067)
+
+add
+Text: Increased chance of customer selling item.
+Locations referencing this text in the static dump:
+[result][assets][3337][id]
+[result][war_bonus][0][fixed_bonus_description_id]
+(id:27627)
+
+add
+Text: Paul
+Locations referencing this text in the static dump:
+[result][customers][149][name_id]
+[result][assets][3338][id]
+[result][recipes][453][uid]
+(id:27714)
+
+add
+Text: Lifetime
+Locations referencing this text in the static dump:
+[result][assets][3377][id]
+(id:27614)
+
+rem
+Text: An up-date was just published to fix a problem that caused the game to crash when a pop-up window came up (eg, when unlocking a new recipe, when opening the chat window, etc.) <br>To the players who tried to reproduce the bug and reported the issue with great details: thank you so very much! It helped us tremendously. 
+Locations referencing this text in the static dump:
+(id:27525)
+

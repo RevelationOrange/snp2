@@ -117,7 +117,7 @@ for x in tracker:
     print x
 
 goldTotal = 0
-chkSection = 'modules'
+chkSection = 'recipes'
 testGetInfo = 1
 uqIDs = []
 colorAvg = []
@@ -168,9 +168,3 @@ if assetSearch:
 #print theStr.format('herp', 'gerp', 'derp')
 #secondLen = 22
 #prStr = "{:10}{:" + str(secondLen) + "}{}"
-prStr = "{0:8}{1:13}{2:11}".format('Level', 'Gold cost', 'build time')
-print prStr
-
-#spacerLine = "{:8}{:13}{:11}"
-#headerLine = ['Level', 'Gold cost', 'build time']
-#print spacerLine.format(*headerLine)

@@ -119,15 +119,6 @@ def prImprovement(modType, impr, theFile):
         theFile.write('Customers unlocked: {}\n'.format(', '.join(['{} ({})'.format(*x) for x in impr['custUnlocks']])))
     theFile.write('Image link: {} (id:{})\n\n'.format(impr['picLink'], str(impr['id'])))
 
-
-def prFameLevel(modType, fameLevel, theFile):
-    # for this, I want to have it take all the new fame levels at once and write them; one entry per level would be weird
-    # so that's the plan once I come back to this
-    pass
-
-def prCustLevelValue(modType, cust, theFile):
-    pass
-
 def prRecUnlock(modType, recUnlock, theFile):
     theFile.write('%s\nTo unlock %s, craft %d %s\n(id:%d)\n\n' %
     (modType, recUnlock['itemUnlocked'], recUnlock['itemToCraft'][1], recUnlock['itemToCraft'][0], recUnlock['id']) )
@@ -145,9 +136,12 @@ def prItem(modType, item, theFile):
                   (item['repairCost'], item['picLink'], item['id']) )
 
 def prRecipe(modType, rec, theFile):
-    theFile.write("%s\n%s\nWorker: %s\nStation: %s\nIngredients:\n\t%s\nCraft speed: %s\nCategory: %s (id:%s)\n\n" %
-    (modType, rec['name'], rec['madeBy'], ' level '.join(str(x) for x in rec['madeOn']),
-     '\n\t'.join('x '.join([str(x[0]), x[1]]) for x in rec['ingredients']), rec['craftTime'], rec['type'], rec['id']) )
+    ingrs = '\n\t'.join('x '.join([str(x[0]), x[1]]) for x in rec['ingredients']) if type(rec['ingredients']) is list\
+        else 'none'
+    replStr = '{0}\n%s\nWorker: {madeBy}\nStation: {1}\nIngredients:\n\t{2}\nCraft speed: {craftTime}\n' % rec['name']
+    replStr += 'Category: {type} (id:{id})\n\n'
+    prStr = replStr.format(modType, ' level '.join(str(x) for x in rec['madeOn']), ingrs, **rec)
+    theFile.write(prStr)
 
 def prModule(modType, module, theFile):
     unlck = module['unlockedBy'] if module['unlockedBy'] == 'none' else module['unlockedBy'][0]
@@ -188,34 +182,44 @@ def prModule(modType, module, theFile):
     theFile.write('(id:{})'.format(module['id']))
     theFile.write('\n\n')
 
-    '''
-    appeals: [150, 175, 200, 225, 250]
-    maxBuyable: 3
-    levelReq: 13
-    tier: 5
-    goldCosts: [1250000, 1500000, 2000000, 2500000, 5000000]
-    unlockedBy: [u'Round Carpet', 4]
-    picLink: cdn.edgebee.com/static/shopr2/shop/icons/carpet_5_t.png
-    name: Luxurious Rug
-    id: 154
-    times: [172800, 259200, 345600, 432000, 864000]
-    bonuses: []
-    hammerCost: 110
-    '''
+def prQuest(modType, quest, theFile):
+    theFile.write('{}\n{name}\nIntro text: "{introText}"\nOutro test: "{outroText}"\n'.format(modType, **quest) )
+    theFile.write('Unlocked at level: {shopLevelReq}\nDuration: {time} hrs\nXP per customer: {xp}\n'.format(**quest))
+    theFile.write('Reward: {}\nPrevious quest in line: {unlockedBy}\n'.format('{} {}'.format(*quest['reward']),**quest))
+    theFile.write('Customers to send: {}\nItems needed: {}\n'.format(', '.join(quest['custsNeeded']),
+                                                                     ', '.join(quest['itemsNeeded'])) )
+    theFile.write('Icon link: {picLink} (id:{id})\n\n'.format(**quest))
 
-    pass
+def prWorker(modType, worker, theFile):
+    theFile.write('{}\n{name}\nUnlocked at level {shopLevelReq}\n'.format(modType, **worker))
+    theFile.write('Cost to hire:\n{goldCost:,} gold or {couponCost} coupons\n(id:{id})\n\n'.format(**worker))
 
-def prQuest(modType, cust, theFile):
-    pass
+def prAchievement(modType, achievement, theFile):
+    theFile.write('{}\n{name}\n{requirement}\n'.format(modType, **achievement))
+    if type(achievement['reward']) is list: rew = ' '.join(achievement['reward'])
+    else: rew = achievement['reward']
+    theFile.write('Reward: {}\n\n'.format(rew))
 
-def prWorker(modType, cust, theFile):
-    pass
+def prCharClass(modType, cclass, theFile):
+    replString = '{}\n'
+    if cclass['name'] == 'none': replString += '(npc)\n'
+    else: replString += '{name}\n'
+    if cclass['description'] != 'none': replString += 'Description: {description}\n'
+    if type(cclass['klashItems']) is not maskList: replString += '{klashItems}'
+    else: replString += 'Equipable in klash: {}'.format(', '.join(cclass['klashItems']))
+    replString += '\nIcon link: {icon}\nFull image: {fullPic} (id:{id})\n\n'
+    prString = replString.format(modType, **cclass)
+    theFile.write(prString)
 
-def prAchievement(modType, cust, theFile):
-    pass
+def prFameLevel(modType, fameLevels, theFile):
+    # for this, I want to have it take all the new fame levels at once and write them; one entry per level would be weird
+    # so that's the plan once I come back to this
+    prStr = '{}\nLevel\tXP for next level\n'.format(modType)
+    prStr += '\n'.join(['{:<5}\t{:,}'.format(*x) for x in fameLevels])
+    theFile.write(prStr + '\n\n')
 
-def prCharClass(modType, cust, theFile):
-    pass
+def prCustLevelValue(modType, cust, theFile):
+    theFile.write('{}\nLevel: {level}, value: {value:,}\n\n'.format(modType, **cust))
 
 def prInfo(printObj=0, outpFile=0):
     printInfoDict = {'customers':prCustomer, 'hunts':prHunt, 'improvements':prImprovement, 'fame_levels':prFameLevel,
@@ -460,9 +464,13 @@ def getInfo(change=0, newSD=0):
     elif changeType == 'customer_levels':
         pass
     elif changeType == 'fame_levels':
-        newShopLevel = change[2]
-        outputShopLevel = {'level':newSD[changeType].index(newShopLevel)+1, 'xpNeeded':newShopLevel}
-        return [change[1], outputShopLevel]
+        newShopLevels = change[2]
+        outputShopLevels = []
+        print newShopLevels
+        for xp in newShopLevels:
+            print xp
+            outputShopLevels.append([newSD[changeType].index(xp)+1, xp])
+        return [change[1], outputShopLevels]
 
     elif changeType == 'customer_level_values':
         # very simple section, the new/old/changed level value is the number given
@@ -769,7 +777,7 @@ def getInfo(change=0, newSD=0):
         # get the name and description text from assets
         for asset in assets:
             if asset['id'] == newAchievement['name_id']: outputAchievement['name'] = asset['value']
-            elif asset['id'] == newAchievement['description_id']: outputAchievement['requrement'] = asset['value']
+            elif asset['id'] == newAchievement['description_id']: outputAchievement['requirement'] = asset['value']
         if newAchievement['rewards'][0]['type'] == 2 or newAchievement['rewards'][0]['type'] == 7:
             outputAchievement['reward'] = newAchievement['rewards'][0]['data']
         else:
@@ -791,7 +799,7 @@ def getInfo(change=0, newSD=0):
         newCClass = change[2]
         # fill out the easy stuff
         outputCClass = {'name':'none', 'description':'none', 'icon':cdnBase+newCClass['bust_image'],
-                        'fullPic':cdnBase+newCClass['full_image'], 'klashItems':'(not a klasher)'}
+                        'fullPic':cdnBase+newCClass['full_image'], 'klashItems':'(not a klasher)', 'id':newCClass['id']}
         # any of name, description, and klash items (items_mask) could be zero, so just check each
         if newCClass['name_id'] != 0:
             for asset in assets:
