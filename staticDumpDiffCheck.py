@@ -269,24 +269,31 @@ if showDiffs:
             with codecs.open('updates'+sep+key+'.txt', 'w', 'utf-8') as updateFile:
                 print key
                 if key == 'fame_levels':
-                    for change in ['add', 'rem']:
+                    for change in ['add', 'rem', 'change']:
                         niceThing = snp2lib.getInfo([key, change, [ x[1] for x in cleanDiffDict['fame_levels']['stuff']
                                                                     if x[0] == change]], newSD)
                         if len(niceThing[1]) > 0:
                             snp2lib.prInfo([key]+niceThing, updateFile)
                 else:
                     for thing in cleanDiffDict[key]['stuff']:
-                        for change in thing[1:]:
+                        if thing[0] == 'change':
+                            newChange = thing[1]
+                            oldChange = thing[2]
+                            niceNew = snp2lib.getInfo([key, thing[0], newChange], newSD)
+                            niceOld = snp2lib.getInfo([key, thing[0], oldChange], newSD)
+                            if niceNew == niceOld:
+                                niceThing = niceNew
+                                niceThing[0] = 'minor change'
+                            else:
+                                niceThing = [thing[0], {}]
+                                for ckey in niceNew[1]:
+                                    niceThing[1]['new'+ckey] = niceNew[1][ckey]
+                                for ckey in niceOld[1]:
+                                    niceThing[1]['old'+ckey] = niceOld[1][ckey]
+                        else:
+                            change = thing[1]
                             niceThing = snp2lib.getInfo([key, thing[0], change], newSD)
-                            #print niceThing[0]
-                            snp2lib.prInfo([key]+niceThing, updateFile)
-                            #for k in niceThing[1]:
-                            #print '{}: {}'.format(k, niceThing[1][k])
-                            #   print k + ':', niceThing[1][k]
-                            #print ''
-                            #print '\n'
+                        #print key, niceThing
+                        snp2lib.prInfo([key]+niceThing, updateFile)
         else:
             print key + ':', cleanDiffDict[key], '\n'
-#print list(set([x[0] for x in diffs]))
-
-print cleanDiffDict['assets']

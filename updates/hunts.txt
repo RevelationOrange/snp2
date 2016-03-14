@@ -5,7 +5,7 @@ Level range: 20-21
 Duration: 64 hours
 Level required: 90
 Common/Uncommon/Rare loots: 1 Dark Blood / 2 Dark Blood / 3 Dark Blood
-XP per loot: 7467
-Value for 100% common: 400000 gold
+XP per loot: 7,467
+Value for 100% common: 400,000 gold
 Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_27.png (id:28)
 

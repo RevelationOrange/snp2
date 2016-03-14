@@ -77,149 +77,396 @@ def getCats(iMask):
     return catList[mask]
 
 def prCustomer(modType, cust, theFile):
-    theFile.write('{}\n{} ({}), (id:{})\n'.format(modType, cust['name'], cust['class'], cust['id']))
-    theFile.write('Level range: ' + str(cust['startLvl']) + '-' + str(cust['maxLvl']) + '\n')
-    theFile.write('Favorite item types: ' + ', '.join(cust['iTypes']) + '\n')
-    theFile.write('Fame required: ' + str(cust['lvlReq']) + '\nAppeal required: ' + str(cust['appealReq']) + '\n')
-    theFile.write('Unlocked by: ')
-    if len(cust['unlockedBy']) > 0:
-        theFile.write(' '.join(str(x) for x in cust['unlockedBy']))
+    if modType == 'change':
+        if cust['newname'] == cust['oldname']: prStr = '{newname} ({newclass})\n'
+        else: prStr = 'New: {newname} ({newclass})\nOld: {oldname} ({oldclass})\n'
+        textKeys = [['Start level', 'newstartLvl', 'oldstartLvl'],
+                    ['Max level', 'newmaxLvl', 'oldmaxLvl'],
+                    ['Fame required', 'newlvlReq', 'oldlvlReq'],
+                    ['Appeal required', 'newappealReq', 'oldappealReq'],
+                    #['Unlocked by', '--', '--'],
+                    ['Color', 'newcolor', 'oldcolor']]
+        if len(cust['newunlockedBy']) > 0: newUnlock = '{newunlockedBy[0]} {newunlockedBy[1]}'.format(**cust)
+        else: newUnlock = '--'
+        if len(cust['oldunlockedBy']) > 0: oldUnlock = '{oldunlockedBy[0]} {oldunlockedBy[1]}'.format(**cust)
+        else: oldUnlock = '--'
+        replStr = '{:<17}{:<20}{:<}\n'
+        header = replStr.format('', 'New', 'Old')
+        prStr += header
+        for x in textKeys: prStr += replStr.format(x[0], cust[x[1]], cust[x[2]])
+        prStr += replStr.format('Unlocked by', newUnlock, oldUnlock)
+        if cust['newiTypes'] == cust['oldiTypes']: prStr += 'Favorite items: {}\n'.format(', '.join(cust['newiTypes']))
+        else: prStr += 'New favorite items: {}\nOld favorite items: {}\n'.format(', '.join(cust['newiTypes']),
+                                                                                 ', '.join(cust['oldiTypes']))
+        prStr += '(id:{newid})\n\n'
+        theFile.write(prStr.format(**cust))
     else:
-        theFile.write('--')
-    theFile.write('\nColor: ' + cust['color'] + '\n'*2)
+        theFile.write('{} ({})\n'.format(cust['name'], cust['class']))
+        theFile.write('Level range: ' + str(cust['startLvl']) + '-' + str(cust['maxLvl']) + '\n')
+        theFile.write('Favorite item types: ' + ', '.join(cust['iTypes']) + '\n')
+        theFile.write('Fame required: ' + str(cust['lvlReq']) + '\nAppeal required: ' + str(cust['appealReq']) + '\n')
+        theFile.write('Unlocked by: ')
+        if len(cust['unlockedBy']) > 0:
+            theFile.write(' '.join(str(x) for x in cust['unlockedBy']))
+        else:
+            theFile.write('--')
+        theFile.write('\nColor: {} (id:{})\n\n'.format(cust['color'], cust['id']))
 
 def prHunt(modType, hunt, theFile):
-    theFile.write('{}\n{}\n{}\n'.format(modType, hunt['name'], hunt['description']))
-    theFile.write('Level range: {}-{}\n'.format(str(hunt['minLvl']), str(hunt['maxLvl'])))
-    if hunt['time'] < 1: time = str(int(hunt['time']*60)) + ' minutes'
-    elif hunt['time'] == 1: time = str(int(hunt['time'])) + ' hour'
-    else: time = str(int(hunt['time'])) + ' hours'
-    theFile.write('Duration: {}\nLevel required: {}\n'.format(time, hunt['shopLvlReq']))
-    theFile.write('Common/Uncommon/Rare loots: {}\n'.format( ' / '.join( [' '.join( str(x) for x in y) for y in hunt['loots']] ) ))
-    theFile.write('XP per loot: {}\nValue for 100% common: {} gold\n'.format(hunt['xpPerLoot'], hunt['comValue']))
-    theFile.write('Icon link: {} (id:{})\n\n'.format(hunt['picLink'], hunt['id']))
+    if modType == 'change':
+        textKeys = [['Name', '{newname}', '{oldname}'],
+                    ['Level range', '{newminLvl}-{newmaxLvl}', '{oldminLvl}-{oldmaxLvl}'],
+                    ['Duration', '', ''],
+                    ['Level required', '{newshopLvlReq}', 'oldshopLvlReq'],
+                    ['Common loot', '{newloots[0][0]} {newloots[0][1]}', '{oldloots[0][0]} {oldloots[0][1]}'],
+                    ['Uncommon loot', '{newloots[1][0]} {newloots[1][1]}', '{oldloots[1][0]} {oldloots[1][1]}'],
+                    ['Rare loot', '{newloots[2][0]} {newloots[2][1]}', '{oldloots[2][0]} {oldloots[2][1]}'],
+                    ['XP per loot', '{newxpPerLoot}', '{oldxpPerLoot}'],
+                    ['100% common', '{newcomValue}', '{oldcomValue}']]
+        if hunt['newtime'] < 1: newTime = '{} minutes'.format(hunt['newtime']*60)
+        elif hunt['newtime'] == 1: newTime = '{newtime} hour'
+        else: newTime = '{newtime} hours'
+        if hunt['oldtime'] < 1: oldTime = '{} minutes'.format(hunt['oldtime']*60)
+        elif hunt['oldtime'] == 1: oldTime = '{oldtime} hour'
+        else: oldTime = '{oldtime} hours'
+        textKeys[2][1] = newTime
+        textKeys[2][2] = oldTime
+        replStr = '{:<16}{:<16}{:<}\n'
+        header = replStr.format('', 'New', 'Old')
+        prStr = header
+        for x in textKeys: prStr += replStr.format(*x)
+        prStr += 'New description: {newdescription}\nOld description: {olddescription}\nNew icon: {newpicLink}\n'
+        prStr += 'Old icon: {oldpicLink}\n(id:{newid})\n\n'
+        theFile.write(prStr.format(**hunt))
+    else:
+        theFile.write('{}\n{}\n'.format(hunt['name'], hunt['description']))
+        theFile.write('Level range: {}-{}\n'.format(str(hunt['minLvl']), str(hunt['maxLvl'])))
+        if hunt['time'] < 1: time = str(int(hunt['time']*60)) + ' minutes'
+        elif hunt['time'] == 1: time = str(int(hunt['time'])) + ' hour'
+        else: time = str(int(hunt['time'])) + ' hours'
+        theFile.write('Duration: {}\nLevel required: {}\n'.format(time, hunt['shopLvlReq']))
+        theFile.write('Common/Uncommon/Rare loots: {}\n'.format( ' / '.join( [' '.join( str(x) for x in y) for y in
+                                                                              hunt['loots']] ) ))
+        theFile.write('XP per loot: {:,}\nValue for 100% common: {:,} gold\n'.format(hunt['xpPerLoot'],
+                                                                                     hunt['comValue']))
+        theFile.write('Icon link: {} (id:{})\n\n'.format(hunt['picLink'], hunt['id']))
 
 def prImprovement(modType, impr, theFile):
-    theFile.write('{}\n{}, level {}\n{}\n'.format(modType, impr['name'], impr['level'], impr['description']))
-    theFile.write('Cost to unlock this level: ')
-    if len(impr['upgradeCost']) > 0:
-        theFile.write('{} {}'.format(*impr['upgradeCost']))
+    if modType == 'change':
+        replStr = 'New: {newname} level {newlevel}\nOld: {oldname} level {oldlevel}\nNew description: {newdescription}'
+        replStr += '\nOld description: {olddescription}\n'
+        if len(impr['newupgradeCost']) > 0: replStr += 'New unlock cost: {newupgradeCost[0]:,} {newupgradeCost[1]}\n'
+        else: replStr += '(starter building)'
+        if len(impr['oldupgradeCost']) > 0: replStr += 'Old unlock cost: {oldupgradeCost[0]:,} {oldupgradeCost[1]}\n'
+        else: replStr += '(starter building)'
+        replStr += 'New upgrade duration: {newtime} hours\nOld upgrade duration: {oldtime} hours\nNew unlocked by: '
+        if type(impr['newunlockedBy']) is list: replStr += '{newunlockedBy[0]} level {newunlockedBy[1]}'
+        else: replStr += '{newunlockedBy}'
+        replStr += '\nOld unlocked by: '
+        if type(impr['oldunlockedBy']) is list: replStr += '{oldunlockedBy[0]} level {oldunlockedBy[1]}\n'
+        else: replStr += '{oldunlockedBy}\n'
+        if impr['newbuildUnlocks'] != 'none' and len(impr['newbuildUnlocks']) > 0:
+            replStr += 'New buildings unlocked: {}\n'.format(', '.join([x[0] for x in impr['newbuildUnlocks']]))
+        if impr['oldbuildUnlocks'] != 'none' and len(impr['oldbuildUnlocks']) > 0:
+            replStr += 'Old buildings unlocked: {}\n'.format(', '.join([x[0] for x in impr['oldbuildUnlocks']]))
+        if impr['newbonus'] != 'none': replStr += 'New bonus: {newbonus[0]} +{newbonus[1]}\n'
+        if impr['oldbonus'] != 'none': replStr += 'New bonus: {oldbonus[0]} +{oldbonus[1]}\n'
+        if impr['newcustUnlocks'] != 'none':
+            replStr += 'New customers unlocked: {}\n'.format(', '.join(['{} ({})'.format(*x) for x in
+                                                                        impr['newcustUnlocks']]))
+        if impr['oldcustUnlocks'] != 'none':
+            replStr += 'Old customers unlocked: {}\n'.format(', '.join(['{} ({})'.format(*x) for x in
+                                                                        impr['oldcustUnlocks']]))
+        replStr += 'New image: {newpicLink}\nOld image: {oldpicLink}\n(id:{newid})\n\n'
+        prStr = replStr.format(**impr)
+        theFile.write(prStr)
     else:
-        theFile.write('starter building')
-    theFile.write('\nUpgrade duration: {} hours\nUnlocked by: '.format(impr['time']))
-    if type(impr['unlockedBy']) is list:
-        theFile.write('{} level {}\n'.format(*impr['unlockedBy']))
-    else:
-        theFile.write(impr['unlockedBy'] + '\n')
-    if impr['buildUnlocks'] != 'none':
-        if len(impr['buildUnlocks']) > 0:
-            theFile.write('Buildings unlocked: {}\n'.format(', '.join([x[0] for x in impr['buildUnlocks']])))
-    if impr['bonus'] != 'none': theFile.write('Bonus: {} +{}\n'.format(*impr['bonus']))
-    if impr['custUnlocks'] != 'none':
-        theFile.write('Customers unlocked: {}\n'.format(', '.join(['{} ({})'.format(*x) for x in impr['custUnlocks']])))
-    theFile.write('Image link: {} (id:{})\n\n'.format(impr['picLink'], str(impr['id'])))
+        theFile.write('{}, level {}\n{}\n'.format(impr['name'], impr['level'], impr['description']))
+        theFile.write('Cost to unlock this level: ')
+        if len(impr['upgradeCost']) > 0:
+            theFile.write('{:,} {}'.format(*impr['upgradeCost']))
+        else:
+            theFile.write('starter building')
+        theFile.write('\nUpgrade duration: {} hours\nUnlocked by: '.format(impr['time']))
+        if type(impr['unlockedBy']) is list:
+            theFile.write('{} level {}\n'.format(*impr['unlockedBy']))
+        else:
+            theFile.write(impr['unlockedBy'] + '\n')
+        if impr['buildUnlocks'] != 'none':
+            if len(impr['buildUnlocks']) > 0:
+                theFile.write('Buildings unlocked: {}\n'.format(', '.join([x[0] for x in impr['buildUnlocks']])))
+        if impr['bonus'] != 'none': theFile.write('Bonus: {} +{}\n'.format(*impr['bonus']))
+        if impr['custUnlocks'] != 'none':
+            theFile.write('Customers unlocked: {}\n'.format(', '.join(['{} ({})'.format(*x) for x in
+                                                                       impr['custUnlocks']])))
+        theFile.write('Image link: {} (id:{})\n\n'.format(impr['picLink'], str(impr['id'])))
 
 def prRecUnlock(modType, recUnlock, theFile):
-    theFile.write('%s\nTo unlock %s, craft %d %s\n(id:%d)\n\n' %
-    (modType, recUnlock['itemUnlocked'], recUnlock['itemToCraft'][1], recUnlock['itemToCraft'][0], recUnlock['id']) )
+    if modType == 'change':
+        replStr = 'New: to unlock {newitemUnlocked}, craft {newitemToCraft[1]} {newitemToCraft[0]}\n'
+        replStr += 'Old: to unlock {olditemUnlocked}, craft {olditemToCraft[1]} {olditemToCraft[0]}\n(id:{newid})\n\n'
+        theFile.write(replStr.format(**recUnlock))
+    else:
+        theFile.write('To unlock %s, craft %d %s\n(id:%d)\n\n' %
+        (recUnlock['itemUnlocked'], recUnlock['itemToCraft'][1], recUnlock['itemToCraft'][0], recUnlock['id']) )
 
 def prAsset(modType, asset, theFile):
-    theFile.write("%s\nText: %s\nLocations referencing this text in the static dump:\n" % (modType, asset['text']))
-    for place in asset['locationsUsed']:
-        theFile.write('[' + ']['.join([ str(x) for x in place]) + ']\n')
-    theFile.write("(id:%d)\n\n" % asset['id'])
+    if modType == 'change':
+        replStr = 'New text: {newtext}\nOld text: {oldtext}\nNew locations in SD:\n'
+        for loc in asset['newlocationsUsed']:
+            replStr += '[' + ']['.join([ str(x) for x in loc ]) + ']\n'
+        replStr += 'Old locations in SD:\n'
+        for loc in asset['oldlocationsUsed']:
+            replStr += '[' + ']['.join([ str(x) for x in loc ]) + ']\n'
+        replStr += '(id:{newid})\n\n'
+        prStr = replStr.format(**asset)
+        theFile.write(prStr)
+    else:
+        theFile.write("Text: %s\nLocations referencing this text in the static dump:\n" % (asset['text']))
+        for place in asset['locationsUsed']:
+            theFile.write('[' + ']['.join([ str(x) for x in place ]) + ']\n')
+        theFile.write("(id:%d)\n\n" % asset['id'])
 
 def prItem(modType, item, theFile):
-    theFile.write("%s\n%s, level %d\nCategory: %s\nPrice: %d\nCraft xp: %d\nSell xp: %d\n" %
-    (modType, item['name'], item['level'], item['type'], item['value'], item['craftXP'], item['craftXP']) )
-    theFile.write("Coupon cost to buy back: %d\nImage link: %s (id:%d)\n\n" %
-                  (item['repairCost'], item['picLink'], item['id']) )
+    if modType == 'change':
+        textKeys = [['Level', 'newlevel', 'oldlevel'],
+                    ['Category', 'newtype', 'oldtype'],
+                    ['Price', 'newvalue', 'oldvalue'],
+                    ['Craft XP', 'newcraftXP', 'oldcraftXP'],
+                    ['Sell XP', 'newsellXP', 'oldsellXP'],
+                    ['Coupon repair cost', 'newrepairCost', 'oldrepairCost']]
+        nameLength = len(item['newname']) + 2
+        replStr = '{:<20}{:<%d}{:<}\n' % nameLength
+        header = replStr.format('', 'New', 'Old')
+        prStr = header
+        prStr += 'Name                %s  %s\n' % (item['newname'], item['oldname'])
+        for x in textKeys:
+            prStr += replStr.format(x[0], item[x[1]], item[x[2]])
+        prStr += 'New image: {newpicLink}\nOld image: {oldpicLink}\n(id:{newid})\n\n'.format(**item)
+        theFile.write(prStr)
+    else:
+        theFile.write("%s, level %d\nCategory: %s\nPrice: %d\nCraft xp: %d\nSell xp: %d\n" %
+        (item['name'], item['level'], item['type'], item['value'], item['craftXP'], item['sellXP']) )
+        theFile.write("Coupon cost to buy back: %d\nImage link: %s (id:%d)\n\n" %
+                      (item['repairCost'], item['picLink'], item['id']) )
 
 def prRecipe(modType, rec, theFile):
-    ingrs = '\n\t'.join('x '.join([str(x[0]), x[1]]) for x in rec['ingredients']) if type(rec['ingredients']) is list\
-        else 'none'
-    replStr = '{0}\n%s\nWorker: {madeBy}\nStation: {1}\nIngredients:\n\t{2}\nCraft speed: {craftTime}\n' % rec['name']
-    replStr += 'Category: {type} (id:{id})\n\n'
-    prStr = replStr.format(modType, ' level '.join(str(x) for x in rec['madeOn']), ingrs, **rec)
-    theFile.write(prStr)
+    if modType == 'change':
+        textKeys = [['Name', 'newname', 'oldname'],
+                    ['Category', 'newtype', 'oldtype'],
+                    ['Worker', 'newmadeBy', 'oldmadeBy'],
+                    ['Craft speed', 'newcraftTime', 'oldcraftTime']]
+        nameLength = max(len(rec['newname']), len(rec['newmadeBy'])) + 2
+        replStr = '{:<13}{:<%d}{:<}\n' % nameLength
+        header = replStr.format('', 'New', 'Old')
+        prStr = header
+        for x in textKeys:
+            prStr += replStr.format(x[0], rec[x[1]], rec[x[2]])
+        replStr = 'New station: {0}\nOld station: {1}\nNew craft speed:{newcraftTime}\nOld craft speed:{oldcraftTime}\n'
+        replStr += 'New ingredients:\n\t{2}\nOld ingredients:\n\t{3}\n(id:{newid})\n\n'
+        newIngrs = '\n\t'.join('x '.join([str(x[0]), x[1]]) for x in rec['newingredients']) if\
+            type(rec['newingredients']) is list else 'none'
+        oldIngrs = '\n\t'.join('x '.join([str(x[0]), x[1]]) for x in rec['oldingredients']) if\
+            type(rec['oldingredients']) is list else 'none'
+        prStr += replStr.format(' level '.join(str(x) for x in rec['newmadeOn']),
+                                ' level '.join(str(x) for x in rec['oldmadeOn']), newIngrs, oldIngrs, **rec)
+        theFile.write(prStr)
+    else:
+        ingrs = '\n\t'.join('x '.join([str(x[0]), x[1]]) for x in rec['ingredients']) if type(rec['ingredients']) is\
+                                                                                         list else 'none'
+        replStr = '%s\nCategory: {type}\nWorker: {madeBy}\nStation: {0}\nCraft speed: {craftTime}\n' % rec['name']
+        replStr += 'Ingredients:\n\t{1}\n(id:{id})\n\n'
+        prStr = replStr.format(' level '.join(str(x) for x in rec['madeOn']), ingrs, **rec)
+        theFile.write(prStr)
 
 def prModule(modType, module, theFile):
-    unlck = module['unlockedBy'] if module['unlockedBy'] == 'none' else module['unlockedBy'][0]
-    theFile.write("%s\n%s, tier %d\nUnlocked at level %d\nMax buyable with gold: %d\nHammer cost per level: %d\n" %
-    (modType, module['name'], module['tier'], module['levelReq'], module['maxBuyable'], module['hammerCost']) )
-    theFile.write("Unlocked by: %s\nImage link: %s\n" % (unlck, module['picLink']) )
-    spacerList = ["{:<8}{:<9}", "{:<10}"]
-    headers = ['Level', 'Gold cost', 'Build time']
-    appeals = False
-    if module['appeals'] is not None:
-        appeals = True
-        spacerList.append("{:<6}")
-        headers.append('Appeal')
-    bonuses = 0
-    for bonus in module['bonuses']:
-        bonuses += 1
-        if len(module['bonuses']) == bonuses:
-            spacerList.append("{:<}")
-        else:
-            spacerList.append("{:<" + str(len(bonus[0])) + "}")
-        headers.append(bonus[0])
-    spacerLine = '\t'.join(spacerList)
-    theFile.write(spacerLine.format(*headers) + '\n')
-    spacerList[0] = "{:<8}{:<9,}"
-    spacerLine = '\t'.join(spacerList)
-    if module['times'] is not None:
-        for i in xrange(len(module['times'])):
-            if module['times'][i] < 3600:
-                time = '{}m'.format(module['times'][i]/60)
-            elif module['times'][i] < 86400:
-                time = '{}h'.format(module['times'][i]/3600)
+    if modType == 'change':
+        textKeys = [['Name', 'newname', 'oldname'],
+                    ['Tier', 'newtier', 'oldtier'],
+                    ['Level unlocked', 'newlevelReq', 'oldlevelReq'],
+                    ['Max w/gold', 'newmaxBuyable', 'oldmaxBuyable'],
+                    ['Hammer cost', 'newhammerCost', 'oldhammerCost'],
+                    ['Unlocked by', 'newunlockedBy', 'oldunlockedBy']]
+        nameLength = len(module['newname']) + 2
+        replStr = '{:<16}{:<%d}{:<}\n' % nameLength
+        header = replStr.format('', 'New', 'Old')
+        prStr = header
+        for x in textKeys:
+            prStr += replStr.format(x[0], module[x[1]], module[x[2]])
+        newSpacerList = ["{:<8}{:<9}", "{:<10}"]
+        oldSpacerList = ["{:<8}{:<9}", "{:<10}"]
+        newHeaders = ['Level', 'Gold cost', 'Build time']
+        oldHeaders = ['Level', 'Gold cost', 'Build time']
+        newAppeals = False
+        oldAppeals = False
+        newBonuses = 0
+        oldBonuses = 0
+        if module['newappeals'] is not None:
+            newAppeals = True
+            newSpacerList.append("{:<6}")
+            newHeaders.append('Appeal')
+        if module['oldappeals'] is not None:
+            oldAppeals = True
+            oldSpacerList.append("{:<6}")
+            oldHeaders.append('Appeal')
+        for newBonus in module['newbonuses']:
+            newBonuses += 1
+            if len(module['newbonuses']) == newBonuses: newSpacerList.append("{:<}")
+            else: newSpacerList.append("{:<" + str(len(newBonus[0])) + "}")
+            newHeaders.append(newBonus[0])
+        for oldBonus in module['oldbonuses']:
+            oldBonuses += 1
+            if len(module['oldbonuses']) == oldBonuses: oldSpacerList.append("{:<}")
+            else: oldSpacerList.append("{:<" + str(len(oldBonus[0])) + "}")
+            oldHeaders.append(oldBonus[0])
+        newSpacerLine = '\t'.join(newSpacerList)
+        oldSpacerLine = '\t'.join(oldSpacerList)
+        prStr += 'New stats\n'
+        prStr += newSpacerLine.format(*newHeaders) + '\n'
+        newSpacerList[0] = "{:<8}{:<9,}"
+        newSpacerLine = '\t'.join(newSpacerList)
+        if module['newtimes'] is not None:
+            for i in xrange(len(module['newtimes'])):
+                if module['newtimes'][i] < 3600: newTime = '{}m'.format(module['newtimes'][i]/60)
+                elif module['newtimes'][i] < 86400: newTime = '{}h'.format(module['newtimes'][i]/3600)
+                else: newTime = '{}d'.format(module['newtimes'][i]/86400)
+                newLine = [i+1, module['newgoldCosts'][i], newTime]
+                if newAppeals: newLine.append(module['newappeals'][i])
+                if newBonuses: newLine += [x[1][i] for x in module['newbonuses']]
+                prStr += newSpacerLine.format(*newLine) + '\n'
+        prStr += 'Old stats\n'
+        prStr += oldSpacerLine.format(*oldHeaders) + '\n'
+        oldSpacerList[0] = "{:<8}{:<9,}"
+        oldSpacerLine = '\t'.join(oldSpacerList)
+        if module['oldtimes'] is not None:
+            for i in xrange(len(module['oldtimes'])):
+                if module['oldtimes'][i] < 3600: oldTime = '{}m'.format(module['oldtimes'][i]/60)
+                elif module['oldtimes'][i] < 86400: oldTime = '{}h'.format(module['oldtimes'][i]/3600)
+                else: oldTime = '{}d'.format(module['oldtimes'][i]/86400)
+                oldLine = [i+1, module['oldgoldCosts'][i], oldTime]
+                if oldAppeals: oldLine.append(module['oldappeals'][i])
+                if oldBonuses: oldLine += [x[1][i] for x in module['oldbonuses']]
+                prStr += oldSpacerLine.format(*oldLine) + '\n'
+        prStr += 'New image: {newpicLink}\nOld image: {oldpicLink}\n(id:{newid})\n\n'.format(**module)
+        theFile.write(prStr)
+    else:
+        unlck = module['unlockedBy'] if module['unlockedBy'] == 'none' else module['unlockedBy']
+        theFile.write("%s, tier %d\nUnlocked at level %d\nMax buyable with gold: %d\nHammer cost per level: %d\n" %
+        (module['name'], module['tier'], module['levelReq'], module['maxBuyable'], module['hammerCost']) )
+        theFile.write("Unlocked by: %s\nImage link: %s\n" % (unlck, module['picLink']) )
+        spacerList = ["{:<8}{:<9}", "{:<10}"]
+        headers = ['Level', 'Gold cost', 'Build time']
+        appeals = False
+        if module['appeals'] is not None:
+            appeals = True
+            spacerList.append("{:<6}")
+            headers.append('Appeal')
+        bonuses = 0
+        for bonus in module['bonuses']:
+            bonuses += 1
+            if len(module['bonuses']) == bonuses:
+                spacerList.append("{:<}")
             else:
-                time = '{}h'.format(module['times'][i]/86400)
-            line = [i+1, module['goldCosts'][i], time]
-            if appeals: line.append(module['appeals'][i])
-            if bonuses: line += [x[1][i] for x in module['bonuses']]
-            theFile.write(spacerLine.format(*line) + '\n')
-    theFile.write('(id:{})'.format(module['id']))
-    theFile.write('\n\n')
+                spacerList.append("{:<" + str(len(bonus[0])) + "}")
+            headers.append(bonus[0])
+        spacerLine = '\t'.join(spacerList)
+        theFile.write(spacerLine.format(*headers) + '\n')
+        spacerList[0] = "{:<8}{:<9,}"
+        spacerLine = '\t'.join(spacerList)
+        if module['times'] is not None:
+            for i in xrange(len(module['times'])):
+                if module['times'][i] < 3600: time = '{}m'.format(module['times'][i]/60)
+                elif module['times'][i] < 86400: time = '{}h'.format(module['times'][i]/3600)
+                else: time = '{}d'.format(module['times'][i]/86400)
+                line = [i+1, module['goldCosts'][i], time]
+                if appeals: line.append(module['appeals'][i])
+                if bonuses: line += [x[1][i] for x in module['bonuses']]
+                theFile.write(spacerLine.format(*line) + '\n')
+        theFile.write('(id:{})\n\n'.format(module['id']))
 
 def prQuest(modType, quest, theFile):
-    theFile.write('{}\n{name}\nIntro text: "{introText}"\nOutro test: "{outroText}"\n'.format(modType, **quest) )
-    theFile.write('Unlocked at level: {shopLevelReq}\nDuration: {time} hrs\nXP per customer: {xp}\n'.format(**quest))
-    theFile.write('Reward: {}\nPrevious quest in line: {unlockedBy}\n'.format('{} {}'.format(*quest['reward']),**quest))
-    theFile.write('Customers to send: {}\nItems needed: {}\n'.format(', '.join(quest['custsNeeded']),
-                                                                     ', '.join(quest['itemsNeeded'])) )
-    theFile.write('Icon link: {picLink} (id:{id})\n\n'.format(**quest))
+    if modType == 'change':
+        textKeys = [['Name', 'newname', 'oldname'], ['Level unlocked', 'newshopLevelReq', 'oldshopLevelReq'],
+                    ['Duration', 'newtime', 'oldtime'], ['XP per customer', 'newxp', 'oldxp'],
+                    ['Reward', 'newreward', 'oldreward'], ['Previous quest', 'newunlockedBy', 'oldunlockedBy']]
+        replStr = '{:<16}{:<24}{:<}\n'
+        header = replStr.format('', 'new', 'old')
+        prStr = header
+        for x in textKeys:
+            prStr += replStr.format(x[0], quest[x[1]], quest[x[2]])
+        replStr = 'New intro text: {newintroText}\nOld intro text: {oldintroText}\nNew outro text: {newoutroText}\n'
+        replStr += 'Old outro text: {oldoutroText}\nNew customers to send: {0}\n Old customers to send: {1}\n'
+        replStr += 'New items needed: {2}\nOld items needed: {3}\nNew icon link: {newpicLink}\n'
+        replStr += 'Old icon link: {oldpicLink}\n(id:{newid})\n\n'
+        prStr += replStr.format(', '.join(quest['newcustsNeeded']), ', '.join(quest['oldcustsNeeded']),
+                                ', '.join(quest['newitemsNeeded']), ', '.join(quest['olditemsNeeded']), **quest)
+        theFile.write(prStr)
+    else:
+        theFile.write('{name}\nIntro text: "{introText}"\nOutro test: "{outroText}"\n'.format(**quest) )
+        theFile.write('Unlocked at level: {shopLevelReq}\nDuration: {time} hrs\nXP per customer: {xp}\n'.format(**quest))
+        theFile.write('Reward: {}\nPrevious quest in line: {unlockedBy}\n'.format('{} {}'.format(*quest['reward']),**quest))
+        theFile.write('Customers to send: {}\nItems needed: {}\n'.format(', '.join(quest['custsNeeded']),
+                                                                         ', '.join(quest['itemsNeeded'])) )
+        theFile.write('Icon link: {picLink} (id:{id})\n\n'.format(**quest))
 
 def prWorker(modType, worker, theFile):
-    theFile.write('{}\n{name}\nUnlocked at level {shopLevelReq}\n'.format(modType, **worker))
-    theFile.write('Cost to hire:\n{goldCost:,} gold or {couponCost} coupons\n(id:{id})\n\n'.format(**worker))
+    if modType == 'change':
+        textKeys = [['Name', 'newname', 'oldname'], ['Level unlocked', 'newshopLevelReq', 'oldshopLevelReq'],
+                    ['Gold to hire', 'newgoldCost', 'oldgoldCost'], ['Coupons to hire', 'newcouponCost',
+                                                                     'oldcouponCost']]
+        replStr = '{:18}{:<7}{:<}\n'
+        header = replStr.format('', 'new', 'old')
+        prStr = ''
+        for x in textKeys:
+            prStr += replStr.format(x[0], worker[x[1]], worker[x[2]])
+        theFile.write(header + prStr + '\n')
+    else:
+        theFile.write('{name}\nUnlocked at level {shopLevelReq}\n'.format(**worker))
+        theFile.write('Cost to hire:\n{goldCost:,} gold or {couponCost} coupons\n(id:{id})\n\n'.format(**worker))
 
 def prAchievement(modType, achievement, theFile):
-    theFile.write('{}\n{name}\n{requirement}\n'.format(modType, **achievement))
+    theFile.write('{name}\n{requirement}\n'.format(**achievement))
     if type(achievement['reward']) is list: rew = ' '.join(achievement['reward'])
     else: rew = achievement['reward']
     theFile.write('Reward: {}\n\n'.format(rew))
 
 def prCharClass(modType, cclass, theFile):
-    replString = '{}\n'
-    if cclass['name'] == 'none': replString += '(npc)\n'
-    else: replString += '{name}\n'
-    if cclass['description'] != 'none': replString += 'Description: {description}\n'
-    if type(cclass['klashItems']) is not maskList: replString += '{klashItems}'
-    else: replString += 'Equipable in klash: {}'.format(', '.join(cclass['klashItems']))
-    replString += '\nIcon link: {icon}\nFull image: {fullPic} (id:{id})\n\n'
-    prString = replString.format(modType, **cclass)
-    theFile.write(prString)
+    if modType == 'change':
+        replString = 'Name'
+        if cclass['newname'] == cclass['oldname']: replString += ': {newname}\n'
+        else: replString += ' new/old:\t{newname}\t{oldname}\n'
+        if cclass['newdescription'] == cclass['olddescription']: replString += 'Description: {newdescription}\n'
+        else: replString += 'New description: {newdescription}\nOld description: {olddescription}\n'
+        if cclass['newklashItems'] == cclass['oldklashItems']: replString += 'Klash items: {newklashItems}\n'
+        else: replString += 'New klash items: {newklashItems}\nOld klash items: {oldklashItems}\n'
+        if cclass['newicon'] == cclass['oldicon']: replString += 'Icon link: {newicon}\n'
+        else: replString += 'New icon: {newicon}\nOld icon: {oldicon}\n'
+        if cclass['newfullPic'] == cclass['oldfullPic']: replString += 'Full image: {newfullPic}\n'
+        else: replString += 'New full image: {newfullPic}\nOld full image: {oldfullPic}\n'
+        replString += '(id:{newid})\n\n'
+        theFile.write(replString.format(**cclass))
+    else:
+        replString = ''
+        if cclass['name'] == 'none': replString += '(npc)\n'
+        else: replString += '{name}\n'
+        if cclass['description'] != 'none': replString += 'Description: {description}\n'
+        if type(cclass['klashItems']) is not maskList: replString += '{klashItems}'
+        else: replString += 'Equipable in klash: {}'.format(', '.join(cclass['klashItems']))
+        replString += '\nIcon link: {icon}\nFull image: {fullPic} (id:{id})\n\n'
+        prString = replString.format(**cclass)
+        theFile.write(prString)
 
 def prFameLevel(modType, fameLevels, theFile):
-    # for this, I want to have it take all the new fame levels at once and write them; one entry per level would be weird
-    # so that's the plan once I come back to this
-    prStr = '{}\nLevel\tXP for next level\n'.format(modType)
+    prStr = 'Level\tXP from previous level\n'
     prStr += '\n'.join(['{:<5}\t{:,}'.format(*x) for x in fameLevels])
     theFile.write(prStr + '\n\n')
 
 def prCustLevelValue(modType, cust, theFile):
-    theFile.write('{}\nLevel: {level}, value: {value:,}\n\n'.format(modType, **cust))
+    if modType == 'change':
+        theFile.write('{:<7}{:<11}{}'.format('Level','new value','old value'))
+        theFile.write('{:<7}{:,<11}{:,}'.format(cust['newLevel'], cust['newvalue'], cust['oldvalue']))
+    else:
+        theFile.write('Level: {level}, value: {value:,}\n\n'.format(**cust))
 
 def prInfo(printObj=0, outpFile=0):
     printInfoDict = {'customers':prCustomer, 'hunts':prHunt, 'improvements':prImprovement, 'fame_levels':prFameLevel,
@@ -229,6 +476,7 @@ def prInfo(printObj=0, outpFile=0):
     if printObj == 0: return printInfoDict.keys()
 
     prType = printObj[0]
+    outpFile.write('{}\n'.format(printObj[1]))
     printInfoDict[prType](printObj[1], printObj[2], outpFile)
 
 def getInfo(change=0, newSD=0):
@@ -634,7 +882,7 @@ def getInfo(change=0, newSD=0):
         outputModule = {'name':'', 'tier':newModule['power'], 'goldCosts':newModule['costs'],
                         'hammerCost':newModule['hammer_cost'], 'times':newModule['build_times'],
                         'maxBuyable':newModule['maximum'], 'levelReq':newModule['unlock_fame_level'],
-                        'appeals':newModule['shop_appeals'], 'unlockedBy':[], 'bonuses':[],
+                        'appeals':newModule['shop_appeals'], 'unlockedBy':'', 'bonuses':[],
                         'picLink':cdnBase+newModule['icon'], 'id':newModule['id']}
         # get the name
         for asset in assets:
@@ -649,7 +897,7 @@ def getInfo(change=0, newSD=0):
                     pmodNameID = mod['name_id']
                     # and get the name from assets
                     for asset in assets:
-                        if asset['id'] == pmodNameID: outputModule['unlockedBy'] = [asset['value'], mod['power']]
+                        if asset['id'] == pmodNameID: outputModule['unlockedBy'] = asset['value']
         else: outputModule['unlockedBy'] = 'none'
         # grab all the bonuses; only one of 'modifiers' and 'resource_modifiers' will have anything in it; if they're
         # both empty, no 'bonuses' are provided

@@ -1,5 +1,5 @@
 add
-Level	XP for next level
+Level	XP from previous level
 121  	529,301,260
 122  	571,645,360
 123  	617,376,990

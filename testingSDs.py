@@ -117,11 +117,13 @@ for x in tracker:
     print x
 
 goldTotal = 0
-chkSection = 'recipes'
+chkSection = 'improvements'
 testGetInfo = 1
 uqIDs = []
 colorAvg = []
 testPrint = 1
+nlens = 0
+rlens = 0
 #'''
 if testPrint: theFile = codecs.open('updates'+sep+chkSection+'.txt', 'w', 'utf-8')
 for x in newSD['result'][chkSection]:
@@ -139,6 +141,8 @@ for x in newSD['result'][chkSection]:
             #derp = '{!r}'.format(unicode(a[1][k]))
             #print derp.encode('utf8')
             #print '{}: {}'.format(k, derp)
+            #if k == 'name': nlens = max(len(a[1][k]), nlens)
+            #if k == 'reward': rlens = max(len('{} {}'.format(*a[1][k])), rlens)
             print "%s: %s" % (k, a[1][k])
             #print k + ': ' + unicode(a[1][k])
         if testPrint:
@@ -146,6 +150,7 @@ for x in newSD['result'][chkSection]:
         print ''
 if testPrint: theFile.close()
 #'''
+#print nlens, rlens
 # event quests, workers, achievements, special items
 assetSearch = 0
 if assetSearch:

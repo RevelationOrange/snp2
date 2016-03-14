@@ -1,95 +1,90 @@
 change
-City Hall, level 3
-The mayor requires a private meeting room.
-Cost to unlock this level: 50000 gold
-Upgrade duration: 72 hours
-Unlocked by: City Hall level 2
-Buildings unlocked: University, Bank
-Customers unlocked: Serena (bard), Rosie (bard)
-Image link: cdn.edgebee.com/static/shopr2/city/improvements/53_830x737_townhall.png (id:34)
+New: City Hall level 3
+Old: City Hall level 3
+New description: The mayor requires a private meeting room.
+Old description: The mayor requires a private meeting room.
+New unlock cost: 50,000 gold
+Old unlock cost: 50,000 gold
+New upgrade duration: 72 hours
+Old upgrade duration: 72 hours
+New unlocked by: City Hall level 2
+Old unlocked by: City Hall level 2
+New buildings unlocked: University, Bank
+Old buildings unlocked: University
+New customers unlocked: Serena (bard), Rosie (bard)
+Old customers unlocked: Serena (bard), Rosie (bard)
+New image: cdn.edgebee.com/static/shopr2/city/improvements/53_830x737_townhall.png
+Old image: cdn.edgebee.com/static/shopr2/city/improvements/53_830x737_townhall.png
+(id:34)
 
 change
-City Hall, level 3
-The mayor requires a private meeting room.
-Cost to unlock this level: 50000 gold
-Upgrade duration: 72 hours
-Unlocked by: City Hall level 2
-Buildings unlocked: University
-Customers unlocked: Serena (bard), Rosie (bard)
-Image link: cdn.edgebee.com/static/shopr2/city/improvements/53_830x737_townhall.png (id:34)
+New: Berserker Camp level 5
+Old: Berserker Camp level 5
+New description: Set up a camp for Berserkers.
+Old description: Set up a camp for Berserkers.
+New unlock cost: 250,000,000 gold
+Old unlock cost: 250,000,000 gold
+New upgrade duration: 216 hours
+Old upgrade duration: 216 hours
+New unlocked by: Berserker Camp level 4
+Old unlocked by: Berserker Camp level 4
+New customers unlocked: Terek (Berserker)
+Old customers unlocked: Terek (Berserker)
+New image: cdn.edgebee.com/static/shopr2/city/improvements/101_736x1267_camp.png
+Old image: cdn.edgebee.com/static/shopr2/city/improvements/101_736x1267_camp.png
+(id:226)
 
 change
-Berserker Camp, level 5
-Set up a camp for Berserkers.
-Cost to unlock this level: 250000000 gold
-Upgrade duration: 216 hours
-Unlocked by: Berserker Camp level 4
-Customers unlocked: Terek (Berserker)
-Image link: cdn.edgebee.com/static/shopr2/city/improvements/101_736x1267_camp.png (id:226)
+New: Far East Traders level 2
+Old: Far East Traders level 2
+New description: Trade channels to the far east.
+Old description: Trade channels to the far east.
+New unlock cost: 1,000 wakizashi
+Old unlock cost: 1,000 wakizashi
+New upgrade duration: 96 hours
+Old upgrade duration: 96 hours
+New unlocked by: Far East Traders level 1
+Old unlocked by: Far East Traders level 1
+New buildings unlocked: Trader's Guild
+New customers unlocked: Mimi (Ninja), Emi (Ninja)
+Old customers unlocked: Mimi (Ninja), Emi (Ninja)
+New image: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png
+Old image: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png
+(id:238)
 
 change
-Berserker Camp, level 5
-Set up a camp for Berserkers.
-Cost to unlock this level: 250000000 gold
-Upgrade duration: 216 hours
-Unlocked by: Berserker Camp level 4
-Customers unlocked: Terek (Berserker)
-Image link: cdn.edgebee.com/static/shopr2/city/improvements/101_736x1267_camp.png (id:226)
+New: Far East Traders level 5
+Old: Far East Traders level 5
+New description: Trade channels to the far east.
+Old description: Trade channels to the far east.
+New unlock cost: 10 evil shogun
+Old unlock cost: 10 evil shogun
+New upgrade duration: 216 hours
+Old upgrade duration: 216 hours
+New unlocked by: Far East Traders level 4
+Old unlocked by: Far East Traders level 4
+New customers unlocked: Sakura (Ninja)
+Old customers unlocked: Sakura (Ninja)
+New image: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png
+Old image: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png
+(id:241)
 
 change
-Far East Traders, level 2
-Trade channels to the far east.
-Cost to unlock this level: 1000 wakizashi
-Upgrade duration: 96 hours
-Unlocked by: Far East Traders level 1
-Buildings unlocked: Trader's Guild
-Customers unlocked: Mimi (Ninja), Emi (Ninja)
-Image link: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png (id:238)
-
-change
-Far East Traders, level 2
-Trade channels to the far east.
-Cost to unlock this level: 1000 wakizashi
-Upgrade duration: 96 hours
-Unlocked by: Far East Traders level 1
-Customers unlocked: Mimi (Ninja), Emi (Ninja)
-Image link: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png (id:238)
-
-change
-Far East Traders, level 5
-Trade channels to the far east.
-Cost to unlock this level: 10 evil shogun
-Upgrade duration: 216 hours
-Unlocked by: Far East Traders level 4
-Customers unlocked: Sakura (Ninja)
-Image link: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png (id:241)
-
-change
-Far East Traders, level 5
-Trade channels to the far east.
-Cost to unlock this level: 10 evil shogun
-Upgrade duration: 216 hours
-Unlocked by: Far East Traders level 4
-Customers unlocked: Sakura (Ninja)
-Image link: cdn.edgebee.com/static/shopr2/city/improvements/18_232x752_gros-bateau.png (id:241)
-
-change
-War College, level 5
-War college trains powerful wizards of war.
-Cost to unlock this level: 250000000 gold
-Upgrade duration: 216 hours
-Unlocked by: War College level 4
-Customers unlocked: Whitespell (War Wizard)
-Image link: cdn.edgebee.com/static/shopr2/city/improvements/51_1055x863_tour1.png (id:251)
-
-change
-War College, level 5
-War college trains powerful wizards of war.
-Cost to unlock this level: 250000000 gold
-Upgrade duration: 216 hours
-Unlocked by: War College level 4
-Customers unlocked: Whitespell (War Wizard)
-Image link: cdn.edgebee.com/static/shopr2/city/improvements/51_1055x863_tour1.png (id:251)
+New: War College level 5
+Old: War College level 5
+New description: War college trains powerful wizards of war.
+Old description: War college trains powerful wizards of war.
+New unlock cost: 250,000,000 gold
+Old unlock cost: 250,000,000 gold
+New upgrade duration: 216 hours
+Old upgrade duration: 216 hours
+New unlocked by: War College level 4
+Old unlocked by: War College level 4
+New customers unlocked: Whitespell (War Wizard)
+Old customers unlocked: Whitespell (War Wizard)
+New image: cdn.edgebee.com/static/shopr2/city/improvements/51_1055x863_tour1.png
+Old image: cdn.edgebee.com/static/shopr2/city/improvements/51_1055x863_tour1.png
+(id:251)
 
 add
 Pier, level 1
@@ -103,7 +98,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/19_165x807_quai.png 
 add
 Pier, level 2
 
-Cost to unlock this level: 10000000 gold
+Cost to unlock this level: 10,000,000 gold
 Upgrade duration: 240 hours
 Unlocked by: Pier level 1
 Bonus: seller_probability +0.01
@@ -112,7 +107,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/19_165x807_quai.png 
 add
 Pier, level 3
 
-Cost to unlock this level: 80000000 gold
+Cost to unlock this level: 80,000,000 gold
 Upgrade duration: 500 hours
 Unlocked by: Pier level 2
 Bonus: seller_probability +0.01
@@ -121,7 +116,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/19_165x807_quai.png 
 add
 Pier, level 4
 
-Cost to unlock this level: 640000000 gold
+Cost to unlock this level: 640,000,000 gold
 Upgrade duration: 668 hours
 Unlocked by: Pier level 3
 Bonus: seller_probability +0.01
@@ -139,7 +134,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/99_777x1143_monaster
 add
 Monastery, level 2
 
-Cost to unlock this level: 10000000 gold
+Cost to unlock this level: 10,000,000 gold
 Upgrade duration: 240 hours
 Unlocked by: Monastery level 1
 Bonus: resource.count_per_hour.all +0.05
@@ -148,7 +143,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/99_777x1143_monaster
 add
 Monastery, level 3
 
-Cost to unlock this level: 80000000 gold
+Cost to unlock this level: 80,000,000 gold
 Upgrade duration: 500 hours
 Unlocked by: Monastery level 2
 Bonus: resource.count_per_hour.all +0.05
@@ -157,7 +152,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/99_777x1143_monaster
 add
 Monastery, level 4
 
-Cost to unlock this level: 640000000 gold
+Cost to unlock this level: 640,000,000 gold
 Upgrade duration: 668 hours
 Unlocked by: Monastery level 3
 Bonus: resource.count_per_hour.all +0.05
@@ -175,7 +170,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/24_573x406_fair.png 
 add
 Tiltyard, level 2
 
-Cost to unlock this level: 10000000 gold
+Cost to unlock this level: 10,000,000 gold
 Upgrade duration: 240 hours
 Unlocked by: Tiltyard level 1
 Bonus: breaking_chance.war +1.0
@@ -184,7 +179,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/24_573x406_fair.png 
 add
 Tiltyard, level 3
 
-Cost to unlock this level: 80000000 gold
+Cost to unlock this level: 80,000,000 gold
 Upgrade duration: 500 hours
 Unlocked by: Tiltyard level 2
 Bonus: breaking_chance.war +1.0
@@ -193,7 +188,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/24_573x406_fair.png 
 add
 Tiltyard, level 4
 
-Cost to unlock this level: 640000000 gold
+Cost to unlock this level: 640,000,000 gold
 Upgrade duration: 668 hours
 Unlocked by: Tiltyard level 3
 Bonus: breaking_chance.war +1.0
@@ -211,7 +206,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/17_194x616_lighthous
 add
 Lighthouse, level 2
 
-Cost to unlock this level: 10000000 gold
+Cost to unlock this level: 10,000,000 gold
 Upgrade duration: 240 hours
 Unlocked by: Lighthouse level 1
 Bonus: breaking_chance.hunt +1.0
@@ -220,7 +215,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/17_194x616_lighthous
 add
 Lighthouse, level 3
 
-Cost to unlock this level: 80000000 gold
+Cost to unlock this level: 80,000,000 gold
 Upgrade duration: 500 hours
 Unlocked by: Lighthouse level 2
 Bonus: breaking_chance.hunt +1.0
@@ -229,7 +224,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/17_194x616_lighthous
 add
 Lighthouse, level 4
 
-Cost to unlock this level: 640000000 gold
+Cost to unlock this level: 640,000,000 gold
 Upgrade duration: 668 hours
 Unlocked by: Lighthouse level 3
 Bonus: breaking_chance.hunt +1.0
@@ -246,7 +241,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/58_976x887_guardhous
 add
 Bank, level 2
 
-Cost to unlock this level: 75000 gold
+Cost to unlock this level: 75,000 gold
 Upgrade duration: 24 hours
 Unlocked by: Bank level 1
 Bonus: sell_price.all +25.0
@@ -273,7 +268,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/58_976x887_guardhous
 add
 Bank, level 5
 
-Cost to unlock this level: 500000 gold
+Cost to unlock this level: 500,000 gold
 Upgrade duration: 96 hours
 Unlocked by: Bank level 4
 Bonus: sell_price_mod.all +0.01
@@ -282,7 +277,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/58_976x887_guardhous
 add
 Bank, level 6
 
-Cost to unlock this level: 2000000 gold
+Cost to unlock this level: 2,000,000 gold
 Upgrade duration: 120 hours
 Unlocked by: Bank level 5
 Bonus: sell_price_mod.all +0.01
@@ -300,7 +295,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/58_976x887_guardhous
 add
 Bank, level 8
 
-Cost to unlock this level: 500000000 gold
+Cost to unlock this level: 500,000,000 gold
 Upgrade duration: 384 hours
 Unlocked by: Bank level 7
 Bonus: sell_price_mod.all +0.02
@@ -326,7 +321,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/100_519x1118_mur_bas
 add
 South Wall, level 2
 
-Cost to unlock this level: 75000 gold
+Cost to unlock this level: 75,000 gold
 Upgrade duration: 24 hours
 Unlocked by: South Wall level 1
 Bonus: klash_bonus.fighters +0.01
@@ -353,7 +348,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/100_519x1118_mur_bas
 add
 South Wall, level 5
 
-Cost to unlock this level: 1000000 gold
+Cost to unlock this level: 1,000,000 gold
 Upgrade duration: 96 hours
 Unlocked by: South Wall level 4
 Bonus: klash_bonus.fighters +0.01
@@ -380,7 +375,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/100_519x1118_mur_bas
 add
 South Wall, level 8
 
-Cost to unlock this level: 300000000 gold
+Cost to unlock this level: 300,000,000 gold
 Upgrade duration: 168 hours
 Unlocked by: South Wall level 7
 Bonus: klash_bonus.fighters +0.01
@@ -415,7 +410,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/49_1020x818_mur-droi
 add
 East Wall, level 2
 
-Cost to unlock this level: 75000 gold
+Cost to unlock this level: 75,000 gold
 Upgrade duration: 24 hours
 Unlocked by: East Wall level 1
 Bonus: klash_bonus.rogues +0.01
@@ -442,7 +437,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/49_1020x818_mur-droi
 add
 East Wall, level 5
 
-Cost to unlock this level: 1000000 gold
+Cost to unlock this level: 1,000,000 gold
 Upgrade duration: 96 hours
 Unlocked by: East Wall level 4
 Bonus: klash_bonus.rogues +0.01
@@ -469,7 +464,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/49_1020x818_mur-droi
 add
 East Wall, level 8
 
-Cost to unlock this level: 300000000 gold
+Cost to unlock this level: 300,000,000 gold
 Upgrade duration: 168 hours
 Unlocked by: East Wall level 7
 Bonus: klash_bonus.rogues +0.01
@@ -504,7 +499,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/62_423x818_mur-gauch
 add
 West Wall, level 2
 
-Cost to unlock this level: 75000 gold
+Cost to unlock this level: 75,000 gold
 Upgrade duration: 24 hours
 Unlocked by: West Wall level 1
 Bonus: klash_bonus.spellcasters +0.01
@@ -531,7 +526,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/62_423x818_mur-gauch
 add
 West Wall, level 5
 
-Cost to unlock this level: 1000000 gold
+Cost to unlock this level: 1,000,000 gold
 Upgrade duration: 96 hours
 Unlocked by: West Wall level 4
 Bonus: klash_bonus.spellcasters +0.01
@@ -558,7 +553,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/62_423x818_mur-gauch
 add
 West Wall, level 8
 
-Cost to unlock this level: 300000000 gold
+Cost to unlock this level: 300,000,000 gold
 Upgrade duration: 168 hours
 Unlocked by: West Wall level 7
 Bonus: klash_bonus.spellcasters +0.01
@@ -593,7 +588,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.p
 add
 North Wall, level 2
 
-Cost to unlock this level: 200000 gold
+Cost to unlock this level: 200,000 gold
 Upgrade duration: 24 hours
 Unlocked by: North Wall level 1
 Bonus: klash_bonus.all +0.01
@@ -620,7 +615,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.p
 add
 North Wall, level 5
 
-Cost to unlock this level: 2000000 gold
+Cost to unlock this level: 2,000,000 gold
 Upgrade duration: 96 hours
 Unlocked by: North Wall level 4
 Bonus: klash_bonus.all +0.01
@@ -647,7 +642,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.p
 add
 North Wall, level 8
 
-Cost to unlock this level: 600000000 gold
+Cost to unlock this level: 600,000,000 gold
 Upgrade duration: 168 hours
 Unlocked by: North Wall level 7
 Bonus: klash_bonus.all +0.01
@@ -656,7 +651,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.p
 add
 North Wall, level 9
 
-Cost to unlock this level: 1000 necromancer
+Cost to unlock this level: 1,000 necromancer
 Upgrade duration: 192 hours
 Unlocked by: North Wall level 8
 Bonus: klash_bonus.all +0.01
@@ -665,7 +660,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/46_582x724_mur_top.p
 add
 North Wall, level 10
 
-Cost to unlock this level: 1000 ring of kings
+Cost to unlock this level: 1,000 ring of kings
 Upgrade duration: 240 hours
 Unlocked by: North Wall level 9
 Bonus: klash_bonus.all +0.02
@@ -682,7 +677,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/54_776x831_traders-g
 add
 Trader's Guild, level 2
 
-Cost to unlock this level: 35000000 gold
+Cost to unlock this level: 35,000,000 gold
 Upgrade duration: 168 hours
 Unlocked by: Trader's Guild level 1
 Image link: cdn.edgebee.com/static/shopr2/city/improvements/54_776x831_traders-guild.png (id:323)
@@ -698,7 +693,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/54_776x831_traders-g
 add
 Trader's Guild, level 4
 
-Cost to unlock this level: 1000 megalixir
+Cost to unlock this level: 1,000 megalixir
 Upgrade duration: 504 hours
 Unlocked by: Trader's Guild level 3
 Image link: cdn.edgebee.com/static/shopr2/city/improvements/54_776x831_traders-guild.png (id:325)
@@ -714,7 +709,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermessh
 add
 Shrine, level 2
 
-Cost to unlock this level: 100000 gold
+Cost to unlock this level: 100,000 gold
 Upgrade duration: 72 hours
 Unlocked by: Shrine level 1
 Bonus: daily_group_login.krowns +5.0
@@ -741,7 +736,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermessh
 add
 Shrine, level 5
 
-Cost to unlock this level: 3000000 gold
+Cost to unlock this level: 3,000,000 gold
 Upgrade duration: 192 hours
 Unlocked by: Shrine level 4
 Bonus: daily_group_login.krowns +5.0
@@ -759,7 +754,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermessh
 add
 Shrine, level 7
 
-Cost to unlock this level: 1000 amulet of evil protection
+Cost to unlock this level: 1,000 amulet of evil protection
 Upgrade duration: 288 hours
 Unlocked by: Shrine level 6
 Bonus: daily_group_login.krowns +5.0
@@ -768,7 +763,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/13_290x1309_fermessh
 add
 Shrine, level 8
 
-Cost to unlock this level: 500000000 gold
+Cost to unlock this level: 500,000,000 gold
 Upgrade duration: 288 hours
 Unlocked by: Shrine level 7
 Bonus: daily_group_login.krowns +5.0
@@ -830,7 +825,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/105_1752x104_green_m
 add
 Fighters Guild, level 2
 
-Cost to unlock this level: 75000 gold
+Cost to unlock this level: 75,000 gold
 Upgrade duration: 24 hours
 Unlocked by: Fighters Guild level 1
 Bonus: klash_merc_max.fighters +100.0
@@ -857,7 +852,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/105_1752x104_green_m
 add
 Fighters Guild, level 5
 
-Cost to unlock this level: 1000000 gold
+Cost to unlock this level: 1,000,000 gold
 Upgrade duration: 96 hours
 Unlocked by: Fighters Guild level 4
 Bonus: klash_merc_max.fighters +1500.0
@@ -884,7 +879,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/105_1752x104_green_m
 add
 Fighters Guild, level 8
 
-Cost to unlock this level: 500000000 gold
+Cost to unlock this level: 500,000,000 gold
 Upgrade duration: 168 hours
 Unlocked by: Fighters Guild level 7
 Bonus: klash_merc_max.fighters +10000.0
@@ -901,7 +896,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/104_1634x116_red_mer
 add
 Rogues Guild, level 2
 
-Cost to unlock this level: 75000 gold
+Cost to unlock this level: 75,000 gold
 Upgrade duration: 24 hours
 Unlocked by: Rogues Guild level 1
 Bonus: klash_merc_max.rogues +100.0
@@ -928,7 +923,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/104_1634x116_red_mer
 add
 Rogues Guild, level 5
 
-Cost to unlock this level: 1000000 gold
+Cost to unlock this level: 1,000,000 gold
 Upgrade duration: 96 hours
 Unlocked by: Rogues Guild level 4
 Bonus: klash_merc_max.rogues +1500.0
@@ -955,7 +950,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/104_1634x116_red_mer
 add
 Rogues Guild, level 8
 
-Cost to unlock this level: 500000000 gold
+Cost to unlock this level: 500,000,000 gold
 Upgrade duration: 168 hours
 Unlocked by: Rogues Guild level 7
 Bonus: klash_merc_max.rogues +10000.0
@@ -972,7 +967,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/106_1830x138_blue_me
 add
 Spellcasters Guild, level 2
 
-Cost to unlock this level: 75000 gold
+Cost to unlock this level: 75,000 gold
 Upgrade duration: 24 hours
 Unlocked by: Spellcasters Guild level 1
 Bonus: klash_merc_max.spellcasters +100.0
@@ -999,7 +994,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/106_1830x138_blue_me
 add
 Spellcasters Guild, level 5
 
-Cost to unlock this level: 1000000 gold
+Cost to unlock this level: 1,000,000 gold
 Upgrade duration: 96 hours
 Unlocked by: Spellcasters Guild level 4
 Bonus: klash_merc_max.spellcasters +1500.0
@@ -1026,7 +1021,7 @@ Image link: cdn.edgebee.com/static/shopr2/city/improvements/106_1830x138_blue_me
 add
 Spellcasters Guild, level 8
 
-Cost to unlock this level: 500000000 gold
+Cost to unlock this level: 500,000,000 gold
 Upgrade duration: 168 hours
 Unlocked by: Spellcasters Guild level 7
 Bonus: klash_merc_max.spellcasters +10000.0
