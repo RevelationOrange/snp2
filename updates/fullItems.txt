@@ -1,0 +1,1432 @@
+new version
+		Rising Sun (Level 0)
+Worker                none
+Workstation           n o
+Sell Price            55,000
+Crafting XP           1
+Selling XP            1
+Ingredients           --
+Crafting Speed        none
+Category              rare resources
+Unlocks               --
+Unlocked by           --
+Needed for recipes    planet cutter, sky dragoon armor, ancient helmet, explorer boots, flying shoes, electrifying tiara, guardian tall shield, apocalypscion, vicious crossbow, eternal flute, twilight, staff of destruction, ring of kings, atmosring, rising dragon, staraxe
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/rareitem_rising_sun.png
+(id:513)
+
+new version
+		war priest's mace (Level 12)
+Worker                Carpenter
+Workstation           Quality Sawbench 1
+Sell Price            6,800
+Crafting XP           546
+Selling XP            2,184
+Ingredients           1x dark paladin hammer
+                      4x Elfwood Sticks
+                      2x Ironwood
+Crafting Speed        Very Short
+Category              maces
+Unlocks               transmundane hammer (68x)
+Unlocked by           crushing fist (80x)
+Needed for recipes    --
+Needed for quests     Dizzy Gloats, Wolf Riders Riding
+Needed for buildings  Fighters Guild 7 (400x)
+Picture link          cdn.edgebee.com/static/shopr2/items/WM_warpriestmace.png
+(id:392)
+
+new version
+		Long Sword (Level 4)
+Worker                Blacksmith
+Workstation           Iron Anvil 3
+Sell Price            280
+Crafting XP           9
+Selling XP            36
+Ingredients           7x Iron Ore
+                      2x Raw Leather
+Crafting Speed        Medium
+Category              swords
+Unlocks               claymore (48x)
+Unlocked by           Rapier (32x)
+Needed for recipes    lonewolf, excalibur
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WS_longsword.png
+(id:4)
+
+new version
+		claymore (Level 5)
+Worker                Blacksmith
+Workstation           Iron Anvil 4
+Sell Price            395
+Crafting XP           15
+Selling XP            60
+Ingredients           8x Iron Ore
+                      4x Raw Leather
+Crafting Speed        Short
+Category              swords
+Unlocks               highlander (48x)
+Unlocked by           Long Sword (48x)
+Needed for recipes    --
+Needed for quests     Mushrhum Rampage 2
+Needed for buildings  South Wall 4 (300x)
+Picture link          cdn.edgebee.com/static/shopr2/items/WS_claymore.png
+(id:5)
+
+new version
+		warrior's omen (Level 20)
+Worker                Leather-worker
+Workstation           Fine Cutting Table 5
+Sell Price            690,000
+Crafting XP           92,002
+Selling XP            368,008
+Ingredients           1x samurai's armor
+                      5x perfect leather
+                      1x Shadow Essence
+                      10x Steel Rods
+                      6x Mithril Lumps
+                      4x Raw Leather
+Crafting Speed        Long
+Category              armor
+Unlocks               shadow armor (100x)
+Unlocked by           samurai's armor (128x)
+Needed for recipes    shadow armor
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/AM_roninarmor.png
+(id:129)
+
+new version
+		Soldier's Sword (Level 7)
+Worker                Blacksmith
+Workstation           Steel Anvil 2
+Sell Price            1,100
+Crafting XP           53
+Selling XP            212
+Ingredients           3x Steel Rods
+                      5x Iron Ore
+Crafting Speed        Very Short
+Category              swords
+Unlocks               wakizashi (60x)
+Unlocked by           highlander (60x)
+Needed for recipes    --
+Needed for quests     Phantom Shield
+Needed for buildings  Fighters Guild 4 (300x)
+Picture link          cdn.edgebee.com/static/shopr2/items/WS_soldiersword.png
+(id:8)
+
+new version
+		mana Potion (Level 6)
+Worker                Sorceress
+Workstation           Small Cauldron 5
+Sell Price            2,000
+Crafting XP           82
+Selling XP            328
+Ingredients           1x vial of Mana
+                      2x Oil
+                      4x Glass
+Crafting Speed        Short
+Category              potions
+Unlocks               cooling aid (48x)
+Unlocked by           brisk Beverage (48x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  Shrine 4 (300x)
+Picture link          cdn.edgebee.com/static/shopr2/items/UP_rebirthpotion.png
+(id:265)
+
+new version
+		wakizashi (Level 8)
+Worker                Blacksmith
+Workstation           Steel Anvil 2
+Sell Price            1,500
+Crafting XP           82
+Selling XP            328
+Ingredients           4x Steel Rods
+Crafting Speed        Medium
+Category              swords
+Unlocks               zhanmadao (60x)
+Unlocked by           Soldier's Sword (60x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  Far East Traders 2 (1000x)
+Picture link          cdn.edgebee.com/static/shopr2/items/WS_wakizashi.png
+(id:10)
+
+new version
+		seed of skill (Level 14)
+Worker                Druid
+Workstation           Mystical Cauldron 2
+Sell Price            190,000
+Crafting XP           17,735
+Selling XP            70,940
+Ingredients           3x skill seedling
+                      4x Elfwood Sticks
+                      4x Gems
+                      4x Wood
+                      4x Crystals
+                      1x Shadow Essence
+Crafting Speed        Medium
+Category              herbs
+Unlocks               --
+Unlocked by           skill seedling (64x)
+Needed for recipes    codex de genèse
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/UH_seedofskill.png
+(id:256)
+
+new version
+		lonewolf (Level 15)
+Worker                Blacksmith
+Workstation           Mithril Anvil 3
+Sell Price            110,000
+Crafting XP           8,602
+Selling XP            34,408
+Ingredients           3x Mithril Lumps
+                      8x Steel Rods
+                      1x Roaring Powder
+                      5x Long Sword
+                      2x Crystals
+Crafting Speed        Long
+Category              swords
+Unlocks               --
+Unlocked by           paladin sword (20x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WS_lonewolf.png
+(id:16)
+
+new version
+		soft griffon gloves (Level 19)
+Worker                Leather-worker
+Workstation           Fine Cutting Table 5
+Sell Price            350,000
+Crafting XP           44,335
+Selling XP            177,340
+Ingredients           5x noble's gloves
+                      5x soft Gloves
+                      2x Golden Silk
+                      5x Mithril Lumps
+                      5x Gems
+                      8x Dyes
+Crafting Speed        Medium
+Category              gloves
+Unlocks               --
+Unlocked by           artisan's gloves (128x)
+Needed for recipes    shadow armor
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/GM_softgriffongloves.png
+(id:148)
+
+new version
+		megalixir (Level 20)
+Worker                Sorceress
+Workstation           Mystical Cauldron 5
+Sell Price            570,000
+Crafting XP           76,002
+Selling XP            304,008
+Ingredients           2x super potion
+                      1x Divine Leaf
+                      8x Crystals
+                      8x Glass
+                      8x Dyes
+Crafting Speed        Very Long
+Category              potions
+Unlocks               --
+Unlocked by           super potion (128x)
+Needed for recipes    enraging blade
+Needed for quests     --
+Needed for buildings  Trader's Guild 4 (1000x)
+Picture link          cdn.edgebee.com/static/shopr2/items/UP_megalixir.png
+(id:277)
+
+new version
+		cleansing staff (Level 12)
+Worker                Druid
+Workstation           Mystical Cauldron 1
+Sell Price            7,900
+Crafting XP           634
+Selling XP            2,536
+Ingredients           5x Ironwood
+                      6x Glass
+                      3x Gems
+                      6x Wood
+                      4x Elfwood Sticks
+Crafting Speed        Medium
+Category              staves
+Unlocks               sapphire staff (96x)
+Unlocked by           elemental rod (80x)
+Needed for recipes    --
+Needed for quests     Old Bones
+Needed for buildings  West Wall 7 (400x)
+                      Spellcasters Guild 7 (400x)
+Picture link          cdn.edgebee.com/static/shopr2/items/WT_cleansingstaff.png
+(id:439)
+
+new version
+		lord of darkness (Level 19)
+Worker                Tailor
+Workstation           Fine Cutting Table 5
+Sell Price            300,000
+Crafting XP           38,002
+Selling XP            152,008
+Ingredients           3x lord's robe
+                      10x beast attire
+                      2x amulet of darkness
+                      2x Demon Horn
+                      15x Fabric
+                      12x Gems
+Crafting Speed        Long
+Category              clothes
+Unlocks               plasmic robe (100x)
+Unlocked by           vest of lies (144x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/AL_lordofdarkness.png
+(id:185)
+
+new version
+		evil shogun (Level 19)
+Worker                Leather-worker
+Workstation           Fine Cutting Table 4
+Sell Price            570,000
+Crafting XP           72,202
+Selling XP            288,808
+Ingredients           5x soldier's helmet
+                      2x Shadow Essence
+                      2x evil scroll
+                      8x Mithril Lumps
+                      8x Raw Leather
+                      8x Ironwood
+Crafting Speed        Long
+Category              helmets
+Unlocks               --
+Unlocked by           opal helmet (64x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  Far East Traders 5 (10x)
+Picture link          cdn.edgebee.com/static/shopr2/items/HH_warmask.png
+(id:162)
+
+new version
+		apocalypscion (Level 20)
+Worker                Enchanter
+Workstation           Luxurious Table 5
+Sell Price            700,000
+Crafting XP           93,335
+Selling XP            373,340
+Ingredients           1x lava scroll
+                      1x darkness scroll
+                      1x earthquake scroll
+                      1x fortune scroll
+                      1x shielding scroll
+                      1x Rising Sun
+Crafting Speed        Very Long
+Category              scrolls
+Unlocks               codex de genèse (100x)
+Unlocked by           darkness scroll (160x)
+Needed for recipes    codex de genèse
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/US_apocalypscion.png
+(id:291)
+
+new version
+		epic defender (Level 18)
+Worker                Enchanter
+Workstation           Mithril Anvil 5
+Sell Price            400,000
+Crafting XP           48,002
+Selling XP            192,008
+Ingredients           3x defender
+                      5x Mithril Lumps
+                      5x Gems
+                      5x Crystals
+                      20x Raw Leather
+                      10x Ironwood
+Crafting Speed        Very Long
+Category              shields
+Unlocks               --
+Unlocked by           --
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  South Wall 10 (600x)
+Picture link          cdn.edgebee.com/static/shopr2/items/S_defender.png
+(id:549)
+
+new version
+		enraging blade (Level 21)
+Worker                Enchanter
+Workstation           Mithril Anvil 6
+Sell Price            2,400,000
+Crafting XP           336,002
+Selling XP            1,344,008
+Ingredients           1x blackblade
+                      1x megalixir
+                      1x Dark Blood
+                      5x Crystals
+Crafting Speed        Very Long
+Category              daggers
+Unlocks               --
+Unlocked by           blackblade (100x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WD_enragingblade.png
+(id:551)
+
+new version
+		staraxe (Level 21)
+Worker                Blacksmith
+Workstation           Mithril Anvil 6
+Sell Price            2,100,000
+Crafting XP           294,002
+Selling XP            1,176,008
+Ingredients           1x planet cutter
+                      1x the one ring
+                      1x Rising Sun
+                      10x Mithril Lumps
+                      10x Crystals
+Crafting Speed        Very Long
+Category              axes
+Unlocks               --
+Unlocked by           planet cutter (100x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WA_staraxe.png
+(id:552)
+
+new version
+		walking forteress (Level 21)
+Worker                Armorer
+Workstation           Mithril Anvil 6
+Sell Price            2,450,000
+Crafting XP           343,002
+Selling XP            1,372,008
+Ingredients           1x dragon plate
+                      1x ice gauntlets
+                      1x Dark Blood
+                      10x Mithril Lumps
+Crafting Speed        Very Long
+Category              heavy armor
+Unlocks               --
+Unlocked by           dragon plate (100x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/AH_walkingforteress.png
+(id:553)
+
+new version
+		shadow armor (Level 21)
+Worker                Leather-worker
+Workstation           Fine Cutting Table 6
+Sell Price            2,150,000
+Crafting XP           301,002
+Selling XP            1,204,008
+Ingredients           1x warrior's omen
+                      1x soft griffon gloves
+                      1x Dark Blood
+                      10x Crystals
+Crafting Speed        Very Long
+Category              armor
+Unlocks               --
+Unlocked by           warrior's omen (100x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/AM_shadowarmor.png
+(id:554)
+
+new version
+		plasmic robe (Level 21)
+Worker                Tailor
+Workstation           Fine Cutting Table 6
+Sell Price            2,140,000
+Crafting XP           299,602
+Selling XP            1,198,408
+Ingredients           1x grandmaster's robe
+                      1x guardian tall shield
+                      1x Dark Blood
+                      10x Gems
+Crafting Speed        Very Long
+Category              clothes
+Unlocks               --
+Unlocked by           lord of darkness (100x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/AL_plasmicrobe.png
+(id:555)
+
+new version
+		codex de genèse (Level 21)
+Worker                Sorceress
+Workstation           Luxurious Table 6
+Sell Price            2,100,000
+Crafting XP           294,002
+Selling XP            1,176,008
+Ingredients           1x apocalypscion
+                      1x seed of skill
+                      1x Dark Blood
+                      10x Gems
+Crafting Speed        Very Long
+Category              scrolls
+Unlocks               --
+Unlocked by           apocalypscion (100x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/US_genesiscodex.png
+(id:556)
+
+new version
+		angel bow (Level 21)
+Worker                Bowyer
+Workstation           Quality Sawbench 6
+Sell Price            2,540,000
+Crafting XP           355,602
+Selling XP            1,422,408
+Ingredients           1x the hurricane
+                      1x gungnir
+                      1x Dark Blood
+                      10x Crystals
+Crafting Speed        Very Long
+Category              bows
+Unlocks               --
+Unlocked by           the hurricane (100x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WB_angelbow.png
+(id:557)
+
+new version
+		death star (Level 21)
+Worker                Tinkerer
+Workstation           Luxurious Table 6
+Sell Price            2,010,000
+Crafting XP           281,402
+Selling XP            1,125,608
+Ingredients           2x mithril shuriken
+                      2x ice gauntlets
+                      1x Dark Blood
+                      10x Mithril Lumps
+Crafting Speed        Very Long
+Category              thrown
+Unlocks               --
+Unlocked by           double infinity (100x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WK_deathstar.png
+(id:558)
+
+new version
+		crystal drum (Level 21)
+Worker                Luthier
+Workstation           Quality Sawbench 6
+Sell Price            2,030,000
+Crafting XP           284,202
+Selling XP            1,136,808
+Ingredients           1x abyssal tranquility
+                      2x war drums
+                      1x Dark Blood
+                      10x Crystals
+Crafting Speed        Very Long
+Category              music
+Unlocks               --
+Unlocked by           abyssal tranquility (100x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WL_crystaldrum.png
+(id:559)
+
+new version
+		divine judgement (Level 21)
+Worker                Carpenter
+Workstation           Quality Sawbench 6
+Sell Price            2,530,000
+Crafting XP           354,202
+Selling XP            1,416,808
+Ingredients           1x dragon skull
+                      1x transmundane full helmet
+                      1x Dark Blood
+                      10x Mithril Lumps
+Crafting Speed        Very Long
+Category              maces
+Unlocks               --
+Unlocked by           dragon skull (100x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WM_divinejudgement.png
+(id:560)
+
+new version
+		staff of creation (Level 21)
+Worker                Druid
+Workstation           Mystical Cauldron 6
+Sell Price            2,340,000
+Crafting XP           327,602
+Selling XP            1,310,408
+Ingredients           1x staff of power
+                      2x mindful staff
+                      1x Dark Blood
+                      10x Crystals
+Crafting Speed        Very Long
+Category              staves
+Unlocks               --
+Unlocked by           retribution (100x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WT_staffofcreation.png
+(id:561)
+
+new version
+		rage rune (Level 21)
+Worker                Jeweler
+Workstation           Luxurious Table 6
+Sell Price            2,080,000
+Crafting XP           291,202
+Selling XP            1,164,808
+Ingredients           1x death token
+                      1x unholy talisman
+                      1x Dark Blood
+                      10x Gems
+Crafting Speed        Very Long
+Category              amulets
+Unlocks               --
+Unlocked by           death token (100x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/XP_ragerune.png
+(id:562)
+
+new version
+		Dark Blood (Level 0)
+Worker                none
+Workstation           n o
+Sell Price            100,000
+Crafting XP           1
+Selling XP            1
+Ingredients           --
+Crafting Speed        none
+Category              rare resources
+Unlocks               --
+Unlocked by           --
+Needed for recipes    enraging blade, walking forteress, shadow armor, plasmic robe, codex de genèse, angel bow, death star, crystal drum, divine judgement, staff of creation, rage rune
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/rareitem_dark_blood.png
+(id:563)
+
+new version
+		elemental wonder (Level 15)
+Worker                Tailor
+Workstation           Fine Cutting Table 3
+Sell Price            22,000
+Crafting XP           2,202
+Selling XP            8,808
+Ingredients           2x evoker's robe
+                      1x elemental pendant
+                      6x Dyes
+                      4x Gems
+                      7x Fabric
+Crafting Speed        Long
+Category              clothes
+Unlocks               cosmic apparel (100x)
+Unlocked by           sky mantle (88x)
+Needed for recipes    --
+Needed for quests     Bugging Miners 2
+Needed for buildings  War College 6 (500x)
+Picture link          cdn.edgebee.com/static/shopr2/items/AL_elementalwonder.png
+(id:181)
+
+new version
+		grandmaster's robe (Level 18)
+Worker                Tailor
+Workstation           Fine Cutting Table 5
+Sell Price            340,000
+Crafting XP           40,802
+Selling XP            163,208
+Ingredients           5x evoker's robe
+                      10x Crystals
+                      15x Fabric
+                      10x Gems
+                      10x Dyes
+                      2x Golden Silk
+Crafting Speed        Very Short
+Category              clothes
+Unlocks               --
+Unlocked by           --
+Needed for recipes    plasmic robe
+Needed for quests     --
+Needed for buildings  West Wall 10 (600x)
+Picture link          cdn.edgebee.com/static/shopr2/items/AL_cosmicapparel.png
+(id:183)
+
+new version
+		the hurricane (Level 20)
+Worker                Bowyer
+Workstation           Quality Sawbench 5
+Sell Price            640,000
+Crafting XP           85,335
+Selling XP            341,340
+Ingredients           2x fast loading arbalest
+                      5x crossbow
+                      8x Ironwood
+                      5x Mithril Lumps
+                      5x Gems
+                      1x Divine Leaf
+Crafting Speed        Very Long
+Category              bows
+Unlocks               angel bow (100x)
+Unlocked by           heavy crossbow (120x)
+Needed for recipes    angel bow
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WB_hurricane.png
+(id:313)
+
+new version
+		planet cutter (Level 20)
+Worker                Blacksmith
+Workstation           Mithril Anvil 5
+Sell Price            430,000
+Crafting XP           57,335
+Selling XP            229,340
+Ingredients           5x stone Axe
+                      10x ring of might
+                      1x Rising Sun
+                      25x Steel Rods
+                      10x Mithril Lumps
+                      8x Ironwood
+Crafting Speed        Long
+Category              axes
+Unlocks               staraxe (100x)
+Unlocked by           giant halberd (100x)
+Needed for recipes    staraxe
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WA_planetcutter.png
+(id:60)
+
+new version
+		sharpshooter (Level 5)
+Worker                Worker
+Workstation           Spacious Table 1
+Sell Price            2,200
+Crafting XP           75
+Selling XP            300
+Ingredients           5x Wood
+                      4x Elfwood Sticks
+                      3x Powder
+Crafting Speed        Medium
+Category              guns
+Unlocks               --
+Unlocked by           --
+Needed for recipes    quickdraw pistol
+Needed for quests     Snail With Mail
+Needed for buildings  East Wall 4 (300x)
+Picture link          cdn.edgebee.com/static/shopr2/items/WG_sniperrifle.png
+(id:320)
+
+new version
+		mindful staff (Level 19)
+Worker                Druid
+Workstation           Mystical Cauldron 5
+Sell Price            290,000
+Crafting XP           36,735
+Selling XP            146,940
+Ingredients           8x dryad staff
+                      8x serpent band
+                      5x Ironwood
+                      5x Gems
+                      5x Crystals
+Crafting Speed        Long
+Category              staves
+Unlocks               staff of power (160x)
+Unlocked by           phoenix baton (60x)
+Needed for recipes    staff of creation
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WT_mindfulstaff.png
+(id:451)
+
+new version
+		retribution (Level 19)
+Worker                Druid
+Workstation           Mystical Cauldron 5
+Sell Price            400,000
+Crafting XP           50,669
+Selling XP            202,676
+Ingredients           12x Elfwood Sticks
+                      12x Ironwood
+                      12x Gems
+                      5x Crystals
+                      1x Divine Leaf
+Crafting Speed        Medium
+Category              staves
+Unlocks               staff of creation (100x)
+Unlocked by           --
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WT_dryadstaff.png
+(id:453)
+
+new version
+		staff of power (Level 20)
+Worker                Enchanter
+Workstation           Mystical Cauldron 5
+Sell Price            640,000
+Crafting XP           85,335
+Selling XP            341,340
+Ingredients           15x Enchanted Staff
+                      1x Divine Leaf
+                      8x Ironwood
+                      8x Gems
+                      8x Crystals
+Crafting Speed        Very Long
+Category              staves
+Unlocks               --
+Unlocked by           mindful staff (160x)
+Needed for recipes    staff of creation
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WT_powerstaff.png
+(id:454)
+
+new version
+		arm-guard (Level 5)
+Worker                Tailor
+Workstation           Cutting Table 4
+Sell Price            600
+Crafting XP           22
+Selling XP            88
+Ingredients           6x Raw Leather
+                      3x Elfwood Sticks
+Crafting Speed        Medium
+Category              bracers
+Unlocks               war vambrace (64x)
+Unlocked by           vambrace (48x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  West Wall 4 (300x)
+Picture link          cdn.edgebee.com/static/shopr2/items/GL_vambrace.png
+(id:199)
+
+new version
+		great armor (Level 12)
+Worker                Armorer
+Workstation           Mithril Anvil 1
+Sell Price            12,000
+Crafting XP           962
+Selling XP            3,848
+Ingredients           4x Mithril Lumps
+                      5x Steel Rods
+                      4x Raw Leather
+                      7x Oil
+Crafting Speed        Medium
+Category              heavy armor
+Unlocks               lionheart (68x)
+Unlocked by           full plate (68x)
+Needed for recipes    --
+Needed for quests     Snail With Mail 2, Old Bones
+Needed for buildings  South Wall 7 (400x)
+Picture link          cdn.edgebee.com/static/shopr2/items/AH_greatarmor.png
+(id:72)
+
+new version
+		abyssal tranquility (Level 20)
+Worker                Luthier
+Workstation           Quality Sawbench 5
+Sell Price            520,000
+Crafting XP           69,335
+Selling XP            277,340
+Ingredients           1x Divine Leaf
+                      2x Abyss Shell
+                      4x Elfwood Sticks
+                      6x Ironwood
+                      10x Raw Leather
+                      3x Mithril Lumps
+Crafting Speed        Medium
+Category              music
+Unlocks               crystal drum (100x)
+Unlocked by           horn of ages (160x)
+Needed for recipes    crystal drum
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WL_abyssal.png
+(id:375)
+
+new version
+		dragon plate (Level 20)
+Worker                Armorer
+Workstation           Mithril Anvil 5
+Sell Price            1,010,000
+Crafting XP           134,669
+Selling XP            538,676
+Ingredients           5x full plate
+                      15x scale Mail
+                      1x amulet of evil protection
+                      2x Dragon Scale
+                      10x Mithril Lumps
+                      5x Crystals
+Crafting Speed        Very Long
+Category              heavy armor
+Unlocks               walking forteress (100x)
+Unlocked by           sky dragoon armor (128x)
+Needed for recipes    walking forteress
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/AH_dragonplate.png
+(id:78)
+
+new version
+		thief's mark (Level 4)
+Worker                Jeweler
+Workstation           Iron Anvil 3
+Sell Price            485
+Crafting XP           15
+Selling XP            60
+Ingredients           8x Iron Ore
+Crafting Speed        Medium
+Category              rings
+Unlocks               ring of wizardry (48x)
+Unlocked by           reactive ring (48x)
+Needed for recipes    majestic ring
+Needed for quests     --
+Needed for buildings  Bank 4 (200x)
+Picture link          cdn.edgebee.com/static/shopr2/items/XR_ringofthieves.png
+(id:483)
+
+new version
+		amulet of evil protection (Level 13)
+Worker                Jeweler
+Workstation           Luxurious Table 1
+Sell Price            190,000
+Crafting XP           16,469
+Selling XP            65,876
+Ingredients           6x Steel Rods
+                      3x Gems
+                      6x Glass
+                      2x Moon Stone
+Crafting Speed        Long
+Category              amulets
+Unlocks               --
+Unlocked by           sage amulet (40x)
+Needed for recipes    dragon plate
+Needed for quests     --
+Needed for buildings  Shrine 7 (1000x)
+Picture link          cdn.edgebee.com/static/shopr2/items/XP_amuletofevilprotection.png
+(id:468)
+
+new version
+		elemental pendant (Level 12)
+Worker                Jeweler
+Workstation           Luxurious Table 1
+Sell Price            11,000
+Crafting XP           882
+Selling XP            3,528
+Ingredients           6x Ironwood
+                      3x Gems
+                      1x Crystals
+                      5x Elfwood Sticks
+Crafting Speed        Medium
+Category              amulets
+Unlocks               pendant of thunder immunity (80x)
+Unlocked by           sage amulet (60x)
+Needed for recipes    elemental wonder
+Needed for quests     --
+Needed for buildings  North Wall 7 (750x)
+Picture link          cdn.edgebee.com/static/shopr2/items/XP_elementalpendant.png
+(id:469)
+
+new version
+		stalagmite gloves (Level 15)
+Worker                Armorer
+Workstation           Mithril Anvil 4
+Sell Price            49,000
+Crafting XP           4,902
+Selling XP            19,608
+Ingredients           5x iron gauntlets
+                      4x Crystals
+                      2x Gems
+                      3x Mithril Lumps
+                      2x Abyss Shell
+Crafting Speed        Long
+Category              gauntlets
+Unlocks               ice gauntlets (128x)
+Unlocked by           paladin's gauntlets (112x)
+Needed for recipes    rock armor
+Needed for quests     --
+Needed for buildings  Berserker Camp 6 (500x)
+Picture link          cdn.edgebee.com/static/shopr2/items/GH_stalagmitegloves.png
+(id:87)
+
+new version
+		ice gauntlets (Level 19)
+Worker                Armorer
+Workstation           Mithril Anvil 5
+Sell Price            290,000
+Crafting XP           36,735
+Selling XP            146,940
+Ingredients           8x spectacular gauntlets
+                      4x Eternal Ice
+                      6x Mithril Lumps
+                      7x Steel Rods
+                      4x Gems
+Crafting Speed        Very Long
+Category              gauntlets
+Unlocks               --
+Unlocked by           stalagmite gloves (128x)
+Needed for recipes    walking forteress, death star
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/GH_icegauntlets.png
+(id:88)
+
+new version
+		boomshaka (Level 18)
+Worker                Enchanter
+Workstation           Luxurious Table 5
+Sell Price            210,000
+Crafting XP           25,202
+Selling XP            100,808
+Ingredients           1x depth charge
+                      5x fireball scroll
+                      1x Roaring Powder
+                      5x Powder
+                      5x Mithril Lumps
+                      6x Glass
+Crafting Speed        Long
+Category              thrown
+Unlocks               --
+Unlocked by           depth charge (100x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  East Wall 10 (600x)
+Picture link          cdn.edgebee.com/static/shopr2/items/WK_boomshaka.png
+(id:347)
+
+new version
+		golden shuriken (Level 15)
+Worker                Tinkerer
+Workstation           Mithril Anvil 3
+Sell Price            33,000
+Crafting XP           3,302
+Selling XP            13,208
+Ingredients           1x shuriken
+                      5x Mithril Lumps
+                      4x Gems
+                      10x Iron Ore
+Crafting Speed        Medium
+Category              thrown
+Unlocks               mithril shuriken (128x)
+Unlocked by           flux shuriken (96x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  Far East Traders 6 (500x)
+Picture link          cdn.edgebee.com/static/shopr2/items/WK_goldenshuriken.png
+(id:348)
+
+new version
+		mithril shuriken (Level 17)
+Worker                Tinkerer
+Workstation           Mithril Anvil 5
+Sell Price            51,000
+Crafting XP           5,782
+Selling XP            23,128
+Ingredients           1x shuriken
+                      8x Mithril Lumps
+                      12x Iron Ore
+                      6x Gems
+Crafting Speed        Long
+Category              thrown
+Unlocks               double infinity (160x)
+Unlocked by           golden shuriken (128x)
+Needed for recipes    death star
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WK_mithrilshuriken.png
+(id:349)
+
+new version
+		double infinity (Level 13)
+Worker                Tinkerer
+Workstation           Spacious Table 5
+Sell Price            590,000
+Crafting XP           51,135
+Selling XP            204,540
+Ingredients           4x shuriken
+                      2x Shadow Essence
+                      2x Demon Horn
+                      4x Mithril Lumps
+                      2x Gems
+                      8x Steel Rods
+Crafting Speed        Medium
+Category              thrown
+Unlocks               death star (100x)
+Unlocked by           mithril shuriken (160x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WK_shortfuses.png
+(id:350)
+
+new version
+		death token (Level 20)
+Worker                Jeweler
+Workstation           Luxurious Table 5
+Sell Price            650,000
+Crafting XP           86,669
+Selling XP            346,676
+Ingredients           3x amulet of darkness
+                      2x talisman of fear
+                      2x Shadow Essence
+                      6x Ironwood
+                      4x Crystals
+                      6x Gems
+Crafting Speed        Long
+Category              amulets
+Unlocks               rage rune (100x)
+Unlocked by           symbol of the gods (120x)
+Needed for recipes    rage rune
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/XP_deathtoken.png
+(id:479)
+
+new version
+		dragon skull (Level 20)
+Worker                Carpenter
+Workstation           Quality Sawbench 5
+Sell Price            1,250,000
+Crafting XP           166,669
+Selling XP            666,676
+Ingredients           1x dragon tooth
+                      5x crushing bludgeon
+                      3x Dragon Scale
+                      12x Ironwood
+                      8x Mithril Lumps
+                      4x Gems
+Crafting Speed        Medium
+Category              maces
+Unlocks               divine judgement (100x)
+Unlocked by           dragon tooth (120x)
+Needed for recipes    divine judgement
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WM_dragonhead.png
+(id:400)
+
+new version
+		transmundane full helmet (Level 16)
+Worker                Armorer
+Workstation           Mithril Anvil 4
+Sell Price            16,000
+Crafting XP           1,709
+Selling XP            6,836
+Ingredients           4x Mithril Lumps
+                      9x Iron Ore
+                      4x Steel Rods
+                      8x Oil
+Crafting Speed        Long
+Category              heavy helmets
+Unlocks               ancient helmet (96x)
+Unlocked by           steel hauberk (80x)
+Needed for recipes    divine judgement
+Needed for quests     Old Bones
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/HH_mithrilhelmet.png
+(id:99)
+
+new version
+		blackblade (Level 20)
+Worker                Blacksmith
+Workstation           Mithril Anvil 5
+Sell Price            480,000
+Crafting XP           64,002
+Selling XP            256,008
+Ingredients           3x assassin's dagger
+                      1x demon blood
+                      1x Shadow Essence
+                      5x Mithril Lumps
+                      3x Gems
+Crafting Speed        Very Long
+Category              daggers
+Unlocks               enraging blade (100x)
+Unlocked by           angelwing (128x)
+Needed for recipes    enraging blade
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WD_spiderfang.png
+(id:39)
+
+new version
+		war drums (Level 10)
+Worker                Enchanter
+Workstation           Spacious Table 5
+Sell Price            140,000
+Crafting XP           9,335
+Selling XP            37,340
+Ingredients           1x drums
+                      1x Golden Silk
+Crafting Speed        Very Short
+Category              music
+Unlocks               --
+Unlocked by           flute of wonder (60x)
+Needed for recipes    crystal drum
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WL_wardrums.png
+(id:365)
+
+new version
+		elven brigandine (Level 12)
+Worker                Leather-worker
+Workstation           Fine Cutting Table 1
+Sell Price            11,000
+Crafting XP           882
+Selling XP            3,528
+Ingredients           3x gambeson
+                      8x Raw Leather
+                      3x Crystals
+                      3x Mithril Lumps
+Crafting Speed        Medium
+Category              armor
+Unlocks               reign coat (96x)
+Unlocked by           plated leather armor (80x)
+Needed for recipes    --
+Needed for quests     Not-so Admirable Eagle
+Needed for buildings  East Wall 7 (400x)
+                      Rogues Guild 7 (400x)
+Picture link          cdn.edgebee.com/static/shopr2/items/AM_elvenbrigandine.png
+(id:125)
+
+new version
+		guardian tall shield (Level 20)
+Worker                Enchanter
+Workstation           Luxurious Table 5
+Sell Price            1,000,000
+Crafting XP           133,335
+Selling XP            533,340
+Ingredients           1x shielding scroll
+                      5x kite shield
+                      8x Mithril Lumps
+                      8x Steel Rods
+                      20x Iron Ore
+                      2x Rising Sun
+Crafting Speed        Very Long
+Category              shields
+Unlocks               --
+Unlocked by           vengeful entity (144x)
+Needed for recipes    plasmic robe
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/S_guardiantallshield.png
+(id:240)
+
+new version
+		ring of kings (Level 19)
+Worker                Jeweler
+Workstation           Mithril Anvil 5
+Sell Price            440,000
+Crafting XP           55,735
+Selling XP            222,940
+Ingredients           2x majestic ring
+                      5x Mithril Lumps
+                      5x Gems
+                      4x Crystals
+                      1x Rising Sun
+Crafting Speed        Medium
+Category              rings
+Unlocks               --
+Unlocked by           --
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  North Wall 10 (1000x)
+Picture link          cdn.edgebee.com/static/shopr2/items/XR_majesticring.png
+(id:497)
+
+new version
+		atmosring (Level 19)
+Worker                Jeweler
+Workstation           Mithril Anvil 5
+Sell Price            380,000
+Crafting XP           48,135
+Selling XP            192,540
+Ingredients           5x reactive ring
+                      1x Rising Sun
+                      1x Faery's Tear
+                      2x Mithril Lumps
+                      6x Gems
+                      6x Crystals
+Crafting Speed        Long
+Category              rings
+Unlocks               --
+Unlocked by           archmage's mark (64x)
+Needed for recipes    gungnir
+Needed for quests     --
+Needed for buildings  Shrine 10 (800x)
+Picture link          cdn.edgebee.com/static/shopr2/items/XR_atmosring.png
+(id:498)
+
+new version
+		the one ring (Level 20)
+Worker                Jeweler
+Workstation           Mithril Anvil 5
+Sell Price            630,000
+Crafting XP           84,002
+Selling XP            336,008
+Ingredients           1x foundation ring
+                      1x Divine Leaf
+                      10x Mithril Lumps
+                      10x Gems
+                      10x Crystals
+Crafting Speed        Very Long
+Category              rings
+Unlocks               --
+Unlocked by           foundation ring (120x)
+Needed for recipes    staraxe
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/XR_ringofmight.png
+(id:500)
+
+new version
+		Magic Leaves (Level 5)
+Worker                Druid
+Workstation           Small Cauldron 4
+Sell Price            2,300
+Crafting XP           79
+Selling XP            316
+Ingredients           5x Wild Herbs
+                      2x Raw Leather
+                      1x Acid
+Crafting Speed        Long
+Category              herbs
+Unlocks               --
+Unlocked by           suple Dust (16x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  North Wall 4 (500x)
+Picture link          cdn.edgebee.com/static/shopr2/items/UH_restorationherbs.png
+(id:246)
+
+new version
+		gungnir (Level 20)
+Worker                Carpenter
+Workstation           Quality Sawbench 5
+Sell Price            480,000
+Crafting XP           64,002
+Selling XP            256,008
+Ingredients           5x seeking tip
+                      1x Moon Stone
+                      1x atmosring
+                      2x Ironwood
+                      2x Gems
+                      1x Crystals
+Crafting Speed        Very Long
+Category              spears
+Unlocks               twilight (80x)
+Unlocked by           adamant spear (64x)
+Needed for recipes    angel bow
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/WP_gungnir.png
+(id:425)
+
+new version
+		circus knives (Level 12)
+Worker                Tinkerer
+Workstation           Luxurious Table 1
+Sell Price            9,300
+Crafting XP           746
+Selling XP            2,984
+Ingredients           8x Iron Ore
+                      5x Steel Rods
+                      2x Mithril Lumps
+                      5x Oil
+Crafting Speed        Medium
+Category              thrown
+Unlocks               shuriken (72x)
+Unlocked by           black bombs (68x)
+Needed for recipes    --
+Needed for quests     The Abobinable
+Needed for buildings  Rogues Guild 4 (300x)
+Picture link          cdn.edgebee.com/static/shopr2/items/WK_circusknives.png
+(id:340)
+
+new version
+		unholy talisman (Level 18)
+Worker                Enchanter
+Workstation           Mystical Cauldron 4
+Sell Price            350,000
+Crafting XP           42,002
+Selling XP            168,008
+Ingredients           8x zazen amulet
+                      4x Gems
+                      2x Crystals
+                      1x Dragon Scale
+Crafting Speed        Very Long
+Category              amulets
+Unlocks               --
+Unlocked by           pyramid lace (68x)
+Needed for recipes    rage rune
+Needed for quests     --
+Needed for buildings  Dark Spire 5 (100x)
+                      Bank 9 (400x)
+Picture link          cdn.edgebee.com/static/shopr2/items/XP_unholytalisman.png
+(id:477)
+
+new version
+		Roaring Powder (Level 0)
+Worker                none
+Workstation           n o
+Sell Price            20,000
+Crafting XP           1
+Selling XP            1
+Ingredients           --
+Crafting Speed        none
+Category              rare resources
+Unlocks               --
+Unlocked by           --
+Needed for recipes    lonewolf, ebony dagger, enchanted labrys, yeti armor, mask of fear, gladiator's vambrace, vengeful entity, double shot, blackbeard, boomshaka, dragon pipes, rage token, viper band
+Needed for quests     --
+Needed for buildings  --
+Picture link          cdn.edgebee.com/static/shopr2/items/rareitem_roar_powder.png
+(id:509)
+
+new version
+		elemental top (Level 7)
+Worker                Tailor
+Workstation           Good Cutting Table 2
+Sell Price            1,400
+Crafting XP           67
+Selling XP            268
+Ingredients           6x Fabric
+                      2x Raw Leather
+                      3x Dyes
+Crafting Speed        Short
+Category              hats
+Unlocks               blazing hat (48x)
+Unlocked by           feathered hat (60x)
+Needed for recipes    --
+Needed for quests     --
+Needed for buildings  Glass Plant 9 (500x)
+                      Spellcasters Guild 4 (300x)
+Picture link          cdn.edgebee.com/static/shopr2/items/HL_elementaltop.png
+(id:213)
+

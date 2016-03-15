@@ -1,7 +1,6 @@
 import json
 from copy import deepcopy
 import snp2lib
-import math
 from os import sep
 import codecs
 
@@ -82,7 +81,7 @@ u'name_id': 27690, u'codename': u'northwall', u'id': 312, u'modifier_unlock': u'
 '''
 
 tracker = []
-targ = 'derp'
+targ = 'icebrand'
 #trail = []
 findAthing(newSD, targ, ['result'], tracker)
 
@@ -121,7 +120,7 @@ chkSection = 'improvements'
 testGetInfo = 1
 uqIDs = []
 colorAvg = []
-testPrint = 1
+testPrint = 0
 nlens = 0
 rlens = 0
 #'''
@@ -135,18 +134,20 @@ for x in newSD['result'][chkSection]:
         #for asset in newSD['result']['assets']:
         #    if asset['id'] == nameID: print asset['value'], x['worker_codename']
     if testGetInfo:
+        for j in x:
+            print "%s: %s" % (j, x[j])
         a = snp2lib.getInfo([chkSection, 'check', x], newSD)
         print a[0]
         for k in a[1]:
+            pass
             #derp = '{!r}'.format(unicode(a[1][k]))
             #print derp.encode('utf8')
             #print '{}: {}'.format(k, derp)
             #if k == 'name': nlens = max(len(a[1][k]), nlens)
             #if k == 'reward': rlens = max(len('{} {}'.format(*a[1][k])), rlens)
-            print "%s: %s" % (k, a[1][k])
+            #print "%s: %s" % (k, a[1][k])
             #print k + ': ' + unicode(a[1][k])
-        if testPrint:
-            snp2lib.prInfo([chkSection, 'test', a[1]], theFile)
+        if testPrint: snp2lib.prInfo([chkSection, 'test', a[1]], theFile)
         print ''
 if testPrint: theFile.close()
 #'''

@@ -255,13 +255,24 @@ for key in cleanDiffDict:
         elif thing[0] == 'change': cleanDiffDict[key]['changes'] += 1
         else: print 'derp!'
 
-'''
-print '\n\n{:<25}{:<7}{:<10}{}'.format('key', 'adds', 'removals', 'changes')
-for key in cleanDiffDict:
-    print '{:<25}{:<7}{:<10}{}'.format(key, cleanDiffDict[key]['adds'], cleanDiffDict[key]['removals'], cleanDiffDict[key]['changes'])
-'''
+allNewIDs = []
+itemCheckSections = {'items':['id'], 'recipes':['id', 'components'], 'improvements':['requirements'],
+                     'recipe_unlocks':['crafted_item_id', 'recipe_id'], 'quests':['party_items']}
+for section in itemCheckSections:
+    print section
+    if section in cleanDiffDict:
+        for thing in cleanDiffDict[section]['stuff']:
+            for key in itemCheckSections[section]:
+                if type(thing[1][key]) is list:
+                    for subThing in thing[1][key]:
+                        allNewIDs.append(subThing['item_id'])
+                else:
+                    allNewIDs.append(thing[1][key])
+uqIDs = list(set(allNewIDs))
+uqIDs.remove(0)
 
-#derp = 0
+cleanDiffDict['fullItems'] = {'stuff':[['new version', x] for x in uqIDs]}
+
 if showDiffs:
     checkList = snp2lib.getInfo()
     for key in cleanDiffDict:
@@ -294,6 +305,9 @@ if showDiffs:
                             change = thing[1]
                             niceThing = snp2lib.getInfo([key, thing[0], change], newSD)
                         #print key, niceThing
+                        for x in niceThing[1]:
+                            print x + ':', niceThing[1][x]
                         snp2lib.prInfo([key]+niceThing, updateFile)
+                        print ''
         else:
             print key + ':', cleanDiffDict[key], '\n'

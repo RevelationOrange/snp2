@@ -12,7 +12,7 @@ for now, it's mainly for getInfo, which will deal with customers, city improveme
 cdnBase = "cdn.edgebee.com/static/"
 cndBase = cdnBase
 
-ctimeConverter = {0:'none', 1:'Very Fast', 2:'Fast', 3:'Medium', 4:'Long',  5:'Very Long'}
+ctimeConverter = {0:'none', 1:'Very Short', 2:'Short', 3:'Medium', 4:'Long',  5:'Very Long'}
 
 # I found this solution on stack exchange, to pass a mask as an argument to a list to select which entries to return
 class maskList(list):
@@ -468,11 +468,46 @@ def prCustLevelValue(modType, cust, theFile):
     else:
         theFile.write('Level: {level}, value: {value:,}\n\n'.format(**cust))
 
+def prFullItem(modType, fullItem, theFile):
+    textKeys = [['Worker', '{madeBy}'],
+                ['Workstation', '{madeOn[0]} {madeOn[1]}'],
+                ['Sell Price', '{value:,}'],
+                ['Crafting XP', '{craftXP:,}'],
+                ['Selling XP', '{sellXP:,}'],
+                ['Ingredients', '{ingrs}'],
+                ['Crafting Speed', '{craftTime}'],
+                ['Category', '{type}'],
+                ['Unlocks', '{unlck}'],
+                ['Unlocked by', '{unlckBy}'],
+                ['Needed for recipes', '{recipes}'],
+                ['Needed for quests', '{quests}'],
+                ['Needed for buildings', '{buildings}'],
+                ['Picture link', '{picLink}']]
+    spacerStr = '{:<22}{:<}\n'
+    replStr = '\t\t%s (Level {level})\n' % fullItem['name']
+    for x in textKeys: replStr += spacerStr.format(*x)
+    replStr += '(id:{id})\n\n'
+    indentedSpacer = '\n' + ' '*22
+    if fullItem['ingredients'] == 'none': ingrs = '--'
+    else: ingrs = indentedSpacer.join([ '%dx %s' % (x[0], x[1]) for x in fullItem['ingredients'] ])
+    if fullItem['nextItem'] == '--': unlck = '--'
+    else: unlck = '%s (%dx)' % (fullItem['nextItem'][0], fullItem['nextItem'][1])
+    if fullItem['prevItem'] == '--': unlckBy = '--'
+    else: unlckBy = '%s (%dx)' % (fullItem['prevItem'][0], fullItem['prevItem'][1])
+    #if fullItem['nsfRecs'][0] == '--': recipes = '--'
+    recipes = ', '.join(fullItem['nfRecs'])
+    quests = ', '.join(fullItem['nfQuests'])
+    if fullItem['nfBuilds'][0] == '--': buildings = '--'
+    else: buildings = indentedSpacer.join([ '{} {} ({}x)'.format(*x) for x in fullItem['nfBuilds'] ])
+    prStr = replStr.format(ingrs=ingrs, unlck=unlck, unlckBy=unlckBy, recipes=recipes, quests=quests,
+                           buildings=buildings, **fullItem)
+    theFile.write(prStr)
+
 def prInfo(printObj=0, outpFile=0):
     printInfoDict = {'customers':prCustomer, 'hunts':prHunt, 'improvements':prImprovement, 'fame_levels':prFameLevel,
                      'customer_level_values':prCustLevelValue, 'recipe_unlocks':prRecUnlock, 'assets':prAsset,
                      'items':prItem, 'recipes':prRecipe, 'modules':prModule, 'quests':prQuest, 'workers':prWorker,
-                     'achievements':prAchievement, 'character_classes':prCharClass}
+                     'achievements':prAchievement, 'character_classes':prCharClass, 'fullItems':prFullItem}
     if printObj == 0: return printInfoDict.keys()
 
     prType = printObj[0]
@@ -487,7 +522,8 @@ def getInfo(change=0, newSD=0):
     # default return when given no arguments is a list of change types accepted
     if change == 0:
         return ['customers', 'hunts', 'improvements', 'fame_levels', 'customer_level_values', 'recipe_unlocks',
-                'assets', 'items', 'recipes', 'modules', 'quests', 'workers', 'achievements', 'character_classes']
+                'assets', 'items', 'recipes', 'modules', 'quests', 'workers', 'achievements', 'character_classes',
+                'fullItems']
 
     # if the main dict was passed as newSD, bypass that silly 'result' key
     if 'result' in newSD:
@@ -1070,6 +1106,62 @@ def getInfo(change=0, newSD=0):
         if newChest['type'] == 2: outputChest['prize'] = [newChest['amounts'], 'krowns']
         else: outputChest['prize'] = [newChest['amounts'], newChest['prize_uid']]
         return [change[1], outputChest]
+
+    elif changeType == 'fullItems':
+        # a fullItem will just be the id of an item, which will be used to get all possible info about the item
+        itemCheckSections = {'items':['id'], 'recipes':['id', 'components'], 'improvements':['requirements'],
+                             'recipe_unlocks':['crafted_item_id', 'recipe_id'], 'quests':['party_items']}
+        itemID = change[2]
+        for item in newSD['items']:
+            if item['id'] == itemID: itemObj = item
+        postCraftObjs = []
+        for recipe in newSD['recipes']:
+            if recipe['id'] == itemID: recipeObj = recipe
+            for ingr in recipe['components']:
+                if ingr['item_id'] == itemID: postCraftObjs.append(recipe)
+        nextItemObj = None
+        prevItemObj = None
+        for recUnlock in newSD['recipe_unlocks']:
+            if recUnlock['crafted_item_id'] == itemID: nextItemObj = recUnlock
+            if recUnlock['recipe_id'] == itemID: prevItemObj = recUnlock
+        buildingObjs = []
+        for impr in newSD['improvements']:
+            for req in impr['requirements']:
+                if req['item_id'] == itemID: buildingObjs.append(impr)
+        questObjs = []
+        for quest in newSD['quests']:
+            for i in quest['party_items']:
+                if i['item_id'] == itemID: questObjs.append(quest)
+        item = getInfo(['items', 'new version', itemObj], newSD)[1]
+        recipe = getInfo(['recipes', 'new version', recipeObj], newSD)[1]
+        postCrafts = []
+        for x in postCraftObjs: postCrafts.append(getInfo(['recipes', 'new version', x], newSD)[1])
+        if nextItemObj is not None: nextItem = getInfo(['recipe_unlocks', 'new version', nextItemObj], newSD)[1]
+        else: nextItem = '--'
+        if prevItemObj is not None: prevItem = getInfo(['recipe_unlocks', 'new version', prevItemObj], newSD)[1]
+        else: prevItem = '--'
+        buildings = []
+        for x in buildingObjs: buildings.append(getInfo(['improvements', 'new version', x], newSD)[1])
+        quests = []
+        for x in questObjs: quests.append(getInfo(['quests', 'new version', x], newSD)[1])
+        item.update(recipe)
+        if nextItem != '--': item['nextItem'] = [nextItem['itemUnlocked'], nextItem['itemToCraft'][1]]
+        else: item['nextItem'] = nextItem
+        if prevItem != '--': item['prevItem'] = prevItem['itemToCraft']
+        else: item['prevItem'] = prevItem
+        item['nfRecs'] = []
+        if len(postCrafts) > 0:
+            for x in postCrafts: item['nfRecs'].append(x['name'])
+        else: item['nfRecs'].append('--')
+        item['nfQuests'] = []
+        if len(quests) > 0:
+            for x in quests: item['nfQuests'].append(x['name'])
+        else: item['nfQuests'].append('--')
+        item['nfBuilds'] = []
+        if len(buildings) > 0:
+            for x in buildings: item['nfBuilds'].append([x['name'], x['level'], x['upgradeCost'][0]])
+        else: item['nfBuilds'].append('--')
+        return [change[1], item]
 
     else:
         return change
