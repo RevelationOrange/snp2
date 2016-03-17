@@ -1,7 +1,11 @@
 # snp2
 tools for analyzing snp2, starting with the static dump
 
-currently working on: getInfo cases are done, now I need to find and combine all info for items, since it's a bit scattered
+currently working on: nothing in particular! given two SD files, it will output complete information on all changes between them,
+including full output of the new versions of items, including any quests, buildings, and other items the item is used in
+the only case unaccounted for in the full items is items unlocked via achievements; due to the way item names are stored here, it'll be
+hard to automatically get this kind of info
+luckily it's not that big a deal, as it's unlikely a new item will be added that's unlocked through an achievement
 
 could use help with:
   modules- I don't know how footprints are stored, so if someone wants to look at that, that'd be awesome
