@@ -1,0 +1,282 @@
+test
+(npc)
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/vendorcute_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_vendor_cute_female.png (id:1)
+
+test
+(npc)
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/vendorcute_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_vendor_cute_male.png (id:2)
+
+test
+Talhia
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/vendorstandard_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_vendor_standard_female.png (id:3)
+
+test
+Edmond
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/vendorstandard_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_vendor_standard_male.png (id:4)
+
+test
+Anastasia
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/vendorshady_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_vendor_shady_female.png (id:5)
+
+test
+(npc)
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/vendorshady_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_vendor_shady_male.png (id:6)
+
+test
+(npc)
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/vendorjovial_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_vendor_jovial_female.png (id:7)
+
+test
+Billon
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/vendorjovial_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_vendor_jovial_male.png (id:8)
+
+test
+Ranger John
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/ranger_john.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/ranger_john.png (id:9)
+
+test
+Captain Gracchus
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/captain_gracchus.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/captain_gracchus.png (id:10)
+
+test
+Worker
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/worker_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/worker_female.png (id:11)
+
+test
+Worker
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/worker_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/worker_male.png (id:12)
+
+test
+Blacksmith
+Description: I am a blacksmith and I specialize in working metal objects.
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/blacksmith_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/blacksmith_male.png (id:13)
+
+test
+Armorer
+Description: I am an armorer and I craft powerful heavy armor.
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/armorer_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_armorer_female.png (id:14)
+
+test
+Tinkerer
+Description: I am a tinkerer, I build innovative contraptions and special weapons.
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/tinkerer_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_tinkerer_male.png (id:15)
+
+test
+Druid
+Description: I am a druid and I mainly focus on healing items.
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/druid_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_druid_male.png (id:16)
+
+test
+Sorceress
+Description: I am sorceress and I deal with the dark arts.
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/sorceress_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_sorceress_female.png (id:17)
+
+test
+Enchanter
+Description: I am an enchanter and I can craft the most powerful weapons!
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/enchanter_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_enchanter_male.png (id:18)
+
+test
+Carpenter
+Description: I am a carpenter and I create most wood based items.
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/carpenter_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_carpenter_female.png (id:19)
+
+test
+Bowyer
+Description: I am a bowyer, a master craftsman in all things bows.
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/bowyer_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_bowyer_female.png (id:20)
+
+test
+Luthier
+Description: I am a luthier and I create musical instruments.
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/luthier_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_luthier_male.png (id:21)
+
+test
+Leather-worker
+Description: I am a leather-worker and I create medium armor.
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/leatherworker_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_leatherworker_male.png (id:22)
+
+test
+Tailor
+Description: I am a tailor and I craft all sorts of light armor.
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/tailor_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_tailor_female.png (id:23)
+
+test
+Jeweler
+Description: I am a jeweler and I create rings and pendants.
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/jeweler_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_jeweler_male.png (id:24)
+
+test
+hunter
+Equipable in klash: axes, bows, armor, helmets, gloves, boots, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/archer_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/archer_female.png (id:25)
+
+test
+bard
+Equipable in klash: bows, music, clothes, hats, bracers, shoes, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/bard_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/bard_female.png (id:26)
+
+test
+Mercenary
+Equipable in klash: swords, maces, heavy armor, heavy helmets, gauntlets, heavy boots, shields, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/mercenary_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/mercenary_female.png (id:27)
+
+test
+Evoker
+Equipable in klash: daggers, staves, clothes, hats, bracers, shoes, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/evoker_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/evoker_male.png (id:28)
+
+test
+Engineer
+Equipable in klash: maces, guns, armor, helmets, gloves, boots, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/engineer_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_engineer_female.png (id:29)
+
+test
+Guard
+Equipable in klash: axes, spears, heavy armor, heavy helmets, gauntlets, heavy boots, shields, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/guard_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_guard_male.png (id:30)
+
+test
+Healer
+Equipable in klash: maces, staves, clothes, hats, bracers, shoes, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/healer_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_healer_female.png (id:31)
+
+test
+Thief
+Equipable in klash: daggers, thrown, armor, helmets, gloves, boots, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/thief_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_thief_male.png (id:32)
+
+test
+Barbarian
+Equipable in klash: swords, axes, maces, spears, heavy armor, heavy helmets, gauntlets, heavy boots, shields, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/barbarian_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_barbarian_female.png (id:33)
+
+test
+Illusionist
+Equipable in klash: staves, thrown, clothes, hats, bracers, shoes, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/illusionist_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_illusionist_male.png (id:34)
+
+test
+Knight
+Equipable in klash: swords, spears, heavy armor, heavy helmets, gauntlets, heavy boots, shields, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/knight_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_knight_male.png (id:35)
+
+test
+Musketeer
+Equipable in klash: swords, daggers, guns, armor, helmets, gloves, boots, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/musketeer_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_musketeer_female.png (id:36)
+
+test
+Berserker
+Equipable in klash: axes, daggers, heavy armor, heavy helmets, gauntlets, heavy boots, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/berserker_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_berserker_male.png (id:38)
+
+test
+Ninja
+Equipable in klash: swords, thrown, armor, helmets, gloves, boots, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/ninja_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_ninja_female.png (id:40)
+
+test
+Monk
+Equipable in klash: spears, clothes, hats, bracers, shoes, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/monk_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_monk_female.png (id:45)
+
+test
+Paladin
+Equipable in klash: maces, spears, heavy armor, heavy helmets, gauntlets, heavy boots, shields, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/paladin_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_paladin_male.png (id:46)
+
+test
+Singing Axe
+Equipable in klash: axes, music, armor, helmets, gloves, boots, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/singingaxe_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_singingaxe_male.png (id:47)
+
+test
+Necromancer
+Equipable in klash: daggers, staves, clothes, hats, bracers, shoes, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/necromancer_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_necromancer_male.png (id:48)
+
+test
+War Wizard
+Equipable in klash: swords, staves, heavy armor, hats, gauntlets, heavy boots, shields, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/warwizard_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_warwizard_male.png (id:49)
+
+test
+Channeler
+Equipable in klash: spears, daggers, staves, bows, clothes, hats, bracers, shoes, potions, herbs, scrolls, rings, amulets
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/channeler_female_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_channeler_female.png (id:50)
+
+test
+Chief Guard
+(not a klasher)
+Icon link: cdn.edgebee.com/static/shopr2/characters/heads/guard_male_head.png
+Full image: cdn.edgebee.com/static/shopr2/characters/full/portrait_guard_male.png (id:51)
+

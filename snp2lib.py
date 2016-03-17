@@ -207,8 +207,9 @@ def prRecUnlock(modType, recUnlock, theFile):
         replStr += 'Old: to unlock {olditemUnlocked}, craft {olditemToCraft[1]} {olditemToCraft[0]}\n(id:{newid})\n\n'
         theFile.write(replStr.format(**recUnlock))
     else:
-        theFile.write('To unlock %s, craft %d %s\n(id:%d)\n\n' %
-        (recUnlock['itemUnlocked'], recUnlock['itemToCraft'][1], recUnlock['itemToCraft'][0], recUnlock['id']) )
+        if recUnlock['itemUnlocked'] != '':
+            theFile.write('To unlock %s, craft %d %s\n(id:%d)\n\n' %
+            (recUnlock['itemUnlocked'], recUnlock['itemToCraft'][1], recUnlock['itemToCraft'][0], recUnlock['id']) )
 
 def prAsset(modType, asset, theFile):
     if modType == 'change':
@@ -492,8 +493,9 @@ def prFullItem(modType, fullItem, theFile):
     else: ingrs = indentedSpacer.join([ '%dx %s' % (x[0], x[1]) for x in fullItem['ingredients'] ])
     if fullItem['nextItem'] == '--': unlck = '--'
     else: unlck = '%s (%dx)' % (fullItem['nextItem'][0], fullItem['nextItem'][1])
-    if fullItem['prevItem'] == '--': unlckBy = '--'
-    else: unlckBy = '%s (%dx)' % (fullItem['prevItem'][0], fullItem['prevItem'][1])
+    if type(fullItem['prevItem']) is unicode or type(fullItem['prevItem']) is str: unlckBy = fullItem['prevItem']
+    elif fullItem['prevItem'] == []: unlckBy = '(starter recipe)'
+    else: unlckBy = '%s (%sx)' % (fullItem['prevItem'][0], fullItem['prevItem'][1])
     #if fullItem['nsfRecs'][0] == '--': recipes = '--'
     recipes = ', '.join(fullItem['nfRecs'])
     quests = ', '.join(fullItem['nfQuests'])
@@ -511,7 +513,7 @@ def prInfo(printObj=0, outpFile=0):
     if printObj == 0: return printInfoDict.keys()
 
     prType = printObj[0]
-    outpFile.write('{}\n'.format(printObj[1]))
+    if prType != 'fullItems': outpFile.write('{}\n'.format(printObj[1]))
     printInfoDict[prType](printObj[1], printObj[2], outpFile)
 
 def getInfo(change=0, newSD=0):
@@ -750,9 +752,9 @@ def getInfo(change=0, newSD=0):
     elif changeType == 'fame_levels':
         newShopLevels = change[2]
         outputShopLevels = []
-        print newShopLevels
+        #print newShopLevels
         for xp in newShopLevels:
-            print xp
+            #print xp
             outputShopLevels.append([newSD[changeType].index(xp)+1, xp])
         return [change[1], outputShopLevels]
 
@@ -1109,8 +1111,18 @@ def getInfo(change=0, newSD=0):
 
     elif changeType == 'fullItems':
         # a fullItem will just be the id of an item, which will be used to get all possible info about the item
-        itemCheckSections = {'items':['id'], 'recipes':['id', 'components'], 'improvements':['requirements'],
-                             'recipe_unlocks':['crafted_item_id', 'recipe_id'], 'quests':['party_items']}
+        achievementDict = {'plateoftherenown': 545, 'strong_herbs': 242, 'solaxe': 58, 'frostshuriken': 342,
+                           'belial': 74, 'grandmasterrobe': 183, 'heavyhelmet': 91, 'silverhelmet': 161,
+                           'clericalmark': 456, 'smithgloves': 144, 'masterhat': 217, 'stormpendant': 471,
+                           'retribution': 453, 'sorceryring': 485, 'compoundcrossbow': 310, 'shockdarts': 331,
+                           'blazepartisan': 417, 'phoenixflute': 372, 'greatmace': 386, 'nexus': 452, 'templarsword': 9,
+                           'dragonheart': 35, 'warriorsabaton': 105, 'knightgauntlets': 85, 'sharpshooter': 320,
+                           'blackout': 346, 'trustylance': 408, 'mithrilriviera': 424, 'selfbow': 297, 'leafbow': 303,
+                           'celestialharp': 357, 'dragonpipes': 367, 'clericrobe': 173, 'elvenvambrace': 203,
+                           'softboots': 134, 'divineleather': 124, 'ringofkings': 497, 'dusttriad': 249,
+                           'skillburr': 255, 'energydrink': 264, 'acidvial': 270, 'firestormscroll': 284,
+                           'shellscroll': 289, 'anubis': 445, 'viperband': 494, 'epicdefender': 549, 'masamune': 548,
+                           'apocaplypticstaff': 550}
         itemID = change[2]
         for item in newSD['items']:
             if item['id'] == itemID: itemObj = item
@@ -1138,8 +1150,16 @@ def getInfo(change=0, newSD=0):
         for x in postCraftObjs: postCrafts.append(getInfo(['recipes', 'new version', x], newSD)[1])
         if nextItemObj is not None: nextItem = getInfo(['recipe_unlocks', 'new version', nextItemObj], newSD)[1]
         else: nextItem = '--'
+        prevItemType = 'item'
         if prevItemObj is not None: prevItem = getInfo(['recipe_unlocks', 'new version', prevItemObj], newSD)[1]
-        else: prevItem = '--'
+        else:
+            prevItem = None
+            for achievement in newSD['achievements']:
+                if achievement['rewards'][0]['type'] == 2:
+                    if achievementDict[achievement['rewards'][0]['data']] == item['id']:
+                        prevItem = getInfo(['achievements', 'new version', achievement], newSD)[1]
+                        prevItemType = 'achievement'
+            if prevItem is None: prevItem = '--' ### check cheevo dict before setting this blank
         buildings = []
         for x in buildingObjs: buildings.append(getInfo(['improvements', 'new version', x], newSD)[1])
         quests = []
@@ -1147,7 +1167,9 @@ def getInfo(change=0, newSD=0):
         item.update(recipe)
         if nextItem != '--': item['nextItem'] = [nextItem['itemUnlocked'], nextItem['itemToCraft'][1]]
         else: item['nextItem'] = nextItem
-        if prevItem != '--': item['prevItem'] = prevItem['itemToCraft']
+        if prevItem != '--':
+            if prevItemType == 'achievement': item['prevItem'] = prevItem['name']
+            else: item['prevItem'] = prevItem['itemToCraft']
         else: item['prevItem'] = prevItem
         item['nfRecs'] = []
         if len(postCrafts) > 0:

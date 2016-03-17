@@ -1,0 +1,605 @@
+test
+Remarkable
+Reach fame level 10
+Reward: 500 gold
+
+test
+Well known
+Reach fame level 25
+Reward: 2 platinum hammer
+
+test
+Famous
+Reach fame level 40
+Reward: 1 starry coupon
+
+test
+Kingly
+Reach fame level 60
+Reward: 2 mystical hourglass
+
+test
+Worldly
+Reach fame level 100
+Reward: plateoftherenown
+
+test
+Apprentice Merchant
+Make 5,000 gold pieces in sales
+Reward: strong_herbs
+
+test
+Adept Merchant
+Make 25,000 gold pieces in sales
+Reward: 1 platinum hammer
+
+test
+Great Merchant
+Make 100,000 gold pieces in sales
+Reward: 1 mystical hourglass
+
+test
+Master Merchant
+Make 1,000,000 gold pieces in sales
+Reward: 2 starry coupon
+
+test
+Expert Merchant
+Make 10,000,000 gold pieces in sales
+Reward: solaxe
+
+test
+Hoarder 1
+End your day with at least 5,000 gold pieces
+Reward: 1 platinum hammer
+
+test
+Hoarder 2
+End your day with at least 50,000 gold pieces
+Reward: 5000 gold
+
+test
+Hoarder 3
+End your day with at least 250,000 gold pieces
+Reward: frostshuriken
+
+test
+Hoarder 4
+End your day with at least 500,000 gold pieces
+Reward: 2 mystical hourglass
+
+test
+Hoarder 5
+End your day with at least 1,000,000 gold pieces
+Reward: belial
+
+test
+Craftsman 1
+Craft 50 items
+Reward: 1 platinum hammer
+
+test
+Craftsman 2
+Craft 250 items
+Reward: rareitem_acid
+
+test
+Craftsman 3
+Craft 5,000 items
+Reward: 1 mystical hourglass
+
+test
+Craftsman 4
+Craft 25,000 items
+Reward: 2 magical key
+
+test
+Craftsman 5
+Craft 100,000 items
+Reward: grandmasterrobe
+
+test
+Land owner 1
+Expand your shop twice
+Reward: 2 platinum hammer
+
+test
+Land owner 2
+Expand your shop four times
+Reward: heavyhelmet
+
+test
+Land owner 3
+Expand your shop eight times
+Reward: 1 magical key
+
+test
+Land owner 4
+Expand your shop twelve times
+Reward: 2 starry coupon
+
+test
+Land owner 5
+Expand your shop to maximum size
+Reward: silverhelmet
+
+test
+Builder 1
+Build or upgrade 10 modules in your shop
+Reward: 1 mystical hourglass
+
+test
+Builder 2
+Build or upgrade 35 modules in your shop
+Reward: clericalmark
+
+test
+Builder 3
+Build or upgrade 75 modules in your shop
+Reward: 1 starry coupon
+
+test
+Builder 4
+Build or upgrade 125 modules in your shop
+Reward: 1 magical key
+
+test
+Builder 5
+Build or upgrade 250 modules in your shop
+Reward: 1 starry coupon
+
+test
+Customer Service 1
+Serve 100 customers
+Reward: 1500 gold
+
+test
+Customer Service 2
+Serve 500 customers
+Reward: smithgloves
+
+test
+Customer Service 3
+Serve 1,000 customers
+Reward: 2 platinum hammer
+
+test
+Customer Service 4
+Serve 5,000 customers
+Reward: 2 mystical hourglass
+
+test
+Customer Service 5
+Serve 25,000 customers
+Reward: masterhat
+
+test
+Quest Giver 1
+Help an adventurer reach level 3
+Reward: 1 mystical hourglass
+
+test
+Quest Giver 2
+Help an adventurer reach level 5
+Reward: 5000 gold
+
+test
+Quest Giver 3
+Help an adventurer reach level 10
+Reward: stormpendant
+
+test
+Quest Giver 4
+Help an adventurer reach level 15
+Reward: 2 magical key
+
+test
+Quest Giver 5
+Help an adventurer reach level 20
+Reward: 3 starry coupon
+
+test
+Adventurer 1
+Complete 5 quests
+Reward: 5000 gold
+
+test
+Adventurer 2
+Complete 10 quests
+Reward: 12500 gold
+
+test
+Adventurer 3
+Complete 15 quests
+Reward: 25000 gold
+
+test
+Adventurer 4
+Complete 25 quests
+Reward: 100000 gold
+
+test
+Adventurer 5
+Complete 40 quests
+Reward: retribution
+
+test
+Explorer 1
+Reveal all loots in 1 dungeon
+Reward: 1000 gold
+
+test
+Explorer 2
+Reveal all loots in 5 dungeons
+Reward: sorceryring
+
+test
+Explorer 3
+Reveal all loots in 10 dungeons
+Reward: 1 mystical hourglass
+
+test
+Explorer 4
+Reveal all loots in 15 dungeons
+Reward: 2 magical key
+
+test
+Explorer 5
+Reveal all loots in 20 dungeons
+Reward: compoundcrossbow
+
+test
+Employer 1
+Have 2 workers hired at the same time
+Reward: shockdarts
+
+test
+Employer 2
+Have  3 workers hired at the same time
+Reward: blazepartisan
+
+test
+Employer 3
+Have 4 workers hired at the same time
+Reward: phoenixflute
+
+test
+Citizen 1
+Make 10 contributions to the city
+Reward: ringofthieves
+
+test
+Citizen 2
+Make 50 contributions to the city
+Reward: 1 mystical hourglass
+
+test
+Citizen 3
+Make 250 contributions to the city
+Reward: 3 platinum hammer
+
+test
+Citizen 4
+Make 1,000 contributions to the city
+Reward: revivepotion
+
+test
+Citizen 5
+Make 2,500 contributions to the city
+Reward: 5 platinum hammer
+
+test
+Learned 1
+Discover 10 recipes
+Reward: 500 gold
+
+test
+Learned 2
+Discover 30 recipes
+Reward: 1 magical key
+
+test
+Learned 3
+Discover 100 recipes
+Reward: greatmace
+
+test
+Learned 4
+Discover 200 recipes
+Reward: icebrand
+
+test
+Learned 5
+Discover 400 recipes
+Reward: nexus
+
+test
+Smithy 1
+Discover 7 blacksmith recipes
+Reward: rareitem_volcanic_rock
+
+test
+Smithy 2
+Discover 15 blacksmith recipes
+Reward: templarsword
+
+test
+Smithy 3
+Discover 30 blacksmith recipes
+Reward: dragonheart
+
+test
+Armor 1
+Discover 7 armorer recipes
+Reward: rareitem_abyss_shell
+
+test
+Armor 2
+Discover 15 armorer recipes
+Reward: warriorsabaton
+
+test
+Armor 3
+Discover 30 armorer recipes
+Reward: knightgauntlets
+
+test
+Inventor 1
+Discover 6 tinkerer recipes
+Reward: rareitem_roar_powder
+
+test
+Inventor 2
+Discover 12 tinkerer recipes
+Reward: sharpshooter
+
+test
+Inventor 3
+Discover 25 tinkerer recipes
+Reward: blackout
+
+test
+Woodland 1
+Discover 7 carpenter recipes
+Reward: rareitem_acid
+
+test
+Woodland 2
+Discover 15 carpenter recipes
+Reward: trustylance
+
+test
+Woodland 3
+Discover 30 carpenter recipes
+Reward: mithrilriviera
+
+test
+Fletcher 1
+Discover 5 bowyer recipes
+Reward: rareitem_phoenix_feather
+
+test
+Fletcher 2
+Discover 8 bowyer recipes
+Reward: selfbow
+
+test
+Fletcher 3
+Discover 15 bowyer recipes
+Reward: leafbow
+
+test
+Musical 1
+Discover 5 luthier recipes
+Reward: rareitem_divine_leaf
+
+test
+Musical 2
+Discover 8 luthier recipes
+Reward: celestialharp
+
+test
+Musical 3
+Discover 15 luthier recipes
+Reward: dragonpipes
+
+test
+Sewing 1
+Discover 7 tailor recipes
+Reward: rareitem_fairys_tear
+
+test
+Sewing 2
+Discover 15 tailor recipes
+Reward: clericrobe
+
+test
+Sewing 3
+Discover 30 tailor recipes
+Reward: elvenvambrace
+
+test
+Tanner 1
+Discover 7 leather worker recipes
+Reward: rareitem_golden_silk
+
+test
+Tanner 2
+Discover 15 leather worker recipes
+Reward: softboots
+
+test
+Tanner 3
+Discover 30 leather worker recipes
+Reward: divineleather
+
+test
+Shiny objects 1
+Discover 7 jeweler recipes
+Reward: rareitem_moonstone
+
+test
+Shiny objects 2
+Discover 15 jeweler recipes
+Reward: 50000 gold
+
+test
+Shiny objects 3
+Discover 30 jeweler recipes
+Reward: ringofkings
+
+test
+Herbalist 1
+Discover 6 druid recipes
+Reward: rareitem_acid
+
+test
+Herbalist 2
+Discover 12 druid recipes
+Reward: dusttriad
+
+test
+Herbalist 3
+Discover 25 druid recipes
+Reward: skillburr
+
+test
+Sorcery 1
+Discover 6 sorceress recipes
+Reward: rareitem_divine_leaf
+
+test
+Sorcery 2
+Discover 12 sorceress recipes
+Reward: energydrink
+
+test
+Sorcery 3
+Discover 25 sorceress recipes
+Reward: acidvial
+
+test
+Wizardry 1
+Discover 6 enchanter recipes
+Reward: rareitem_shadow_essence
+
+test
+Wizardry 2
+Discover 12 enchanter recipes
+Reward: firestormscroll
+
+test
+Wizardry 3
+Discover 25 enchanter recipes
+Reward: shellscroll
+
+test
+Builder 6
+Build or upgrade 500 modules in your shop
+Reward: 25000 gold
+
+test
+Builder 7
+Build or upgrade 750 modules in your shop
+Reward: dominus
+
+test
+Builder 8
+Build or upgrade 1,000 modules in your shop
+Reward: anubis
+
+test
+Builder 9
+Build or upgrade 1,500 modules in your shop
+Reward: rareitem_shadow_essence
+
+test
+Builder 10
+Build or upgrade 2,000 modules in your shop
+Reward: rareitem_divine_leaf
+
+test
+Citizen 6
+Make 5,000 contributions to the city
+Reward: evilscroll
+
+test
+Citizen 7
+Make 7,500 contributions to the city
+Reward: viperband
+
+test
+Citizen 8
+Make 10,000 contributions to the city
+Reward: 250000 gold
+
+test
+Veteran Merchant
+Make 50,000,000 gold pieces in sales
+Reward: rareitem_shadow_essence
+
+test
+Famous Merchant
+Make 100,000,000 gold pieces in sales
+Reward: rareitem_dragon_scale
+
+test
+Master Merchant
+Make 250,000,000 gold pieces in sales
+Reward: rareitem_divine_leaf
+
+test
+Legendary Merchant
+Make 500,000,000 gold pieces in sales
+Reward: rareitem_divine_leaf
+
+test
+Warrior 1
+Collect 1 Victory Point
+Reward: 2 mystical hourglass
+
+test
+Warrior 2
+Collect 5 Victory Points
+Reward: 10 platinum hammer
+
+test
+Warrior 3
+Collect 10 Victory Points
+Reward: 3 starry coupon
+
+test
+Warrior 4
+Collect 25 Victory Points
+Reward: 1 mithril gear
+
+test
+Warrior 5
+Collect 40 Victory Points
+Reward: epicdefender
+
+test
+Warrior 6
+Collect 70 Victory Points
+Reward: rareitem_shadow_essence
+
+test
+Warrior 7
+Collect 100 Victory Points
+Reward: masamune
+
+test
+Warrior 8
+Collect 150 Victory Points
+Reward: 4 magical key
+
+test
+Warrior 9
+Collect 200 Victory Points
+Reward: apocaplypticstaff
+
+test
+Warrior 10
+Collect 300 Victory Points
+Reward: 8 starry coupon
+

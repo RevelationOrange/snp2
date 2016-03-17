@@ -1,0 +1,308 @@
+test
+Handouts
+We have stimulus packages to help your shop in these hard times. Come and get them in the town hall.
+Level range: 1-3
+Duration: 5 minutes
+Level required: 3
+Common/Uncommon/Rare loots: 50 Gold / 100 Gold / 150 Gold
+XP per loot: 5
+Value for 100% common: 200 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_0.png (id:1)
+
+test
+Street Peddler
+We've opened up the streets to the shops, we've got gold to spare for some good peddlers!
+Level range: 2-4
+Duration: 10 minutes
+Level required: 6
+Common/Uncommon/Rare loots: 100 Gold / 200 Gold / 350 Gold
+XP per loot: 9
+Value for 100% common: 600 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_1.png (id:2)
+
+test
+Farming Fields
+The fields surrounding the farm land are dangerous, please make them safer.
+Level range: 3-5
+Duration: 30 minutes
+Level required: 9
+Common/Uncommon/Rare loots: 250 Gold / 1 lucky amulet / 1 ring of Dexterity
+XP per loot: 13
+Value for 100% common: 800 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_2.png (id:3)
+
+test
+City Patrol
+We need to watch the city's many corners and dark alleyways.
+Level range: 4-7
+Duration: 45 minutes
+Level required: 12
+Common/Uncommon/Rare loots: 400 Gold / 1 long bow / 1 earth scroll
+XP per loot: 17
+Value for 100% common: 1,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_3.png (id:4)
+
+test
+Castle Catacombs
+The catacombs beneath the castle are dangerous but hold a plethora of potential rewards.
+Level range: 5-8
+Duration: 1 hour
+Level required: 15
+Common/Uncommon/Rare loots: 500 Gold / 5 Steel Rods / 2 Acid
+XP per loot: 22
+Value for 100% common: 4,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_4.png (id:5)
+
+test
+Overgrown Ruins
+The ruins hold rare treasure, if any brave entering.
+Level range: 6-9
+Duration: 2 hours
+Level required: 18
+Common/Uncommon/Rare loots: 600 Gold / 1 Acid / 2 Faery's Tear
+XP per loot: 52
+Value for 100% common: 5,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_5.png (id:6)
+
+test
+Unexplored Mine
+An unexplored mine was just uncovered! Be one of the first to unveil its secrets.
+Level range: 7-10
+Duration: 4 hours
+Level required: 21
+Common/Uncommon/Rare loots: 10 Steel Rods / 1 Faery's Tear / 2 Volcanic Rock
+XP per loot: 121
+Value for 100% common: 6,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_6.png (id:7)
+
+test
+Hidden Passage
+A hidden dungeon passage was found near the entrance to the forest.
+Level range: 8-11
+Duration: 8 hours
+Level required: 24
+Common/Uncommon/Rare loots: 10 Oil / 1 Volcanic Rock / 2 Abyss Shell
+XP per loot: 277
+Value for 100% common: 10,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_7.png (id:8)
+
+test
+Volcano Mountain
+The volcano is filled with hidden wonders and sleeping dangers.
+Level range: 9-12
+Duration: 12 hours
+Level required: 27
+Common/Uncommon/Rare loots: 10 Ironwood / 1 Abyss Shell / 2 Phoenix Feather
+XP per loot: 468
+Value for 100% common: 15,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_8.png (id:9)
+
+test
+Fairy's Grove
+The grove is full of treasure but the fairy's don't take kindly to outsiders.
+Level range: 9-12
+Duration: 12 hours
+Level required: 30
+Common/Uncommon/Rare loots: 15000 Gold / 2 Faery's Tear / 1 Eternal Ice
+XP per loot: 504
+Value for 100% common: 15,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_9.png (id:10)
+
+test
+Troglodyte Cave
+The trogolodytes are vicious but they are bountiful in stolen treasure.
+Level range: 10-13
+Duration: 18 hours
+Level required: 33
+Common/Uncommon/Rare loots: 5 Mithril Lumps / 1 Phoenix Feather / 1 Demon Horn
+XP per loot: 834
+Value for 100% common: 20,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_10.png (id:11)
+
+test
+Tower Dungeon
+The mage tower has a secret dungeon full of treasure and traps.
+Level range: 10-13
+Duration: 18 hours
+Level required: 36
+Common/Uncommon/Rare loots: 5 Gems / 2 Acid / 1 Moon Stone
+XP per loot: 888
+Value for 100% common: 20,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_11.png (id:12)
+
+test
+Underground Hovel
+This hovel is only a guise. It is actually a secret underground entrance to a maze.
+Level range: 11-14
+Duration: 24 hours
+Level required: 39
+Common/Uncommon/Rare loots: 5 Crystals / 1 Faery's Tear / 1 Roaring Powder
+XP per loot: 1,288
+Value for 100% common: 30,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_12.png (id:13)
+
+test
+Dangerous Fissure
+Exploring the fissure is dangerous but the rewards should be well worth the trouble.
+Level range: 11-14
+Duration: 24 hours
+Level required: 42
+Common/Uncommon/Rare loots: 25000 Gold / 1 Volcanic Rock / 1 Golden Silk
+XP per loot: 1,360
+Value for 100% common: 30,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_13.png (id:14)
+
+test
+Abandoned Sanctuary
+An abandoned sanctuary was discover on the eastern edge of the continent.
+Level range: 12-15
+Duration: 24 hours
+Level required: 45
+Common/Uncommon/Rare loots: 50000 Gold / 1 Phoenix Feather / 1 Shadow Essence
+XP per loot: 1,464
+Value for 100% common: 40,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_14.png (id:15)
+
+test
+Lighthouse Cellar
+The treasure beneath the lighthouse is great... Alas the risks are greater.
+Level range: 12-15
+Duration: 30 hours
+Level required: 48
+Common/Uncommon/Rare loots: 1 Acid / 1 Abyss Shell / 1 Dragon Scale
+XP per loot: 1,920
+Value for 100% common: 40,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_15.png (id:16)
+
+test
+Desert Keep
+The great lord of the underground once ruled from here but now the danger lies in its own foundation.
+Level range: 13-16
+Duration: 30 hours
+Level required: 51
+Common/Uncommon/Rare loots: 1 Faery's Tear / 1 Eternal Ice / 1 Rising Sun
+XP per loot: 2,050
+Value for 100% common: 50,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_16.png (id:17)
+
+test
+Demon Cove
+The demon cove on the peninsula is a perilous place not for those lacking in skill.
+Level range: 14-17
+Duration: 36 hours
+Level required: 54
+Common/Uncommon/Rare loots: 1 Volcanic Rock / 1 Demon Horn / 2 Demon Horn
+XP per loot: 2,616
+Value for 100% common: 60,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_17.png (id:18)
+
+test
+Stalagmite Den
+The stalagmite den is walled with treasure... Safely going to and from is another story.
+Level range: 15-18
+Duration: 36 hours
+Level required: 57
+Common/Uncommon/Rare loots: 1 Abyss Shell / 1 Dragon Scale / 2 Moon Stone
+XP per loot: 2,772
+Value for 100% common: 70,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_18.png (id:19)
+
+test
+Magical Tower
+At night the mage tower is lit and the halls exist within an alternate dimension.
+Level range: 16-19
+Duration: 40 hours
+Level required: 60
+Common/Uncommon/Rare loots: 1 Eternal Ice / 1 Golden Silk / 1 Divine Leaf
+XP per loot: 3,253
+Value for 100% common: 80,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_19.png (id:20)
+
+test
+Fiery Volcano
+The volcano is unspeakably dangerous but it is only there that the ruby dragon rises.
+Level range: 17-20
+Duration: 40 hours
+Level required: 63
+Common/Uncommon/Rare loots: 1 Demon Horn / 2 Volcanic Rock / 2 Roaring Powder
+XP per loot: 3,427
+Value for 100% common: 100,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_20.png (id:21)
+
+test
+Ancient Temple
+Nobody has ever stepped foot within this temple without returning in bandages.
+Level range: 17-20
+Duration: 40 hours
+Level required: 66
+Common/Uncommon/Rare loots: 1 Moon Stone / 1 Shadow Essence / 2 Rising Sun
+XP per loot: 3,547
+Value for 100% common: 100,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_21.png (id:22)
+
+test
+Distant Lands
+The Ship of the Seven Seas explores the distant lands but be wary, the sea is the greatest foe of all.
+Level range: 18-20
+Duration: 48 hours
+Level required: 70
+Common/Uncommon/Rare loots: 1 Golden Silk / 1 Divine Leaf / 2 Shadow Essence
+XP per loot: 4,512
+Value for 100% common: 120,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_22.png (id:23)
+
+test
+Mystical Pillars
+The mystical pillars region contains many mysteries that only the most powerful adventurers will be able to solve.
+Level range: 19-20
+Duration: 48 hours
+Level required: 73
+Common/Uncommon/Rare loots: 1 Dragon Scale / 2 Roaring Powder / 2 Golden Silk
+XP per loot: 4,720
+Value for 100% common: 200,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_23.png (id:24)
+
+test
+Floating Castle
+A mysterious floating castle was seen hovering over the region.
+Level range: 19-20
+Duration: 56 hours
+Level required: 76
+Common/Uncommon/Rare loots: 1 Roaring Powder / 2 Rising Sun / 3 Dragon Scale
+XP per loot: 5,675
+Value for 100% common: 200,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_24.png (id:25)
+
+test
+Haunted Forest
+The haunted forest has not been explored since the last great war. It is said it holds many powerful artifacts.
+Level range: 19-20
+Duration: 56 hours
+Level required: 80
+Common/Uncommon/Rare loots: 1 Rising Sun / 2 Golden Silk / 3 Divine Leaf
+XP per loot: 5,899
+Value for 100% common: 200,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_25.png (id:26)
+
+test
+Dimensional Rift
+Through the dimensionnal rift is a vast copy of our world filled with unknown dangers and mysteries.
+Level range: 19-20
+Duration: 64 hours
+Level required: 85
+Common/Uncommon/Rare loots: 1 Shadow Essence / 2 Dragon Scale / 3 Roaring Powder
+XP per loot: 7,061
+Value for 100% common: 200,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_26.png (id:27)
+
+test
+Dark Abyss
+While exploring the fissure we came upon a dark passage leading deep into mother earth. What is awaiting us there?
+Level range: 20-21
+Duration: 64 hours
+Level required: 90
+Common/Uncommon/Rare loots: 1 Dark Blood / 2 Dark Blood / 3 Dark Blood
+XP per loot: 7,467
+Value for 100% common: 400,000 gold
+Icon link: cdn.edgebee.com/static/shopr2/quests/dungeon_27.png (id:28)
+

@@ -1,0 +1,1943 @@
+test
+test
+To unlock Short Sword, craft 20 Plain Sword
+(id:2)
+
+test
+To unlock Rapier, craft 20 Short Sword
+(id:3)
+
+test
+To unlock Long Sword, craft 32 Rapier
+(id:4)
+
+test
+To unlock claymore, craft 48 Long Sword
+(id:5)
+
+test
+To unlock Fire Sword, craft 20 claymore
+(id:6)
+
+test
+To unlock highlander, craft 48 claymore
+(id:7)
+
+test
+To unlock Soldier's Sword, craft 60 highlander
+(id:8)
+
+test
+To unlock wakizashi, craft 60 Soldier's Sword
+(id:9)
+
+test
+To unlock zhanmadao, craft 60 wakizashi
+(id:10)
+
+test
+To unlock white great sword, craft 60 zhanmadao
+(id:11)
+
+test
+To unlock ice brand, craft 40 Fire Sword
+(id:12)
+
+test
+To unlock murasame, craft 60 white great sword
+(id:13)
+
+test
+To unlock demonsbane, craft 60 murasame
+(id:14)
+
+test
+To unlock lonewolf, craft 20 paladin sword
+(id:15)
+
+test
+To unlock the one sword, craft 80 paladin sword
+(id:16)
+
+test
+To unlock excalibur, craft 100 the one sword
+(id:17)
+
+test
+To unlock hell sword, craft 160 excalibur
+(id:18)
+
+test
+test
+test
+To unlock main-gauche, craft 20 dagger
+(id:21)
+
+test
+To unlock bandit's dagger, craft 32 main-gauche
+(id:22)
+
+test
+To unlock cutter, craft 48 bandit's dagger
+(id:23)
+
+test
+To unlock poison blade, craft 24 bandit's dagger
+(id:24)
+
+test
+To unlock steel blade, craft 48 cutter
+(id:25)
+
+test
+To unlock purse-opener, craft 48 steel blade
+(id:26)
+
+test
+To unlock fire dagger, craft 28 steel blade
+(id:27)
+
+test
+To unlock mailbreaker, craft 60 purse-opener
+(id:28)
+
+test
+To unlock kris, craft 48 mailbreaker
+(id:29)
+
+test
+To unlock sacrificial blade, craft 48 survival knife
+(id:30)
+
+test
+To unlock toxic blade, craft 20 kris
+(id:31)
+
+test
+To unlock curver blade, craft 40 sacrificial blade
+(id:32)
+
+test
+To unlock crimson heart, craft 68 sacrificial blade
+(id:33)
+
+test
+To unlock assassin's dagger, craft 84 crimson heart
+(id:34)
+
+test
+To unlock ebony dagger, craft 60 assassin's dagger
+(id:35)
+
+test
+To unlock angelwing, craft 120 assassin's dagger
+(id:36)
+
+test
+To unlock blackblade, craft 128 angelwing
+(id:37)
+
+test
+To unlock hand Axe, craft 16 dagger
+(id:38)
+
+test
+To unlock small Axe, craft 32 hand Axe
+(id:39)
+
+test
+To unlock broad-axe, craft 48 small Axe
+(id:40)
+
+test
+To unlock great broad-axe, craft 15 broad-axe
+(id:41)
+
+test
+To unlock halberd, craft 48 broad-axe
+(id:42)
+
+test
+To unlock assault axe, craft 60 halberd
+(id:43)
+
+test
+To unlock pirate axe, craft 32 assault axe
+(id:44)
+
+test
+To unlock stone Axe, craft 48 assault axe
+(id:45)
+
+test
+To unlock Pole-axe, craft 60 stone Axe
+(id:46)
+
+test
+To unlock steel battle-axe, craft 60 Pole-axe
+(id:47)
+
+test
+To unlock sturdy pole-axe, craft 64 steel battle-axe
+(id:48)
+
+test
+To unlock frost axe, craft 40 sturdy pole-axe
+(id:49)
+
+test
+To unlock war labrys, craft 68 sturdy pole-axe
+(id:50)
+
+test
+To unlock vicious chopper, craft 80 war labrys
+(id:51)
+
+test
+To unlock enchanted labrys, craft 52 war labrys
+(id:52)
+
+test
+To unlock brier-axe, craft 40 vicious chopper
+(id:53)
+
+test
+To unlock asunder, craft 80 brier-axe
+(id:54)
+
+test
+To unlock twinaxe, craft 92 asunder
+(id:55)
+
+test
+To unlock giant halberd, craft 100 twinaxe
+(id:56)
+
+test
+To unlock planet cutter, craft 100 giant halberd
+(id:57)
+
+test
+test
+To unlock brigandine, craft 20 scale Mail
+(id:59)
+
+test
+To unlock chain mail, craft 32 brigandine
+(id:60)
+
+test
+To unlock lorica segmentata, craft 48 chain mail
+(id:61)
+
+test
+To unlock light lorica, craft 32 chain mail
+(id:62)
+
+test
+To unlock half-plate, craft 48 lorica segmentata
+(id:63)
+
+test
+To unlock iron plate armor, craft 52 half-plate
+(id:64)
+
+test
+To unlock flexible plate, craft 60 iron plate armor
+(id:65)
+
+test
+To unlock guard mail, craft 60 flexible plate
+(id:66)
+
+test
+To unlock plate of the moon, craft 32 guard mail
+(id:67)
+
+test
+To unlock full plate, craft 60 guard mail
+(id:68)
+
+test
+To unlock great armor, craft 68 full plate
+(id:69)
+
+test
+To unlock demon plate, craft 40 great armor
+(id:70)
+
+test
+To unlock lionheart, craft 68 great armor
+(id:71)
+
+test
+To unlock rock armor, craft 60 lionheart
+(id:72)
+
+test
+To unlock sky dragoon armor, craft 112 lionheart
+(id:73)
+
+test
+To unlock dragon plate, craft 128 sky dragoon armor
+(id:74)
+
+test
+To unlock iron gauntlets, craft 12 scale Mail
+(id:75)
+
+test
+To unlock fine gauntlets, craft 32 iron gauntlets
+(id:76)
+
+test
+To unlock war gauntlets, craft 64 fine gauntlets
+(id:77)
+
+test
+To unlock shell gauntlets, craft 48 fine gauntlets
+(id:78)
+
+test
+To unlock spectacular gauntlets, craft 64 war gauntlets
+(id:79)
+
+test
+To unlock man handlers, craft 80 grand gauntlets
+(id:80)
+
+test
+To unlock paladin's gauntlets, craft 80 man handlers
+(id:81)
+
+test
+To unlock stalagmite gloves, craft 112 paladin's gauntlets
+(id:82)
+
+test
+To unlock ice gauntlets, craft 128 stalagmite gloves
+(id:83)
+
+test
+To unlock metal cap, craft 12 iron gauntlets
+(id:84)
+
+test
+To unlock brass helmet, craft 20 metal cap
+(id:85)
+
+test
+To unlock full helmet, craft 32 brass helmet
+(id:86)
+
+test
+To unlock fitting top, craft 32 full helmet
+(id:87)
+
+test
+To unlock knight's hauberk, craft 60 fitting top
+(id:88)
+
+test
+To unlock kabuto, craft 40 fitting top
+(id:89)
+
+test
+To unlock blessed helm, craft 64 knight's hauberk
+(id:90)
+
+test
+To unlock war mask, craft 68 blessed helm
+(id:91)
+
+test
+To unlock paladin's helmet, craft 40 steel hauberk
+(id:92)
+
+test
+To unlock transmundane full helmet, craft 80 steel hauberk
+(id:93)
+
+test
+To unlock ancient helmet, craft 96 transmundane full helmet
+(id:94)
+
+test
+To unlock wrathful face, craft 120 ancient helmet
+(id:95)
+
+test
+To unlock iron boots, craft 20 iron gauntlets
+(id:96)
+
+test
+To unlock fine sabaton, craft 48 iron boots
+(id:97)
+
+test
+To unlock spiked boots, craft 32 iron boots
+(id:98)
+
+test
+To unlock soldier's sabatons, craft 60 fine sabaton
+(id:99)
+
+test
+To unlock knight's sabatons, craft 68 soldier's sabatons
+(id:100)
+
+test
+To unlock paladin's sabatons, craft 96 berserker's sabatons
+(id:101)
+
+test
+To unlock dragoon's sabatons, craft 120 paladin's sabatons
+(id:102)
+
+test
+To unlock fur armor, craft 12 fur boots
+(id:103)
+
+test
+To unlock leather cuirass, craft 20 fur armor
+(id:104)
+
+test
+To unlock studded Leather armor, craft 32 leather cuirass
+(id:105)
+
+test
+To unlock padded leather armor, craft 48 studded Leather armor
+(id:106)
+
+test
+To unlock soft leather armor, craft 28 padded leather armor
+(id:107)
+
+test
+To unlock gambeson, craft 60 padded leather armor
+(id:108)
+
+test
+To unlock barbarian chief armor, craft 60 gambeson
+(id:109)
+
+test
+To unlock cow leather armor, craft 72 barbarian chief armor
+(id:110)
+
+test
+To unlock perfect leather, craft 100 cow leather armor
+(id:111)
+
+test
+To unlock noble leather, craft 100 perfect leather
+(id:112)
+
+test
+To unlock plated leather armor, craft 128 noble leather
+(id:113)
+
+test
+To unlock evasive armor, craft 40 plated leather armor
+(id:114)
+
+test
+To unlock yeti armor, craft 32 evasive armor
+(id:115)
+
+test
+To unlock dragon leather, craft 32 yeti armor
+(id:116)
+
+test
+To unlock elven brigandine, craft 80 plated leather armor
+(id:117)
+
+test
+To unlock reign coat, craft 96 elven brigandine
+(id:118)
+
+test
+To unlock comfortable vest, craft 112 reign coat
+(id:119)
+
+test
+To unlock samurai's armor, craft 120 comfortable vest
+(id:120)
+
+test
+To unlock warrior's omen, craft 128 samurai's armor
+(id:121)
+
+test
+test
+To unlock riding boots, craft 36 fur boots
+(id:123)
+
+test
+To unlock floating boots, craft 20 fur boots
+(id:124)
+
+test
+To unlock loose boots, craft 60 riding boots
+(id:125)
+
+test
+To unlock courier's boots, craft 40 loose boots
+(id:126)
+
+test
+To unlock insulated fur boots, craft 84 loose boots
+(id:127)
+
+test
+To unlock sasquatch wear, craft 40 combat boots
+(id:128)
+
+test
+To unlock traveling boots, craft 96 combat boots
+(id:129)
+
+test
+To unlock explorer boots, craft 128 traveling boots
+(id:130)
+
+test
+To unlock soft Gloves, craft 12 fur boots
+(id:131)
+
+test
+To unlock leather gloves, craft 32 soft Gloves
+(id:132)
+
+test
+To unlock long gloves, craft 60 leather gloves
+(id:133)
+
+test
+To unlock heat gloves, craft 36 leather gloves
+(id:134)
+
+test
+To unlock noble's gloves, craft 68 long gloves
+(id:135)
+
+test
+To unlock resistance gloves, craft 60 noble's gloves
+(id:136)
+
+test
+To unlock dual wielder's gloves, craft 96 noble's gloves
+(id:137)
+
+test
+To unlock soft griffon gloves, craft 128 artisan's gloves
+(id:138)
+
+test
+To unlock leather helmet, craft 16 soft Gloves
+(id:139)
+
+test
+To unlock bone helmet, craft 20 leather helmet
+(id:140)
+
+test
+To unlock shiny helmet, craft 32 bone helmet
+(id:141)
+
+test
+To unlock viking helmet, craft 48 shiny helmet
+(id:142)
+
+test
+To unlock demon helmet, craft 48 viking helmet
+(id:143)
+
+test
+To unlock soldier's helmet, craft 64 viking helmet
+(id:144)
+
+test
+To unlock gladiator's helmet, craft 84 soldier's helmet
+(id:145)
+
+test
+To unlock mask of fear, craft 60 gladiator's helmet
+(id:146)
+
+test
+To unlock captain's helmet, craft 80 gladiator's helmet
+(id:147)
+
+test
+To unlock grim reaper, craft 64 captain's helmet
+(id:148)
+
+test
+To unlock elven commander, craft 100 captain's helmet
+(id:149)
+
+test
+To unlock opal helmet, craft 32 elven commander
+(id:150)
+
+test
+To unlock evil shogun, craft 64 opal helmet
+(id:151)
+
+test
+To unlock basic Tunic, craft 12 sandals
+(id:152)
+
+test
+To unlock Cloak, craft 20 basic Tunic
+(id:153)
+
+test
+To unlock Treated Cloak, craft 16 Cloak
+(id:154)
+
+test
+To unlock leather coat, craft 32 Cloak
+(id:155)
+
+test
+To unlock evoker's robe, craft 40 leather coat
+(id:156)
+
+test
+To unlock conjurer's robe, craft 24 evoker's robe
+(id:157)
+
+test
+To unlock apron, craft 48 evoker's robe
+(id:158)
+
+test
+To unlock monk cloak, craft 60 apron
+(id:159)
+
+test
+To unlock smith's apron, craft 48 monk cloak
+(id:160)
+
+test
+To unlock priest's robe, craft 48 smith's apron
+(id:161)
+
+test
+To unlock rich cloak, craft 72 priest's robe
+(id:162)
+
+test
+To unlock cloak of concealment, craft 32 rich cloak
+(id:163)
+
+test
+To unlock beast attire, craft 48 rich cloak
+(id:164)
+
+test
+To unlock lord's robe, craft 68 beast attire
+(id:165)
+
+test
+To unlock invisibility robe, craft 32 guideon robe
+(id:166)
+
+test
+To unlock Ifrit's flaming apparel, craft 48 guideon robe
+(id:167)
+
+test
+To unlock sky mantle, craft 80 guideon robe
+(id:168)
+
+test
+To unlock elemental wonder, craft 88 sky mantle
+(id:169)
+
+test
+To unlock cosmic apparel, craft 100 elemental wonder
+(id:170)
+
+test
+To unlock vest of lies, craft 112 cosmic apparel
+(id:171)
+
+test
+To unlock lord of darkness, craft 144 vest of lies
+(id:172)
+
+test
+test
+To unlock leather shoes, craft 20 sandals
+(id:174)
+
+test
+To unlock sturdy shoes, craft 28 leather shoes
+(id:175)
+
+test
+To unlock fur shoes, craft 32 sturdy shoes
+(id:176)
+
+test
+To unlock heavenly sandals, craft 48 fur shoes
+(id:177)
+
+test
+To unlock shiny shoes, craft 60 heavenly sandals
+(id:178)
+
+test
+To unlock courier's sandals, craft 36 questing shoes
+(id:179)
+
+test
+To unlock grounded shoes, craft 80 questing shoes
+(id:180)
+
+test
+To unlock flying shoes, craft 64 grounded shoes
+(id:181)
+
+test
+To unlock exhilarating shoes, craft 112 courier's sandals
+(id:182)
+
+test
+test
+To unlock wrist-guard, craft 16 leather shoes
+(id:184)
+
+test
+To unlock vambrace, craft 36 wrist-guard
+(id:185)
+
+test
+To unlock arm-guard, craft 48 vambrace
+(id:186)
+
+test
+To unlock abyssal arm-guard, craft 48 arm-guard
+(id:187)
+
+test
+To unlock war vambrace, craft 64 arm-guard
+(id:188)
+
+test
+To unlock elfwood vambrace, craft 48 war vambrace
+(id:189)
+
+test
+To unlock stone hands, craft 32 elfwood vambrace
+(id:190)
+
+test
+To unlock enabling vambrace, craft 60 stone hands
+(id:191)
+
+test
+To unlock gladiator's vambrace, craft 60 enabling vambrace
+(id:192)
+
+test
+To unlock circlet, craft 12 sandals
+(id:193)
+
+test
+To unlock apprentice's hat, craft 20 circlet
+(id:194)
+
+test
+To unlock monk hat, craft 32 apprentice's hat
+(id:195)
+
+test
+To unlock cleric's hat, craft 48 monk hat
+(id:196)
+
+test
+To unlock noble tiara, craft 32 cleric's hat
+(id:197)
+
+test
+To unlock feathered hat, craft 60 cleric's hat
+(id:198)
+
+test
+To unlock elemental top, craft 60 feathered hat
+(id:199)
+
+test
+To unlock blazing hat, craft 48 elemental top
+(id:200)
+
+test
+To unlock frozen feather, craft 52 blazing hat
+(id:201)
+
+test
+To unlock siren hat, craft 76 blazing hat
+(id:202)
+
+test
+To unlock streamlined conscience, craft 80 siren hat
+(id:203)
+
+test
+To unlock angelic tiara, craft 96 streamlined conscience
+(id:204)
+
+test
+To unlock demonic tiara, craft 112 angelic tiara
+(id:205)
+
+test
+To unlock electrifying tiara, craft 128 demonic tiara
+(id:206)
+
+test
+To unlock wooden buckler, craft 12 club
+(id:207)
+
+test
+To unlock leather shield, craft 20 iron spear
+(id:208)
+
+test
+To unlock hard wood buckler, craft 32 leather shield
+(id:209)
+
+test
+To unlock dolphin buckler, craft 35 hard wood buckler
+(id:210)
+
+test
+To unlock bone shield, craft 60 dolphin buckler
+(id:211)
+
+test
+To unlock spider shield, craft 60 bone shield
+(id:212)
+
+test
+To unlock medusa shield, craft 128 bone shield
+(id:213)
+
+test
+To unlock seven seas shield, craft 128 medusa shield
+(id:214)
+
+test
+To unlock copper shield, craft 12 iron gauntlets
+(id:215)
+
+test
+To unlock kite shield, craft 32 copper shield
+(id:216)
+
+test
+To unlock heater shield, craft 60 kite shield
+(id:217)
+
+test
+To unlock scutum, craft 72 heater shield
+(id:218)
+
+test
+To unlock paladin's heater shield, craft 80 scutum
+(id:219)
+
+test
+To unlock mirror shield, craft 96 scutum
+(id:220)
+
+test
+To unlock defender, craft 40 paladin's heater shield
+(id:221)
+
+test
+To unlock vengeful entity, craft 80 mirror shield
+(id:222)
+
+test
+To unlock mind saver, craft 96 mirror shield
+(id:223)
+
+test
+To unlock blue bird shield, craft 128 defender
+(id:224)
+
+test
+To unlock guardian tall shield, craft 144 vengeful entity
+(id:225)
+
+test
+test
+test
+To unlock suple Dust, craft 20 Herbs Bundle
+(id:228)
+
+test
+To unlock Regen Herbs, craft 24 suple Dust
+(id:229)
+
+test
+To unlock Magic Leaves, craft 16 suple Dust
+(id:230)
+
+test
+To unlock alert dust, craft 32 Regen Herbs
+(id:231)
+
+test
+To unlock elemental Dust, craft 36 alert dust
+(id:232)
+
+test
+To unlock soothing herbs, craft 48 elemental Dust
+(id:233)
+
+test
+To unlock salve of protection, craft 64 elemental Dust
+(id:234)
+
+test
+To unlock restoration powder, craft 45 magic dust
+(id:235)
+
+test
+To unlock cleansing herbs, craft 68 restoration powder
+(id:236)
+
+test
+To unlock skill seedling, craft 72 cleansing herbs
+(id:237)
+
+test
+To unlock seed of skill, craft 64 skill seedling
+(id:238)
+
+test
+To unlock panacea, craft 112 skill seedling
+(id:239)
+
+test
+To unlock attribute seed, craft 120 dragon powder
+(id:240)
+
+test
+To unlock antidote, craft 12 Healing Herbs
+(id:241)
+
+test
+test
+To unlock Health Vial, craft 16 heal Potion
+(id:243)
+
+test
+To unlock vial of Mana, craft 20 Health Vial
+(id:244)
+
+test
+To unlock brisk Beverage, craft 32 vial of Mana
+(id:245)
+
+test
+To unlock mana Potion, craft 48 brisk Beverage
+(id:246)
+
+test
+To unlock revive potion, craft 36 cooling aid
+(id:247)
+
+test
+To unlock bile jar, craft 68 cooling aid
+(id:248)
+
+test
+To unlock potion of return, craft 70 bile jar
+(id:249)
+
+test
+To unlock rebirth potion, craft 68 potion of return
+(id:250)
+
+test
+To unlock holy spray, craft 40 rebirth potion
+(id:251)
+
+test
+To unlock magic drink, craft 72 rebirth potion
+(id:252)
+
+test
+To unlock health drink, craft 80 magic drink
+(id:253)
+
+test
+To unlock soft potion, craft 80 health drink
+(id:254)
+
+test
+To unlock super potion, craft 96 soft potion
+(id:255)
+
+test
+To unlock demon blood, craft 112 holy spray
+(id:256)
+
+test
+To unlock megalixir, craft 128 super potion
+(id:257)
+
+test
+To unlock magic scroll, craft 12 heal Potion
+(id:258)
+
+test
+To unlock fireball scroll, craft 20 magic scroll
+(id:259)
+
+test
+To unlock earth scroll, craft 32 fireball scroll
+(id:260)
+
+test
+To unlock luck scroll, craft 32 earth scroll
+(id:261)
+
+test
+To unlock protect scroll, craft 48 luck scroll
+(id:262)
+
+test
+To unlock lava scroll, craft 40 protect scroll
+(id:263)
+
+test
+To unlock earthquake scroll, craft 68 protect scroll
+(id:264)
+
+test
+To unlock evil scroll, craft 60 earthquake scroll
+(id:265)
+
+test
+To unlock fortune scroll, craft 96 earthquake scroll
+(id:266)
+
+test
+To unlock shielding scroll, craft 112 blaze scroll
+(id:267)
+
+test
+To unlock darkness scroll, craft 128 fireshield scroll
+(id:268)
+
+test
+To unlock apocalypscion, craft 160 darkness scroll
+(id:269)
+
+test
+To unlock small bow, craft 12 iron bracers
+(id:270)
+
+test
+test
+To unlock long bow, craft 28 hunting Bow
+(id:272)
+
+test
+To unlock crossbow, craft 40 long bow
+(id:273)
+
+test
+To unlock bow of precision, craft 48 crossbow
+(id:274)
+
+test
+To unlock piercer, craft 64 bow of precision
+(id:275)
+
+test
+To unlock fairy bow, craft 48 piercer
+(id:276)
+
+test
+To unlock composite bow, craft 68 piercer
+(id:277)
+
+test
+To unlock ebony bow, craft 80 composite bow
+(id:278)
+
+test
+To unlock elf bow, craft 80 ebony bow
+(id:279)
+
+test
+To unlock gemini, craft 40 elf bow
+(id:280)
+
+test
+To unlock calamitous bow, craft 96 civil bow
+(id:281)
+
+test
+To unlock double shot, craft 64 civil bow
+(id:282)
+
+test
+To unlock hunting crossbow, craft 96 calamitous bow
+(id:283)
+
+test
+To unlock heavy crossbow, craft 112 hunting crossbow
+(id:284)
+
+test
+To unlock scorpion, craft 80 heavy crossbow
+(id:285)
+
+test
+To unlock fast loading arbalest, craft 112 heavy crossbow
+(id:286)
+
+test
+To unlock vicious crossbow, craft 140 heavy crossbow
+(id:287)
+
+test
+To unlock the hurricane, craft 120 heavy crossbow
+(id:288)
+
+test
+test
+To unlock musket, craft 12 pistol
+(id:290)
+
+test
+To unlock dragon, craft 20 musket
+(id:291)
+
+test
+To unlock fiery dragon, craft 32 dragon
+(id:292)
+
+test
+To unlock musketeer's rifle, craft 52 dragon
+(id:293)
+
+test
+To unlock sniper rifle, craft 48 musketeer's rifle
+(id:294)
+
+test
+To unlock escopette, craft 72 sniper rifle
+(id:295)
+
+test
+To unlock lightning bolt, craft 60 escopette
+(id:296)
+
+test
+To unlock gold dragon, craft 48 lightning bolt
+(id:297)
+
+test
+To unlock blue lagoon, craft 32 quickdraw pistol
+(id:298)
+
+test
+To unlock soul shooter, craft 60 blue lagoon
+(id:299)
+
+test
+To unlock blackbeard, craft 68 soul shooter
+(id:300)
+
+test
+To unlock green dragon, craft 96 soul shooter
+(id:301)
+
+test
+To unlock everlasting pistol, craft 100 green dragon
+(id:302)
+
+test
+To unlock hand-of-god, craft 120 everlasting pistol
+(id:303)
+
+test
+To unlock darts, craft 8 pistol
+(id:304)
+
+test
+To unlock sling, craft 20 darts
+(id:305)
+
+test
+To unlock throwing knives, craft 32 sling
+(id:306)
+
+test
+To unlock breeze sling, craft 48 throwing knives
+(id:307)
+
+test
+To unlock boomerang, craft 60 breeze sling
+(id:308)
+
+test
+To unlock fine boomerang, craft 48 boomerang
+(id:309)
+
+test
+To unlock lightning bolts, craft 40 storm knives
+(id:310)
+
+test
+To unlock wounding knives, craft 68 storm knives
+(id:311)
+
+test
+To unlock black bombs, craft 60 wounding knives
+(id:312)
+
+test
+To unlock circus knives, craft 68 black bombs
+(id:313)
+
+test
+To unlock shuriken, craft 72 circus knives
+(id:314)
+
+test
+To unlock flux shuriken, craft 72 shuriken
+(id:315)
+
+test
+To unlock short fuses, craft 80 flux shuriken
+(id:316)
+
+test
+To unlock depth charge, craft 96 short fuses
+(id:317)
+
+test
+To unlock boomshaka, craft 100 depth charge
+(id:318)
+
+test
+To unlock golden shuriken, craft 96 flux shuriken
+(id:319)
+
+test
+To unlock mithril shuriken, craft 128 golden shuriken
+(id:320)
+
+test
+To unlock double infinity, craft 160 mithril shuriken
+(id:321)
+
+test
+test
+To unlock harp, craft 12 flute
+(id:323)
+
+test
+To unlock charmer's flute, craft 20 harp
+(id:324)
+
+test
+To unlock elven flute, craft 32 harp
+(id:325)
+
+test
+To unlock lute, craft 48 elven flute
+(id:326)
+
+test
+To unlock harmonious harp, craft 40 lute
+(id:327)
+
+test
+To unlock drums, craft 60 lute
+(id:328)
+
+test
+To unlock performer's lute, craft 64 drums
+(id:329)
+
+test
+To unlock harmonious flute, craft 48 performer's lute
+(id:330)
+
+test
+To unlock twin flute, craft 80 performer's lute
+(id:331)
+
+test
+To unlock bugle, craft 72 twin flute
+(id:332)
+
+test
+To unlock double flute, craft 80 celestial flute
+(id:333)
+
+test
+To unlock flute of wonder, craft 80 double flute
+(id:334)
+
+test
+To unlock war drums, craft 60 flute of wonder
+(id:335)
+
+test
+To unlock bagpipes, craft 88 flute of wonder
+(id:336)
+
+test
+To unlock bard's lute, craft 80 bagpipes
+(id:337)
+
+test
+To unlock celestial pipes, craft 88 bard's lute
+(id:338)
+
+test
+To unlock silence of the deep, craft 100 celestial pipes
+(id:339)
+
+test
+To unlock ripieno, craft 100 silence of the deep
+(id:340)
+
+test
+To unlock horn of ages, craft 120 ripieno
+(id:341)
+
+test
+To unlock eternal flute, craft 108 horn of ages
+(id:342)
+
+test
+To unlock abyssal tranquility, craft 160 horn of ages
+(id:343)
+
+test
+test
+test
+To unlock hammer, craft 20 crushing bludgeon
+(id:346)
+
+test
+To unlock sledgehammer, craft 32 hammer
+(id:347)
+
+test
+To unlock Post maul, craft 15 sledgehammer
+(id:348)
+
+test
+To unlock soldier's mace, craft 32 sledgehammer
+(id:349)
+
+test
+To unlock thorn mace, craft 48 soldier's mace
+(id:350)
+
+test
+To unlock flail, craft 60 thorn mace
+(id:351)
+
+test
+To unlock crushing sledgehammer, craft 32 flail
+(id:352)
+
+test
+To unlock steel mace, craft 68 flail
+(id:353)
+
+test
+To unlock orange hammer, craft 60 steel mace
+(id:354)
+
+test
+To unlock skull crusher, craft 60 orange hammer
+(id:355)
+
+test
+To unlock dark paladin hammer, craft 68 skull crusher
+(id:356)
+
+test
+To unlock crushing fist, craft 68 dark paladin hammer
+(id:357)
+
+test
+To unlock biomace, craft 52 crushing fist
+(id:358)
+
+test
+To unlock war priest's mace, craft 80 crushing fist
+(id:359)
+
+test
+To unlock transmundane hammer, craft 68 war priest's mace
+(id:360)
+
+test
+To unlock simon's whip, craft 80 transmundane hammer
+(id:361)
+
+test
+To unlock abolishing mace, craft 88 simon's whip
+(id:362)
+
+test
+To unlock demon worshipper, craft 60 abolishing mace
+(id:363)
+
+test
+To unlock deathbringer, craft 96 abolishing mace
+(id:364)
+
+test
+To unlock planet smasher, craft 96 deathbringer
+(id:365)
+
+test
+To unlock dragon tooth, craft 112 planet smasher
+(id:366)
+
+test
+To unlock dragon skull, craft 120 dragon tooth
+(id:367)
+
+test
+To unlock Sharp Spear, craft 12 knife
+(id:368)
+
+test
+To unlock iron spear, craft 12 crushing bludgeon
+(id:369)
+
+test
+To unlock slicer, craft 20 iron spear
+(id:370)
+
+test
+To unlock trident, craft 32 slicer
+(id:371)
+
+test
+To unlock corrosive trident, craft 20 trident
+(id:372)
+
+test
+To unlock ranseur, craft 40 trident
+(id:373)
+
+test
+To unlock seeking tip, craft 60 ranseur
+(id:374)
+
+test
+To unlock flying partisan, craft 60 seeking tip
+(id:375)
+
+test
+To unlock voulge, craft 68 flying partisan
+(id:376)
+
+test
+To unlock gladiator's trident, craft 68 voulge
+(id:377)
+
+test
+To unlock floating lance, craft 68 gladiator's trident
+(id:378)
+
+test
+To unlock moon lance, craft 30 floating lance
+(id:379)
+
+test
+To unlock knight's ranseur, craft 72 floating lance
+(id:380)
+
+test
+To unlock fine lance of the wolf, craft 72 knight's ranseur
+(id:381)
+
+test
+To unlock fiery partisan, craft 40 fine lance of the wolf
+(id:382)
+
+test
+To unlock transmundane pike, craft 76 fine lance of the wolf
+(id:383)
+
+test
+To unlock poseidon, craft 80 transmundane pike
+(id:384)
+
+test
+To unlock Gaia's spine, craft 80 poseidon
+(id:385)
+
+test
+To unlock waterdancer, craft 48 reinforced voulge
+(id:386)
+
+test
+To unlock riviera, craft 112 reinforced voulge
+(id:387)
+
+test
+To unlock adamant spear, craft 48 riviera
+(id:388)
+
+test
+To unlock gungnir, craft 64 adamant spear
+(id:389)
+
+test
+To unlock twilight, craft 80 gungnir
+(id:390)
+
+test
+To unlock oaken Staff, craft 12 Herbs Bundle
+(id:391)
+
+test
+To unlock ebonystaff, craft 20 oaken Staff
+(id:392)
+
+test
+To unlock dryad staff, craft 32 ebonystaff
+(id:393)
+
+test
+To unlock wood elf staff, craft 32 dryad staff
+(id:394)
+
+test
+To unlock Combat Staff, craft 48 wood elf staff
+(id:395)
+
+test
+To unlock brightest rod, craft 36 Combat Staff
+(id:396)
+
+test
+To unlock Enchanted Staff, craft 60 Combat Staff
+(id:397)
+
+test
+To unlock earth staff, craft 64 Enchanted Staff
+(id:398)
+
+test
+To unlock skeleton staff, craft 68 earth staff
+(id:399)
+
+test
+To unlock healerstaff, craft 68 skeleton staff
+(id:400)
+
+test
+To unlock dark staff, craft 40 healerstaff
+(id:401)
+
+test
+To unlock elemental rod, craft 68 healerstaff
+(id:402)
+
+test
+To unlock cleansing staff, craft 80 elemental rod
+(id:403)
+
+test
+To unlock sapphire staff, craft 96 cleansing staff
+(id:404)
+
+test
+To unlock dominus, craft 100 sapphire staff
+(id:405)
+
+test
+To unlock healer's companion, craft 68 sapphire staff
+(id:406)
+
+test
+To unlock moon stone staff, craft 32 dominus
+(id:407)
+
+test
+To unlock breath of frost, craft 32 moon stone staff
+(id:408)
+
+test
+To unlock dreadstick, craft 64 healer's companion
+(id:409)
+
+test
+To unlock devilish rod, craft 64 dreadstick
+(id:410)
+
+test
+To unlock power of oceans, craft 60 breath of frost
+(id:411)
+
+test
+To unlock phoenix baton, craft 96 dreadstick
+(id:412)
+
+test
+To unlock staff of destruction, craft 48 power of oceans
+(id:413)
+
+test
+To unlock mindful staff, craft 60 phoenix baton
+(id:414)
+
+test
+To unlock staff of power, craft 160 mindful staff
+(id:415)
+
+test
+test
+To unlock priest's mark, craft 12 lucky amulet
+(id:417)
+
+test
+To unlock pendant of safety, craft 20 priest's mark
+(id:418)
+
+test
+To unlock zazen amulet, craft 32 pendant of safety
+(id:419)
+
+test
+To unlock red charm, craft 32 zazen amulet
+(id:420)
+
+test
+To unlock perfect jade, craft 48 red charm
+(id:421)
+
+test
+To unlock elemental talisman, craft 32 red charm
+(id:422)
+
+test
+To unlock frost protector, craft 56 perfect jade
+(id:423)
+
+test
+To unlock amulet of darkness, craft 68 frost protector
+(id:424)
+
+test
+To unlock amulet of life, craft 68 amulet of darkness
+(id:425)
+
+test
+To unlock amulet of light, craft 72 amulet of life
+(id:426)
+
+test
+To unlock clairvoyance amulet, craft 76 amulet of light
+(id:427)
+
+test
+To unlock amulet of evil protection, craft 40 sage amulet
+(id:428)
+
+test
+To unlock elemental pendant, craft 60 sage amulet
+(id:429)
+
+test
+To unlock pendant of thunder immunity, craft 80 elemental pendant
+(id:430)
+
+test
+To unlock pendant of ice immunity, craft 60 pendant of thunder immunity
+(id:431)
+
+test
+To unlock talisman of fear, craft 96 pendant of thunder immunity
+(id:432)
+
+test
+To unlock rage token, craft 68 talisman of fear
+(id:433)
+
+test
+To unlock holy talisman, craft 100 talisman of fear
+(id:434)
+
+test
+To unlock pyramid lace, craft 100 holy talisman
+(id:435)
+
+test
+To unlock unholy talisman, craft 68 pyramid lace
+(id:436)
+
+test
+To unlock symbol of the gods, craft 112 pyramid lace
+(id:437)
+
+test
+To unlock death token, craft 120 symbol of the gods
+(id:438)
+
+test
+test
+To unlock iron ring, craft 12 ring of Dexterity
+(id:440)
+
+test
+To unlock reactive ring, craft 32 iron ring
+(id:441)
+
+test
+To unlock thief's mark, craft 48 reactive ring
+(id:442)
+
+test
+To unlock ring of wizardry, craft 48 thief's mark
+(id:443)
+
+test
+To unlock ring of the dice, craft 32 ring of wizardry
+(id:444)
+
+test
+To unlock warrior's ring, craft 60 ring of wizardry
+(id:445)
+
+test
+To unlock ring of might, craft 60 warrior's ring
+(id:446)
+
+test
+To unlock scholar's mark, craft 68 ring of might
+(id:447)
+
+test
+To unlock band of light, craft 72 scholar's mark
+(id:448)
+
+test
+To unlock anti-elements band, craft 48 band of light
+(id:449)
+
+test
+To unlock banker's mark, craft 80 band of light
+(id:450)
+
+test
+To unlock serpent band, craft 80 banker's mark
+(id:451)
+
+test
+To unlock ring of conservation, craft 60 serpent band
+(id:452)
+
+test
+To unlock majestic ring, craft 88 serpent band
+(id:453)
+
+test
+To unlock atmosring, craft 64 archmage's mark
+(id:454)
+
+test
+To unlock foundation ring, craft 96 archmage's mark
+(id:455)
+
+test
+To unlock the one ring, craft 120 foundation ring
+(id:456)
+
+test
+To unlock stone cleaver, craft 140 swift iron boots
+(id:457)
+
+test
+To unlock swift iron boots, craft 120 antivenom
+(id:458)
+
+test
+To unlock survival knife, craft 60 kris
+(id:459)
+
+test
+To unlock steel hauberk, craft 68 war mask
+(id:460)
+
+test
+To unlock combat boots, craft 84 insulated fur boots
+(id:461)
+
+test
+test
+To unlock guideon robe, craft 68 lord's robe
+(id:463)
+
+test
+To unlock magic dust, craft 64 salve of protection
+(id:464)
+
+test
+test
+To unlock cooling aid, craft 48 mana Potion
+(id:466)
+
+test
+To unlock civil bow, craft 35 gemini
+(id:467)
+
+test
+To unlock quickdraw pistol, craft 48 gold dragon
+(id:468)
+
+test
+To unlock celestial flute, craft 72 bugle
+(id:469)
+
+test
+To unlock reinforced voulge, craft 80 Gaia's spine
+(id:470)
+
+test
+To unlock sage amulet, craft 76 clairvoyance amulet
+(id:471)
+
+test
+To unlock paladin sword, craft 60 demonsbane
+(id:472)
+
+test
+To unlock berserker's sabatons, craft 68 knight's sabatons
+(id:473)
+
+test
+To unlock artisan's gloves, craft 96 dual wielder's gloves
+(id:474)
+
+test
+To unlock questing shoes, craft 60 shiny shoes
+(id:475)
+
+test
+To unlock dragon powder, craft 112 panacea
+(id:476)
+
+test
+To unlock fireshield scroll, craft 112 shielding scroll
+(id:477)
+
+test
+To unlock storm knives, craft 48 fine boomerang
+(id:478)
+
+test
+To unlock archmage's mark, craft 88 majestic ring
+(id:479)
+
+test
+To unlock Moonlight fairy bow, craft 25 fairy bow
+(id:480)
+
+test
+To unlock elfwood pole-axe, craft 35 spiked mace
+(id:481)
+
+test
+To unlock grand bow, craft 65 warrior's trident
+(id:482)
+
+test
+To unlock rising dragon, craft 130 bishop's staff
+(id:483)
+
+test
+To unlock everlasting flute, craft 80 grand bow
+(id:484)
+
+test
+To unlock warrior's trident, craft 55 elfwood pole-axe
+(id:485)
+
+test
+To unlock bishop's staff, craft 92 everlasting flute
+(id:486)
+
+test
+To unlock grand gauntlets, craft 64 spectacular gauntlets
+(id:487)
+
+test
+To unlock blaze scroll, craft 96 fortune scroll
+(id:488)
+
+test
+To unlock enraging blade, craft 100 blackblade
+(id:489)
+
+test
+To unlock staraxe, craft 100 planet cutter
+(id:490)
+
+test
+To unlock walking forteress, craft 100 dragon plate
+(id:491)
+
+test
+To unlock shadow armor, craft 100 warrior's omen
+(id:492)
+
+test
+To unlock plasmic robe, craft 100 lord of darkness
+(id:493)
+
+test
+To unlock codex de genèse, craft 100 apocalypscion
+(id:494)
+
+test
+To unlock angel bow, craft 100 the hurricane
+(id:495)
+
+test
+To unlock death star, craft 100 double infinity
+(id:496)
+
+test
+To unlock crystal drum, craft 100 abyssal tranquility
+(id:497)
+
+test
+To unlock divine judgement, craft 100 dragon skull
+(id:498)
+
+test
+To unlock staff of creation, craft 100 retribution
+(id:499)
+
+test
+To unlock rage rune, craft 100 death token
+(id:500)
+

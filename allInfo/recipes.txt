@@ -1,0 +1,6967 @@
+test
+Plain Sword
+Category: swords
+Worker: Blacksmith
+Station: Iron Anvil level 1
+Craft speed: Very Short
+Ingredients:
+	2x Iron Ore
+(id:1)
+
+test
+Short Sword
+Category: swords
+Worker: Blacksmith
+Station: Iron Anvil level 2
+Craft speed: Very Short
+Ingredients:
+	3x Iron Ore
+(id:2)
+
+test
+Rapier
+Category: swords
+Worker: Blacksmith
+Station: Iron Anvil level 2
+Craft speed: Medium
+Ingredients:
+	5x Iron Ore
+	1x Raw Leather
+(id:3)
+
+test
+Long Sword
+Category: swords
+Worker: Blacksmith
+Station: Iron Anvil level 3
+Craft speed: Medium
+Ingredients:
+	7x Iron Ore
+	2x Raw Leather
+(id:4)
+
+test
+claymore
+Category: swords
+Worker: Blacksmith
+Station: Iron Anvil level 4
+Craft speed: Short
+Ingredients:
+	8x Iron Ore
+	4x Raw Leather
+(id:5)
+
+test
+Fire Sword
+Category: swords
+Worker: Blacksmith
+Station: Iron Anvil level 4
+Craft speed: Short
+Ingredients:
+	2x Short Sword
+	1x Volcanic Rock
+(id:6)
+
+test
+highlander
+Category: swords
+Worker: Blacksmith
+Station: Iron Anvil level 5
+Craft speed: Medium
+Ingredients:
+	2x Steel Rods
+	5x Iron Ore
+	2x Raw Leather
+(id:7)
+
+test
+Soldier's Sword
+Category: swords
+Worker: Blacksmith
+Station: Steel Anvil level 2
+Craft speed: Very Short
+Ingredients:
+	3x Steel Rods
+	5x Iron Ore
+(id:8)
+
+test
+templar blade
+Category: swords
+Worker: Worker
+Station: Spacious Table level 1
+Craft speed: Very Short
+Ingredients:
+	10x Steel Rods
+	8x Iron Ore
+	3x highlander
+(id:9)
+
+test
+wakizashi
+Category: swords
+Worker: Blacksmith
+Station: Steel Anvil level 2
+Craft speed: Medium
+Ingredients:
+	4x Steel Rods
+(id:10)
+
+test
+zhanmadao
+Category: swords
+Worker: Blacksmith
+Station: Steel Anvil level 3
+Craft speed: Medium
+Ingredients:
+	4x Steel Rods
+	6x Iron Ore
+	3x Raw Leather
+(id:11)
+
+test
+white great sword
+Category: swords
+Worker: Blacksmith
+Station: Steel Anvil level 5
+Craft speed: Short
+Ingredients:
+	2x Mithril Lumps
+	3x Steel Rods
+	8x Iron Ore
+(id:12)
+
+test
+ice brand
+Category: swords
+Worker: Enchanter
+Station: Luxurious Table level 1
+Craft speed: Medium
+Ingredients:
+	2x frost protector
+	5x Steel Rods
+	1x Eternal Ice
+(id:13)
+
+test
+murasame
+Category: swords
+Worker: Blacksmith
+Station: Mithril Anvil level 2
+Craft speed: Long
+Ingredients:
+	2x Mithril Lumps
+	5x Steel Rods
+	5x Oil
+	7x Raw Leather
+(id:14)
+
+test
+demonsbane
+Category: swords
+Worker: Blacksmith
+Station: Mithril Anvil level 3
+Craft speed: Very Long
+Ingredients:
+	6x Steel Rods
+	6x Oil
+	2x Mithril Lumps
+(id:15)
+
+test
+lonewolf
+Category: swords
+Worker: Blacksmith
+Station: Mithril Anvil level 3
+Craft speed: Long
+Ingredients:
+	3x Mithril Lumps
+	8x Steel Rods
+	1x Roaring Powder
+	5x Long Sword
+	2x Crystals
+(id:16)
+
+test
+the one sword
+Category: swords
+Worker: Blacksmith
+Station: Mithril Anvil level 4
+Craft speed: Long
+Ingredients:
+	2x white great sword
+	6x Mithril Lumps
+	4x Crystals
+	5x Steel Rods
+	4x Oil
+(id:17)
+
+test
+excalibur
+Category: swords
+Worker: Blacksmith
+Station: Mithril Anvil level 5
+Craft speed: Very Long
+Ingredients:
+	4x Mithril Lumps
+	10x Long Sword
+	1x Divine Leaf
+(id:18)
+
+test
+hell sword
+Category: swords
+Worker: Enchanter
+Station: Luxurious Table level 5
+Craft speed: Very Long
+Ingredients:
+	1x excalibur
+	1x sacrificial blade
+	1x Shadow Essence
+	8x Steel Rods
+	5x Mithril Lumps
+(id:19)
+
+test
+knife
+Category: daggers
+Worker: Worker
+Station: Work Table level 1
+Craft speed: Very Short
+Ingredients:
+	1x Iron Ore
+(id:20)
+
+test
+dagger
+Category: daggers
+Worker: Blacksmith
+Station: Iron Anvil level 1
+Craft speed: Very Short
+Ingredients:
+	2x Iron Ore
+(id:21)
+
+test
+main-gauche
+Category: daggers
+Worker: Blacksmith
+Station: Iron Anvil level 2
+Craft speed: Very Short
+Ingredients:
+	3x Iron Ore
+(id:22)
+
+test
+bandit's dagger
+Category: daggers
+Worker: Blacksmith
+Station: Iron Anvil level 2
+Craft speed: Medium
+Ingredients:
+	4x Iron Ore
+	1x Wood
+(id:23)
+
+test
+cutter
+Category: daggers
+Worker: Blacksmith
+Station: Iron Anvil level 3
+Craft speed: Short
+Ingredients:
+	5x Iron Ore
+	2x Raw Leather
+(id:24)
+
+test
+poison blade
+Category: daggers
+Worker: Blacksmith
+Station: Iron Anvil level 4
+Craft speed: Long
+Ingredients:
+	3x Iron Ore
+	1x Acid
+(id:25)
+
+test
+steel blade
+Category: daggers
+Worker: Blacksmith
+Station: Iron Anvil level 4
+Craft speed: Short
+Ingredients:
+	3x Steel Rods
+(id:26)
+
+test
+purse-opener
+Category: daggers
+Worker: Blacksmith
+Station: Iron Anvil level 5
+Craft speed: Medium
+Ingredients:
+	1x steel blade
+	1x bandit's dagger
+(id:27)
+
+test
+fire dagger
+Category: daggers
+Worker: Blacksmith
+Station: Iron Anvil level 5
+Craft speed: Short
+Ingredients:
+	5x dagger
+	2x Volcanic Rock
+	8x Iron Ore
+	4x Steel Rods
+	4x Raw Leather
+(id:28)
+
+test
+mailbreaker
+Category: daggers
+Worker: Blacksmith
+Station: Steel Anvil level 1
+Craft speed: Long
+Ingredients:
+	3x Steel Rods
+	8x Iron Ore
+	6x Raw Leather
+(id:29)
+
+test
+kris
+Category: daggers
+Worker: Blacksmith
+Station: Steel Anvil level 2
+Craft speed: Medium
+Ingredients:
+	4x Steel Rods
+	1x Crystals
+(id:30)
+
+test
+sacrificial blade
+Category: daggers
+Worker: Blacksmith
+Station: Steel Anvil level 3
+Craft speed: Long
+Ingredients:
+	5x Steel Rods
+	3x Crystals
+(id:31)
+
+test
+toxic blade
+Category: daggers
+Worker: Blacksmith
+Station: Steel Anvil level 4
+Craft speed: Long
+Ingredients:
+	1x kris
+	2x Acid
+(id:32)
+
+test
+curver blade
+Category: daggers
+Worker: Enchanter
+Station: Luxurious Table level 5
+Craft speed: Long
+Ingredients:
+	2x Mithril Lumps
+	1x Crystals
+	1x Demon Horn
+(id:33)
+
+test
+crimson heart
+Category: daggers
+Worker: Blacksmith
+Station: Mithril Anvil level 1
+Craft speed: Very Long
+Ingredients:
+	5x Mithril Lumps
+	2x Gems
+	8x Iron Ore
+	5x Raw Leather
+(id:34)
+
+test
+dragon heart
+Category: daggers
+Worker: Worker
+Station: Luxurious Table level 3
+Craft speed: Very Long
+Ingredients:
+	5x Mithril Lumps
+	5x Gems
+	1x Dragon Scale
+(id:35)
+
+test
+assassin's dagger
+Category: daggers
+Worker: Blacksmith
+Station: Mithril Anvil level 2
+Craft speed: Long
+Ingredients:
+	3x dagger
+	5x Mithril Lumps
+	8x Iron Ore
+	6x Raw Leather
+	3x Gems
+(id:36)
+
+test
+ebony dagger
+Category: daggers
+Worker: Blacksmith
+Station: Mithril Anvil level 3
+Craft speed: Very Long
+Ingredients:
+	2x crimson heart
+	8x ebonystaff
+	1x Roaring Powder
+(id:37)
+
+test
+angelwing
+Category: daggers
+Worker: Blacksmith
+Station: Mithril Anvil level 4
+Craft speed: Long
+Ingredients:
+	3x band of light
+	6x steel blade
+	3x Crystals
+	3x Mithril Lumps
+	3x Gems
+(id:38)
+
+test
+blackblade
+Category: daggers
+Worker: Blacksmith
+Station: Mithril Anvil level 5
+Craft speed: Very Long
+Ingredients:
+	3x assassin's dagger
+	1x demon blood
+	1x Shadow Essence
+	5x Mithril Lumps
+	3x Gems
+(id:39)
+
+test
+hand Axe
+Category: axes
+Worker: Blacksmith
+Station: Iron Anvil level 2
+Craft speed: Very Short
+Ingredients:
+	3x Wood
+	3x Iron Ore
+(id:40)
+
+test
+small Axe
+Category: axes
+Worker: Blacksmith
+Station: Iron Anvil level 2
+Craft speed: Very Short
+Ingredients:
+	4x Iron Ore
+	3x Wood
+(id:41)
+
+test
+broad-axe
+Category: axes
+Worker: Blacksmith
+Station: Iron Anvil level 2
+Craft speed: Medium
+Ingredients:
+	4x Iron Ore
+	4x Wood
+(id:42)
+
+test
+great broad-axe
+Category: axes
+Worker: Blacksmith
+Station: Iron Anvil level 2
+Craft speed: Medium
+Ingredients:
+	5x Iron Ore
+	5x Wood
+	1x Acid
+(id:43)
+
+test
+halberd
+Category: axes
+Worker: Blacksmith
+Station: Iron Anvil level 3
+Craft speed: Short
+Ingredients:
+	6x Iron Ore
+	1x Elfwood Sticks
+(id:44)
+
+test
+assault axe
+Category: axes
+Worker: Blacksmith
+Station: Iron Anvil level 4
+Craft speed: Short
+Ingredients:
+	6x Iron Ore
+	2x Elfwood Sticks
+(id:45)
+
+test
+pirate axe
+Category: axes
+Worker: Blacksmith
+Station: Iron Anvil level 5
+Craft speed: Short
+Ingredients:
+	1x broad-axe
+	1x Abyss Shell
+(id:46)
+
+test
+stone Axe
+Category: axes
+Worker: Blacksmith
+Station: Steel Anvil level 1
+Craft speed: Short
+Ingredients:
+	2x Steel Rods
+	3x Elfwood Sticks
+(id:47)
+
+test
+Pole-axe
+Category: axes
+Worker: Blacksmith
+Station: Steel Anvil level 1
+Craft speed: Long
+Ingredients:
+	2x Steel Rods
+	4x Elfwood Sticks
+(id:48)
+
+test
+steel battle-axe
+Category: axes
+Worker: Blacksmith
+Station: Steel Anvil level 3
+Craft speed: Very Short
+Ingredients:
+	4x Steel Rods
+	6x Iron Ore
+(id:49)
+
+test
+sturdy pole-axe
+Category: axes
+Worker: Blacksmith
+Station: Steel Anvil level 3
+Craft speed: Short
+Ingredients:
+	2x stone Axe
+	2x Steel Rods
+(id:50)
+
+test
+frost axe
+Category: axes
+Worker: Blacksmith
+Station: Steel Anvil level 4
+Craft speed: Very Short
+Ingredients:
+	5x broad-axe
+	4x Steel Rods
+	1x Eternal Ice
+(id:51)
+
+test
+war labrys
+Category: axes
+Worker: Blacksmith
+Station: Steel Anvil level 5
+Craft speed: Short
+Ingredients:
+	2x Pole-axe
+	3x Steel Rods
+(id:52)
+
+test
+vicious chopper
+Category: axes
+Worker: Blacksmith
+Station: Mithril Anvil level 2
+Craft speed: Short
+Ingredients:
+	1x ring of might
+	4x small Axe
+	2x Mithril Lumps
+	4x Ironwood
+	1x Gems
+(id:53)
+
+test
+enchanted labrys
+Category: axes
+Worker: Enchanter
+Station: Luxurious Table level 2
+Craft speed: Short
+Ingredients:
+	5x Pole-axe
+	3x Steel Rods
+	1x Roaring Powder
+(id:54)
+
+test
+brier-axe
+Category: axes
+Worker: Blacksmith
+Station: Mithril Anvil level 3
+Craft speed: Medium
+Ingredients:
+	5x Mithril Lumps
+	3x Crystals
+	5x Ironwood
+(id:55)
+
+test
+asunder
+Category: axes
+Worker: Blacksmith
+Station: Mithril Anvil level 4
+Craft speed: Very Long
+Ingredients:
+	5x Mithril Lumps
+	8x Steel Rods
+	5x Elfwood Sticks
+(id:56)
+
+test
+twinaxe
+Category: axes
+Worker: Blacksmith
+Station: Mithril Anvil level 4
+Craft speed: Medium
+Ingredients:
+	5x broad-axe
+	8x Steel Rods
+	10x Ironwood
+	4x Mithril Lumps
+(id:57)
+
+test
+sol axe
+Category: axes
+Worker: Blacksmith
+Station: Mithril Anvil level 5
+Craft speed: Medium
+Ingredients:
+	2x steel battle-axe
+	10x Mithril Lumps
+	1x Dragon Scale
+(id:58)
+
+test
+giant halberd
+Category: axes
+Worker: Blacksmith
+Station: Mithril Anvil level 5
+Craft speed: Long
+Ingredients:
+	8x ranseur
+	5x assault axe
+	8x Steel Rods
+	5x Mithril Lumps
+	10x Ironwood
+(id:59)
+
+test
+planet cutter
+Category: axes
+Worker: Blacksmith
+Station: Mithril Anvil level 5
+Craft speed: Long
+Ingredients:
+	5x stone Axe
+	10x ring of might
+	1x Rising Sun
+	25x Steel Rods
+	10x Mithril Lumps
+	8x Ironwood
+(id:60)
+
+test
+scale Mail
+Category: heavy armor
+Worker: Armorer
+Station: Iron Anvil level 1
+Craft speed: Very Short
+Ingredients:
+	3x Iron Ore
+	2x Raw Leather
+(id:61)
+
+test
+brigandine
+Category: heavy armor
+Worker: Armorer
+Station: Iron Anvil level 2
+Craft speed: Short
+Ingredients:
+	4x Iron Ore
+	3x Raw Leather
+(id:62)
+
+test
+chain mail
+Category: heavy armor
+Worker: Armorer
+Station: Iron Anvil level 3
+Craft speed: Very Short
+Ingredients:
+	6x Iron Ore
+	4x Raw Leather
+(id:63)
+
+test
+lorica segmentata
+Category: heavy armor
+Worker: Armorer
+Station: Iron Anvil level 3
+Craft speed: Short
+Ingredients:
+	4x Iron Ore
+	2x Steel Rods
+(id:64)
+
+test
+light lorica
+Category: heavy armor
+Worker: Armorer
+Station: Iron Anvil level 4
+Craft speed: Medium
+Ingredients:
+	3x Iron Ore
+	2x Steel Rods
+	1x Faery's Tear
+(id:65)
+
+test
+half-plate
+Category: heavy armor
+Worker: Armorer
+Station: Iron Anvil level 4
+Craft speed: Short
+Ingredients:
+	2x Steel Rods
+	2x Oil
+	4x Raw Leather
+	4x Fabric
+(id:66)
+
+test
+iron plate armor
+Category: heavy armor
+Worker: Armorer
+Station: Steel Anvil level 1
+Craft speed: Short
+Ingredients:
+	8x Iron Ore
+	4x Steel Rods
+	3x Oil
+	2x Raw Leather
+(id:67)
+
+test
+flexible plate
+Category: heavy armor
+Worker: Armorer
+Station: Steel Anvil level 2
+Craft speed: Short
+Ingredients:
+	3x Steel Rods
+	6x Oil
+	4x Raw Leather
+(id:68)
+
+test
+guard mail
+Category: heavy armor
+Worker: Armorer
+Station: Steel Anvil level 3
+Craft speed: Medium
+Ingredients:
+	2x chain mail
+	3x Steel Rods
+	5x Raw Leather
+	5x Oil
+(id:69)
+
+test
+plate of the moon
+Category: heavy armor
+Worker: Enchanter
+Station: Luxurious Table level 4
+Craft speed: Long
+Ingredients:
+	2x half-plate
+	5x Steel Rods
+	1x Moon Stone
+(id:70)
+
+test
+full plate
+Category: heavy armor
+Worker: Armorer
+Station: Steel Anvil level 5
+Craft speed: Medium
+Ingredients:
+	1x half-plate
+	4x Steel Rods
+	5x Oil
+	6x Iron Ore
+(id:71)
+
+test
+great armor
+Category: heavy armor
+Worker: Armorer
+Station: Mithril Anvil level 1
+Craft speed: Medium
+Ingredients:
+	4x Mithril Lumps
+	5x Steel Rods
+	4x Raw Leather
+	7x Oil
+(id:72)
+
+test
+demon plate
+Category: heavy armor
+Worker: Armorer
+Station: Mithril Anvil level 3
+Craft speed: Medium
+Ingredients:
+	5x half-plate
+	4x Mithril Lumps
+	1x Shadow Essence
+(id:73)
+
+test
+belial
+Category: heavy armor
+Worker: Armorer
+Station: Mithril Anvil level 5
+Craft speed: Short
+Ingredients:
+	1x demon plate
+	4x Mithril Lumps
+	1x Shadow Essence
+	2x Demon Horn
+(id:74)
+
+test
+lionheart
+Category: heavy armor
+Worker: Armorer
+Station: Mithril Anvil level 4
+Craft speed: Medium
+Ingredients:
+	2x pendant of safety
+	6x Mithril Lumps
+	8x Steel Rods
+	6x Fabric
+	5x Raw Leather
+	4x Oil
+(id:75)
+
+test
+rock armor
+Category: heavy armor
+Worker: Armorer
+Station: Mithril Anvil level 5
+Craft speed: Long
+Ingredients:
+	1x stalagmite gloves
+	1x stone hands
+	2x Crystals
+	3x Mithril Lumps
+(id:76)
+
+test
+sky dragoon armor
+Category: heavy armor
+Worker: Armorer
+Station: Mithril Anvil level 5
+Craft speed: Medium
+Ingredients:
+	10x scale Mail
+	10x Steel Rods
+	10x Mithril Lumps
+	8x Crystals
+	1x Rising Sun
+(id:77)
+
+test
+dragon plate
+Category: heavy armor
+Worker: Armorer
+Station: Mithril Anvil level 5
+Craft speed: Very Long
+Ingredients:
+	5x full plate
+	15x scale Mail
+	1x amulet of evil protection
+	2x Dragon Scale
+	10x Mithril Lumps
+	5x Crystals
+(id:78)
+
+test
+iron gauntlets
+Category: gauntlets
+Worker: Armorer
+Station: Iron Anvil level 1
+Craft speed: Very Short
+Ingredients:
+	4x Iron Ore
+	1x Raw Leather
+(id:79)
+
+test
+fine gauntlets
+Category: gauntlets
+Worker: Armorer
+Station: Iron Anvil level 3
+Craft speed: Very Short
+Ingredients:
+	4x Iron Ore
+	4x Raw Leather
+	2x Fabric
+(id:80)
+
+test
+war gauntlets
+Category: gauntlets
+Worker: Armorer
+Station: Iron Anvil level 5
+Craft speed: Short
+Ingredients:
+	3x Steel Rods
+	4x Raw Leather
+(id:81)
+
+test
+shell gauntlets
+Category: gauntlets
+Worker: Armorer
+Station: Iron Anvil level 5
+Craft speed: Short
+Ingredients:
+	2x Steel Rods
+	2x Raw Leather
+	1x Phoenix Feather
+(id:82)
+
+test
+spectacular gauntlets
+Category: gauntlets
+Worker: Armorer
+Station: Steel Anvil level 2
+Craft speed: Short
+Ingredients:
+	2x fine gauntlets
+	3x Glass
+(id:83)
+
+test
+man handlers
+Category: gauntlets
+Worker: Armorer
+Station: Mithril Anvil level 2
+Craft speed: Long
+Ingredients:
+	1x war gauntlets
+	5x Oil
+	5x Steel Rods
+	7x Raw Leather
+	7x Iron Ore
+(id:84)
+
+test
+knight's gauntlets
+Category: gauntlets
+Worker: Worker
+Station: Luxurious Table level 5
+Craft speed: Long
+Ingredients:
+	3x war gauntlets
+	6x Oil
+	5x Steel Rods
+	8x Mithril Lumps
+	8x Iron Ore
+(id:85)
+
+test
+paladin's gauntlets
+Category: gauntlets
+Worker: Enchanter
+Station: Luxurious Table level 4
+Craft speed: Medium
+Ingredients:
+	1x fine gauntlets
+	5x Mithril Lumps
+	5x Gems
+	5x Steel Rods
+	8x Iron Ore
+(id:86)
+
+test
+stalagmite gloves
+Category: gauntlets
+Worker: Armorer
+Station: Mithril Anvil level 4
+Craft speed: Long
+Ingredients:
+	5x iron gauntlets
+	4x Crystals
+	2x Gems
+	3x Mithril Lumps
+	2x Abyss Shell
+(id:87)
+
+test
+ice gauntlets
+Category: gauntlets
+Worker: Armorer
+Station: Mithril Anvil level 5
+Craft speed: Very Long
+Ingredients:
+	8x spectacular gauntlets
+	4x Eternal Ice
+	6x Mithril Lumps
+	7x Steel Rods
+	4x Gems
+(id:88)
+
+test
+metal cap
+Category: heavy helmets
+Worker: Armorer
+Station: Iron Anvil level 1
+Craft speed: Very Short
+Ingredients:
+	4x Iron Ore
+(id:89)
+
+test
+brass helmet
+Category: heavy helmets
+Worker: Armorer
+Station: Iron Anvil level 2
+Craft speed: Very Short
+Ingredients:
+	6x Iron Ore
+(id:90)
+
+test
+heavy helmet
+Category: heavy helmets
+Worker: Worker
+Station: Spacious Table level 2
+Craft speed: Short
+Ingredients:
+	8x Iron Ore
+(id:91)
+
+test
+full helmet
+Category: heavy helmets
+Worker: Armorer
+Station: Iron Anvil level 3
+Craft speed: Medium
+Ingredients:
+	8x Iron Ore
+(id:92)
+
+test
+fitting top
+Category: heavy helmets
+Worker: Armorer
+Station: Iron Anvil level 4
+Craft speed: Medium
+Ingredients:
+	8x Iron Ore
+	10x Raw Leather
+(id:93)
+
+test
+knight's hauberk
+Category: heavy helmets
+Worker: Armorer
+Station: Iron Anvil level 5
+Craft speed: Medium
+Ingredients:
+	5x Iron Ore
+	1x Steel Rods
+	3x Raw Leather
+	2x Fabric
+	2x Dyes
+(id:94)
+
+test
+kabuto
+Category: heavy helmets
+Worker: Armorer
+Station: Steel Anvil level 2
+Craft speed: Short
+Ingredients:
+	1x full helmet
+	1x Abyss Shell
+(id:95)
+
+test
+blessed helm
+Category: heavy helmets
+Worker: Armorer
+Station: Steel Anvil level 3
+Craft speed: Medium
+Ingredients:
+	6x Iron Ore
+	4x Steel Rods
+	3x Oil
+(id:96)
+
+test
+war mask
+Category: heavy helmets
+Worker: Armorer
+Station: Steel Anvil level 4
+Craft speed: Medium
+Ingredients:
+	6x Iron Ore
+	4x Steel Rods
+	5x Oil
+(id:97)
+
+test
+paladin's helmet
+Category: heavy helmets
+Worker: Enchanter
+Station: Luxurious Table level 3
+Craft speed: Medium
+Ingredients:
+	1x blessed helm
+	2x Faery's Tear
+	3x Mithril Lumps
+	1x Crystals
+(id:98)
+
+test
+transmundane full helmet
+Category: heavy helmets
+Worker: Armorer
+Station: Mithril Anvil level 4
+Craft speed: Long
+Ingredients:
+	4x Mithril Lumps
+	9x Iron Ore
+	4x Steel Rods
+	8x Oil
+(id:99)
+
+test
+ancient helmet
+Category: heavy helmets
+Worker: Armorer
+Station: Mithril Anvil level 5
+Craft speed: Very Long
+Ingredients:
+	1x Rising Sun
+	6x Steel Rods
+	8x Oil
+	2x Mithril Lumps
+	2x Gems
+(id:100)
+
+test
+wrathful face
+Category: heavy helmets
+Worker: Armorer
+Station: Mithril Anvil level 5
+Craft speed: Long
+Ingredients:
+	10x full helmet
+	6x war mask
+	1x Dragon Scale
+	5x Mithril Lumps
+	4x Crystals
+	2x Gems
+(id:101)
+
+test
+iron boots
+Category: heavy boots
+Worker: Armorer
+Station: Iron Anvil level 1
+Craft speed: Very Short
+Ingredients:
+	4x Iron Ore
+	4x Raw Leather
+(id:102)
+
+test
+fine sabaton
+Category: heavy boots
+Worker: Armorer
+Station: Iron Anvil level 2
+Craft speed: Short
+Ingredients:
+	6x Iron Ore
+	4x Raw Leather
+	2x Fabric
+(id:103)
+
+test
+spiked boots
+Category: heavy boots
+Worker: Armorer
+Station: Iron Anvil level 3
+Craft speed: Short
+Ingredients:
+	2x Iron Ore
+	2x Raw Leather
+	1x Volcanic Rock
+(id:104)
+
+test
+warrior's sabaton
+Category: heavy boots
+Worker: Worker
+Station: Luxurious Table level 1
+Craft speed: Short
+Ingredients:
+	8x Steel Rods
+	6x Raw Leather
+	4x Fabric
+(id:105)
+
+test
+soldier's sabatons
+Category: heavy boots
+Worker: Armorer
+Station: Steel Anvil level 2
+Craft speed: Short
+Ingredients:
+	2x Steel Rods
+	2x Fabric
+	2x Raw Leather
+(id:106)
+
+test
+knight's sabatons
+Category: heavy boots
+Worker: Armorer
+Station: Steel Anvil level 3
+Craft speed: Short
+Ingredients:
+	4x Steel Rods
+	5x Fabric
+	8x Raw Leather
+(id:107)
+
+test
+paladin's sabatons
+Category: heavy boots
+Worker: Armorer
+Station: Mithril Anvil level 2
+Craft speed: Medium
+Ingredients:
+	1x knight's sabatons
+	2x amulet of light
+	6x Mithril Lumps
+	4x Steel Rods
+	3x Crystals
+	10x Fabric
+(id:108)
+
+test
+dragoon's sabatons
+Category: heavy boots
+Worker: Armorer
+Station: Mithril Anvil level 5
+Craft speed: Long
+Ingredients:
+	15x fine sabaton
+	2x Dragon Scale
+	10x Steel Rods
+	7x Mithril Lumps
+	4x Crystals
+(id:109)
+
+test
+fur armor
+Category: armor
+Worker: Leather-worker
+Station: Cutting Table level 1
+Craft speed: Very Short
+Ingredients:
+	3x Raw Leather
+	2x Iron Ore
+(id:110)
+
+test
+leather cuirass
+Category: armor
+Worker: Leather-worker
+Station: Cutting Table level 2
+Craft speed: Very Short
+Ingredients:
+	4x Raw Leather
+	2x Wood
+	1x Fabric
+(id:111)
+
+test
+studded Leather armor
+Category: armor
+Worker: Leather-worker
+Station: Cutting Table level 2
+Craft speed: Medium
+Ingredients:
+	5x Raw Leather
+	5x Iron Ore
+(id:112)
+
+test
+padded leather armor
+Category: armor
+Worker: Leather-worker
+Station: Cutting Table level 3
+Craft speed: Short
+Ingredients:
+	8x Raw Leather
+	5x Wood
+(id:113)
+
+test
+soft leather armor
+Category: armor
+Worker: Leather-worker
+Station: Cutting Table level 4
+Craft speed: Medium
+Ingredients:
+	5x Raw Leather
+	5x Wood
+	1x Faery's Tear
+(id:114)
+
+test
+gambeson
+Category: armor
+Worker: Leather-worker
+Station: Cutting Table level 4
+Craft speed: Very Short
+Ingredients:
+	6x Raw Leather
+	4x Wood
+	2x Dyes
+(id:115)
+
+test
+barbarian chief armor
+Category: armor
+Worker: Leather-worker
+Station: Cutting Table level 4
+Craft speed: Medium
+Ingredients:
+	1x fur armor
+	3x Iron Ore
+	3x Dyes
+(id:116)
+
+test
+cow leather armor
+Category: armor
+Worker: Leather-worker
+Station: Cutting Table level 5
+Craft speed: Short
+Ingredients:
+	1x gambeson
+	5x Raw Leather
+(id:117)
+
+test
+perfect leather
+Category: armor
+Worker: Leather-worker
+Station: Good Cutting Table level 2
+Craft speed: Short
+Ingredients:
+	5x Raw Leather
+	4x Fabric
+	3x Dyes
+(id:118)
+
+test
+noble leather
+Category: armor
+Worker: Leather-worker
+Station: Good Cutting Table level 2
+Craft speed: Medium
+Ingredients:
+	2x leather cuirass
+	3x Fabric
+	2x Dyes
+(id:119)
+
+test
+plated leather armor
+Category: armor
+Worker: Leather-worker
+Station: Good Cutting Table level 3
+Craft speed: Short
+Ingredients:
+	2x studded Leather armor
+	2x Steel Rods
+	4x Fabric
+	4x Iron Ore
+(id:120)
+
+test
+evasive armor
+Category: armor
+Worker: Leather-worker
+Station: Good Cutting Table level 4
+Craft speed: Very Short
+Ingredients:
+	1x perfect leather
+	1x Golden Silk
+(id:121)
+
+test
+yeti armor
+Category: armor
+Worker: Enchanter
+Station: Spacious Table level 4
+Craft speed: Short
+Ingredients:
+	3x barbarian chief armor
+	1x Eternal Ice
+	1x Roaring Powder
+(id:122)
+
+test
+dragon leather
+Category: armor
+Worker: Leather-worker
+Station: Good Cutting Table level 5
+Craft speed: Long
+Ingredients:
+	5x Raw Leather
+	2x Dragon Scale
+(id:123)
+
+test
+divine leather
+Category: armor
+Worker: Worker
+Station: Luxurious Table level 1
+Craft speed: Long
+Ingredients:
+	10x Raw Leather
+	6x Fabric
+	3x Gems
+	1x Divine Leaf
+(id:124)
+
+test
+elven brigandine
+Category: armor
+Worker: Leather-worker
+Station: Fine Cutting Table level 1
+Craft speed: Medium
+Ingredients:
+	3x gambeson
+	8x Raw Leather
+	3x Crystals
+	3x Mithril Lumps
+(id:125)
+
+test
+reign coat
+Category: armor
+Worker: Leather-worker
+Station: Fine Cutting Table level 2
+Craft speed: Medium
+Ingredients:
+	1x lord's robe
+	8x Fabric
+	3x Gems
+	2x Mithril Lumps
+	6x Raw Leather
+(id:126)
+
+test
+comfortable vest
+Category: armor
+Worker: Leather-worker
+Station: Fine Cutting Table level 3
+Craft speed: Medium
+Ingredients:
+	2x scholar's mark
+	10x Fabric
+	6x Oil
+	4x Gems
+	1x Raw Leather
+(id:127)
+
+test
+samurai's armor
+Category: armor
+Worker: Leather-worker
+Station: Fine Cutting Table level 4
+Craft speed: Medium
+Ingredients:
+	4x plated leather armor
+	10x Fabric
+	10x Raw Leather
+	8x Steel Rods
+	6x Mithril Lumps
+	2x Golden Silk
+(id:128)
+
+test
+warrior's omen
+Category: armor
+Worker: Leather-worker
+Station: Fine Cutting Table level 5
+Craft speed: Long
+Ingredients:
+	1x samurai's armor
+	5x perfect leather
+	1x Shadow Essence
+	10x Steel Rods
+	6x Mithril Lumps
+	4x Raw Leather
+(id:129)
+
+test
+fur boots
+Category: boots
+Worker: Leather-worker
+Station: Cutting Table level 1
+Craft speed: Very Short
+Ingredients:
+	2x Raw Leather
+(id:130)
+
+test
+riding boots
+Category: boots
+Worker: Leather-worker
+Station: Cutting Table level 3
+Craft speed: Very Short
+Ingredients:
+	3x Fabric
+	2x Wood
+(id:131)
+
+test
+floating boots
+Category: boots
+Worker: Leather-worker
+Station: Cutting Table level 5
+Craft speed: Long
+Ingredients:
+	5x Fabric
+	1x Elfwood Sticks
+	1x Faery's Tear
+(id:132)
+
+test
+loose boots
+Category: boots
+Worker: Leather-worker
+Station: Good Cutting Table level 1
+Craft speed: Very Short
+Ingredients:
+	5x Raw Leather
+	2x Dyes
+(id:133)
+
+test
+soft boots
+Category: boots
+Worker: Worker
+Station: Spacious Table level 2
+Craft speed: Medium
+Ingredients:
+	10x Raw Leather
+	4x Dyes
+(id:134)
+
+test
+courier's boots
+Category: boots
+Worker: Leather-worker
+Station: Good Cutting Table level 4
+Craft speed: Short
+Ingredients:
+	1x riding boots
+	1x Elfwood Sticks
+	1x Phoenix Feather
+(id:135)
+
+test
+insulated fur boots
+Category: boots
+Worker: Leather-worker
+Station: Fine Cutting Table level 2
+Craft speed: Short
+Ingredients:
+	2x fur boots
+	1x Crystals
+	4x Dyes
+(id:136)
+
+test
+sasquatch wear
+Category: boots
+Worker: Enchanter
+Station: Luxurious Table level 3
+Craft speed: Long
+Ingredients:
+	3x fur boots
+	1x Crystals
+	5x Dyes
+	2x Eternal Ice
+(id:137)
+
+test
+traveling boots
+Category: boots
+Worker: Leather-worker
+Station: Fine Cutting Table level 4
+Craft speed: Long
+Ingredients:
+	6x Fabric
+	5x Ironwood
+	3x Mithril Lumps
+	4x Crystals
+	4x Dyes
+(id:138)
+
+test
+explorer boots
+Category: boots
+Worker: Leather-worker
+Station: Fine Cutting Table level 5
+Craft speed: Long
+Ingredients:
+	3x traveling boots
+	5x riding boots
+	1x Rising Sun
+	8x Mithril Lumps
+	5x Crystals
+	6x Dyes
+(id:139)
+
+test
+soft Gloves
+Category: gloves
+Worker: Leather-worker
+Station: Cutting Table level 1
+Craft speed: Very Short
+Ingredients:
+	3x Raw Leather
+(id:140)
+
+test
+leather gloves
+Category: gloves
+Worker: Leather-worker
+Station: Cutting Table level 2
+Craft speed: Very Short
+Ingredients:
+	6x Raw Leather
+(id:141)
+
+test
+long gloves
+Category: gloves
+Worker: Leather-worker
+Station: Cutting Table level 3
+Craft speed: Short
+Ingredients:
+	6x Raw Leather
+	2x Fabric
+	2x Dyes
+(id:142)
+
+test
+heat gloves
+Category: gloves
+Worker: Leather-worker
+Station: Cutting Table level 4
+Craft speed: Medium
+Ingredients:
+	4x Raw Leather
+	3x Fabric
+	3x Dyes
+	1x Volcanic Rock
+(id:143)
+
+test
+smith's gloves
+Category: gloves
+Worker: Worker
+Station: Spacious Table level 1
+Craft speed: Long
+Ingredients:
+	4x Raw Leather
+	4x Fabric
+	4x Dyes
+(id:144)
+
+test
+noble's gloves
+Category: gloves
+Worker: Leather-worker
+Station: Good Cutting Table level 2
+Craft speed: Medium
+Ingredients:
+	4x Fabric
+	1x Gems
+	3x Dyes
+(id:145)
+
+test
+resistance gloves
+Category: gloves
+Worker: Leather-worker
+Station: Good Cutting Table level 4
+Craft speed: Long
+Ingredients:
+	1x long gloves
+	2x Moon Stone
+(id:146)
+
+test
+dual wielder's gloves
+Category: gloves
+Worker: Leather-worker
+Station: Fine Cutting Table level 2
+Craft speed: Long
+Ingredients:
+	2x leather gloves
+	6x Fabric
+	3x Mithril Lumps
+	3x Gems
+	3x Crystals
+	8x Dyes
+(id:147)
+
+test
+soft griffon gloves
+Category: gloves
+Worker: Leather-worker
+Station: Fine Cutting Table level 5
+Craft speed: Medium
+Ingredients:
+	5x noble's gloves
+	5x soft Gloves
+	2x Golden Silk
+	5x Mithril Lumps
+	5x Gems
+	8x Dyes
+(id:148)
+
+test
+leather helmet
+Category: helmets
+Worker: Leather-worker
+Station: Cutting Table level 1
+Craft speed: Very Short
+Ingredients:
+	3x Wood
+	3x Raw Leather
+(id:149)
+
+test
+bone helmet
+Category: helmets
+Worker: Leather-worker
+Station: Cutting Table level 3
+Craft speed: Very Short
+Ingredients:
+	4x Wood
+	4x Raw Leather
+(id:150)
+
+test
+shiny helmet
+Category: helmets
+Worker: Leather-worker
+Station: Cutting Table level 4
+Craft speed: Very Short
+Ingredients:
+	2x Wood
+	2x Elfwood Sticks
+(id:151)
+
+test
+viking helmet
+Category: helmets
+Worker: Leather-worker
+Station: Good Cutting Table level 1
+Craft speed: Short
+Ingredients:
+	3x Elfwood Sticks
+	2x Iron Ore
+	2x Raw Leather
+(id:152)
+
+test
+demon helmet
+Category: helmets
+Worker: Leather-worker
+Station: Good Cutting Table level 2
+Craft speed: Short
+Ingredients:
+	4x Elfwood Sticks
+	5x Iron Ore
+	3x Raw Leather
+	1x Demon Horn
+(id:153)
+
+test
+soldier's helmet
+Category: helmets
+Worker: Leather-worker
+Station: Good Cutting Table level 2
+Craft speed: Short
+Ingredients:
+	2x Steel Rods
+	1x Elfwood Sticks
+	2x Fabric
+(id:154)
+
+test
+gladiator's helmet
+Category: helmets
+Worker: Leather-worker
+Station: Good Cutting Table level 4
+Craft speed: Very Short
+Ingredients:
+	3x Steel Rods
+	3x Fabric
+	6x Raw Leather
+	3x Elfwood Sticks
+(id:155)
+
+test
+mask of fear
+Category: helmets
+Worker: Enchanter
+Station: Spacious Table level 3
+Craft speed: Short
+Ingredients:
+	5x bone helmet
+	1x war mask
+	1x Roaring Powder
+	5x Steel Rods
+	8x Raw Leather
+(id:156)
+
+test
+captain's helmet
+Category: helmets
+Worker: Leather-worker
+Station: Good Cutting Table level 5
+Craft speed: Short
+Ingredients:
+	6x Steel Rods
+	8x Raw Leather
+	5x Fabric
+	6x Elfwood Sticks
+(id:157)
+
+test
+grim reaper
+Category: helmets
+Worker: Leather-worker
+Station: Fine Cutting Table level 1
+Craft speed: Medium
+Ingredients:
+	10x leather helmet
+	1x Shadow Essence
+	5x Steel Rods
+	5x Dyes
+(id:158)
+
+test
+elven commander
+Category: helmets
+Worker: Leather-worker
+Station: Fine Cutting Table level 3
+Craft speed: Long
+Ingredients:
+	1x captain's helmet
+	5x Mithril Lumps
+	5x Crystals
+	5x Raw Leather
+	1x Phoenix Feather
+(id:159)
+
+test
+opal helmet
+Category: helmets
+Worker: Leather-worker
+Station: Fine Cutting Table level 5
+Craft speed: Very Short
+Ingredients:
+	3x gladiator's helmet
+	5x Mithril Lumps
+	3x Gems
+	3x Ironwood
+	1x Divine Leaf
+(id:160)
+
+test
+silver helmet
+Category: helmets
+Worker: Leather-worker
+Station: Fine Cutting Table level 5
+Craft speed: Medium
+Ingredients:
+	10x Mithril Lumps
+	10x Gems
+	3x soldier's helmet
+	10x Iron Ore
+	10x Raw Leather
+(id:161)
+
+test
+evil shogun
+Category: helmets
+Worker: Leather-worker
+Station: Fine Cutting Table level 4
+Craft speed: Long
+Ingredients:
+	5x soldier's helmet
+	2x Shadow Essence
+	2x evil scroll
+	8x Mithril Lumps
+	8x Raw Leather
+	8x Ironwood
+(id:162)
+
+test
+basic Tunic
+Category: clothes
+Worker: Tailor
+Station: Cutting Table level 1
+Craft speed: Very Short
+Ingredients:
+	4x Raw Leather
+(id:163)
+
+test
+Cloak
+Category: clothes
+Worker: Tailor
+Station: Cutting Table level 2
+Craft speed: Very Short
+Ingredients:
+	2x Fabric
+	2x Raw Leather
+(id:164)
+
+test
+Treated Cloak
+Category: clothes
+Worker: Tailor
+Station: Cutting Table level 2
+Craft speed: Short
+Ingredients:
+	4x Fabric
+	4x Raw Leather
+	1x Acid
+(id:165)
+
+test
+leather coat
+Category: clothes
+Worker: Tailor
+Station: Cutting Table level 3
+Craft speed: Very Short
+Ingredients:
+	3x Raw Leather
+	3x Fabric
+(id:166)
+
+test
+evoker's robe
+Category: clothes
+Worker: Tailor
+Station: Cutting Table level 3
+Craft speed: Medium
+Ingredients:
+	1x Dyes
+	4x Fabric
+(id:167)
+
+test
+conjurer's robe
+Category: clothes
+Worker: Tailor
+Station: Cutting Table level 3
+Craft speed: Long
+Ingredients:
+	1x Dyes
+	4x Fabric
+	1x Faery's Tear
+(id:168)
+
+test
+apron
+Category: clothes
+Worker: Tailor
+Station: Cutting Table level 4
+Craft speed: Very Short
+Ingredients:
+	2x Cloak
+	4x Raw Leather
+(id:169)
+
+test
+monk cloak
+Category: clothes
+Worker: Tailor
+Station: Cutting Table level 4
+Craft speed: Short
+Ingredients:
+	5x Raw Leather
+	2x Elfwood Sticks
+	4x Iron Ore
+	3x Dyes
+(id:170)
+
+test
+smith's apron
+Category: clothes
+Worker: Tailor
+Station: Cutting Table level 5
+Craft speed: Very Short
+Ingredients:
+	1x apron
+	2x Fabric
+	2x Dyes
+(id:171)
+
+test
+priest's robe
+Category: clothes
+Worker: Tailor
+Station: Cutting Table level 5
+Craft speed: Very Long
+Ingredients:
+	5x Fabric
+	5x Dyes
+	2x Glass
+(id:172)
+
+test
+cleric's robe
+Category: clothes
+Worker: Worker
+Station: Spacious Table level 5
+Craft speed: Very Long
+Ingredients:
+	8x Fabric
+	8x Dyes
+	2x Glass
+(id:173)
+
+test
+rich cloak
+Category: clothes
+Worker: Tailor
+Station: Good Cutting Table level 2
+Craft speed: Short
+Ingredients:
+	8x Fabric
+	5x Dyes
+	3x Glass
+(id:174)
+
+test
+cloak of concealment
+Category: clothes
+Worker: Tailor
+Station: Good Cutting Table level 2
+Craft speed: Long
+Ingredients:
+	1x rich cloak
+	1x Phoenix Feather
+(id:175)
+
+test
+beast attire
+Category: clothes
+Worker: Tailor
+Station: Good Cutting Table level 3
+Craft speed: Medium
+Ingredients:
+	8x Fabric
+	5x Dyes
+	4x Glass
+(id:176)
+
+test
+lord's robe
+Category: clothes
+Worker: Tailor
+Station: Good Cutting Table level 4
+Craft speed: Short
+Ingredients:
+	6x Fabric
+	7x Dyes
+	1x Mithril Lumps
+	1x Gems
+	5x Glass
+(id:177)
+
+test
+invisibility robe
+Category: clothes
+Worker: Enchanter
+Station: Mystical Cauldron level 5
+Craft speed: Very Long
+Ingredients:
+	1x cloak of concealment
+	2x Moon Stone
+(id:178)
+
+test
+Ifrit's flaming apparel
+Category: clothes
+Worker: Tailor
+Station: Fine Cutting Table level 1
+Craft speed: Short
+Ingredients:
+	3x evoker's robe
+	2x Golden Silk
+	5x fireball scroll
+	4x Mithril Lumps
+	4x Gems
+	8x Dyes
+(id:179)
+
+test
+sky mantle
+Category: clothes
+Worker: Tailor
+Station: Fine Cutting Table level 2
+Craft speed: Short
+Ingredients:
+	2x priest's robe
+	6x Fabric
+	10x Dyes
+	3x Gems
+(id:180)
+
+test
+elemental wonder
+Category: clothes
+Worker: Tailor
+Station: Fine Cutting Table level 3
+Craft speed: Long
+Ingredients:
+	2x evoker's robe
+	1x elemental pendant
+	6x Dyes
+	4x Gems
+	7x Fabric
+(id:181)
+
+test
+cosmic apparel
+Category: clothes
+Worker: Tailor
+Station: Fine Cutting Table level 4
+Craft speed: Very Short
+Ingredients:
+	2x rich cloak
+	5x Crystals
+	6x Fabric
+	4x Gems
+	8x Dyes
+(id:182)
+
+test
+grandmaster's robe
+Category: clothes
+Worker: Tailor
+Station: Fine Cutting Table level 5
+Craft speed: Very Short
+Ingredients:
+	5x evoker's robe
+	10x Crystals
+	15x Fabric
+	10x Gems
+	10x Dyes
+	2x Golden Silk
+(id:183)
+
+test
+vest of lies
+Category: clothes
+Worker: Tailor
+Station: Fine Cutting Table level 5
+Craft speed: Very Long
+Ingredients:
+	4x beast attire
+	1x Shadow Essence
+	10x Fabric
+	2x Gems
+	8x Dyes
+(id:184)
+
+test
+lord of darkness
+Category: clothes
+Worker: Tailor
+Station: Fine Cutting Table level 5
+Craft speed: Long
+Ingredients:
+	3x lord's robe
+	10x beast attire
+	2x amulet of darkness
+	2x Demon Horn
+	15x Fabric
+	12x Gems
+(id:185)
+
+test
+sandals
+Category: shoes
+Worker: Tailor
+Station: Cutting Table level 1
+Craft speed: Very Short
+Ingredients:
+	1x Raw Leather
+	1x Wood
+(id:186)
+
+test
+leather shoes
+Category: shoes
+Worker: Tailor
+Station: Cutting Table level 2
+Craft speed: Very Short
+Ingredients:
+	3x Raw Leather
+	2x Wood
+(id:187)
+
+test
+sturdy shoes
+Category: shoes
+Worker: Tailor
+Station: Cutting Table level 3
+Craft speed: Very Short
+Ingredients:
+	5x Raw Leather
+	1x Elfwood Sticks
+(id:188)
+
+test
+fur shoes
+Category: shoes
+Worker: Tailor
+Station: Cutting Table level 4
+Craft speed: Short
+Ingredients:
+	6x Raw Leather
+	1x Fabric
+	2x Dyes
+(id:189)
+
+test
+heavenly sandals
+Category: shoes
+Worker: Tailor
+Station: Cutting Table level 5
+Craft speed: Medium
+Ingredients:
+	2x Elfwood Sticks
+	2x Fabric
+	3x Dyes
+(id:190)
+
+test
+shiny shoes
+Category: shoes
+Worker: Tailor
+Station: Good Cutting Table level 2
+Craft speed: Short
+Ingredients:
+	3x Fabric
+	2x Ironwood
+	4x Dyes
+	2x Glass
+(id:191)
+
+test
+courier's sandals
+Category: shoes
+Worker: Tailor
+Station: Good Cutting Table level 4
+Craft speed: Long
+Ingredients:
+	4x Fabric
+	2x Dyes
+	1x Golden Silk
+(id:192)
+
+test
+grounded shoes
+Category: shoes
+Worker: Tailor
+Station: Fine Cutting Table level 2
+Craft speed: Medium
+Ingredients:
+	2x sturdy shoes
+	5x Crystals
+	8x Dyes
+	8x Glass
+	10x Wood
+(id:193)
+
+test
+flying shoes
+Category: shoes
+Worker: Tailor
+Station: Fine Cutting Table level 4
+Craft speed: Long
+Ingredients:
+	5x heavenly sandals
+	2x band of light
+	2x Mithril Lumps
+	1x Rising Sun
+(id:194)
+
+test
+exhilarating shoes
+Category: shoes
+Worker: Tailor
+Station: Fine Cutting Table level 5
+Craft speed: Very Short
+Ingredients:
+	10x shiny shoes
+	2x Golden Silk
+	10x Fabric
+	10x Ironwood
+	6x Crystals
+	6x Gems
+(id:195)
+
+test
+iron bracers
+Category: bracers
+Worker: Worker
+Station: Work Table level 1
+Craft speed: Very Short
+Ingredients:
+	1x Iron Ore
+(id:196)
+
+test
+wrist-guard
+Category: bracers
+Worker: Tailor
+Station: Cutting Table level 2
+Craft speed: Very Short
+Ingredients:
+	3x Wood
+(id:197)
+
+test
+vambrace
+Category: bracers
+Worker: Tailor
+Station: Cutting Table level 3
+Craft speed: Short
+Ingredients:
+	4x Raw Leather
+	5x Iron Ore
+(id:198)
+
+test
+arm-guard
+Category: bracers
+Worker: Tailor
+Station: Cutting Table level 4
+Craft speed: Medium
+Ingredients:
+	6x Raw Leather
+	3x Elfwood Sticks
+(id:199)
+
+test
+abyssal arm-guard
+Category: bracers
+Worker: Tailor
+Station: Cutting Table level 3
+Craft speed: Long
+Ingredients:
+	4x Raw Leather
+	2x Elfwood Sticks
+	1x Abyss Shell
+(id:200)
+
+test
+war vambrace
+Category: bracers
+Worker: Tailor
+Station: Cutting Table level 5
+Craft speed: Short
+Ingredients:
+	5x Raw Leather
+	6x Iron Ore
+	3x Dyes
+(id:201)
+
+test
+elfwood vambrace
+Category: bracers
+Worker: Tailor
+Station: Good Cutting Table level 2
+Craft speed: Short
+Ingredients:
+	1x iron bracers
+	5x Wood
+	4x Elfwood Sticks
+	2x Ironwood
+(id:202)
+
+test
+elven vambrace
+Category: bracers
+Worker: Worker
+Station: Spacious Table level 5
+Craft speed: Short
+Ingredients:
+	15x Elfwood Sticks
+	3x elfwood vambrace
+(id:203)
+
+test
+stone hands
+Category: bracers
+Worker: Tailor
+Station: Good Cutting Table level 5
+Craft speed: Medium
+Ingredients:
+	4x Steel Rods
+	6x Ironwood
+	7x Glass
+	8x Wood
+(id:204)
+
+test
+enabling vambrace
+Category: bracers
+Worker: Tailor
+Station: Fine Cutting Table level 3
+Craft speed: Long
+Ingredients:
+	2x wrist-guard
+	10x Raw Leather
+	8x Fabric
+	8x Oil
+	5x Gems
+(id:205)
+
+test
+gladiator's vambrace
+Category: bracers
+Worker: Tailor
+Station: Fine Cutting Table level 4
+Craft speed: Long
+Ingredients:
+	5x vambrace
+	5x ring of might
+	8x Mithril Lumps
+	8x Oil
+	8x Ironwood
+	3x Roaring Powder
+(id:206)
+
+test
+circlet
+Category: hats
+Worker: Tailor
+Station: Cutting Table level 1
+Craft speed: Very Short
+Ingredients:
+	3x Wood
+(id:207)
+
+test
+apprentice's hat
+Category: hats
+Worker: Tailor
+Station: Cutting Table level 2
+Craft speed: Very Short
+Ingredients:
+	3x Fabric
+	1x Raw Leather
+(id:208)
+
+test
+monk hat
+Category: hats
+Worker: Tailor
+Station: Cutting Table level 3
+Craft speed: Very Short
+Ingredients:
+	4x Fabric
+	2x Raw Leather
+(id:209)
+
+test
+cleric's hat
+Category: hats
+Worker: Tailor
+Station: Cutting Table level 3
+Craft speed: Short
+Ingredients:
+	5x Fabric
+	2x Dyes
+(id:210)
+
+test
+noble tiara
+Category: hats
+Worker: Tailor
+Station: Cutting Table level 4
+Craft speed: Short
+Ingredients:
+	1x circlet
+	1x Phoenix Feather
+(id:211)
+
+test
+feathered hat
+Category: hats
+Worker: Tailor
+Station: Good Cutting Table level 1
+Craft speed: Medium
+Ingredients:
+	5x Fabric
+	3x Dyes
+(id:212)
+
+test
+elemental top
+Category: hats
+Worker: Tailor
+Station: Good Cutting Table level 2
+Craft speed: Short
+Ingredients:
+	6x Fabric
+	2x Raw Leather
+	3x Dyes
+(id:213)
+
+test
+blazing hat
+Category: hats
+Worker: Tailor
+Station: Good Cutting Table level 4
+Craft speed: Medium
+Ingredients:
+	8x Fabric
+	8x Raw Leather
+	7x Dyes
+(id:214)
+
+test
+frozen feather
+Category: hats
+Worker: Enchanter
+Station: Spacious Table level 5
+Craft speed: Medium
+Ingredients:
+	1x feathered hat
+	2x Eternal Ice
+	8x Dyes
+	3x Glass
+(id:215)
+
+test
+siren hat
+Category: hats
+Worker: Tailor
+Station: Fine Cutting Table level 1
+Craft speed: Medium
+Ingredients:
+	8x Fabric
+	4x Steel Rods
+	9x Dyes
+	4x Crystals
+(id:216)
+
+test
+master's hat
+Category: hats
+Worker: Worker
+Station: Luxurious Table level 5
+Craft speed: Very Short
+Ingredients:
+	5x apprentice's hat
+	6x Fabric
+	4x Steel Rods
+	4x Dyes
+	3x Crystals
+	1x Golden Silk
+(id:217)
+
+test
+streamlined conscience
+Category: hats
+Worker: Tailor
+Station: Fine Cutting Table level 3
+Craft speed: Short
+Ingredients:
+	1x cleric's hat
+	10x Fabric
+	4x Crystals
+	8x Dyes
+	6x Glass
+(id:218)
+
+test
+angelic tiara
+Category: hats
+Worker: Tailor
+Station: Fine Cutting Table level 4
+Craft speed: Long
+Ingredients:
+	2x circlet
+	10x Iron Ore
+	6x Steel Rods
+	4x Mithril Lumps
+	5x Crystals
+	8x Glass
+(id:219)
+
+test
+demonic tiara
+Category: hats
+Worker: Tailor
+Station: Fine Cutting Table level 5
+Craft speed: Long
+Ingredients:
+	1x Demon Horn
+	10x circlet
+	1x talisman of fear
+	4x Mithril Lumps
+	4x Crystals
+(id:220)
+
+test
+electrifying tiara
+Category: hats
+Worker: Tailor
+Station: Fine Cutting Table level 5
+Craft speed: Very Long
+Ingredients:
+	2x angelic tiara
+	1x Rising Sun
+	8x Steel Rods
+	4x Mithril Lumps
+	4x Crystals
+(id:221)
+
+test
+wooden buckler
+Category: shields
+Worker: Worker
+Station: Work Table level 1
+Craft speed: Very Short
+Ingredients:
+	2x Wood
+(id:222)
+
+test
+leather shield
+Category: shields
+Worker: Carpenter
+Station: Sawbench level 2
+Craft speed: Very Short
+Ingredients:
+	3x Raw Leather
+	3x Wood
+(id:223)
+
+test
+hard wood buckler
+Category: shields
+Worker: Carpenter
+Station: Sawbench level 3
+Craft speed: Very Short
+Ingredients:
+	1x wooden buckler
+	2x Elfwood Sticks
+	5x Wood
+	2x Iron Ore
+(id:224)
+
+test
+dolphin buckler
+Category: shields
+Worker: Carpenter
+Station: Sawbench level 4
+Craft speed: Medium
+Ingredients:
+	4x Elfwood Sticks
+	2x Wood
+	3x Iron Ore
+(id:225)
+
+test
+bone shield
+Category: shields
+Worker: Carpenter
+Station: Sturdy Sawbench level 2
+Craft speed: Long
+Ingredients:
+	3x Elfwood Sticks
+	2x Ironwood
+	5x Dyes
+(id:226)
+
+test
+spider shield
+Category: shields
+Worker: Enchanter
+Station: Magic Cauldron level 4
+Craft speed: Long
+Ingredients:
+	1x bone shield
+	1x Demon Horn
+(id:227)
+
+test
+medusa shield
+Category: shields
+Worker: Carpenter
+Station: Quality Sawbench level 2
+Craft speed: Short
+Ingredients:
+	10x Ironwood
+	2x Gems
+	2x Mithril Lumps
+	6x Wood
+(id:228)
+
+test
+seven seas shield
+Category: shields
+Worker: Carpenter
+Station: Quality Sawbench level 5
+Craft speed: Medium
+Ingredients:
+	5x copper shield
+	2x Abyss Shell
+	12x Ironwood
+	20x Wood
+	7x Gems
+(id:229)
+
+test
+copper shield
+Category: shields
+Worker: Armorer
+Station: Iron Anvil level 2
+Craft speed: Very Short
+Ingredients:
+	4x Iron Ore
+	2x Raw Leather
+(id:230)
+
+test
+kite shield
+Category: shields
+Worker: Armorer
+Station: Iron Anvil level 4
+Craft speed: Medium
+Ingredients:
+	8x Iron Ore
+	1x Steel Rods
+	6x Wood
+(id:231)
+
+test
+heater shield
+Category: shields
+Worker: Armorer
+Station: Steel Anvil level 1
+Craft speed: Short
+Ingredients:
+	4x Steel Rods
+	1x Dyes
+(id:232)
+
+test
+scutum
+Category: shields
+Worker: Armorer
+Station: Steel Anvil level 3
+Craft speed: Short
+Ingredients:
+	5x Steel Rods
+	6x Raw Leather
+	6x Iron Ore
+(id:233)
+
+test
+paladin's heater shield
+Category: shields
+Worker: Armorer
+Station: Steel Anvil level 5
+Craft speed: Medium
+Ingredients:
+	1x heater shield
+	1x Phoenix Feather
+(id:234)
+
+test
+mirror shield
+Category: shields
+Worker: Enchanter
+Station: Luxurious Table level 1
+Craft speed: Long
+Ingredients:
+	2x heater shield
+	2x clairvoyance amulet
+	10x Glass
+(id:235)
+
+test
+defender
+Category: shields
+Worker: Armorer
+Station: Mithril Anvil level 3
+Craft speed: Medium
+Ingredients:
+	5x Mithril Lumps
+	5x Gems
+	5x Crystals
+	8x Raw Leather
+	5x Ironwood
+(id:236)
+
+test
+vengeful entity
+Category: shields
+Worker: Enchanter
+Station: Mystical Cauldron level 3
+Craft speed: Long
+Ingredients:
+	5x kite shield
+	2x Roaring Powder
+	2x Shadow Essence
+(id:237)
+
+test
+mind saver
+Category: shields
+Worker: Enchanter
+Station: Mystical Cauldron level 4
+Craft speed: Long
+Ingredients:
+	3x scutum
+	5x Ironwood
+	10x Wood
+	3x Gems
+	8x Raw Leather
+(id:238)
+
+test
+blue bird shield
+Category: shields
+Worker: Armorer
+Station: Mithril Anvil level 5
+Craft speed: Very Long
+Ingredients:
+	5x heater shield
+	8x Mithril Lumps
+	8x Crystals
+	10x Ironwood
+	6x Elfwood Sticks
+	1x Divine Leaf
+(id:239)
+
+test
+guardian tall shield
+Category: shields
+Worker: Enchanter
+Station: Luxurious Table level 5
+Craft speed: Very Long
+Ingredients:
+	1x shielding scroll
+	5x kite shield
+	8x Mithril Lumps
+	8x Steel Rods
+	20x Iron Ore
+	2x Rising Sun
+(id:240)
+
+test
+Healing Herbs
+Category: herbs
+Worker: Worker
+Station: Work Table level 1
+Craft speed: Very Short
+Ingredients:
+	1x Wild Herbs
+(id:241)
+
+test
+Strong Herbs
+Category: herbs
+Worker: Worker
+Station: Work Table level 3
+Craft speed: Short
+Ingredients:
+	2x Wild Herbs
+(id:242)
+
+test
+Herbs Bundle
+Category: herbs
+Worker: Druid
+Station: Small Cauldron level 1
+Craft speed: Very Short
+Ingredients:
+	2x Wild Herbs
+(id:243)
+
+test
+suple Dust
+Category: herbs
+Worker: Druid
+Station: Small Cauldron level 2
+Craft speed: Short
+Ingredients:
+	3x Wild Herbs
+(id:244)
+
+test
+Regen Herbs
+Category: herbs
+Worker: Druid
+Station: Small Cauldron level 3
+Craft speed: Short
+Ingredients:
+	4x Wild Herbs
+	2x Raw Leather
+(id:245)
+
+test
+Magic Leaves
+Category: herbs
+Worker: Druid
+Station: Small Cauldron level 4
+Craft speed: Long
+Ingredients:
+	5x Wild Herbs
+	2x Raw Leather
+	1x Acid
+(id:246)
+
+test
+alert dust
+Category: herbs
+Worker: Druid
+Station: Small Cauldron level 4
+Craft speed: Medium
+Ingredients:
+	1x suple Dust
+	2x Wild Herbs
+	1x Wood
+(id:247)
+
+test
+elemental Dust
+Category: herbs
+Worker: Druid
+Station: Magic Cauldron level 1
+Craft speed: Short
+Ingredients:
+	1x Regen Herbs
+	2x Wild Herbs
+	2x Wood
+(id:248)
+
+test
+dust triad
+Category: herbs
+Worker: Worker
+Station: Spacious Table level 1
+Craft speed: Short
+Ingredients:
+	3x alert dust
+	5x Wild Herbs
+	5x Wood
+(id:249)
+
+test
+soothing herbs
+Category: herbs
+Worker: Druid
+Station: Magic Cauldron level 2
+Craft speed: Medium
+Ingredients:
+	5x Regen Herbs
+	1x Phoenix Feather
+(id:250)
+
+test
+salve of protection
+Category: herbs
+Worker: Druid
+Station: Magic Cauldron level 3
+Craft speed: Medium
+Ingredients:
+	3x Wild Herbs
+	3x Powder
+	4x Elfwood Sticks
+(id:251)
+
+test
+restoration powder
+Category: herbs
+Worker: Druid
+Station: Magic Cauldron level 4
+Craft speed: Short
+Ingredients:
+	7x Wild Herbs
+	7x Powder
+(id:252)
+
+test
+cleansing herbs
+Category: herbs
+Worker: Druid
+Station: Magic Cauldron level 5
+Craft speed: Long
+Ingredients:
+	1x Healing Herbs
+	1x Regen Herbs
+	8x Powder
+	6x Wild Herbs
+(id:253)
+
+test
+skill seedling
+Category: herbs
+Worker: Druid
+Station: Mystical Cauldron level 1
+Craft speed: Short
+Ingredients:
+	8x Wood
+	8x Wild Herbs
+	8x Elfwood Sticks
+	3x Gems
+	3x Ironwood
+(id:254)
+
+test
+strength seed
+Category: herbs
+Worker: Worker
+Station: Luxurious Table level 1
+Craft speed: Very Short
+Ingredients:
+	10x Wood
+	10x Wild Herbs
+	10x Elfwood Sticks
+	4x magic dust
+(id:255)
+
+test
+seed of skill
+Category: herbs
+Worker: Druid
+Station: Mystical Cauldron level 2
+Craft speed: Medium
+Ingredients:
+	3x skill seedling
+	4x Elfwood Sticks
+	4x Gems
+	4x Wood
+	4x Crystals
+	1x Shadow Essence
+(id:256)
+
+test
+panacea
+Category: herbs
+Worker: Druid
+Station: Mystical Cauldron level 4
+Craft speed: Long
+Ingredients:
+	10x Wild Herbs
+	8x Elfwood Sticks
+	8x Ironwood
+	5x Gems
+	8x Powder
+(id:257)
+
+test
+attribute seed
+Category: herbs
+Worker: Druid
+Station: Mystical Cauldron level 5
+Craft speed: Very Long
+Ingredients:
+	8x skill seedling
+	1x Divine Leaf
+	10x Elfwood Sticks
+	15x Wood
+	4x Crystals
+(id:258)
+
+test
+antidote
+Category: potions
+Worker: Worker
+Station: Work Table level 2
+Craft speed: Short
+Ingredients:
+	2x Wild Herbs
+(id:259)
+
+test
+heal Potion
+Category: potions
+Worker: Sorceress
+Station: Small Cauldron level 1
+Craft speed: Very Short
+Ingredients:
+	2x Wild Herbs
+(id:260)
+
+test
+Health Vial
+Category: potions
+Worker: Sorceress
+Station: Small Cauldron level 2
+Craft speed: Very Short
+Ingredients:
+	1x heal Potion
+	2x Wild Herbs
+(id:261)
+
+test
+vial of Mana
+Category: potions
+Worker: Sorceress
+Station: Small Cauldron level 3
+Craft speed: Short
+Ingredients:
+	3x Wild Herbs
+	1x Dyes
+(id:262)
+
+test
+brisk Beverage
+Category: potions
+Worker: Sorceress
+Station: Small Cauldron level 4
+Craft speed: Very Short
+Ingredients:
+	5x Wild Herbs
+	2x Glass
+(id:263)
+
+test
+energy drink
+Category: potions
+Worker: Worker
+Station: Spacious Table level 4
+Craft speed: Short
+Ingredients:
+	15x Wild Herbs
+	8x Glass
+	3x brisk Beverage
+(id:264)
+
+test
+mana Potion
+Category: potions
+Worker: Sorceress
+Station: Small Cauldron level 5
+Craft speed: Short
+Ingredients:
+	1x vial of Mana
+	2x Oil
+	4x Glass
+(id:265)
+
+test
+revive potion
+Category: potions
+Worker: Sorceress
+Station: Magic Cauldron level 1
+Craft speed: Long
+Ingredients:
+	1x vial of Mana
+	1x Oil
+	1x Phoenix Feather
+(id:266)
+
+test
+bile jar
+Category: potions
+Worker: Sorceress
+Station: Magic Cauldron level 2
+Craft speed: Short
+Ingredients:
+	5x Wild Herbs
+	4x Glass
+	4x Oil
+(id:267)
+
+test
+potion of return
+Category: potions
+Worker: Sorceress
+Station: Magic Cauldron level 2
+Craft speed: Very Long
+Ingredients:
+	1x brisk Beverage
+	6x Powder
+	5x Dyes
+(id:268)
+
+test
+rebirth potion
+Category: potions
+Worker: Sorceress
+Station: Magic Cauldron level 3
+Craft speed: Long
+Ingredients:
+	1x brisk Beverage
+	2x Oil
+	6x Powder
+	6x Glass
+(id:269)
+
+test
+acid vial
+Category: potions
+Worker: Worker
+Station: Spacious Table level 5
+Craft speed: Long
+Ingredients:
+	5x Acid
+	10x Powder
+	10x Glass
+(id:270)
+
+test
+holy spray
+Category: potions
+Worker: Sorceress
+Station: Magic Cauldron level 4
+Craft speed: Very Long
+Ingredients:
+	1x Moon Stone
+	3x Wild Herbs
+	6x Glass
+(id:271)
+
+test
+magic drink
+Category: potions
+Worker: Sorceress
+Station: Magic Cauldron level 5
+Craft speed: Long
+Ingredients:
+	1x vial of Mana
+	5x Oil
+	6x Powder
+	3x Crystals
+	6x Glass
+(id:272)
+
+test
+health drink
+Category: potions
+Worker: Sorceress
+Station: Mystical Cauldron level 1
+Craft speed: Medium
+Ingredients:
+	2x brisk Beverage
+	10x Oil
+	3x Crystals
+	3x Glass
+	6x Wild Herbs
+(id:273)
+
+test
+soft potion
+Category: potions
+Worker: Sorceress
+Station: Mystical Cauldron level 2
+Craft speed: Long
+Ingredients:
+	2x brisk Beverage
+	8x Wild Herbs
+	8x Oil
+	6x Powder
+	3x Crystals
+	5x Glass
+(id:274)
+
+test
+super potion
+Category: potions
+Worker: Sorceress
+Station: Mystical Cauldron level 3
+Craft speed: Very Long
+Ingredients:
+	1x rebirth potion
+	10x Oil
+	5x Crystals
+	8x Glass
+	8x Wild Herbs
+	9x Dyes
+(id:275)
+
+test
+demon blood
+Category: potions
+Worker: Sorceress
+Station: Mystical Cauldron level 4
+Craft speed: Long
+Ingredients:
+	4x bile jar
+	2x Demon Horn
+	3x Crystals
+	3x Gems
+	8x Dyes
+(id:276)
+
+test
+megalixir
+Category: potions
+Worker: Sorceress
+Station: Mystical Cauldron level 5
+Craft speed: Very Long
+Ingredients:
+	2x super potion
+	1x Divine Leaf
+	8x Crystals
+	8x Glass
+	8x Dyes
+(id:277)
+
+test
+magic scroll
+Category: scrolls
+Worker: Sorceress
+Station: Small Cauldron level 1
+Craft speed: Very Short
+Ingredients:
+	3x Raw Leather
+(id:278)
+
+test
+fireball scroll
+Category: scrolls
+Worker: Sorceress
+Station: Small Cauldron level 2
+Craft speed: Short
+Ingredients:
+	1x magic scroll
+	1x Elfwood Sticks
+(id:279)
+
+test
+earth scroll
+Category: scrolls
+Worker: Sorceress
+Station: Small Cauldron level 2
+Craft speed: Medium
+Ingredients:
+	1x magic scroll
+	1x Powder
+(id:280)
+
+test
+luck scroll
+Category: scrolls
+Worker: Sorceress
+Station: Small Cauldron level 4
+Craft speed: Short
+Ingredients:
+	1x magic scroll
+	2x Dyes
+(id:281)
+
+test
+protect scroll
+Category: scrolls
+Worker: Sorceress
+Station: Small Cauldron level 5
+Craft speed: Short
+Ingredients:
+	1x magic scroll
+	2x Powder
+	2x Dyes
+(id:282)
+
+test
+lava scroll
+Category: scrolls
+Worker: Sorceress
+Station: Magic Cauldron level 1
+Craft speed: Long
+Ingredients:
+	1x fireball scroll
+	3x Elfwood Sticks
+	3x Dyes
+	1x Volcanic Rock
+(id:283)
+
+test
+firestorm scroll
+Category: scrolls
+Worker: Sorceress
+Station: Magic Cauldron level 3
+Craft speed: Short
+Ingredients:
+	2x fireball scroll
+	4x Elfwood Sticks
+	4x Dyes
+(id:284)
+
+test
+earthquake scroll
+Category: scrolls
+Worker: Sorceress
+Station: Magic Cauldron level 2
+Craft speed: Medium
+Ingredients:
+	2x earth scroll
+	2x Elfwood Sticks
+	3x Dyes
+(id:285)
+
+test
+evil scroll
+Category: scrolls
+Worker: Sorceress
+Station: Magic Cauldron level 1
+Craft speed: Short
+Ingredients:
+	5x magic scroll
+	6x Elfwood Sticks
+	8x Dyes
+	1x Demon Horn
+(id:286)
+
+test
+fortune scroll
+Category: scrolls
+Worker: Sorceress
+Station: Magic Cauldron level 2
+Craft speed: Medium
+Ingredients:
+	3x luck scroll
+	2x Ironwood
+	1x Gems
+	1x Crystals
+(id:287)
+
+test
+shielding scroll
+Category: scrolls
+Worker: Sorceress
+Station: Mystical Cauldron level 3
+Craft speed: Very Short
+Ingredients:
+	3x protect scroll
+	4x Ironwood
+	4x Crystals
+(id:288)
+
+test
+shell scroll
+Category: scrolls
+Worker: Enchanter
+Station: Spacious Table level 5
+Craft speed: Long
+Ingredients:
+	5x protect scroll
+	6x Ironwood
+	6x Crystals
+	1x Abyss Shell
+(id:289)
+
+test
+darkness scroll
+Category: scrolls
+Worker: Sorceress
+Station: Mystical Cauldron level 5
+Craft speed: Long
+Ingredients:
+	10x Oil
+	5x Gems
+	6x Ironwood
+	5x Crystals
+	1x Demon Horn
+(id:290)
+
+test
+apocalypscion
+Category: scrolls
+Worker: Enchanter
+Station: Luxurious Table level 5
+Craft speed: Very Long
+Ingredients:
+	1x lava scroll
+	1x darkness scroll
+	1x earthquake scroll
+	1x fortune scroll
+	1x shielding scroll
+	1x Rising Sun
+(id:291)
+
+test
+small bow
+Category: bows
+Worker: Worker
+Station: Work Table level 2
+Craft speed: Medium
+Ingredients:
+	1x Wood
+	1x Iron Ore
+(id:292)
+
+test
+hunting Bow
+Category: bows
+Worker: Bowyer
+Station: Sawbench level 1
+Craft speed: Very Short
+Ingredients:
+	1x Wood
+	1x Fabric
+(id:293)
+
+test
+long bow
+Category: bows
+Worker: Bowyer
+Station: Sawbench level 2
+Craft speed: Very Short
+Ingredients:
+	3x Wood
+	1x Fabric
+(id:294)
+
+test
+crossbow
+Category: bows
+Worker: Bowyer
+Station: Sawbench level 2
+Craft speed: Short
+Ingredients:
+	5x Wood
+	2x Iron Ore
+	2x Raw Leather
+(id:295)
+
+test
+bow of precision
+Category: bows
+Worker: Bowyer
+Station: Sawbench level 3
+Craft speed: Short
+Ingredients:
+	1x hunting Bow
+	4x Wood
+	3x Fabric
+(id:296)
+
+test
+silk bow
+Category: bows
+Worker: Bowyer
+Station: Sturdy Sawbench level 1
+Craft speed: Short
+Ingredients:
+	7x Wood
+	7x Fabric
+	1x Phoenix Feather
+(id:297)
+
+test
+piercer
+Category: bows
+Worker: Bowyer
+Station: Sawbench level 4
+Craft speed: Medium
+Ingredients:
+	7x Wood
+	3x Elfwood Sticks
+	2x Raw Leather
+(id:298)
+
+test
+fairy bow
+Category: bows
+Worker: Bowyer
+Station: Sturdy Sawbench level 2
+Craft speed: Medium
+Ingredients:
+	1x long bow
+	1x Faery's Tear
+(id:299)
+
+test
+composite bow
+Category: bows
+Worker: Bowyer
+Station: Sturdy Sawbench level 1
+Craft speed: Medium
+Ingredients:
+	5x Wood
+	4x Elfwood Sticks
+	3x Fabric
+(id:300)
+
+test
+ebony bow
+Category: bows
+Worker: Bowyer
+Station: Sturdy Sawbench level 2
+Craft speed: Short
+Ingredients:
+	5x Elfwood Sticks
+	3x Iron Ore
+	3x Fabric
+(id:301)
+
+test
+elf bow
+Category: bows
+Worker: Bowyer
+Station: Sturdy Sawbench level 3
+Craft speed: Medium
+Ingredients:
+	1x piercer
+	5x Elfwood Sticks
+(id:302)
+
+test
+leaf bow
+Category: bows
+Worker: Worker
+Station: Spacious Table level 5
+Craft speed: Medium
+Ingredients:
+	10x Wood
+	5x Elfwood Sticks
+	1x Golden Silk
+(id:303)
+
+test
+gemini
+Category: bows
+Worker: Bowyer
+Station: Sturdy Sawbench level 4
+Craft speed: Medium
+Ingredients:
+	3x long bow
+	4x Ironwood
+	6x Elfwood Sticks
+	4x Fabric
+(id:304)
+
+test
+calamitous bow
+Category: bows
+Worker: Bowyer
+Station: Sturdy Sawbench level 5
+Craft speed: Short
+Ingredients:
+	2x piercer
+	8x Wood
+	6x Elfwood Sticks
+	3x Ironwood
+	2x Steel Rods
+	4x Fabric
+(id:305)
+
+test
+double shot
+Category: bows
+Worker: Bowyer
+Station: Quality Sawbench level 1
+Craft speed: Short
+Ingredients:
+	1x gemini
+	10x Elfwood Sticks
+	8x Ironwood
+	2x Mithril Lumps
+	4x Fabric
+	1x Roaring Powder
+(id:306)
+
+test
+hunting crossbow
+Category: bows
+Worker: Bowyer
+Station: Quality Sawbench level 1
+Craft speed: Long
+Ingredients:
+	1x crossbow
+	8x Ironwood
+	2x Mithril Lumps
+	7x Fabric
+	7x Elfwood Sticks
+	7x Wood
+(id:307)
+
+test
+heavy crossbow
+Category: bows
+Worker: Bowyer
+Station: Quality Sawbench level 2
+Craft speed: Long
+Ingredients:
+	2x crossbow
+	6x Elfwood Sticks
+	8x Ironwood
+	4x Steel Rods
+	4x Mithril Lumps
+	10x Fabric
+(id:308)
+
+test
+scorpion
+Category: bows
+Worker: Bowyer
+Station: Quality Sawbench level 4
+Craft speed: Long
+Ingredients:
+	10x Elfwood Sticks
+	12x Ironwood
+	4x Mithril Lumps
+	10x Fabric
+	1x Demon Horn
+(id:309)
+
+test
+compound crossbow
+Category: bows
+Worker: Bowyer
+Station: Quality Sawbench level 5
+Craft speed: Long
+Ingredients:
+	1x hunting crossbow
+	8x Elfwood Sticks
+	10x Ironwood
+	6x Mithril Lumps
+	8x Fabric
+(id:310)
+
+test
+fast loading arbalest
+Category: bows
+Worker: Bowyer
+Station: Quality Sawbench level 4
+Craft speed: Long
+Ingredients:
+	2x crossbow
+	10x Elfwood Sticks
+	10x Ironwood
+	6x Mithril Lumps
+	10x Fabric
+	10x Wood
+(id:311)
+
+test
+vicious crossbow
+Category: bows
+Worker: Bowyer
+Station: Quality Sawbench level 5
+Craft speed: Very Long
+Ingredients:
+	3x hunting crossbow
+	1x Rising Sun
+	12x Elfwood Sticks
+	8x Ironwood
+	12x Fabric
+	12x Wood
+(id:312)
+
+test
+the hurricane
+Category: bows
+Worker: Bowyer
+Station: Quality Sawbench level 5
+Craft speed: Very Long
+Ingredients:
+	2x fast loading arbalest
+	5x crossbow
+	8x Ironwood
+	5x Mithril Lumps
+	5x Gems
+	1x Divine Leaf
+(id:313)
+
+test
+pistol
+Category: guns
+Worker: Tinkerer
+Station: Work Table level 2
+Craft speed: Very Short
+Ingredients:
+	1x Wood
+	1x Iron Ore
+(id:314)
+
+test
+musket
+Category: guns
+Worker: Tinkerer
+Station: Work Table level 3
+Craft speed: Short
+Ingredients:
+	2x Wood
+	2x Iron Ore
+(id:315)
+
+test
+dragon
+Category: guns
+Worker: Tinkerer
+Station: Work Table level 5
+Craft speed: Medium
+Ingredients:
+	4x Wood
+	2x Iron Ore
+(id:316)
+
+test
+fiery dragon
+Category: guns
+Worker: Tinkerer
+Station: Spacious Table level 1
+Craft speed: Medium
+Ingredients:
+	1x dragon
+	1x Volcanic Rock
+(id:317)
+
+test
+musketeer's rifle
+Category: guns
+Worker: Tinkerer
+Station: Work Table level 5
+Craft speed: Short
+Ingredients:
+	4x Wood
+	2x Iron Ore
+	1x Powder
+(id:318)
+
+test
+sniper rifle
+Category: guns
+Worker: Tinkerer
+Station: Spacious Table level 2
+Craft speed: Very Short
+Ingredients:
+	5x Wood
+	2x Elfwood Sticks
+	1x Iron Ore
+	2x Powder
+(id:319)
+
+test
+sharpshooter
+Category: guns
+Worker: Worker
+Station: Spacious Table level 1
+Craft speed: Medium
+Ingredients:
+	5x Wood
+	4x Elfwood Sticks
+	3x Powder
+(id:320)
+
+test
+escopette
+Category: guns
+Worker: Tinkerer
+Station: Spacious Table level 3
+Craft speed: Short
+Ingredients:
+	4x Wood
+	2x Elfwood Sticks
+	1x Steel Rods
+	2x Powder
+(id:321)
+
+test
+lightning bolt
+Category: guns
+Worker: Tinkerer
+Station: Spacious Table level 4
+Craft speed: Medium
+Ingredients:
+	3x Elfwood Sticks
+	3x Ironwood
+	2x Steel Rods
+	3x Powder
+(id:322)
+
+test
+gold dragon
+Category: guns
+Worker: Tinkerer
+Station: Luxurious Table level 2
+Craft speed: Medium
+Ingredients:
+	1x dragon
+	6x Ironwood
+	3x Steel Rods
+	6x Powder
+(id:323)
+
+test
+blue lagoon
+Category: guns
+Worker: Tinkerer
+Station: Luxurious Table level 5
+Craft speed: Medium
+Ingredients:
+	8x Elfwood Sticks
+	6x Ironwood
+	5x Steel Rods
+	8x Powder
+	8x Iron Ore
+(id:324)
+
+test
+soul shooter
+Category: guns
+Worker: Tinkerer
+Station: Luxurious Table level 4
+Craft speed: Medium
+Ingredients:
+	3x sniper rifle
+	8x Ironwood
+	1x Mithril Lumps
+	1x Crystals
+	8x Powder
+(id:325)
+
+test
+blackbeard
+Category: guns
+Worker: Enchanter
+Station: Luxurious Table level 4
+Craft speed: Very Long
+Ingredients:
+	1x Roaring Powder
+	8x Ironwood
+	3x Mithril Lumps
+	2x Crystals
+	8x Powder
+(id:326)
+
+test
+green dragon
+Category: guns
+Worker: Tinkerer
+Station: Luxurious Table level 4
+Craft speed: Long
+Ingredients:
+	3x dragon
+	10x Ironwood
+	7x Mithril Lumps
+	10x Powder
+	6x Elfwood Sticks
+	8x Iron Ore
+(id:327)
+
+test
+everlasting pistol
+Category: guns
+Worker: Tinkerer
+Station: Luxurious Table level 5
+Craft speed: Long
+Ingredients:
+	3x lightning bolt
+	1x Dragon Scale
+	4x Mithril Lumps
+	2x Crystals
+	6x Powder
+	8x Elfwood Sticks
+(id:328)
+
+test
+hand-of-god
+Category: guns
+Worker: Tinkerer
+Station: Luxurious Table level 5
+Craft speed: Very Long
+Ingredients:
+	15x musketeer's rifle
+	2x holy talisman
+	1x Divine Leaf
+	8x Ironwood
+	5x Mithril Lumps
+	10x Powder
+(id:329)
+
+test
+darts
+Category: thrown
+Worker: Tinkerer
+Station: Work Table level 2
+Craft speed: Very Short
+Ingredients:
+	3x Iron Ore
+(id:330)
+
+test
+shock darts
+Category: thrown
+Worker: Worker
+Station: Work Table level 3
+Craft speed: Very Short
+Ingredients:
+	2x Iron Ore
+	2x Wild Herbs
+(id:331)
+
+test
+sling
+Category: thrown
+Worker: Tinkerer
+Station: Work Table level 3
+Craft speed: Very Short
+Ingredients:
+	3x Wood
+	1x Fabric
+(id:332)
+
+test
+throwing knives
+Category: thrown
+Worker: Tinkerer
+Station: Work Table level 3
+Craft speed: Short
+Ingredients:
+	6x Iron Ore
+(id:333)
+
+test
+breeze sling
+Category: thrown
+Worker: Tinkerer
+Station: Work Table level 4
+Craft speed: Short
+Ingredients:
+	6x Wood
+	2x Fabric
+(id:334)
+
+test
+boomerang
+Category: thrown
+Worker: Tinkerer
+Station: Spacious Table level 1
+Craft speed: Short
+Ingredients:
+	6x Wood
+	2x Elfwood Sticks
+(id:335)
+
+test
+fine boomerang
+Category: thrown
+Worker: Tinkerer
+Station: Spacious Table level 2
+Craft speed: Medium
+Ingredients:
+	1x boomerang
+	2x Elfwood Sticks
+	3x Wood
+(id:336)
+
+test
+lightning bolts
+Category: thrown
+Worker: Tinkerer
+Station: Spacious Table level 3
+Craft speed: Long
+Ingredients:
+	3x darts
+	1x Abyss Shell
+	8x Steel Rods
+	8x Iron Ore
+(id:337)
+
+test
+wounding knives
+Category: thrown
+Worker: Tinkerer
+Station: Spacious Table level 4
+Craft speed: Medium
+Ingredients:
+	1x throwing knives
+	8x Iron Ore
+	4x Steel Rods
+	3x Oil
+(id:338)
+
+test
+black bombs
+Category: thrown
+Worker: Tinkerer
+Station: Spacious Table level 5
+Craft speed: Very Short
+Ingredients:
+	8x Wood
+	7x Elfwood Sticks
+	4x Steel Rods
+	4x Powder
+(id:339)
+
+test
+circus knives
+Category: thrown
+Worker: Tinkerer
+Station: Luxurious Table level 1
+Craft speed: Medium
+Ingredients:
+	8x Iron Ore
+	5x Steel Rods
+	2x Mithril Lumps
+	5x Oil
+(id:340)
+
+test
+shuriken
+Category: thrown
+Worker: Tinkerer
+Station: Steel Anvil level 2
+Craft speed: Medium
+Ingredients:
+	5x Steel Rods
+	5x Mithril Lumps
+	5x Oil
+(id:341)
+
+test
+frost shuriken
+Category: thrown
+Worker: Worker
+Station: Spacious Table level 5
+Craft speed: Short
+Ingredients:
+	6x Steel Rods
+	5x Mithril Lumps
+	5x Oil
+	3x Eternal Ice
+(id:342)
+
+test
+flux shuriken
+Category: thrown
+Worker: Tinkerer
+Station: Steel Anvil level 4
+Craft speed: Medium
+Ingredients:
+	6x Steel Rods
+	4x Mithril Lumps
+	7x Oil
+	8x Iron Ore
+(id:343)
+
+test
+short fuses
+Category: thrown
+Worker: Tinkerer
+Station: Magic Cauldron level 3
+Craft speed: Long
+Ingredients:
+	1x black bombs
+	6x Steel Rods
+	4x Mithril Lumps
+	4x Powder
+	4x Glass
+(id:344)
+
+test
+depth charge
+Category: thrown
+Worker: Tinkerer
+Station: Magic Cauldron level 4
+Craft speed: Short
+Ingredients:
+	6x Steel Rods
+	10x Mithril Lumps
+	10x Powder
+	6x Glass
+	10x Iron Ore
+(id:345)
+
+test
+blackout
+Category: thrown
+Worker: Tinkerer
+Station: Mystical Cauldron level 5
+Craft speed: Short
+Ingredients:
+	8x Steel Rods
+	8x Mithril Lumps
+	15x Powder
+	1x Shadow Essence
+	1x darkness scroll
+(id:346)
+
+test
+boomshaka
+Category: thrown
+Worker: Enchanter
+Station: Luxurious Table level 5
+Craft speed: Long
+Ingredients:
+	1x depth charge
+	5x fireball scroll
+	1x Roaring Powder
+	5x Powder
+	5x Mithril Lumps
+	6x Glass
+(id:347)
+
+test
+golden shuriken
+Category: thrown
+Worker: Tinkerer
+Station: Mithril Anvil level 3
+Craft speed: Medium
+Ingredients:
+	1x shuriken
+	5x Mithril Lumps
+	4x Gems
+	10x Iron Ore
+(id:348)
+
+test
+mithril shuriken
+Category: thrown
+Worker: Tinkerer
+Station: Mithril Anvil level 5
+Craft speed: Long
+Ingredients:
+	1x shuriken
+	8x Mithril Lumps
+	12x Iron Ore
+	6x Gems
+(id:349)
+
+test
+double infinity
+Category: thrown
+Worker: Tinkerer
+Station: Spacious Table level 5
+Craft speed: Medium
+Ingredients:
+	4x shuriken
+	2x Shadow Essence
+	2x Demon Horn
+	4x Mithril Lumps
+	2x Gems
+	8x Steel Rods
+(id:350)
+
+test
+flute
+Category: music
+Worker: Luthier
+Station: Sawbench level 1
+Craft speed: Very Short
+Ingredients:
+	4x Wood
+(id:351)
+
+test
+harp
+Category: music
+Worker: Luthier
+Station: Sawbench level 2
+Craft speed: Short
+Ingredients:
+	2x Elfwood Sticks
+	1x Raw Leather
+(id:352)
+
+test
+charmer's flute
+Category: music
+Worker: Luthier
+Station: Sawbench level 2
+Craft speed: Medium
+Ingredients:
+	3x flute
+	1x Elfwood Sticks
+	1x Faery's Tear
+(id:353)
+
+test
+elven flute
+Category: music
+Worker: Luthier
+Station: Sawbench level 3
+Craft speed: Very Short
+Ingredients:
+	2x Elfwood Sticks
+	1x Glass
+(id:354)
+
+test
+lute
+Category: music
+Worker: Luthier
+Station: Sawbench level 3
+Craft speed: Short
+Ingredients:
+	5x Wood
+	2x Elfwood Sticks
+	3x Raw Leather
+(id:355)
+
+test
+harmonious harp
+Category: music
+Worker: Luthier
+Station: Sawbench level 3
+Craft speed: Short
+Ingredients:
+	2x Elfwood Sticks
+	2x Raw Leather
+	1x Glass
+	1x Phoenix Feather
+(id:356)
+
+test
+celestial harp
+Category: music
+Worker: Worker
+Station: Spacious Table level 1
+Craft speed: Short
+Ingredients:
+	5x Elfwood Sticks
+	5x Raw Leather
+	2x Glass
+(id:357)
+
+test
+drums
+Category: music
+Worker: Luthier
+Station: Sawbench level 4
+Craft speed: Short
+Ingredients:
+	3x Elfwood Sticks
+	3x Raw Leather
+	1x Dyes
+(id:358)
+
+test
+performer's lute
+Category: music
+Worker: Luthier
+Station: Sawbench level 5
+Craft speed: Medium
+Ingredients:
+	1x lute
+	2x Elfwood Sticks
+(id:359)
+
+test
+harmonious flute
+Category: music
+Worker: Luthier
+Station: Sturdy Sawbench level 1
+Craft speed: Medium
+Ingredients:
+	6x Elfwood Sticks
+	1x Eternal Ice
+(id:360)
+
+test
+twin flute
+Category: music
+Worker: Luthier
+Station: Sturdy Sawbench level 2
+Craft speed: Very Short
+Ingredients:
+	1x flute
+	5x Elfwood Sticks
+	4x Glass
+(id:361)
+
+test
+bugle
+Category: music
+Worker: Luthier
+Station: Sturdy Sawbench level 2
+Craft speed: Long
+Ingredients:
+	8x Iron Ore
+	1x flute
+	5x Raw Leather
+	6x Glass
+(id:362)
+
+test
+double flute
+Category: music
+Worker: Luthier
+Station: Sturdy Sawbench level 3
+Craft speed: Short
+Ingredients:
+	1x elven flute
+	3x Wood
+	5x Elfwood Sticks
+	3x Glass
+(id:363)
+
+test
+flute of wonder
+Category: music
+Worker: Luthier
+Station: Sturdy Sawbench level 4
+Craft speed: Medium
+Ingredients:
+	5x Elfwood Sticks
+	5x Ironwood
+	6x Wood
+	6x Raw Leather
+(id:364)
+
+test
+war drums
+Category: music
+Worker: Enchanter
+Station: Spacious Table level 5
+Craft speed: Very Short
+Ingredients:
+	1x drums
+	1x Golden Silk
+(id:365)
+
+test
+bagpipes
+Category: music
+Worker: Luthier
+Station: Sturdy Sawbench level 5
+Craft speed: Short
+Ingredients:
+	6x Elfwood Sticks
+	1x drums
+	4x Dyes
+	3x Ironwood
+	8x Raw Leather
+(id:366)
+
+test
+dragon pipes
+Category: music
+Worker: Worker
+Station: Spacious Table level 5
+Craft speed: Short
+Ingredients:
+	2x Elfwood Sticks
+	2x Ironwood
+	1x Roaring Powder
+(id:367)
+
+test
+bard's lute
+Category: music
+Worker: Luthier
+Station: Quality Sawbench level 1
+Craft speed: Short
+Ingredients:
+	6x Ironwood
+	8x Elfwood Sticks
+	8x Raw Leather
+	8x Fabric
+(id:368)
+
+test
+celestial pipes
+Category: music
+Worker: Luthier
+Station: Quality Sawbench level 2
+Craft speed: Very Short
+Ingredients:
+	5x Mithril Lumps
+	5x Fabric
+	5x Glass
+	1x celestial harp
+	8x Wood
+(id:369)
+
+test
+silence of the deep
+Category: music
+Worker: Luthier
+Station: Quality Sawbench level 3
+Craft speed: Long
+Ingredients:
+	8x Elfwood Sticks
+	6x Ironwood
+	5x Mithril Lumps
+	10x Wood
+	8x Raw Leather
+(id:370)
+
+test
+ripieno
+Category: music
+Worker: Luthier
+Station: Quality Sawbench level 4
+Craft speed: Short
+Ingredients:
+	2x bugle
+	7x Ironwood
+	1x Mithril Lumps
+	1x Crystals
+	8x Glass
+(id:371)
+
+test
+phoenix flute
+Category: music
+Worker: Luthier
+Station: Quality Sawbench level 5
+Craft speed: Medium
+Ingredients:
+	1x Phoenix Feather
+	3x twin flute
+	8x Crystals
+	8x Elfwood Sticks
+	8x Ironwood
+(id:372)
+
+test
+horn of ages
+Category: music
+Worker: Luthier
+Station: Quality Sawbench level 5
+Craft speed: Very Long
+Ingredients:
+	2x performer's lute
+	6x Mithril Lumps
+	5x Gems
+	5x Crystals
+	8x Ironwood
+	10x Elfwood Sticks
+(id:373)
+
+test
+eternal flute
+Category: music
+Worker: Luthier
+Station: Quality Sawbench level 5
+Craft speed: Medium
+Ingredients:
+	1x flute of wonder
+	1x elven flute
+	1x Rising Sun
+	1x Crystals
+	4x Ironwood
+(id:374)
+
+test
+abyssal tranquility
+Category: music
+Worker: Luthier
+Station: Quality Sawbench level 5
+Craft speed: Medium
+Ingredients:
+	1x Divine Leaf
+	2x Abyss Shell
+	4x Elfwood Sticks
+	6x Ironwood
+	10x Raw Leather
+	3x Mithril Lumps
+(id:375)
+
+test
+club
+Category: maces
+Worker: Worker
+Station: Work Table level 1
+Craft speed: Very Short
+Ingredients:
+	1x Wood
+(id:376)
+
+test
+crushing bludgeon
+Category: maces
+Worker: Carpenter
+Station: Sawbench level 1
+Craft speed: Very Short
+Ingredients:
+	2x Wood
+(id:377)
+
+test
+hammer
+Category: maces
+Worker: Carpenter
+Station: Sawbench level 2
+Craft speed: Very Short
+Ingredients:
+	3x Wood
+	1x Iron Ore
+(id:378)
+
+test
+sledgehammer
+Category: maces
+Worker: Carpenter
+Station: Sawbench level 3
+Craft speed: Very Short
+Ingredients:
+	5x Wood
+	2x Iron Ore
+(id:379)
+
+test
+Post maul
+Category: maces
+Worker: Carpenter
+Station: Sawbench level 3
+Craft speed: Very Short
+Ingredients:
+	3x Wood
+	3x Iron Ore
+	1x Acid
+(id:380)
+
+test
+soldier's mace
+Category: maces
+Worker: Carpenter
+Station: Sawbench level 3
+Craft speed: Short
+Ingredients:
+	7x Wood
+	2x Iron Ore
+(id:381)
+
+test
+thorn mace
+Category: maces
+Worker: Carpenter
+Station: Sawbench level 4
+Craft speed: Short
+Ingredients:
+	5x Wood
+	2x Elfwood Sticks
+	1x Iron Ore
+(id:382)
+
+test
+flail
+Category: maces
+Worker: Carpenter
+Station: Sawbench level 5
+Craft speed: Short
+Ingredients:
+	8x Wood
+	3x Elfwood Sticks
+	2x Iron Ore
+(id:383)
+
+test
+crushing sledgehammer
+Category: maces
+Worker: Carpenter
+Station: Sturdy Sawbench level 1
+Craft speed: Medium
+Ingredients:
+	1x sledgehammer
+	1x Volcanic Rock
+	4x Elfwood Sticks
+(id:384)
+
+test
+steel mace
+Category: maces
+Worker: Carpenter
+Station: Sturdy Sawbench level 2
+Craft speed: Short
+Ingredients:
+	4x Wood
+	3x Elfwood Sticks
+	2x Steel Rods
+(id:385)
+
+test
+great mace
+Category: maces
+Worker: Worker
+Station: Spacious Table level 2
+Craft speed: Long
+Ingredients:
+	15x Wood
+	10x Elfwood Sticks
+	8x Steel Rods
+	5x soldier's mace
+(id:386)
+
+test
+orange hammer
+Category: maces
+Worker: Carpenter
+Station: Sturdy Sawbench level 3
+Craft speed: Short
+Ingredients:
+	6x Wood
+	5x Elfwood Sticks
+	2x Steel Rods
+(id:387)
+
+test
+skull crusher
+Category: maces
+Worker: Carpenter
+Station: Sturdy Sawbench level 3
+Craft speed: Medium
+Ingredients:
+	6x Wood
+	5x Elfwood Sticks
+	2x Steel Rods
+	2x Oil
+(id:388)
+
+test
+dark paladin hammer
+Category: maces
+Worker: Carpenter
+Station: Sturdy Sawbench level 4
+Craft speed: Medium
+Ingredients:
+	8x Wood
+	6x Elfwood Sticks
+	3x Steel Rods
+	3x Oil
+(id:389)
+
+test
+crushing fist
+Category: maces
+Worker: Carpenter
+Station: Sturdy Sawbench level 5
+Craft speed: Medium
+Ingredients:
+	10x Wood
+	10x Elfwood Sticks
+	5x Iron Ore
+	4x Steel Rods
+(id:390)
+
+test
+biomace
+Category: maces
+Worker: Enchanter
+Station: Luxurious Table level 5
+Craft speed: Medium
+Ingredients:
+	1x steel mace
+	1x Moon Stone
+	2x Elfwood Sticks
+	2x Oil
+(id:391)
+
+test
+war priest's mace
+Category: maces
+Worker: Carpenter
+Station: Quality Sawbench level 1
+Craft speed: Very Short
+Ingredients:
+	1x dark paladin hammer
+	4x Elfwood Sticks
+	2x Ironwood
+(id:392)
+
+test
+transmundane hammer
+Category: maces
+Worker: Carpenter
+Station: Quality Sawbench level 2
+Craft speed: Long
+Ingredients:
+	6x Elfwood Sticks
+	4x Ironwood
+	3x Mithril Lumps
+	6x Oil
+(id:393)
+
+test
+simon's whip
+Category: maces
+Worker: Carpenter
+Station: Quality Sawbench level 2
+Craft speed: Medium
+Ingredients:
+	6x Ironwood
+	5x Steel Rods
+	4x Gems
+	10x Wood
+	8x Elfwood Sticks
+(id:394)
+
+test
+abolishing mace
+Category: maces
+Worker: Carpenter
+Station: Quality Sawbench level 3
+Craft speed: Medium
+Ingredients:
+	2x soldier's mace
+	8x Elfwood Sticks
+	8x Ironwood
+	6x Steel Rods
+	3x Mithril Lumps
+	2x Gems
+(id:395)
+
+test
+demon worshipper
+Category: maces
+Worker: Carpenter
+Station: Quality Sawbench level 3
+Craft speed: Medium
+Ingredients:
+	1x skull crusher
+	1x rage token
+	1x Demon Horn
+	6x Ironwood
+	4x Gems
+(id:396)
+
+test
+deathbringer
+Category: maces
+Worker: Carpenter
+Station: Quality Sawbench level 4
+Craft speed: Long
+Ingredients:
+	8x Elfwood Sticks
+	6x Ironwood
+	5x Mithril Lumps
+	5x Gems
+	8x Wood
+	8x Iron Ore
+(id:397)
+
+test
+planet smasher
+Category: maces
+Worker: Carpenter
+Station: Quality Sawbench level 5
+Craft speed: Very Long
+Ingredients:
+	2x thorn mace
+	9x Elfwood Sticks
+	8x Ironwood
+	6x Steel Rods
+	5x Gems
+	12x Iron Ore
+(id:398)
+
+test
+dragon tooth
+Category: maces
+Worker: Carpenter
+Station: Quality Sawbench level 5
+Craft speed: Very Long
+Ingredients:
+	5x sledgehammer
+	1x Dragon Scale
+	4x Ironwood
+	3x Mithril Lumps
+	3x Gems
+(id:399)
+
+test
+dragon skull
+Category: maces
+Worker: Carpenter
+Station: Quality Sawbench level 5
+Craft speed: Medium
+Ingredients:
+	1x dragon tooth
+	5x crushing bludgeon
+	3x Dragon Scale
+	12x Ironwood
+	8x Mithril Lumps
+	4x Gems
+(id:400)
+
+test
+Sharp Spear
+Category: spears
+Worker: Worker
+Station: Work Table level 1
+Craft speed: Very Short
+Ingredients:
+	1x Iron Ore
+	1x Wood
+(id:401)
+
+test
+iron spear
+Category: spears
+Worker: Carpenter
+Station: Sawbench level 1
+Craft speed: Very Short
+Ingredients:
+	2x Wood
+	1x Iron Ore
+(id:402)
+
+test
+slicer
+Category: spears
+Worker: Carpenter
+Station: Sawbench level 2
+Craft speed: Very Short
+Ingredients:
+	4x Wood
+	2x Iron Ore
+(id:403)
+
+test
+trident
+Category: spears
+Worker: Carpenter
+Station: Sawbench level 2
+Craft speed: Medium
+Ingredients:
+	6x Wood
+	2x Iron Ore
+(id:404)
+
+test
+corrosive trident
+Category: spears
+Worker: Carpenter
+Station: Sawbench level 3
+Craft speed: Medium
+Ingredients:
+	6x Wood
+	3x Iron Ore
+	1x Acid
+(id:405)
+
+test
+ranseur
+Category: spears
+Worker: Carpenter
+Station: Sawbench level 3
+Craft speed: Medium
+Ingredients:
+	8x Wood
+	3x Iron Ore
+(id:406)
+
+test
+seeking tip
+Category: spears
+Worker: Carpenter
+Station: Sawbench level 4
+Craft speed: Medium
+Ingredients:
+	10x Wood
+	4x Iron Ore
+(id:407)
+
+test
+trusty lance
+Category: spears
+Worker: Worker
+Station: Spacious Table level 5
+Craft speed: Very Short
+Ingredients:
+	3x Elfwood Sticks
+	2x Iron Ore
+	2x Raw Leather
+(id:408)
+
+test
+flying partisan
+Category: spears
+Worker: Carpenter
+Station: Sawbench level 5
+Craft speed: Short
+Ingredients:
+	5x Elfwood Sticks
+	1x Steel Rods
+(id:409)
+
+test
+voulge
+Category: spears
+Worker: Carpenter
+Station: Sturdy Sawbench level 1
+Craft speed: Long
+Ingredients:
+	5x Elfwood Sticks
+	1x Steel Rods
+(id:410)
+
+test
+gladiator's trident
+Category: spears
+Worker: Carpenter
+Station: Sturdy Sawbench level 2
+Craft speed: Medium
+Ingredients:
+	1x trident
+	4x Elfwood Sticks
+	2x Steel Rods
+(id:411)
+
+test
+floating lance
+Category: spears
+Worker: Carpenter
+Station: Sturdy Sawbench level 3
+Craft speed: Medium
+Ingredients:
+	6x Wood
+	6x Elfwood Sticks
+	2x Iron Ore
+	1x Steel Rods
+(id:412)
+
+test
+moon lance
+Category: spears
+Worker: Carpenter
+Station: Sturdy Sawbench level 3
+Craft speed: Medium
+Ingredients:
+	4x Wood
+	4x Elfwood Sticks
+	2x Steel Rods
+	1x Moon Stone
+(id:413)
+
+test
+knight's ranseur
+Category: spears
+Worker: Carpenter
+Station: Sturdy Sawbench level 4
+Craft speed: Short
+Ingredients:
+	2x ranseur
+	12x Wood
+	6x Iron Ore
+	2x Steel Rods
+(id:414)
+
+test
+fine lance of the wolf
+Category: spears
+Worker: Carpenter
+Station: Sturdy Sawbench level 5
+Craft speed: Medium
+Ingredients:
+	7x Wood
+	5x Elfwood Sticks
+	4x Steel Rods
+	1x Mithril Lumps
+(id:415)
+
+test
+fiery partisan
+Category: spears
+Worker: Enchanter
+Station: Luxurious Table level 1
+Craft speed: Medium
+Ingredients:
+	2x flying partisan
+	2x Volcanic Rock
+	6x Ironwood
+	4x Steel Rods
+	2x Gems
+(id:416)
+
+test
+sky partisan
+Category: spears
+Worker: Worker
+Station: Luxurious Table level 5
+Craft speed: Medium
+Ingredients:
+	3x Demon Horn
+	8x Ironwood
+	6x Steel Rods
+	6x Gems
+(id:417)
+
+test
+transmundane pike
+Category: spears
+Worker: Carpenter
+Station: Quality Sawbench level 2
+Craft speed: Short
+Ingredients:
+	1x floating lance
+	2x Mithril Lumps
+	3x Ironwood
+(id:418)
+
+test
+poseidon
+Category: spears
+Worker: Carpenter
+Station: Quality Sawbench level 3
+Craft speed: Long
+Ingredients:
+	7x Elfwood Sticks
+	4x Ironwood
+	1x Mithril Lumps
+	1x Crystals
+	8x Wood
+(id:419)
+
+test
+Gaia's spine
+Category: spears
+Worker: Carpenter
+Station: Quality Sawbench level 3
+Craft speed: Long
+Ingredients:
+	9x Wood
+	8x Elfwood Sticks
+	5x Ironwood
+	2x Mithril Lumps
+	1x Crystals
+(id:420)
+
+test
+waterdancer
+Category: spears
+Worker: Carpenter
+Station: Quality Sawbench level 3
+Craft speed: Very Short
+Ingredients:
+	1x poseidon
+	1x Eternal Ice
+	1x Faery's Tear
+(id:421)
+
+test
+riviera
+Category: spears
+Worker: Carpenter
+Station: Quality Sawbench level 4
+Craft speed: Very Long
+Ingredients:
+	1x floating lance
+	8x Elfwood Sticks
+	8x Ironwood
+	5x Steel Rods
+	4x Mithril Lumps
+	4x Gems
+(id:422)
+
+test
+adamant spear
+Category: spears
+Worker: Carpenter
+Station: Quality Sawbench level 5
+Craft speed: Very Long
+Ingredients:
+	2x iron spear
+	1x Abyss Shell
+	8x Ironwood
+	6x Mithril Lumps
+	4x Crystals
+(id:423)
+
+test
+mithril rivera
+Category: spears
+Worker: Carpenter
+Station: Quality Sawbench level 5
+Craft speed: Very Long
+Ingredients:
+	1x riviera
+	8x Mithril Lumps
+(id:424)
+
+test
+gungnir
+Category: spears
+Worker: Carpenter
+Station: Quality Sawbench level 5
+Craft speed: Very Long
+Ingredients:
+	5x seeking tip
+	1x Moon Stone
+	1x atmosring
+	2x Ironwood
+	2x Gems
+	1x Crystals
+(id:425)
+
+test
+twilight
+Category: spears
+Worker: Carpenter
+Station: Quality Sawbench level 5
+Craft speed: Long
+Ingredients:
+	5x flying partisan
+	3x Rising Sun
+	8x Mithril Lumps
+	8x Gems
+	8x Crystals
+(id:426)
+
+test
+oaken Staff
+Category: staves
+Worker: Druid
+Station: Small Cauldron level 1
+Craft speed: Very Short
+Ingredients:
+	3x Wood
+(id:427)
+
+test
+ebonystaff
+Category: staves
+Worker: Druid
+Station: Small Cauldron level 2
+Craft speed: Short
+Ingredients:
+	1x oaken Staff
+	2x Wild Herbs
+(id:428)
+
+test
+dryad staff
+Category: staves
+Worker: Druid
+Station: Small Cauldron level 3
+Craft speed: Very Short
+Ingredients:
+	1x oaken Staff
+	4x Wood
+	3x Wild Herbs
+(id:429)
+
+test
+wood elf staff
+Category: staves
+Worker: Druid
+Station: Small Cauldron level 3
+Craft speed: Short
+Ingredients:
+	1x Wood
+	4x Elfwood Sticks
+(id:430)
+
+test
+Combat Staff
+Category: staves
+Worker: Druid
+Station: Small Cauldron level 4
+Craft speed: Short
+Ingredients:
+	2x oaken Staff
+	3x Elfwood Sticks
+	3x Iron Ore
+(id:431)
+
+test
+brightest rod
+Category: staves
+Worker: Druid
+Station: Magic Cauldron level 1
+Craft speed: Short
+Ingredients:
+	1x ebonystaff
+	1x Volcanic Rock
+(id:432)
+
+test
+Enchanted Staff
+Category: staves
+Worker: Druid
+Station: Magic Cauldron level 2
+Craft speed: Short
+Ingredients:
+	3x Elfwood Sticks
+	3x Glass
+(id:433)
+
+test
+earth staff
+Category: staves
+Worker: Druid
+Station: Magic Cauldron level 2
+Craft speed: Medium
+Ingredients:
+	1x Enchanted Staff
+	2x Powder
+(id:434)
+
+test
+skeleton staff
+Category: staves
+Worker: Druid
+Station: Magic Cauldron level 3
+Craft speed: Medium
+Ingredients:
+	2x wood elf staff
+(id:435)
+
+test
+healerstaff
+Category: staves
+Worker: Druid
+Station: Magic Cauldron level 4
+Craft speed: Short
+Ingredients:
+	1x Enchanted Staff
+	5x Elfwood Sticks
+	1x Regen Herbs
+(id:436)
+
+test
+dark staff
+Category: staves
+Worker: Druid
+Station: Magic Cauldron level 5
+Craft speed: Medium
+Ingredients:
+	1x skeleton staff
+	1x Demon Horn
+(id:437)
+
+test
+elemental rod
+Category: staves
+Worker: Druid
+Station: Magic Cauldron level 5
+Craft speed: Very Long
+Ingredients:
+	1x Enchanted Staff
+	1x salve of protection
+(id:438)
+
+test
+cleansing staff
+Category: staves
+Worker: Druid
+Station: Mystical Cauldron level 1
+Craft speed: Medium
+Ingredients:
+	5x Ironwood
+	6x Glass
+	3x Gems
+	6x Wood
+	4x Elfwood Sticks
+(id:439)
+
+test
+sapphire staff
+Category: staves
+Worker: Druid
+Station: Mystical Cauldron level 2
+Craft speed: Short
+Ingredients:
+	6x Elfwood Sticks
+	4x Ironwood
+	2x Steel Rods
+	5x Gems
+(id:440)
+
+test
+dominus
+Category: staves
+Worker: Enchanter
+Station: Mystical Cauldron level 3
+Craft speed: Very Short
+Ingredients:
+	1x elemental rod
+	1x ring of the dice
+(id:441)
+
+test
+healer's companion
+Category: staves
+Worker: Druid
+Station: Mystical Cauldron level 3
+Craft speed: Medium
+Ingredients:
+	2x healerstaff
+	2x Faery's Tear
+(id:442)
+
+test
+moon stone staff
+Category: staves
+Worker: Enchanter
+Station: Mystical Cauldron level 3
+Craft speed: Medium
+Ingredients:
+	1x sapphire staff
+	2x Moon Stone
+(id:443)
+
+test
+breath of frost
+Category: staves
+Worker: Enchanter
+Station: Mystical Cauldron level 4
+Craft speed: Long
+Ingredients:
+	5x Mithril Lumps
+	5x Ironwood
+	2x Eternal Ice
+(id:444)
+
+test
+anubis
+Category: staves
+Worker: Worker
+Station: Luxurious Table level 5
+Craft speed: Long
+Ingredients:
+	5x Elfwood Sticks
+	5x Ironwood
+	2x Shadow Essence
+(id:445)
+
+test
+dreadstick
+Category: staves
+Worker: Druid
+Station: Mystical Cauldron level 4
+Craft speed: Medium
+Ingredients:
+	2x dark staff
+(id:446)
+
+test
+devilish rod
+Category: staves
+Worker: Druid
+Station: Mystical Cauldron level 4
+Craft speed: Long
+Ingredients:
+	1x dreadstick
+	1x Demon Horn
+(id:447)
+
+test
+power of oceans
+Category: staves
+Worker: Enchanter
+Station: Mystical Cauldron level 5
+Craft speed: Long
+Ingredients:
+	6x Mithril Lumps
+	5x Ironwood
+	5x Gems
+	3x Abyss Shell
+(id:448)
+
+test
+phoenix baton
+Category: staves
+Worker: Druid
+Station: Mystical Cauldron level 5
+Craft speed: Medium
+Ingredients:
+	2x healer's companion
+	2x Phoenix Feather
+(id:449)
+
+test
+staff of destruction
+Category: staves
+Worker: Enchanter
+Station: Mystical Cauldron level 5
+Craft speed: Very Long
+Ingredients:
+	20x ebonystaff
+	1x Rising Sun
+	8x Ironwood
+	3x Gems
+(id:450)
+
+test
+mindful staff
+Category: staves
+Worker: Druid
+Station: Mystical Cauldron level 5
+Craft speed: Long
+Ingredients:
+	8x dryad staff
+	8x serpent band
+	5x Ironwood
+	5x Gems
+	5x Crystals
+(id:451)
+
+test
+nexus
+Category: staves
+Worker: Druid
+Station: Mystical Cauldron level 5
+Craft speed: Long
+Ingredients:
+	3x dominus
+	8x Ironwood
+	8x Gems
+	8x Crystals
+(id:452)
+
+test
+retribution
+Category: staves
+Worker: Druid
+Station: Mystical Cauldron level 5
+Craft speed: Medium
+Ingredients:
+	12x Elfwood Sticks
+	12x Ironwood
+	12x Gems
+	5x Crystals
+	1x Divine Leaf
+(id:453)
+
+test
+staff of power
+Category: staves
+Worker: Enchanter
+Station: Mystical Cauldron level 5
+Craft speed: Very Long
+Ingredients:
+	15x Enchanted Staff
+	1x Divine Leaf
+	8x Ironwood
+	8x Gems
+	8x Crystals
+(id:454)
+
+test
+lucky amulet
+Category: amulets
+Worker: Jeweler
+Station: Spacious Table level 1
+Craft speed: Very Short
+Ingredients:
+	2x Iron Ore
+	1x Wood
+(id:455)
+
+test
+clerical mark
+Category: amulets
+Worker: Worker
+Station: Spacious Table level 1
+Craft speed: Very Short
+Ingredients:
+	2x Iron Ore
+	2x Wood
+(id:456)
+
+test
+priest's mark
+Category: amulets
+Worker: Jeweler
+Station: Spacious Table level 1
+Craft speed: Very Short
+Ingredients:
+	3x Iron Ore
+	3x Wood
+	1x Glass
+(id:457)
+
+test
+pendant of safety
+Category: amulets
+Worker: Jeweler
+Station: Spacious Table level 1
+Craft speed: Medium
+Ingredients:
+	4x Iron Ore
+	3x Wood
+	1x Glass
+(id:458)
+
+test
+zazen amulet
+Category: amulets
+Worker: Jeweler
+Station: Spacious Table level 2
+Craft speed: Very Short
+Ingredients:
+	6x Iron Ore
+	2x Wood
+	1x Glass
+(id:459)
+
+test
+red charm
+Category: amulets
+Worker: Jeweler
+Station: Spacious Table level 2
+Craft speed: Medium
+Ingredients:
+	5x Iron Ore
+	2x Glass
+	1x Dyes
+(id:460)
+
+test
+perfect jade
+Category: amulets
+Worker: Jeweler
+Station: Spacious Table level 3
+Craft speed: Medium
+Ingredients:
+	3x Iron Ore
+	4x Glass
+(id:461)
+
+test
+elemental talisman
+Category: amulets
+Worker: Jeweler
+Station: Spacious Table level 4
+Craft speed: Very Short
+Ingredients:
+	8x Iron Ore
+	6x Elfwood Sticks
+	1x Moon Stone
+(id:462)
+
+test
+frost protector
+Category: amulets
+Worker: Jeweler
+Station: Spacious Table level 4
+Craft speed: Very Long
+Ingredients:
+	4x Iron Ore
+	2x Steel Rods
+	2x Glass
+(id:463)
+
+test
+amulet of darkness
+Category: amulets
+Worker: Jeweler
+Station: Spacious Table level 4
+Craft speed: Medium
+Ingredients:
+	1x lucky amulet
+	5x Iron Ore
+	5x Glass
+(id:464)
+
+test
+amulet of life
+Category: amulets
+Worker: Jeweler
+Station: Spacious Table level 5
+Craft speed: Short
+Ingredients:
+	1x lucky amulet
+	2x Steel Rods
+	4x Glass
+(id:465)
+
+test
+amulet of light
+Category: amulets
+Worker: Jeweler
+Station: Spacious Table level 5
+Craft speed: Medium
+Ingredients:
+	2x lucky amulet
+	6x Iron Ore
+	3x Steel Rods
+	5x Glass
+(id:466)
+
+test
+clairvoyance amulet
+Category: amulets
+Worker: Jeweler
+Station: Spacious Table level 5
+Craft speed: Very Long
+Ingredients:
+	6x Iron Ore
+	2x Steel Rods
+	2x Gems
+	5x Glass
+	5x Wood
+(id:467)
+
+test
+amulet of evil protection
+Category: amulets
+Worker: Jeweler
+Station: Luxurious Table level 1
+Craft speed: Long
+Ingredients:
+	6x Steel Rods
+	3x Gems
+	6x Glass
+	2x Moon Stone
+(id:468)
+
+test
+elemental pendant
+Category: amulets
+Worker: Jeweler
+Station: Luxurious Table level 1
+Craft speed: Medium
+Ingredients:
+	6x Ironwood
+	3x Gems
+	1x Crystals
+	5x Elfwood Sticks
+(id:469)
+
+test
+pendant of thunder immunity
+Category: amulets
+Worker: Jeweler
+Station: Luxurious Table level 2
+Craft speed: Short
+Ingredients:
+	2x pendant of safety
+	3x Gems
+	3x Crystals
+	6x Ironwood
+	4x Elfwood Sticks
+(id:470)
+
+test
+storm pendant
+Category: amulets
+Worker: Worker
+Station: Luxurious Table level 2
+Craft speed: Short
+Ingredients:
+	3x Steel Rods
+	4x Gems
+	6x Glass
+	2x Crystals
+	1x elemental rod
+(id:471)
+
+test
+pendant of ice immunity
+Category: amulets
+Worker: Enchanter
+Station: Luxurious Table level 2
+Craft speed: Very Long
+Ingredients:
+	6x Ironwood
+	6x Gems
+	2x Crystals
+	1x Golden Silk
+(id:472)
+
+test
+talisman of fear
+Category: amulets
+Worker: Jeweler
+Station: Luxurious Table level 3
+Craft speed: Long
+Ingredients:
+	6x Ironwood
+	4x Gems
+	8x Elfwood Sticks
+	10x Wood
+	6x Glass
+(id:473)
+
+test
+rage token
+Category: amulets
+Worker: Jeweler
+Station: Luxurious Table level 3
+Craft speed: Medium
+Ingredients:
+	8x Steel Rods
+	4x Mithril Lumps
+	6x Gems
+	1x Roaring Powder
+(id:474)
+
+test
+holy talisman
+Category: amulets
+Worker: Jeweler
+Station: Luxurious Table level 3
+Craft speed: Long
+Ingredients:
+	2x amulet of life
+	4x Gems
+	4x Crystals
+	6x Elfwood Sticks
+(id:475)
+
+test
+pyramid lace
+Category: amulets
+Worker: Jeweler
+Station: Luxurious Table level 5
+Craft speed: Medium
+Ingredients:
+	6x Gems
+	4x Crystals
+	4x Mithril Lumps
+	7x Ironwood
+	7x Elfwood Sticks
+(id:476)
+
+test
+unholy talisman
+Category: amulets
+Worker: Enchanter
+Station: Mystical Cauldron level 4
+Craft speed: Very Long
+Ingredients:
+	8x zazen amulet
+	4x Gems
+	2x Crystals
+	1x Dragon Scale
+(id:477)
+
+test
+symbol of the gods
+Category: amulets
+Worker: Jeweler
+Station: Luxurious Table level 5
+Craft speed: Long
+Ingredients:
+	5x priest's mark
+	8x Gems
+	8x Crystals
+	8x Ironwood
+	4x Mithril Lumps
+(id:478)
+
+test
+death token
+Category: amulets
+Worker: Jeweler
+Station: Luxurious Table level 5
+Craft speed: Long
+Ingredients:
+	3x amulet of darkness
+	2x talisman of fear
+	2x Shadow Essence
+	6x Ironwood
+	4x Crystals
+	6x Gems
+(id:479)
+
+test
+ring of Dexterity
+Category: rings
+Worker: Jeweler
+Station: Iron Anvil level 1
+Craft speed: Very Short
+Ingredients:
+	3x Wood
+(id:480)
+
+test
+iron ring
+Category: rings
+Worker: Jeweler
+Station: Iron Anvil level 2
+Craft speed: Very Short
+Ingredients:
+	4x Iron Ore
+(id:481)
+
+test
+reactive ring
+Category: rings
+Worker: Jeweler
+Station: Iron Anvil level 3
+Craft speed: Very Short
+Ingredients:
+	5x Iron Ore
+(id:482)
+
+test
+thief's mark
+Category: rings
+Worker: Jeweler
+Station: Iron Anvil level 3
+Craft speed: Medium
+Ingredients:
+	8x Iron Ore
+(id:483)
+
+test
+ring of wizardry
+Category: rings
+Worker: Jeweler
+Station: Iron Anvil level 4
+Craft speed: Short
+Ingredients:
+	4x Iron Ore
+	1x Steel Rods
+	2x Glass
+(id:484)
+
+test
+ring of sorcery
+Category: rings
+Worker: Worker
+Station: Spacious Table level 5
+Craft speed: Very Short
+Ingredients:
+	5x Iron Ore
+	4x Glass
+(id:485)
+
+test
+ring of the dice
+Category: rings
+Worker: Jeweler
+Station: Iron Anvil level 4
+Craft speed: Very Short
+Ingredients:
+	2x Steel Rods
+	1x Acid
+(id:486)
+
+test
+warrior's ring
+Category: rings
+Worker: Jeweler
+Station: Iron Anvil level 5
+Craft speed: Very Short
+Ingredients:
+	6x Iron Ore
+	3x Steel Rods
+	2x Glass
+(id:487)
+
+test
+ring of might
+Category: rings
+Worker: Jeweler
+Station: Steel Anvil level 1
+Craft speed: Short
+Ingredients:
+	4x Steel Rods
+	2x Glass
+(id:488)
+
+test
+scholar's mark
+Category: rings
+Worker: Jeweler
+Station: Steel Anvil level 3
+Craft speed: Very Short
+Ingredients:
+	1x ring of wizardry
+	6x Glass
+(id:489)
+
+test
+band of light
+Category: rings
+Worker: Jeweler
+Station: Steel Anvil level 4
+Craft speed: Medium
+Ingredients:
+	8x Iron Ore
+	4x Steel Rods
+	2x Gems
+(id:490)
+
+test
+anti-elements band
+Category: rings
+Worker: Enchanter
+Station: Spacious Table level 5
+Craft speed: Long
+Ingredients:
+	1x Volcanic Rock
+	1x Eternal Ice
+	1x Gems
+(id:491)
+
+test
+banker's mark
+Category: rings
+Worker: Jeweler
+Station: Steel Anvil level 5
+Craft speed: Medium
+Ingredients:
+	3x Mithril Lumps
+	2x Gems
+	4x Glass
+	3x Steel Rods
+(id:492)
+
+test
+serpent band
+Category: rings
+Worker: Jeweler
+Station: Mithril Anvil level 1
+Craft speed: Short
+Ingredients:
+	10x Iron Ore
+	4x Steel Rods
+	3x Mithril Lumps
+	4x Gems
+(id:493)
+
+test
+viper band
+Category: rings
+Worker: Worker
+Station: Luxurious Table level 5
+Craft speed: Short
+Ingredients:
+	5x Iron Ore
+	5x Steel Rods
+	3x Mithril Lumps
+	3x Gems
+	1x Roaring Powder
+(id:494)
+
+test
+ring of conservation
+Category: rings
+Worker: Enchanter
+Station: Mystical Cauldron level 2
+Craft speed: Long
+Ingredients:
+	1x Dragon Scale
+	3x Gems
+	3x Crystals
+	6x Mithril Lumps
+(id:495)
+
+test
+majestic ring
+Category: rings
+Worker: Jeweler
+Station: Mithril Anvil level 3
+Craft speed: Medium
+Ingredients:
+	3x thief's mark
+	3x Mithril Lumps
+	4x Gems
+	2x Crystals
+(id:496)
+
+test
+ring of kings
+Category: rings
+Worker: Jeweler
+Station: Mithril Anvil level 5
+Craft speed: Medium
+Ingredients:
+	2x majestic ring
+	5x Mithril Lumps
+	5x Gems
+	4x Crystals
+	1x Rising Sun
+(id:497)
+
+test
+atmosring
+Category: rings
+Worker: Jeweler
+Station: Mithril Anvil level 5
+Craft speed: Long
+Ingredients:
+	5x reactive ring
+	1x Rising Sun
+	1x Faery's Tear
+	2x Mithril Lumps
+	6x Gems
+	6x Crystals
+(id:498)
+
+test
+foundation ring
+Category: rings
+Worker: Jeweler
+Station: Mithril Anvil level 4
+Craft speed: Long
+Ingredients:
+	5x ring of Dexterity
+	2x ring of the dice
+	5x Mithril Lumps
+	10x Gems
+(id:499)
+
+test
+the one ring
+Category: rings
+Worker: Jeweler
+Station: Mithril Anvil level 5
+Craft speed: Very Long
+Ingredients:
+	1x foundation ring
+	1x Divine Leaf
+	10x Mithril Lumps
+	10x Gems
+	10x Crystals
+(id:500)
+
+test
+Acid
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:501)
+
+test
+Faery's Tear
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:502)
+
+test
+Volcanic Rock
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:503)
+
+test
+Abyss Shell
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:504)
+
+test
+Phoenix Feather
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:505)
+
+test
+Eternal Ice
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:506)
+
+test
+Demon Horn
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:507)
+
+test
+Moon Stone
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:508)
+
+test
+Roaring Powder
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:509)
+
+test
+Golden Silk
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:510)
+
+test
+Shadow Essence
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:511)
+
+test
+Dragon Scale
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:512)
+
+test
+Rising Sun
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:513)
+
+test
+Divine Leaf
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:514)
+
+test
+stone cleaver
+Category: axes
+Worker: Enchanter
+Station: Luxurious Table level 2
+Craft speed: Short
+Ingredients:
+	8x Steel Rods
+	8x Elfwood Sticks
+	8x Ironwood
+(id:515)
+
+test
+swift iron boots
+Category: heavy boots
+Worker: Enchanter
+Station: Spacious Table level 5
+Craft speed: Very Short
+Ingredients:
+	10x Iron Ore
+	9x Raw Leather
+	6x Fabric
+	6x Steel Rods
+(id:516)
+
+test
+antivenom
+Category: potions
+Worker: Enchanter
+Station: Spacious Table level 3
+Craft speed: Very Short
+Ingredients:
+	4x Wild Herbs
+	4x Powder
+	4x Oil
+	2x Glass
+(id:517)
+
+test
+survival knife
+Category: daggers
+Worker: Blacksmith
+Station: Steel Anvil level 2
+Craft speed: Medium
+Ingredients:
+	1x knife
+	4x Steel Rods
+	2x Crystals
+(id:518)
+
+test
+steel hauberk
+Category: heavy helmets
+Worker: Armorer
+Station: Steel Anvil level 5
+Craft speed: Medium
+Ingredients:
+	1x heavy helmet
+	7x Iron Ore
+	5x Steel Rods
+	6x Oil
+(id:519)
+
+test
+combat boots
+Category: boots
+Worker: Leather-worker
+Station: Fine Cutting Table level 2
+Craft speed: Short
+Ingredients:
+	1x soft boots
+	4x Crystals
+	6x Dyes
+	6x Fabric
+(id:520)
+
+test
+guideon robe
+Category: clothes
+Worker: Tailor
+Station: Good Cutting Table level 5
+Craft speed: Short
+Ingredients:
+	2x cleric's robe
+	4x Fabric
+	6x Dyes
+	2x Mithril Lumps
+	2x Gems
+	4x Glass
+(id:521)
+
+test
+magic dust
+Category: herbs
+Worker: Druid
+Station: Magic Cauldron level 3
+Craft speed: Medium
+Ingredients:
+	1x Strong Herbs
+	5x Wild Herbs
+	2x Powder
+	5x Elfwood Sticks
+(id:522)
+
+test
+cooling aid
+Category: potions
+Worker: Sorceress
+Station: Small Cauldron level 5
+Craft speed: Very Short
+Ingredients:
+	1x antidote
+	3x Oil
+	4x Glass
+	4x Wild Herbs
+(id:523)
+
+test
+civil bow
+Category: bows
+Worker: Bowyer
+Station: Sturdy Sawbench level 4
+Craft speed: Very Short
+Ingredients:
+	1x small bow
+	6x Ironwood
+	5x Elfwood Sticks
+	8x Fabric
+	6x Wood
+(id:524)
+
+test
+quickdraw pistol
+Category: guns
+Worker: Tinkerer
+Station: Luxurious Table level 2
+Craft speed: Medium
+Ingredients:
+	1x sharpshooter
+	6x Ironwood
+	4x Steel Rods
+	7x Powder
+	8x Wood
+(id:525)
+
+test
+celestial flute
+Category: music
+Worker: Luthier
+Station: Sturdy Sawbench level 2
+Craft speed: Long
+Ingredients:
+	4x Iron Ore
+	1x celestial harp
+	3x Raw Leather
+	3x Glass
+(id:526)
+
+test
+reinforced voulge
+Category: spears
+Worker: Carpenter
+Station: Quality Sawbench level 3
+Craft speed: Long
+Ingredients:
+	1x trusty lance
+	10x Wood
+	7x Elfwood Sticks
+	6x Ironwood
+	3x Mithril Lumps
+	2x Crystals
+(id:527)
+
+test
+sage amulet
+Category: amulets
+Worker: Jeweler
+Station: Spacious Table level 5
+Craft speed: Very Long
+Ingredients:
+	1x clerical mark
+	7x Iron Ore
+	3x Steel Rods
+	3x Gems
+	3x Glass
+(id:528)
+
+test
+paladin sword
+Category: swords
+Worker: Blacksmith
+Station: Mithril Anvil level 3
+Craft speed: Very Long
+Ingredients:
+	1x templar blade
+	3x Steel Rods
+	4x Oil
+	2x Mithril Lumps
+(id:529)
+
+test
+berserker's sabatons
+Category: heavy boots
+Worker: Armorer
+Station: Steel Anvil level 4
+Craft speed: Short
+Ingredients:
+	1x warrior's sabaton
+	6x Steel Rods
+	8x Fabric
+	3x Crystals
+	3x Mithril Lumps
+	8x Iron Ore
+(id:530)
+
+test
+artisan's gloves
+Category: gloves
+Worker: Leather-worker
+Station: Fine Cutting Table level 4
+Craft speed: Long
+Ingredients:
+	2x smith's gloves
+	10x Raw Leather
+	8x Gems
+	8x Crystals
+	10x Dyes
+	8x Fabric
+(id:531)
+
+test
+questing shoes
+Category: shoes
+Worker: Tailor
+Station: Good Cutting Table level 3
+Craft speed: Medium
+Ingredients:
+	4x Fabric
+	3x Ironwood
+	5x Dyes
+	5x Raw Leather
+(id:532)
+
+test
+dragon powder
+Category: herbs
+Worker: Druid
+Station: Mystical Cauldron level 4
+Craft speed: Long
+Ingredients:
+	1x strength seed
+	10x Powder
+	6x Elfwood Sticks
+	4x Ironwood
+	2x Gems
+	1x Dragon Scale
+(id:533)
+
+test
+fireshield scroll
+Category: scrolls
+Worker: Sorceress
+Station: Mystical Cauldron level 4
+Craft speed: Long
+Ingredients:
+	1x firestorm scroll
+	6x Ironwood
+	6x Crystals
+	3x Gems
+	8x Dyes
+(id:534)
+
+test
+storm knives
+Category: thrown
+Worker: Tinkerer
+Station: Spacious Table level 2
+Craft speed: Medium
+Ingredients:
+	1x shock darts
+	6x Iron Ore
+	3x Steel Rods
+	2x Oil
+(id:535)
+
+test
+archmage's mark
+Category: rings
+Worker: Jeweler
+Station: Mithril Anvil level 3
+Craft speed: Medium
+Ingredients:
+	2x ring of sorcery
+	5x Mithril Lumps
+	4x Gems
+	5x Crystals
+(id:536)
+
+test
+Moonlight fairy bow
+Category: bows
+Worker: Enchanter
+Station: Luxurious Table level 2
+Craft speed: Long
+Ingredients:
+	1x fairy bow
+	8x Elfwood Sticks
+	6x Ironwood
+	6x Fabric
+	1x Moon Stone
+	4x Crystals
+(id:537)
+
+test
+elfwood pole-axe
+Category: axes
+Worker: Worker
+Station: Spacious Table level 1
+Craft speed: Very Short
+Ingredients:
+	2x Steel Rods
+	6x Elfwood Sticks
+(id:538)
+
+test
+grand bow
+Category: bows
+Worker: Worker
+Station: Spacious Table level 4
+Craft speed: Short
+Ingredients:
+	3x Elfwood Sticks
+	6x Iron Ore
+	5x Fabric
+	3x Steel Rods
+(id:539)
+
+test
+rising dragon
+Category: guns
+Worker: Worker
+Station: Luxurious Table level 5
+Craft speed: Very Long
+Ingredients:
+	1x Dragon Scale
+	1x Rising Sun
+	8x Mithril Lumps
+	8x Crystals
+	8x Powder
+(id:540)
+
+test
+everlasting flute
+Category: music
+Worker: Worker
+Station: Luxurious Table level 1
+Craft speed: Medium
+Ingredients:
+	4x Ironwood
+	3x Mithril Lumps
+	6x Glass
+	5x Elfwood Sticks
+(id:541)
+
+test
+spiked mace
+Category: maces
+Worker: Worker
+Station: Work Table level 3
+Craft speed: Very Short
+Ingredients:
+	6x Wood
+	4x Iron Ore
+(id:542)
+
+test
+warrior's trident
+Category: spears
+Worker: Worker
+Station: Spacious Table level 3
+Craft speed: Short
+Ingredients:
+	3x Elfwood Sticks
+	5x Steel Rods
+	8x Iron Ore
+(id:543)
+
+test
+bishop's staff
+Category: staves
+Worker: Worker
+Station: Luxurious Table level 2
+Craft speed: Medium
+Ingredients:
+	7x Elfwood Sticks
+	4x Ironwood
+	4x Steel Rods
+	4x Gems
+	4x Crystals
+(id:544)
+
+test
+Plate of the renown
+Category: heavy armor
+Worker: Worker
+Station: Luxurious Table level 5
+Craft speed: Long
+Ingredients:
+	1x Golden Silk
+	1x Divine Leaf
+	4x Mithril Lumps
+	4x Crystals
+	4x Gems
+(id:545)
+
+test
+grand gauntlets
+Category: gauntlets
+Worker: Armorer
+Station: Steel Anvil level 4
+Craft speed: Medium
+Ingredients:
+	3x Steel Rods
+	5x Glass
+	5x Oil
+(id:546)
+
+test
+blaze scroll
+Category: scrolls
+Worker: Sorceress
+Station: Magic Cauldron level 5
+Craft speed: Medium
+Ingredients:
+	2x fireball scroll
+	6x Ironwood
+	2x Gems
+	2x Crystals
+(id:547)
+
+test
+masamune
+Category: swords
+Worker: Enchanter
+Station: Luxurious Table level 5
+Craft speed: Very Long
+Ingredients:
+	3x Crystals
+	3x Mithril Lumps
+	2x Shadow Essence
+	3x murasame
+(id:548)
+
+test
+epic defender
+Category: shields
+Worker: Enchanter
+Station: Mithril Anvil level 5
+Craft speed: Very Long
+Ingredients:
+	3x defender
+	5x Mithril Lumps
+	5x Gems
+	5x Crystals
+	20x Raw Leather
+	10x Ironwood
+(id:549)
+
+test
+apocalyptic staff
+Category: staves
+Worker: Enchanter
+Station: Mystical Cauldron level 5
+Craft speed: Very Long
+Ingredients:
+	3x dreadstick
+	8x Crystals
+	15x Ironwood
+	8x Gems
+(id:550)
+
+test
+enraging blade
+Category: daggers
+Worker: Enchanter
+Station: Mithril Anvil level 6
+Craft speed: Very Long
+Ingredients:
+	1x blackblade
+	1x megalixir
+	1x Dark Blood
+	5x Crystals
+(id:551)
+
+test
+staraxe
+Category: axes
+Worker: Blacksmith
+Station: Mithril Anvil level 6
+Craft speed: Very Long
+Ingredients:
+	1x planet cutter
+	1x the one ring
+	1x Rising Sun
+	10x Mithril Lumps
+	10x Crystals
+(id:552)
+
+test
+walking forteress
+Category: heavy armor
+Worker: Armorer
+Station: Mithril Anvil level 6
+Craft speed: Very Long
+Ingredients:
+	1x dragon plate
+	1x ice gauntlets
+	1x Dark Blood
+	10x Mithril Lumps
+(id:553)
+
+test
+shadow armor
+Category: armor
+Worker: Leather-worker
+Station: Fine Cutting Table level 6
+Craft speed: Very Long
+Ingredients:
+	1x warrior's omen
+	1x soft griffon gloves
+	1x Dark Blood
+	10x Crystals
+(id:554)
+
+test
+plasmic robe
+Category: clothes
+Worker: Tailor
+Station: Fine Cutting Table level 6
+Craft speed: Very Long
+Ingredients:
+	1x grandmaster's robe
+	1x guardian tall shield
+	1x Dark Blood
+	10x Gems
+(id:555)
+
+test
+codex de genèse
+Category: scrolls
+Worker: Sorceress
+Station: Luxurious Table level 6
+Craft speed: Very Long
+Ingredients:
+	1x apocalypscion
+	1x seed of skill
+	1x Dark Blood
+	10x Gems
+(id:556)
+
+test
+angel bow
+Category: bows
+Worker: Bowyer
+Station: Quality Sawbench level 6
+Craft speed: Very Long
+Ingredients:
+	1x the hurricane
+	1x gungnir
+	1x Dark Blood
+	10x Crystals
+(id:557)
+
+test
+death star
+Category: thrown
+Worker: Tinkerer
+Station: Luxurious Table level 6
+Craft speed: Very Long
+Ingredients:
+	2x mithril shuriken
+	2x ice gauntlets
+	1x Dark Blood
+	10x Mithril Lumps
+(id:558)
+
+test
+crystal drum
+Category: music
+Worker: Luthier
+Station: Quality Sawbench level 6
+Craft speed: Very Long
+Ingredients:
+	1x abyssal tranquility
+	2x war drums
+	1x Dark Blood
+	10x Crystals
+(id:559)
+
+test
+divine judgement
+Category: maces
+Worker: Carpenter
+Station: Quality Sawbench level 6
+Craft speed: Very Long
+Ingredients:
+	1x dragon skull
+	1x transmundane full helmet
+	1x Dark Blood
+	10x Mithril Lumps
+(id:560)
+
+test
+staff of creation
+Category: staves
+Worker: Druid
+Station: Mystical Cauldron level 6
+Craft speed: Very Long
+Ingredients:
+	1x staff of power
+	2x mindful staff
+	1x Dark Blood
+	10x Crystals
+(id:561)
+
+test
+rage rune
+Category: amulets
+Worker: Jeweler
+Station: Luxurious Table level 6
+Craft speed: Very Long
+Ingredients:
+	1x death token
+	1x unholy talisman
+	1x Dark Blood
+	10x Gems
+(id:562)
+
+test
+Dark Blood
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:563)
+

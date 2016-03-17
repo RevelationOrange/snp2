@@ -81,7 +81,7 @@ u'name_id': 27690, u'codename': u'northwall', u'id': 312, u'modifier_unlock': u'
 '''
 
 tracker = []
-targ = 'icebrand'
+targ = 'apocaplypticstaff'
 #trail = []
 findAthing(newSD, targ, ['result'], tracker)
 
@@ -115,41 +115,61 @@ for x in newSD['result']['assets_with_context']:
 for x in tracker:
     print x
 
-goldTotal = 0
-chkSection = 'improvements'
+assetsDict = {}
+for x in newSD['result']['assets']:
+    assetsDict[x['id']] = x
+
+itemsDict = {}
+for x in newSD['result']['items']:
+    itemsDict[x['id']] = x
+
+#sections = ['fullItems']
+allItemIDs = [x['id'] for x in newSD['result']['items']]
+newSD['result']['fullItems'] = allItemIDs
+sections = newSD['result'].keys()
 testGetInfo = 1
 uqIDs = []
 colorAvg = []
-testPrint = 0
+testPrint = 1
 nlens = 0
 rlens = 0
+checkList = snp2lib.prInfo()
 #'''
-if testPrint: theFile = codecs.open('updates'+sep+chkSection+'.txt', 'w', 'utf-8')
-for x in newSD['result'][chkSection]:
-    #colorAvg.append(x['color'])
-    #if x['id'] not in uqIDs: uqIDs.append(x['id'])
-    #print x
-        #for item in newSD['result']['items']:
-        #    if item['id'] == x['crafted_item_id']: nameID = item['name_id']
-        #for asset in newSD['result']['assets']:
-        #    if asset['id'] == nameID: print asset['value'], x['worker_codename']
-    if testGetInfo:
-        for j in x:
-            print "%s: %s" % (j, x[j])
-        a = snp2lib.getInfo([chkSection, 'check', x], newSD)
-        print a[0]
-        for k in a[1]:
-            pass
-            #derp = '{!r}'.format(unicode(a[1][k]))
-            #print derp.encode('utf8')
-            #print '{}: {}'.format(k, derp)
-            #if k == 'name': nlens = max(len(a[1][k]), nlens)
-            #if k == 'reward': rlens = max(len('{} {}'.format(*a[1][k])), rlens)
-            #print "%s: %s" % (k, a[1][k])
-            #print k + ': ' + unicode(a[1][k])
-        if testPrint: snp2lib.prInfo([chkSection, 'test', a[1]], theFile)
-        print ''
-if testPrint: theFile.close()
+for chkSection in sections:
+    if testPrint: theFile = codecs.open('allInfo'+sep+chkSection+'.txt', 'w', 'utf-8')
+    if type(newSD['result'][chkSection]) in [list, dict]:
+        if chkSection == 'fame_levels':
+            do = [ y for y in newSD['result'][chkSection] ]
+            if testGetInfo: a = snp2lib.getInfo([chkSection, 'check', do], newSD)
+            if testPrint: snp2lib.prInfo([chkSection, 'test', a[1]], theFile)
+        else:
+            #print chkSection
+            for x in newSD['result'][chkSection]:
+                #colorAvg.append(x['color'])
+                #if x['id'] not in uqIDs: uqIDs.append(x['id'])
+                #print x
+                    #for item in newSD['result']['items']:
+                    #    if item['id'] == x['crafted_item_id']: nameID = item['name_id']
+                    #for asset in newSD['result']['assets']:
+                    #    if asset['id'] == nameID: print asset['value'], x['worker_codename']
+                if testGetInfo:
+                    #for j in x:
+                    #    print "%s: %s" % (j, x[j])
+                    #print x
+                    a = snp2lib.getInfo([chkSection, 'check', x], newSD)
+                    #print a[0]
+                    #for k in a[1]:
+                    #    pass
+                        #derp = '{!r}'.format(unicode(a[1][k]))
+                        #print derp.encode('utf8')
+                        #print '{}: {}'.format(k, derp)
+                        #if k == 'name': nlens = max(len(a[1][k]), nlens)
+                        #if k == 'reward': rlens = max(len('{} {}'.format(*a[1][k])), rlens)
+                        #print "%s: %s" % (k, a[1][k])
+                        #print k + ': ' + unicode(a[1][k])
+                    if testPrint and chkSection in checkList: snp2lib.prInfo([chkSection, 'test', a[1]], theFile)
+                    #print ''
+    if testPrint: theFile.close()
 #'''
 #print nlens, rlens
 # event quests, workers, achievements, special items
@@ -159,18 +179,81 @@ if assetSearch:
         if x[2] == 'assets':
             print newSD['result']['assets'][x[3]]
 
-#for x in newSD['result']['assets']:
-#    if x['id'] == 25544: print x
+goldTotal = 0
+itemsTotal = {}
+custsTotal = {}
+itemValues = 0
+totalSeconds = 0
+shopGold = 0
+shopTime = 0
+buildingCodenameDictOfNames = {}
+for x in newSD['result']['improvements']:
+    totalSeconds += x['build_time']
+    bName = assetsDict[x['name_id']]['value']
+    if bName == 'Mysterious Pillars': print bName, x['level'], x['build_time']/86400.
+    if x['codename'] in buildingCodenameDictOfNames:
+        buildingCodenameDictOfNames[x['codename']]['time'] += x['build_time']
+    else:
+        buildingCodenameDictOfNames[x['codename']] = {'name':bName, 'time':x['build_time']}
+    for y in x['requirements']:
+        if y['character_codename'] is not None:
+            if y['character_codename'] in custsTotal:
+                custsTotal[y['character_codename']] += y['amount']
+            else:
+                custsTotal[y['character_codename']] = y['amount']
+        elif y['item_id'] != 0:
+            iNameID = itemsDict[y['item_id']]['name_id']
+            itemValues += itemsDict[y['item_id']]['price']*y['amount']
+            iName = assetsDict[iNameID]['value']
+            if iName in itemsTotal:
+                itemsTotal[iName] += y['amount']
+            else:
+                itemsTotal[iName] = y['amount']
+        else:
+            goldTotal += y['amount']
 
-# ['result', u'result', u'recipes', 210, u'id']
-# ['result', u'result', u'items', 210, u'id']
-# ['result', u'result', u'recipe_unlocks', 210, u'id']
-#loots = [[50, 'Gold'], [100, 'Gold'], [150, 'Gold']]
-#print '{} / {} / {}'.format( *[' '.join( str(x) for x in y) for y in loots] )
-#print ' / '.join([[ ' '.join(x[0])] for x in loots])
-#derp = [1000, 'gold']
-#print 'Cost to unlock this level: {} {}'.format(*derp)
-#theStr = 'derp {} {}'
-#print theStr.format('herp', 'gerp', 'derp')
-#secondLen = 22
-#prStr = "{:10}{:" + str(secondLen) + "}{}"
+for x in newSD['result']['modules']:
+    if x['costs'] is not None:
+        for y in x['costs']:
+            if y != -1: shopGold += y*x['maximum']
+    if x['build_times'] is not None:
+        shopTime += sum(x['build_times'])
+
+for x in newSD['result']['achievements']:
+    aName = assetsDict[x['name_id']]['value']
+    if 'Employer' in aName: print 'derpderp', x
+    if x['rewards'][0]['data'] == 'skillburr': print 'derpderp', assetsDict[x['name_id']]['value'], x
+    if x['rewards'][0]['type'] == 2:
+        print x['rewards'][0]['data']
+
+iids = []
+nameMatches = ['sky partisan', 'apocalyptic staff']
+for x in newSD['result']['items']:
+    name = assetsDict[x['name_id']]['value']
+    for y in nameMatches:
+        if assetsDict[x['name_id']]['value'].lower() == y:
+            iids.append([y, x['id']])
+
+'''
+print ''
+print (goldTotal-500000000)/1e9
+print ''
+for x in itemsTotal:
+    print '{}: {}'.format(x, itemsTotal[x])
+print ''
+for x in custsTotal:
+    print '{}: {}'.format(x, custsTotal[x])
+print ''
+print (itemValues)
+print ''
+print totalSeconds/86400./365.2425, 'days'
+print ''
+print 'total shop gold: {}\ntotal shop time: {} years'.format(shopGold, shopTime/86400./365.2425)
+print ''
+with open('buildLineTimes.txt', 'w') as buildtxtfile:
+    for x in buildingCodenameDictOfNames:
+        buildtxtfile.write('{}: {} days\n'.format(buildingCodenameDictOfNames[x]['name'], buildingCodenameDictOfNames[x]['time']/86400.))
+'''
+print ''
+for x in iids:
+    print '{}: {}'.format(*x)
