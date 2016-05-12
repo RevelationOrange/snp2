@@ -2,8 +2,11 @@ import snp2lib
 import json
 
 
-initString = ''
+inFileName = 'inventory.txt'
+with open(inFileName) as invyFile:
+    for line in invyFile: initString = line
 
+outFileName = 'inventoryCount.txt'
 sdd = snp2lib.getSDdict()
 items = sdd['items']
 recipes = sdd['recipes']
@@ -32,14 +35,15 @@ for entry in invyList:
 for r in raresList:
     raresCount[r[0]] += r[1]
 
-for type in invyByType:
-    typeStr = snp2lib.getCats(type)[0]
-    print '{}:'.format(typeStr)
-    for entry in invyByType[type]:
-        print '{} x{}'.format(assets[str(entry[0])]['value'], entry[1])
-    print ''
-print i, 'items total'
+with open(outFileName, 'w') as invyOutput:
+    for type in invyByType:
+        typeStr = snp2lib.getCats(type)[0]
+        invyOutput.write('{}:\n'.format(typeStr))
+        for entry in invyByType[type]:
+            invyOutput.write('{} x{}\n'.format(assets[str(entry[0])]['value'], entry[1]))
+        invyOutput.write('\n')
+    invyOutput.write(str(i) + ' items total\n\n')
 
-for iid in raresCount:
-    rareName = assets[str(items[str(iid)]['name_id'])]['value']
-    print '{:<16} x{}'.format(rareName, raresCount[iid])
+    for iid in sorted(raresCount):
+        rareName = assets[str(items[str(iid)]['name_id'])]['value']
+        invyOutput.write('{:<16} x{}\n'.format(rareName, raresCount[iid]))
