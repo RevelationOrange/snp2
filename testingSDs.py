@@ -4,7 +4,6 @@ import snp2lib
 import math
 from os import sep
 import codecs
-from pprint import pprint
 
 
 '''
@@ -67,11 +66,11 @@ def changeAthing(theDict):
 oldFileName = 'sd17238.json'
 newFileName = 'sd17874.json'
 
-with open(newFileName, 'r') as sdFile:
+with codecs.open(newFileName, 'r', 'utf-8') as sdFile:
     Dump = json.load(sdFile)
 newSD = Dump
 
-with open(oldFileName, 'r') as sdFile:
+with codecs.open(oldFileName, 'r', 'utf-8') as sdFile:
     Dump = json.load(sdFile)
 oldSD = Dump
 
@@ -137,8 +136,8 @@ for x in newSD['result'][chkSection]:
         a = snp2lib.getInfo([chkSection, 'check', x], newSD)
         print a[0]
         for k in a[1]:
-            #print k + ':', a[1][k]
-            print '{}: {}'.format(k, a[1][k])
+            print k + ':', a[1][k]
+            #print '{}: {}'.format(k, a[1][k])
         if testPrint and a[1]['craftID'] != 0:
             snp2lib.prInfo([chkSection, 'test', a[1]], theFile)
         print ''

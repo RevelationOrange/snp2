@@ -1894,3 +1894,31 @@ test
 To unlock plasmic robe craft 100 lord of darkness
 (id:493)
 
+test
+To unlock codex de genèse craft 100 apocalypscion
+(id:494)
+
+test
+To unlock angel bow craft 100 the hurricane
+(id:495)
+
+test
+To unlock death star craft 100 double infinity
+(id:496)
+
+test
+To unlock crystal drum craft 100 abyssal tranquility
+(id:497)
+
+test
+To unlock divine judgement craft 100 dragon skull
+(id:498)
+
+test
+To unlock staff of creation craft 100 retribution
+(id:499)
+
+test
+To unlock rage rune craft 100 death token
+(id:500)
+
