@@ -248,15 +248,6 @@ def prImprovement(modType, impr, theFile):
                                                                        impr['custUnlocks']])))
         theFile.write('Image link: {} (id:{})\n\n'.format(impr['picLink'], str(impr['id'])))
 
-
-def prFameLevel(modType, fameLevel, theFile):
-    # for this, I want to have it take all the new fame levels at once and write them; one entry per level would be weird
-    # so that's the plan once I come back to this
-    pass
-
-def prCustLevelValue(modType, cust, theFile):
-    pass
-
 def prRecUnlock(modType, recUnlock, theFile):
     if modType == 'change':
         replStr = 'New: to unlock {newitemUnlocked}, craft {newitemToCraft[1]} {newitemToCraft[0]}\n'
