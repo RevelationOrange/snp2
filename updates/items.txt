@@ -1,0 +1,130 @@
+change
+                    New       Old
+Name                lonewolf  lonewolf
+Level               15        15
+Category            swords    swords
+Price               110000    86000
+Craft XP            8602      8602
+Sell XP             34408     34408
+Coupon repair cost  3         3
+New image: cdn.edgebee.com/static/shopr2/items/WS_lonewolf.png
+Old image: cdn.edgebee.com/static/shopr2/items/WS_lonewolf.png
+(id:16)
+
+add
+enraging blade, level 21
+Category: daggers
+Price: 2400000
+Craft xp: 336002
+Sell xp: 1344008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WD_enragingblade.png (id:551)
+
+add
+staraxe, level 21
+Category: axes
+Price: 2100000
+Craft xp: 294002
+Sell xp: 1176008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WA_staraxe.png (id:552)
+
+add
+walking forteress, level 21
+Category: heavy armor
+Price: 2450000
+Craft xp: 343002
+Sell xp: 1372008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/AH_walkingforteress.png (id:553)
+
+add
+shadow armor, level 21
+Category: armor
+Price: 2150000
+Craft xp: 301002
+Sell xp: 1204008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/AM_shadowarmor.png (id:554)
+
+add
+plasmic robe, level 21
+Category: clothes
+Price: 2140000
+Craft xp: 299602
+Sell xp: 1198408
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/AL_plasmicrobe.png (id:555)
+
+add
+codex de genèse, level 21
+Category: scrolls
+Price: 2100000
+Craft xp: 294002
+Sell xp: 1176008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/US_genesiscodex.png (id:556)
+
+add
+angel bow, level 21
+Category: bows
+Price: 2540000
+Craft xp: 355602
+Sell xp: 1422408
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WB_angelbow.png (id:557)
+
+add
+death star, level 21
+Category: thrown
+Price: 2010000
+Craft xp: 281402
+Sell xp: 1125608
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WK_deathstar.png (id:558)
+
+add
+crystal drum, level 21
+Category: music
+Price: 2030000
+Craft xp: 284202
+Sell xp: 1136808
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WL_crystaldrum.png (id:559)
+
+add
+divine judgement, level 21
+Category: maces
+Price: 2530000
+Craft xp: 354202
+Sell xp: 1416808
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WM_divinejudgement.png (id:560)
+
+add
+staff of creation, level 21
+Category: staves
+Price: 2340000
+Craft xp: 327602
+Sell xp: 1310408
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WT_staffofcreation.png (id:561)
+
+add
+rage rune, level 21
+Category: amulets
+Price: 2080000
+Craft xp: 291202
+Sell xp: 1164808
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/XP_ragerune.png (id:562)
+
+add
+Dark Blood, level 0
+Category: rare resources
+Price: 100000
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_dark_blood.png (id:563)
+

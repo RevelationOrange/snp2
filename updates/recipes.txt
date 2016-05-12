@@ -1,0 +1,190 @@
+change
+             New         Old
+Name         lonewolf    lonewolf
+Category     swords      swords
+Worker       Blacksmith  Blacksmith
+Craft speed  Long        Long
+New station: Mithril Anvil level 3
+Old station: Mithril Anvil level 3
+New craft speed:Long
+Old craft speed:Long
+New ingredients:
+	3x Mithril Lumps
+	8x Steel Rods
+	1x Roaring Powder
+	5x Long Sword
+	2x Crystals
+Old ingredients:
+	1x Mithril Lumps
+	5x Steel Rods
+	1x Roaring Powder
+	5x Long Sword
+(id:16)
+
+add
+enraging blade
+Category: daggers
+Worker: Enchanter
+Station: Mithril Anvil level 6
+Craft speed: Very Long
+Ingredients:
+	1x blackblade
+	1x megalixir
+	1x Dark Blood
+	5x Crystals
+(id:551)
+
+add
+staraxe
+Category: axes
+Worker: Blacksmith
+Station: Mithril Anvil level 6
+Craft speed: Very Long
+Ingredients:
+	1x planet cutter
+	1x the one ring
+	1x Rising Sun
+	10x Mithril Lumps
+	10x Crystals
+(id:552)
+
+add
+walking forteress
+Category: heavy armor
+Worker: Armorer
+Station: Mithril Anvil level 6
+Craft speed: Very Long
+Ingredients:
+	1x dragon plate
+	1x ice gauntlets
+	1x Dark Blood
+	10x Mithril Lumps
+(id:553)
+
+add
+shadow armor
+Category: armor
+Worker: Leather-worker
+Station: Fine Cutting Table level 6
+Craft speed: Very Long
+Ingredients:
+	1x warrior's omen
+	1x soft griffon gloves
+	1x Dark Blood
+	10x Crystals
+(id:554)
+
+add
+plasmic robe
+Category: clothes
+Worker: Tailor
+Station: Fine Cutting Table level 6
+Craft speed: Very Long
+Ingredients:
+	1x grandmaster's robe
+	1x guardian tall shield
+	1x Dark Blood
+	10x Gems
+(id:555)
+
+add
+codex de genèse
+Category: scrolls
+Worker: Sorceress
+Station: Luxurious Table level 6
+Craft speed: Very Long
+Ingredients:
+	1x apocalypscion
+	1x seed of skill
+	1x Dark Blood
+	10x Gems
+(id:556)
+
+add
+angel bow
+Category: bows
+Worker: Bowyer
+Station: Quality Sawbench level 6
+Craft speed: Very Long
+Ingredients:
+	1x the hurricane
+	1x gungnir
+	1x Dark Blood
+	10x Crystals
+(id:557)
+
+add
+death star
+Category: thrown
+Worker: Tinkerer
+Station: Luxurious Table level 6
+Craft speed: Very Long
+Ingredients:
+	2x mithril shuriken
+	2x ice gauntlets
+	1x Dark Blood
+	10x Mithril Lumps
+(id:558)
+
+add
+crystal drum
+Category: music
+Worker: Luthier
+Station: Quality Sawbench level 6
+Craft speed: Very Long
+Ingredients:
+	1x abyssal tranquility
+	2x war drums
+	1x Dark Blood
+	10x Crystals
+(id:559)
+
+add
+divine judgement
+Category: maces
+Worker: Carpenter
+Station: Quality Sawbench level 6
+Craft speed: Very Long
+Ingredients:
+	1x dragon skull
+	1x transmundane full helmet
+	1x Dark Blood
+	10x Mithril Lumps
+(id:560)
+
+add
+staff of creation
+Category: staves
+Worker: Druid
+Station: Mystical Cauldron level 6
+Craft speed: Very Long
+Ingredients:
+	1x staff of power
+	2x mindful staff
+	1x Dark Blood
+	10x Crystals
+(id:561)
+
+add
+rage rune
+Category: amulets
+Worker: Jeweler
+Station: Luxurious Table level 6
+Craft speed: Very Long
+Ingredients:
+	1x death token
+	1x unholy talisman
+	1x Dark Blood
+	10x Gems
+(id:562)
+
+add
+Dark Blood
+Category: rare resources
+Worker: none
+Station: n level o level n level e
+Craft speed: none
+Ingredients:
+	none
+(id:563)
+

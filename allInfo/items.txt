@@ -1,0 +1,5067 @@
+test
+Plain Sword, level 1
+Category: swords
+Price: 35
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WS_toysword.png (id:1)
+
+test
+Short Sword, level 2
+Category: swords
+Price: 90
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WS_short_sword.png (id:2)
+
+test
+Rapier, level 3
+Category: swords
+Price: 160
+Craft xp: 5
+Sell xp: 20
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WS_rapier.png (id:3)
+
+test
+Long Sword, level 4
+Category: swords
+Price: 280
+Craft xp: 9
+Sell xp: 36
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WS_longsword.png (id:4)
+
+test
+claymore, level 5
+Category: swords
+Price: 395
+Craft xp: 15
+Sell xp: 60
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WS_claymore.png (id:5)
+
+test
+Fire Sword, level 5
+Category: swords
+Price: 4400
+Craft xp: 149
+Sell xp: 596
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WS_fire_short_sword.png (id:6)
+
+test
+highlander, level 6
+Category: swords
+Price: 740
+Craft xp: 32
+Sell xp: 128
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WS_highlander.png (id:7)
+
+test
+Soldier's Sword, level 7
+Category: swords
+Price: 1100
+Craft xp: 53
+Sell xp: 212
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WS_soldiersword.png (id:8)
+
+test
+templar blade, level 5
+Category: swords
+Price: 7000
+Craft xp: 235
+Sell xp: 940
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WS_highlander.png (id:9)
+
+test
+wakizashi, level 8
+Category: swords
+Price: 1500
+Craft xp: 82
+Sell xp: 328
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WS_wakizashi.png (id:10)
+
+test
+zhanmadao, level 9
+Category: swords
+Price: 2000
+Craft xp: 122
+Sell xp: 488
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WS_zhanmadao.png (id:11)
+
+test
+white great sword, level 11
+Category: swords
+Price: 3100
+Craft xp: 229
+Sell xp: 916
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WS_whitesteelsword.png (id:12)
+
+test
+ice brand, level 12
+Category: swords
+Price: 38000
+Craft xp: 3042
+Sell xp: 12168
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WS_icebrand.png (id:13)
+
+test
+murasame, level 14
+Category: swords
+Price: 8000
+Craft xp: 749
+Sell xp: 2996
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WS_murasame.png (id:14)
+
+test
+demonsbane, level 15
+Category: swords
+Price: 11000
+Craft xp: 1102
+Sell xp: 4408
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WS_bloodthirster.png (id:15)
+
+test
+lonewolf, level 15
+Category: swords
+Price: 110000
+Craft xp: 8602
+Sell xp: 34408
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WS_lonewolf.png (id:16)
+
+test
+the one sword, level 16
+Category: swords
+Price: 32000
+Craft xp: 3415
+Sell xp: 13660
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WS_theonesword.png (id:17)
+
+test
+excalibur, level 19
+Category: swords
+Price: 390000
+Craft xp: 49402
+Sell xp: 197608
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WS_excalibur.png (id:18)
+
+test
+hell sword, level 20
+Category: swords
+Price: 920000
+Craft xp: 122669
+Sell xp: 490676
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WS_hellsword.png (id:19)
+
+test
+knife, level 1
+Category: daggers
+Price: 45
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WD_small_dagger.png (id:20)
+
+test
+dagger, level 1
+Category: daggers
+Price: 60
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WD_knife.png (id:21)
+
+test
+main-gauche, level 2
+Category: daggers
+Price: 85
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WD_maingauche.png (id:22)
+
+test
+bandit's dagger, level 3
+Category: daggers
+Price: 155
+Craft xp: 5
+Sell xp: 20
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WD_banditdagger.png (id:23)
+
+test
+cutter, level 4
+Category: daggers
+Price: 285
+Craft xp: 10
+Sell xp: 40
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WP_slicer.png (id:24)
+
+test
+poison blade, level 5
+Category: daggers
+Price: 4100
+Craft xp: 139
+Sell xp: 556
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WP_slicer.png (id:25)
+
+test
+steel blade, level 5
+Category: daggers
+Price: 1000
+Craft xp: 35
+Sell xp: 140
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WD_steelblade.png (id:26)
+
+test
+purse-opener, level 6
+Category: daggers
+Price: 1500
+Craft xp: 62
+Sell xp: 248
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WD_purseopener.png (id:27)
+
+test
+fire dagger, level 6
+Category: daggers
+Price: 16000
+Craft xp: 642
+Sell xp: 2568
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WD_firedagger.png (id:28)
+
+test
+mailbreaker, level 7
+Category: daggers
+Price: 1900
+Craft xp: 91
+Sell xp: 364
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WD_mailbreaker.png (id:29)
+
+test
+kris, level 8
+Category: daggers
+Price: 2400
+Craft xp: 130
+Sell xp: 520
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WD_kris.png (id:30)
+
+test
+sacrificial blade, level 9
+Category: daggers
+Price: 5700
+Craft xp: 344
+Sell xp: 1376
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WD_sacrificialblade.png (id:31)
+
+test
+toxic blade, level 10
+Category: daggers
+Price: 9900
+Craft xp: 662
+Sell xp: 2648
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WD_toxicblade.png (id:32)
+
+test
+curver blade, level 17
+Category: daggers
+Price: 51000
+Craft xp: 5782
+Sell xp: 23128
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WD_dagger.png (id:33)
+
+test
+crimson heart, level 13
+Category: daggers
+Price: 8900
+Craft xp: 773
+Sell xp: 3092
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WD_crimsonheart.png (id:34)
+
+test
+dragon heart, level 15
+Category: daggers
+Price: 200000
+Craft xp: 20002
+Sell xp: 80008
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WD_crimsonheart.png (id:35)
+
+test
+assassin's dagger, level 14
+Category: daggers
+Price: 11000
+Craft xp: 1029
+Sell xp: 4116
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WD_assassinsdagger.png (id:36)
+
+test
+ebony dagger, level 15
+Category: daggers
+Price: 130000
+Craft xp: 13002
+Sell xp: 52008
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WD_blackblade.png (id:37)
+
+test
+angelwing, level 16
+Category: daggers
+Price: 65000
+Craft xp: 6935
+Sell xp: 27740
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WD_angelwing.png (id:38)
+
+test
+blackblade, level 20
+Category: daggers
+Price: 480000
+Craft xp: 64002
+Sell xp: 256008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WD_spiderfang.png (id:39)
+
+test
+hand Axe, level 1
+Category: axes
+Price: 150
+Craft xp: 5
+Sell xp: 20
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WA_cleaver.png (id:40)
+
+test
+small Axe, level 2
+Category: axes
+Price: 185
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WA_handaxe.png (id:41)
+
+test
+broad-axe, level 3
+Category: axes
+Price: 240
+Craft xp: 7
+Sell xp: 28
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WA_broadaxe.png (id:42)
+
+test
+great broad-axe, level 3
+Category: axes
+Price: 2000
+Craft xp: 42
+Sell xp: 168
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WA_broadaxe.png (id:43)
+
+test
+halberd, level 4
+Category: axes
+Price: 300
+Craft xp: 10
+Sell xp: 40
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WA_halberd.png (id:44)
+
+test
+assault axe, level 5
+Category: axes
+Price: 460
+Craft xp: 17
+Sell xp: 68
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WA_assaultaxe.png (id:45)
+
+test
+pirate axe, level 6
+Category: axes
+Price: 8300
+Craft xp: 334
+Sell xp: 1336
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WA_labrys.png (id:46)
+
+test
+stone Axe, level 6
+Category: axes
+Price: 1000
+Craft xp: 42
+Sell xp: 168
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WA_stoneaxe.png (id:47)
+
+test
+Pole-axe, level 7
+Category: axes
+Price: 1400
+Craft xp: 67
+Sell xp: 268
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WA_voulge.png (id:48)
+
+test
+steel battle-axe, level 8
+Category: axes
+Price: 1900
+Craft xp: 103
+Sell xp: 412
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WA_steelbattleaxe.png (id:49)
+
+test
+sturdy pole-axe, level 9
+Category: axes
+Price: 4300
+Craft xp: 260
+Sell xp: 1040
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WA_pirateaxe.png (id:50)
+
+test
+frost axe, level 10
+Category: axes
+Price: 25000
+Craft xp: 1669
+Sell xp: 6676
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WA_frostaxe.png (id:51)
+
+test
+war labrys, level 11
+Category: axes
+Price: 6200
+Craft xp: 457
+Sell xp: 1828
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WA_warlabrys.png (id:52)
+
+test
+vicious chopper, level 13
+Category: axes
+Price: 9600
+Craft xp: 834
+Sell xp: 3336
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WA_viciouschopper.png (id:53)
+
+test
+enchanted labrys, level 13
+Category: axes
+Price: 130000
+Craft xp: 11269
+Sell xp: 45076
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WA_enchantedlabrys.png (id:54)
+
+test
+brier-axe, level 15
+Category: axes
+Price: 13000
+Craft xp: 1302
+Sell xp: 5208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WA_brieraxe.png (id:55)
+
+test
+asunder, level 16
+Category: axes
+Price: 15000
+Craft xp: 1602
+Sell xp: 6408
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WA_asunder.png (id:56)
+
+test
+twinaxe, level 16
+Category: axes
+Price: 24000
+Craft xp: 2562
+Sell xp: 10248
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WA_twinaxe.png (id:57)
+
+test
+sol axe, level 19
+Category: axes
+Price: 260000
+Craft xp: 32935
+Sell xp: 131740
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WA_twinaxe.png (id:58)
+
+test
+giant halberd, level 17
+Category: axes
+Price: 47000
+Craft xp: 5329
+Sell xp: 21316
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WA_gianthalberd.png (id:59)
+
+test
+planet cutter, level 20
+Category: axes
+Price: 430000
+Craft xp: 57335
+Sell xp: 229340
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WA_planetcutter.png (id:60)
+
+test
+scale Mail, level 1
+Category: heavy armor
+Price: 110
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AH_scalemail.png (id:61)
+
+test
+brigandine, level 2
+Category: heavy armor
+Price: 190
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AH_brigandine.png (id:62)
+
+test
+chain mail, level 3
+Category: heavy armor
+Price: 310
+Craft xp: 8
+Sell xp: 32
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AH_chainmail.png (id:63)
+
+test
+lorica segmentata, level 4
+Category: heavy armor
+Price: 640
+Craft xp: 19
+Sell xp: 76
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AH_lorica.png (id:64)
+
+test
+light lorica, level 4
+Category: heavy armor
+Price: 4300
+Craft xp: 117
+Sell xp: 468
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AH_lorica.png (id:65)
+
+test
+half-plate, level 5
+Category: heavy armor
+Price: 1800
+Craft xp: 62
+Sell xp: 248
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AH_halfplate.png (id:66)
+
+test
+iron plate armor, level 6
+Category: heavy armor
+Price: 3100
+Craft xp: 126
+Sell xp: 504
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AH_ironplate.png (id:67)
+
+test
+flexible plate, level 7
+Category: heavy armor
+Price: 4600
+Craft xp: 217
+Sell xp: 868
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AH_flexibleplate.png (id:68)
+
+test
+guard mail, level 9
+Category: heavy armor
+Price: 5600
+Craft xp: 338
+Sell xp: 1352
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/AH_guardmail.png (id:69)
+
+test
+plate of the moon, level 13
+Category: heavy armor
+Price: 100000
+Craft xp: 8669
+Sell xp: 34676
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/AH_moonplate.png (id:70)
+
+test
+full plate, level 11
+Category: heavy armor
+Price: 8700
+Craft xp: 640
+Sell xp: 2560
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/AH_fullplatearmor.png (id:71)
+
+test
+great armor, level 12
+Category: heavy armor
+Price: 12000
+Craft xp: 962
+Sell xp: 3848
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/AH_greatarmor.png (id:72)
+
+test
+demon plate, level 15
+Category: heavy armor
+Price: 180000
+Craft xp: 18002
+Sell xp: 72008
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/AH_demonplate.png (id:73)
+
+test
+belial, level 20
+Category: heavy armor
+Price: 540000
+Craft xp: 72002
+Sell xp: 288008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/AH_demonplate.png (id:74)
+
+test
+lionheart, level 16
+Category: heavy armor
+Price: 21000
+Craft xp: 2242
+Sell xp: 8968
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/AH_lionheart.png (id:75)
+
+test
+rock armor, level 17
+Category: heavy armor
+Price: 86000
+Craft xp: 9749
+Sell xp: 38996
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/AH_rockarmor.png (id:76)
+
+test
+sky dragoon armor, level 19
+Category: heavy armor
+Price: 310000
+Craft xp: 39269
+Sell xp: 157076
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/AH_dragoonarmor.png (id:77)
+
+test
+dragon plate, level 20
+Category: heavy armor
+Price: 1010000
+Craft xp: 134669
+Sell xp: 538676
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/AH_dragonplate.png (id:78)
+
+test
+iron gauntlets, level 1
+Category: gauntlets
+Price: 120
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GH_irongauntlets.png (id:79)
+
+test
+fine gauntlets, level 3
+Category: gauntlets
+Price: 385
+Craft xp: 10
+Sell xp: 40
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GH_finegauntlets.png (id:80)
+
+test
+war gauntlets, level 6
+Category: gauntlets
+Price: 1100
+Craft xp: 46
+Sell xp: 184
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GH_wargauntlets.png (id:81)
+
+test
+shell gauntlets, level 5
+Category: gauntlets
+Price: 12000
+Craft xp: 402
+Sell xp: 1608
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GH_wargauntlets.png (id:82)
+
+test
+spectacular gauntlets, level 7
+Category: gauntlets
+Price: 2000
+Craft xp: 95
+Sell xp: 380
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GH_spectaculargauntlets.png (id:83)
+
+test
+man handlers, level 14
+Category: gauntlets
+Price: 9200
+Craft xp: 861
+Sell xp: 3444
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/GH_manhandlers.png (id:84)
+
+test
+knight's gauntlets, level 17
+Category: gauntlets
+Price: 31000
+Craft xp: 3515
+Sell xp: 14060
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/GH_manhandlers.png (id:85)
+
+test
+paladin's gauntlets, level 16
+Category: gauntlets
+Price: 24000
+Craft xp: 2562
+Sell xp: 10248
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/GH_paladingauntlets.png (id:86)
+
+test
+stalagmite gloves, level 15
+Category: gauntlets
+Price: 49000
+Craft xp: 4902
+Sell xp: 19608
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/GH_stalagmitegloves.png (id:87)
+
+test
+ice gauntlets, level 19
+Category: gauntlets
+Price: 290000
+Craft xp: 36735
+Sell xp: 146940
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/GH_icegauntlets.png (id:88)
+
+test
+metal cap, level 1
+Category: heavy helmets
+Price: 105
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HH_metalcap.png (id:89)
+
+test
+brass helmet, level 2
+Category: heavy helmets
+Price: 190
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HH_brasshelmet.png (id:90)
+
+test
+heavy helmet, level 6
+Category: heavy helmets
+Price: 365
+Craft xp: 17
+Sell xp: 68
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HH_brasshelmet.png (id:91)
+
+test
+full helmet, level 4
+Category: heavy helmets
+Price: 320
+Craft xp: 11
+Sell xp: 44
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HH_fullhelmet.png (id:92)
+
+test
+fitting top, level 5
+Category: heavy helmets
+Price: 780
+Craft xp: 28
+Sell xp: 112
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HH_fittingtop.png (id:93)
+
+test
+knight's hauberk, level 6
+Category: heavy helmets
+Price: 1000
+Craft xp: 42
+Sell xp: 168
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HH_knighthauberk.png (id:94)
+
+test
+kabuto, level 7
+Category: heavy helmets
+Price: 9300
+Craft xp: 436
+Sell xp: 1744
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HH_kabuto.png (id:95)
+
+test
+blessed helm, level 9
+Category: heavy helmets
+Price: 3500
+Craft xp: 212
+Sell xp: 848
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/HH_blessedhelm.png (id:96)
+
+test
+war mask, level 10
+Category: heavy helmets
+Price: 5300
+Craft xp: 355
+Sell xp: 1420
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/HH_warmask.png (id:97)
+
+test
+paladin's helmet, level 15
+Category: heavy helmets
+Price: 31000
+Craft xp: 3102
+Sell xp: 12408
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/HH_paladinhelmet.png (id:98)
+
+test
+transmundane full helmet, level 16
+Category: heavy helmets
+Price: 16000
+Craft xp: 1709
+Sell xp: 6836
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/HH_mithrilhelmet.png (id:99)
+
+test
+ancient helmet, level 19
+Category: heavy helmets
+Price: 300000
+Craft xp: 38002
+Sell xp: 152008
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/HH_ancienthelmet.png (id:100)
+
+test
+wrathful face, level 19
+Category: heavy helmets
+Price: 350000
+Craft xp: 44335
+Sell xp: 177340
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/HH_wrathfulface.png (id:101)
+
+test
+iron boots, level 1
+Category: heavy boots
+Price: 210
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BH_ironboots.png (id:102)
+
+test
+fine sabaton, level 2
+Category: heavy boots
+Price: 470
+Craft xp: 11
+Sell xp: 44
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BH_finesabaton.png (id:103)
+
+test
+spiked boots, level 4
+Category: heavy boots
+Price: 4500
+Craft xp: 122
+Sell xp: 488
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BH_finesabaton.png (id:104)
+
+test
+warrior's sabaton, level 12
+Category: heavy boots
+Price: 4700
+Craft xp: 378
+Sell xp: 1512
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/BH_finesabaton.png (id:105)
+
+test
+soldier's sabatons, level 7
+Category: heavy boots
+Price: 890
+Craft xp: 44
+Sell xp: 176
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BH_knightsabaton.png (id:106)
+
+test
+knight's sabatons, level 9
+Category: heavy boots
+Price: 2900
+Craft xp: 176
+Sell xp: 704
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/BH_knightsabaton.png (id:107)
+
+test
+paladin's sabatons, level 14
+Category: heavy boots
+Price: 30000
+Craft xp: 2802
+Sell xp: 11208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/BH_paladinsabaton.png (id:108)
+
+test
+dragoon's sabatons, level 20
+Category: heavy boots
+Price: 630000
+Craft xp: 84002
+Sell xp: 336008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/BH_dragoonsabaton.png (id:109)
+
+test
+fur armor, level 1
+Category: armor
+Price: 110
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AM_furarmor.png (id:110)
+
+test
+leather cuirass, level 2
+Category: armor
+Price: 210
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AM_leathercuirass.png (id:111)
+
+test
+studded Leather armor, level 3
+Category: armor
+Price: 325
+Craft xp: 9
+Sell xp: 36
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AM_studdedleather.png (id:112)
+
+test
+padded leather armor, level 4
+Category: armor
+Price: 465
+Craft xp: 14
+Sell xp: 56
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AM_leather_armor.png (id:113)
+
+test
+soft leather armor, level 4
+Category: armor
+Price: 4000
+Craft xp: 109
+Sell xp: 436
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AM_leather_armor.png (id:114)
+
+test
+gambeson, level 5
+Category: armor
+Price: 610
+Craft xp: 22
+Sell xp: 88
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AM_gambeson.png (id:115)
+
+test
+barbarian chief armor, level 5
+Category: armor
+Price: 770
+Craft xp: 28
+Sell xp: 112
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AM_barbarianarmor.png (id:116)
+
+test
+cow leather armor, level 6
+Category: armor
+Price: 940
+Craft xp: 40
+Sell xp: 160
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AM_cowleather.png (id:117)
+
+test
+perfect leather, level 7
+Category: armor
+Price: 1300
+Craft xp: 63
+Sell xp: 252
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AM_perfectleather.png (id:118)
+
+test
+noble leather, level 8
+Category: armor
+Price: 1500
+Craft xp: 82
+Sell xp: 328
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/AM_medium_armor2.png (id:119)
+
+test
+plated leather armor, level 9
+Category: armor
+Price: 2600
+Craft xp: 158
+Sell xp: 632
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/AH_platedleather.png (id:120)
+
+test
+evasive armor, level 10
+Category: armor
+Price: 82000
+Craft xp: 5469
+Sell xp: 21876
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/AM_evasivearmor.png (id:121)
+
+test
+yeti armor, level 9
+Category: armor
+Price: 130000
+Craft xp: 7802
+Sell xp: 31208
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/AM_yetiarmor.png (id:122)
+
+test
+dragon leather, level 14
+Category: armor
+Price: 430000
+Craft xp: 40135
+Sell xp: 160540
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/AM_dragonleather.png (id:123)
+
+test
+divine leather, level 14
+Category: armor
+Price: 230000
+Craft xp: 21469
+Sell xp: 85876
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/AM_dragonleather.png (id:124)
+
+test
+elven brigandine, level 12
+Category: armor
+Price: 11000
+Craft xp: 882
+Sell xp: 3528
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/AM_elvenbrigandine.png (id:125)
+
+test
+reign coat, level 14
+Category: armor
+Price: 15000
+Craft xp: 1402
+Sell xp: 5608
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/AM_reigncoat.png (id:126)
+
+test
+comfortable vest, level 15
+Category: armor
+Price: 23000
+Craft xp: 2302
+Sell xp: 9208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/AM_comfortablevest.png (id:127)
+
+test
+samurai's armor, level 18
+Category: armor
+Price: 330000
+Craft xp: 39602
+Sell xp: 158408
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/AM_samuraiarmor.png (id:128)
+
+test
+warrior's omen, level 20
+Category: armor
+Price: 690000
+Craft xp: 92002
+Sell xp: 368008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/AM_roninarmor.png (id:129)
+
+test
+fur boots, level 1
+Category: boots
+Price: 40
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BM_furboots.png (id:130)
+
+test
+riding boots, level 3
+Category: boots
+Price: 315
+Craft xp: 8
+Sell xp: 32
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BM_ridingboots.png (id:131)
+
+test
+floating boots, level 5
+Category: boots
+Price: 4700
+Craft xp: 159
+Sell xp: 636
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BM_ridingboots.png (id:132)
+
+test
+loose boots, level 6
+Category: boots
+Price: 480
+Craft xp: 21
+Sell xp: 84
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BM_looseboots.png (id:133)
+
+test
+soft boots, level 7
+Category: boots
+Price: 1500
+Craft xp: 72
+Sell xp: 288
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BM_looseboots.png (id:134)
+
+test
+courier's boots, level 9
+Category: boots
+Price: 15000
+Craft xp: 902
+Sell xp: 3608
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/BM_courierboots.png (id:135)
+
+test
+insulated fur boots, level 10
+Category: boots
+Price: 2000
+Craft xp: 135
+Sell xp: 540
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/BM_insulatedfurboots.png (id:136)
+
+test
+sasquatch wear, level 13
+Category: boots
+Price: 90000
+Craft xp: 7802
+Sell xp: 31208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/BM_insulatedfurboots.png (id:137)
+
+test
+traveling boots, level 16
+Category: boots
+Price: 15000
+Craft xp: 1602
+Sell xp: 6408
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/BM_travelingboots.png (id:138)
+
+test
+explorer boots, level 19
+Category: boots
+Price: 390000
+Craft xp: 49402
+Sell xp: 197608
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/BM_explorerboots.png (id:139)
+
+test
+soft Gloves, level 1
+Category: gloves
+Price: 70
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GM_softgloves.png (id:140)
+
+test
+leather gloves, level 2
+Category: gloves
+Price: 190
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GM_leathergloves.png (id:141)
+
+test
+long gloves, level 4
+Category: gloves
+Price: 650
+Craft xp: 19
+Sell xp: 76
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GM_longgloves.png (id:142)
+
+test
+heat gloves, level 5
+Category: gloves
+Price: 5800
+Craft xp: 195
+Sell xp: 780
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GM_longgloves.png (id:143)
+
+test
+smith's gloves, level 6
+Category: gloves
+Price: 1100
+Craft xp: 46
+Sell xp: 184
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GM_longgloves.png (id:144)
+
+test
+noble's gloves, level 8
+Category: gloves
+Price: 1700
+Craft xp: 93
+Sell xp: 372
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/GM_noblegloves.png (id:145)
+
+test
+resistance gloves, level 10
+Category: gloves
+Price: 130000
+Craft xp: 8669
+Sell xp: 34676
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/GM_resistancegloves.png (id:146)
+
+test
+dual wielder's gloves, level 14
+Category: gloves
+Price: 15000
+Craft xp: 1402
+Sell xp: 5608
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/GM_dualwieldergloves.png (id:147)
+
+test
+soft griffon gloves, level 19
+Category: gloves
+Price: 350000
+Craft xp: 44335
+Sell xp: 177340
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/GM_softgriffongloves.png (id:148)
+
+test
+leather helmet, level 1
+Category: helmets
+Price: 140
+Craft xp: 5
+Sell xp: 20
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HM_leatherhelmet.png (id:149)
+
+test
+bone helmet, level 3
+Category: helmets
+Price: 230
+Craft xp: 7
+Sell xp: 28
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HM_bonehelmet.png (id:150)
+
+test
+shiny helmet, level 5
+Category: helmets
+Price: 280
+Craft xp: 11
+Sell xp: 44
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HM_hornedhelmet.png (id:151)
+
+test
+viking helmet, level 6
+Category: helmets
+Price: 560
+Craft xp: 24
+Sell xp: 96
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HM_vikinghelmet.png (id:152)
+
+test
+demon helmet, level 7
+Category: helmets
+Price: 22000
+Craft xp: 1029
+Sell xp: 4116
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HM_vikinghelmet.png (id:153)
+
+test
+soldier's helmet, level 8
+Category: helmets
+Price: 940
+Craft xp: 52
+Sell xp: 208
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/HM_soldierhelmet.png (id:154)
+
+test
+gladiator's helmet, level 10
+Category: helmets
+Price: 2400
+Craft xp: 162
+Sell xp: 648
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/HM_gladiatorhelmet.png (id:155)
+
+test
+mask of fear, level 7
+Category: helmets
+Price: 100000
+Craft xp: 4669
+Sell xp: 18676
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HM_maskoffear.png (id:156)
+
+test
+captain's helmet, level 11
+Category: helmets
+Price: 6200
+Craft xp: 457
+Sell xp: 1828
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/HM_captainhelmet.png (id:157)
+
+test
+grim reaper, level 12
+Category: helmets
+Price: 130000
+Craft xp: 10402
+Sell xp: 41608
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/HM_grimreaper.png (id:158)
+
+test
+elven commander, level 15
+Category: helmets
+Price: 41000
+Craft xp: 4102
+Sell xp: 16408
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/HM_elvencommander.png (id:159)
+
+test
+opal helmet, level 17
+Category: helmets
+Price: 380000
+Craft xp: 43069
+Sell xp: 172276
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/HM_opalhelmet.png (id:160)
+
+test
+silver helmet, level 17
+Category: helmets
+Price: 68000
+Craft xp: 7709
+Sell xp: 30836
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/HM_opalhelmet.png (id:161)
+
+test
+evil shogun, level 19
+Category: helmets
+Price: 570000
+Craft xp: 72202
+Sell xp: 288808
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/HH_warmask.png (id:162)
+
+test
+basic Tunic, level 1
+Category: clothes
+Price: 90
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AL_clothes.png (id:163)
+
+test
+Cloak, level 2
+Category: clothes
+Price: 170
+Craft xp: 5
+Sell xp: 20
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AL_cloak.png (id:164)
+
+test
+Treated Cloak, level 2
+Category: clothes
+Price: 1800
+Craft xp: 38
+Sell xp: 152
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AL_cloak.png (id:165)
+
+test
+leather coat, level 3
+Category: clothes
+Price: 310
+Craft xp: 8
+Sell xp: 32
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AL_lightleather.png (id:166)
+
+test
+evoker's robe, level 4
+Category: clothes
+Price: 495
+Craft xp: 15
+Sell xp: 60
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AL_evokerrobe.png (id:167)
+
+test
+conjurer's robe, level 4
+Category: clothes
+Price: 3800
+Craft xp: 103
+Sell xp: 412
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AL_evokerrobe.png (id:168)
+
+test
+apron, level 5
+Category: clothes
+Price: 650
+Craft xp: 24
+Sell xp: 96
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AL_apron.png (id:169)
+
+test
+monk cloak, level 5
+Category: clothes
+Price: 940
+Craft xp: 33
+Sell xp: 132
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AL_monkarmor.png (id:170)
+
+test
+smith's apron, level 6
+Category: clothes
+Price: 1200
+Craft xp: 50
+Sell xp: 200
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AL_smithapron.png (id:171)
+
+test
+priest's robe, level 7
+Category: clothes
+Price: 2100
+Craft xp: 100
+Sell xp: 400
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AL_priestrobe.png (id:172)
+
+test
+cleric's robe, level 11
+Category: clothes
+Price: 4600
+Craft xp: 339
+Sell xp: 1356
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/AL_priestrobe.png (id:173)
+
+test
+rich cloak, level 7
+Category: clothes
+Price: 2800
+Craft xp: 133
+Sell xp: 532
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/AL_richcloak.png (id:174)
+
+test
+cloak of concealment, level 8
+Category: clothes
+Price: 16000
+Craft xp: 855
+Sell xp: 3420
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/AL_concealcloak.png (id:175)
+
+test
+beast attire, level 9
+Category: clothes
+Price: 3400
+Craft xp: 206
+Sell xp: 824
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/AL_darkrobe.png (id:176)
+
+test
+lord's robe, level 10
+Category: clothes
+Price: 5300
+Craft xp: 355
+Sell xp: 1420
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/AL_lordrobe.png (id:177)
+
+test
+invisibility robe, level 16
+Category: clothes
+Price: 280000
+Craft xp: 29869
+Sell xp: 119476
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/AL_invisibilityrobe.png (id:178)
+
+test
+Ifrit's flaming apparel, level 13
+Category: clothes
+Price: 210000
+Craft xp: 18202
+Sell xp: 72808
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/AL_ifritapparel.png (id:179)
+
+test
+sky mantle, level 13
+Category: clothes
+Price: 15000
+Craft xp: 1302
+Sell xp: 5208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/AL_skymantle.png (id:180)
+
+test
+elemental wonder, level 15
+Category: clothes
+Price: 22000
+Craft xp: 2202
+Sell xp: 8808
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/AL_elementalwonder.png (id:181)
+
+test
+cosmic apparel, level 16
+Category: clothes
+Price: 29000
+Craft xp: 3095
+Sell xp: 12380
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/AL_cosmicapparel.png (id:182)
+
+test
+grandmaster's robe, level 18
+Category: clothes
+Price: 340000
+Craft xp: 40802
+Sell xp: 163208
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/AL_cosmicapparel.png (id:183)
+
+test
+vest of lies, level 17
+Category: clothes
+Price: 220000
+Craft xp: 24935
+Sell xp: 99740
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/AL_vestoflies.png (id:184)
+
+test
+lord of darkness, level 19
+Category: clothes
+Price: 300000
+Craft xp: 38002
+Sell xp: 152008
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/AL_lordofdarkness.png (id:185)
+
+test
+sandals, level 1
+Category: shoes
+Price: 30
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BL_sandals.png (id:186)
+
+test
+leather shoes, level 2
+Category: shoes
+Price: 105
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BL_leathershoes.png (id:187)
+
+test
+sturdy shoes, level 3
+Category: shoes
+Price: 215
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BL_shinyshoes.png (id:188)
+
+test
+fur shoes, level 5
+Category: shoes
+Price: 520
+Craft xp: 19
+Sell xp: 76
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BL_leatherboots.png (id:189)
+
+test
+heavenly sandals, level 6
+Category: shoes
+Price: 900
+Craft xp: 38
+Sell xp: 152
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BL_heavenlysandals.png (id:190)
+
+test
+shiny shoes, level 7
+Category: shoes
+Price: 2000
+Craft xp: 95
+Sell xp: 380
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/BL_sturdyshoes.png (id:191)
+
+test
+courier's sandals, level 10
+Category: shoes
+Price: 82000
+Craft xp: 5469
+Sell xp: 21876
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/BL_exhilaratingsandals.png (id:192)
+
+test
+grounded shoes, level 14
+Category: shoes
+Price: 13000
+Craft xp: 1215
+Sell xp: 4860
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/BL_groundedshoes.png (id:193)
+
+test
+flying shoes, level 16
+Category: shoes
+Price: 270000
+Craft xp: 28802
+Sell xp: 115208
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/BL_flyingshoes.png (id:194)
+
+test
+exhilarating shoes, level 19
+Category: shoes
+Price: 380000
+Craft xp: 48135
+Sell xp: 192540
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/BL_dancershoes.png (id:195)
+
+test
+iron bracers, level 1
+Category: bracers
+Price: 40
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GL_woodenbracers.png (id:196)
+
+test
+wrist-guard, level 2
+Category: bracers
+Price: 65
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GL_armguard.png (id:197)
+
+test
+vambrace, level 4
+Category: bracers
+Price: 250
+Craft xp: 9
+Sell xp: 36
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GL_wristguard.png (id:198)
+
+test
+arm-guard, level 5
+Category: bracers
+Price: 600
+Craft xp: 22
+Sell xp: 88
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GL_vambrace.png (id:199)
+
+test
+abyssal arm-guard, level 4
+Category: bracers
+Price: 7500
+Craft xp: 202
+Sell xp: 808
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GL_vambrace.png (id:200)
+
+test
+war vambrace, level 6
+Category: bracers
+Price: 840
+Craft xp: 36
+Sell xp: 144
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GL_warvambrace.png (id:201)
+
+test
+elfwood vambrace, level 7
+Category: bracers
+Price: 1400
+Craft xp: 67
+Sell xp: 268
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/GL_elfwoodvambrace.png (id:202)
+
+test
+elven vambrace, level 10
+Category: bracers
+Price: 18000
+Craft xp: 1202
+Sell xp: 4808
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/GL_elfwoodvambrace.png (id:203)
+
+test
+stone hands, level 11
+Category: bracers
+Price: 7700
+Craft xp: 567
+Sell xp: 2268
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/GL_stonehands.png (id:204)
+
+test
+enabling vambrace, level 15
+Category: bracers
+Price: 16000
+Craft xp: 1602
+Sell xp: 6408
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/GL_enablinggloves.png (id:205)
+
+test
+gladiator's vambrace, level 18
+Category: bracers
+Price: 430000
+Craft xp: 51602
+Sell xp: 206408
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/GL_gladiatorvambrace.png (id:206)
+
+test
+circlet, level 1
+Category: hats
+Price: 60
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HL_circlet.png (id:207)
+
+test
+apprentice's hat, level 2
+Category: hats
+Price: 245
+Craft xp: 7
+Sell xp: 28
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HL_apprenticehat.png (id:208)
+
+test
+monk hat, level 3
+Category: hats
+Price: 395
+Craft xp: 10
+Sell xp: 40
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HL_monkhat.png (id:209)
+
+test
+cleric's hat, level 4
+Category: hats
+Price: 750
+Craft xp: 22
+Sell xp: 88
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HL_clerichat.png (id:210)
+
+test
+noble tiara, level 5
+Category: hats
+Price: 9600
+Craft xp: 322
+Sell xp: 1288
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HL_nobletiara.png (id:211)
+
+test
+feathered hat, level 6
+Category: hats
+Price: 1100
+Craft xp: 46
+Sell xp: 184
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HL_featherhat.png (id:212)
+
+test
+elemental top, level 7
+Category: hats
+Price: 1400
+Craft xp: 67
+Sell xp: 268
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/HL_elementaltop.png (id:213)
+
+test
+blazing hat, level 10
+Category: hats
+Price: 3800
+Craft xp: 255
+Sell xp: 1020
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/HL_blazinghat.png (id:214)
+
+test
+frozen feather, level 9
+Category: hats
+Price: 85000
+Craft xp: 5102
+Sell xp: 20408
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/HL_frozenfeather.png (id:215)
+
+test
+siren hat, level 12
+Category: hats
+Price: 10000
+Craft xp: 802
+Sell xp: 3208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/HL_sirenhat.png (id:216)
+
+test
+master's hat, level 17
+Category: hats
+Price: 110000
+Craft xp: 12469
+Sell xp: 49876
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/HL_sirenhat.png (id:217)
+
+test
+streamlined conscience, level 15
+Category: hats
+Price: 13000
+Craft xp: 1302
+Sell xp: 5208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/HL_streamlinedconscience.png (id:218)
+
+test
+angelic tiara, level 16
+Category: hats
+Price: 20000
+Craft xp: 2135
+Sell xp: 8540
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/HL_angelictiara.png (id:219)
+
+test
+demonic tiara, level 15
+Category: hats
+Price: 68000
+Craft xp: 6802
+Sell xp: 27208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/HL_demonictiara.png (id:220)
+
+test
+electrifying tiara, level 19
+Category: hats
+Price: 360000
+Craft xp: 45602
+Sell xp: 182408
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/HL_electrifyingtiara.png (id:221)
+
+test
+wooden buckler, level 1
+Category: shields
+Price: 55
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/S_wooden_buckler.png (id:222)
+
+test
+leather shield, level 2
+Category: shields
+Price: 150
+Craft xp: 5
+Sell xp: 20
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/S_leathershield.png (id:223)
+
+test
+hard wood buckler, level 3
+Category: shields
+Price: 470
+Craft xp: 11
+Sell xp: 44
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/S_hardbuckler.png (id:224)
+
+test
+dolphin buckler, level 5
+Category: shields
+Price: 790
+Craft xp: 28
+Sell xp: 112
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/S_hardbuckler.png (id:225)
+
+test
+bone shield, level 8
+Category: shields
+Price: 2500
+Craft xp: 135
+Sell xp: 540
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/S_boneshield.png (id:226)
+
+test
+spider shield, level 10
+Category: shields
+Price: 42000
+Craft xp: 2802
+Sell xp: 11208
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/S_spidershield.png (id:227)
+
+test
+medusa shield, level 13
+Category: shields
+Price: 11000
+Craft xp: 955
+Sell xp: 3820
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/S_medusashield.png (id:228)
+
+test
+seven seas shield, level 17
+Category: shields
+Price: 66000
+Craft xp: 7482
+Sell xp: 29928
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/S_sevenseasshield.png (id:229)
+
+test
+copper shield, level 2
+Category: shields
+Price: 170
+Craft xp: 5
+Sell xp: 20
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/S_coppershield.png (id:230)
+
+test
+kite shield, level 5
+Category: shields
+Price: 850
+Craft xp: 30
+Sell xp: 120
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/S_heavyshield.png (id:231)
+
+test
+heater shield, level 6
+Category: shields
+Price: 1800
+Craft xp: 74
+Sell xp: 296
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/S_heatershield.png (id:232)
+
+test
+scutum, level 9
+Category: shields
+Price: 3100
+Craft xp: 188
+Sell xp: 752
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/S_scutum.png (id:233)
+
+test
+paladin's heater shield, level 11
+Category: shields
+Price: 19000
+Craft xp: 1395
+Sell xp: 5580
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/S_paladingheater.png (id:234)
+
+test
+mirror shield, level 13
+Category: shields
+Price: 34000
+Craft xp: 2949
+Sell xp: 11796
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/S_mirrorshield.png (id:235)
+
+test
+defender, level 15
+Category: shields
+Price: 25000
+Craft xp: 2502
+Sell xp: 10008
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/S_defender.png (id:236)
+
+test
+vengeful entity, level 19
+Category: shields
+Price: 820000
+Craft xp: 103869
+Sell xp: 415476
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/S_medusanbullshield.png (id:237)
+
+test
+mind saver, level 16
+Category: shields
+Price: 41000
+Craft xp: 4375
+Sell xp: 17500
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/S_mindsaver.png (id:238)
+
+test
+blue bird shield, level 20
+Category: shields
+Price: 480000
+Craft xp: 64002
+Sell xp: 256008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/S_bluebirdshield.png (id:239)
+
+test
+guardian tall shield, level 20
+Category: shields
+Price: 1000000
+Craft xp: 133335
+Sell xp: 533340
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/S_guardiantallshield.png (id:240)
+
+test
+Healing Herbs, level 1
+Category: herbs
+Price: 35
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UH_healing_herbs.png (id:241)
+
+test
+Strong Herbs, level 3
+Category: herbs
+Price: 125
+Craft xp: 5
+Sell xp: 20
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UH_healing_herbs.png (id:242)
+
+test
+Herbs Bundle, level 1
+Category: herbs
+Price: 95
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UH_antimute.png (id:243)
+
+test
+suple Dust, level 2
+Category: herbs
+Price: 185
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UH_supledust.png (id:244)
+
+test
+Regen Herbs, level 4
+Category: herbs
+Price: 330
+Craft xp: 11
+Sell xp: 44
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UH_restorationherbs.png (id:245)
+
+test
+Magic Leaves, level 5
+Category: herbs
+Price: 2300
+Craft xp: 79
+Sell xp: 316
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UH_restorationherbs.png (id:246)
+
+test
+alert dust, level 5
+Category: herbs
+Price: 580
+Craft xp: 21
+Sell xp: 84
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UH_alertdust.png (id:247)
+
+test
+elemental Dust, level 6
+Category: herbs
+Price: 1000
+Craft xp: 42
+Sell xp: 168
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UH_elementaldust.png (id:248)
+
+test
+dust triad, level 5
+Category: herbs
+Price: 2500
+Craft xp: 85
+Sell xp: 340
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UH_elementaldust.png (id:249)
+
+test
+soothing herbs, level 8
+Category: herbs
+Price: 17000
+Craft xp: 909
+Sell xp: 3636
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/UH_soothingherbs.png (id:250)
+
+test
+salve of protection, level 9
+Category: herbs
+Price: 1800
+Craft xp: 110
+Sell xp: 440
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/UH_salveprotection.png (id:251)
+
+test
+restoration powder, level 10
+Category: herbs
+Price: 3300
+Craft xp: 222
+Sell xp: 888
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/UH_restorationpowder.png (id:252)
+
+test
+cleansing herbs, level 11
+Category: herbs
+Price: 4700
+Craft xp: 347
+Sell xp: 1388
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/UH_finehealingherbs.png (id:253)
+
+test
+skill seedling, level 12
+Category: herbs
+Price: 7500
+Craft xp: 602
+Sell xp: 2408
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/UH_skillseedling.png (id:254)
+
+test
+strength seed, level 12
+Category: herbs
+Price: 23000
+Craft xp: 1842
+Sell xp: 7368
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/UH_skillseedling.png (id:255)
+
+test
+seed of skill, level 14
+Category: herbs
+Price: 190000
+Craft xp: 17735
+Sell xp: 70940
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/UH_seedofskill.png (id:256)
+
+test
+panacea, level 16
+Category: herbs
+Price: 22000
+Craft xp: 2349
+Sell xp: 9396
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/UH_panacea.png (id:257)
+
+test
+attribute seed, level 20
+Category: herbs
+Price: 620000
+Craft xp: 82669
+Sell xp: 330676
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/UH_attributeseed.png (id:258)
+
+test
+antidote, level 1
+Category: potions
+Price: 85
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UH_antidote.png (id:259)
+
+test
+heal Potion, level 1
+Category: potions
+Price: 115
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UP_minor_healing_potion.png (id:260)
+
+test
+Health Vial, level 2
+Category: potions
+Price: 325
+Craft xp: 9
+Sell xp: 36
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UP_vialhealing.png (id:261)
+
+test
+vial of Mana, level 4
+Category: potions
+Price: 345
+Craft xp: 11
+Sell xp: 44
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UP_vialmana.png (id:262)
+
+test
+brisk Beverage, level 5
+Category: potions
+Price: 760
+Craft xp: 27
+Sell xp: 108
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UP_briskbeverage.png (id:263)
+
+test
+energy drink, level 9
+Category: potions
+Price: 8700
+Craft xp: 524
+Sell xp: 2096
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/UP_briskbeverage.png (id:264)
+
+test
+mana Potion, level 6
+Category: potions
+Price: 2000
+Craft xp: 82
+Sell xp: 328
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UP_rebirthpotion.png (id:265)
+
+test
+revive potion, level 7
+Category: potions
+Price: 14000
+Craft xp: 655
+Sell xp: 2620
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UP_revivepotion.png (id:266)
+
+test
+bile jar, level 7
+Category: potions
+Price: 3600
+Craft xp: 170
+Sell xp: 680
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UP_bilejar.png (id:267)
+
+test
+potion of return, level 8
+Category: potions
+Price: 4800
+Craft xp: 258
+Sell xp: 1032
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/UP_returnpotion.png (id:268)
+
+test
+rebirth potion, level 9
+Category: potions
+Price: 6200
+Craft xp: 374
+Sell xp: 1496
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/UP_mana_potion.png (id:269)
+
+test
+acid vial, level 10
+Category: potions
+Price: 32000
+Craft xp: 2135
+Sell xp: 8540
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/UP_mana_potion.png (id:270)
+
+test
+holy spray, level 10
+Category: potions
+Price: 61000
+Craft xp: 4069
+Sell xp: 16276
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/UP_holyspray.png (id:271)
+
+test
+magic drink, level 11
+Category: potions
+Price: 12000
+Craft xp: 882
+Sell xp: 3528
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/UP_magicdrink.png (id:272)
+
+test
+health drink, level 12
+Category: potions
+Price: 17000
+Craft xp: 1362
+Sell xp: 5448
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/UP_healthdrink.png (id:273)
+
+test
+soft potion, level 14
+Category: potions
+Price: 20000
+Craft xp: 1869
+Sell xp: 7476
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/UP_softpotion.png (id:274)
+
+test
+super potion, level 15
+Category: potions
+Price: 38000
+Craft xp: 3802
+Sell xp: 15208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/UP_elixir.png (id:275)
+
+test
+demon blood, level 16
+Category: potions
+Price: 140000
+Craft xp: 14935
+Sell xp: 59740
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/UP_demonblood.png (id:276)
+
+test
+megalixir, level 20
+Category: potions
+Price: 570000
+Craft xp: 76002
+Sell xp: 304008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/UP_megalixir.png (id:277)
+
+test
+magic scroll, level 1
+Category: scrolls
+Price: 140
+Craft xp: 5
+Sell xp: 20
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/US_scroll.png (id:278)
+
+test
+fireball scroll, level 2
+Category: scrolls
+Price: 330
+Craft xp: 9
+Sell xp: 36
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/US_fireballscroll.png (id:279)
+
+test
+earth scroll, level 3
+Category: scrolls
+Price: 405
+Craft xp: 10
+Sell xp: 40
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/US_lightningboltscroll.png (id:280)
+
+test
+luck scroll, level 5
+Category: scrolls
+Price: 710
+Craft xp: 26
+Sell xp: 104
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/US_iceshardscroll.png (id:281)
+
+test
+protect scroll, level 6
+Category: scrolls
+Price: 1400
+Craft xp: 58
+Sell xp: 232
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/US_lavascroll.png (id:282)
+
+test
+lava scroll, level 7
+Category: scrolls
+Price: 12000
+Craft xp: 562
+Sell xp: 2248
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/US_ionstormscroll.png (id:283)
+
+test
+firestorm scroll, level 9
+Category: scrolls
+Price: 4500
+Craft xp: 272
+Sell xp: 1088
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/US_ionstormscroll.png (id:284)
+
+test
+earthquake scroll, level 8
+Category: scrolls
+Price: 2900
+Craft xp: 157
+Sell xp: 628
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/US_stormscroll.png (id:285)
+
+test
+evil scroll, level 6
+Category: scrolls
+Price: 42000
+Craft xp: 1682
+Sell xp: 6728
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/US_blizzardscroll.png (id:286)
+
+test
+fortune scroll, level 8
+Category: scrolls
+Price: 7000
+Craft xp: 375
+Sell xp: 1500
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/US_hurricanescroll.png (id:287)
+
+test
+shielding scroll, level 14
+Category: scrolls
+Price: 20000
+Craft xp: 1869
+Sell xp: 7476
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/US_absolutezeroscroll.png (id:288)
+
+test
+shell scroll, level 10
+Category: scrolls
+Price: 65000
+Craft xp: 4335
+Sell xp: 17340
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/US_absolutezeroscroll.png (id:289)
+
+test
+darkness scroll, level 17
+Category: scrolls
+Price: 110000
+Craft xp: 12469
+Sell xp: 49876
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/US_meteorshower.png (id:290)
+
+test
+apocalypscion, level 20
+Category: scrolls
+Price: 700000
+Craft xp: 93335
+Sell xp: 373340
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/US_apocalypscion.png (id:291)
+
+test
+small bow, level 1
+Category: bows
+Price: 40
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WB_small_bow.png (id:292)
+
+test
+hunting Bow, level 1
+Category: bows
+Price: 115
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WB_bow.png (id:293)
+
+test
+long bow, level 2
+Category: bows
+Price: 210
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WB_longbow.png (id:294)
+
+test
+crossbow, level 2
+Category: bows
+Price: 385
+Craft xp: 10
+Sell xp: 40
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WB_crossbow.png (id:295)
+
+test
+bow of precision, level 4
+Category: bows
+Price: 760
+Craft xp: 22
+Sell xp: 88
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WB_bowprecision.png (id:296)
+
+test
+silk bow, level 6
+Category: bows
+Price: 20000
+Craft xp: 802
+Sell xp: 3208
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WB_bowprecision.png (id:297)
+
+test
+piercer, level 5
+Category: bows
+Price: 1200
+Craft xp: 42
+Sell xp: 168
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WB_scorpion.png (id:298)
+
+test
+fairy bow, level 7
+Category: bows
+Price: 6300
+Craft xp: 296
+Sell xp: 1184
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WB_fairybow.png (id:299)
+
+test
+composite bow, level 6
+Category: bows
+Price: 1800
+Craft xp: 74
+Sell xp: 296
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WB_compositebow.png (id:300)
+
+test
+ebony bow, level 7
+Category: bows
+Price: 2100
+Craft xp: 100
+Sell xp: 400
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WB_ebonybow.png (id:301)
+
+test
+elf bow, level 9
+Category: bows
+Price: 3100
+Craft xp: 188
+Sell xp: 752
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WB_elfbow.png (id:302)
+
+test
+leaf bow, level 10
+Category: bows
+Price: 100000
+Craft xp: 6669
+Sell xp: 26676
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WB_elfbow.png (id:303)
+
+test
+gemini, level 10
+Category: bows
+Price: 6900
+Craft xp: 462
+Sell xp: 1848
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WB_gemini.png (id:304)
+
+test
+calamitous bow, level 11
+Category: bows
+Price: 11000
+Craft xp: 809
+Sell xp: 3236
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WB_calamitousbow.png (id:305)
+
+test
+double shot, level 12
+Category: bows
+Price: 110000
+Craft xp: 8802
+Sell xp: 35208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WB_doubleshot.png (id:306)
+
+test
+hunting crossbow, level 13
+Category: bows
+Price: 15000
+Craft xp: 1302
+Sell xp: 5208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WB_huntcrossbow.png (id:307)
+
+test
+heavy crossbow, level 14
+Category: bows
+Price: 23000
+Craft xp: 2149
+Sell xp: 8596
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WB_heavycrossbow.png (id:308)
+
+test
+scorpion, level 16
+Category: bows
+Price: 71000
+Craft xp: 7575
+Sell xp: 30300
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WB_piercer.png (id:309)
+
+test
+compound crossbow, level 17
+Category: bows
+Price: 68000
+Craft xp: 7709
+Sell xp: 30836
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WB_piercer.png (id:310)
+
+test
+fast loading arbalest, level 16
+Category: bows
+Price: 34000
+Craft xp: 3629
+Sell xp: 14516
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WB_fastarbalest.png (id:311)
+
+test
+vicious crossbow, level 19
+Category: bows
+Price: 480000
+Craft xp: 60802
+Sell xp: 243208
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WB_viciouscrossbow.png (id:312)
+
+test
+the hurricane, level 20
+Category: bows
+Price: 640000
+Craft xp: 85335
+Sell xp: 341340
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WB_hurricane.png (id:313)
+
+test
+pistol, level 1
+Category: guns
+Price: 55
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WG_pistol.png (id:314)
+
+test
+musket, level 3
+Category: guns
+Price: 145
+Craft xp: 5
+Sell xp: 20
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WG_musket.png (id:315)
+
+test
+dragon, level 5
+Category: guns
+Price: 275
+Craft xp: 11
+Sell xp: 44
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WG_dragon.png (id:316)
+
+test
+fiery dragon, level 4
+Category: guns
+Price: 7900
+Craft xp: 213
+Sell xp: 852
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WG_fierydragon.png (id:317)
+
+test
+musketeer's rifle, level 5
+Category: guns
+Price: 475
+Craft xp: 18
+Sell xp: 72
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WG_musketeerpistol.png (id:318)
+
+test
+sniper rifle, level 6
+Category: guns
+Price: 1300
+Craft xp: 54
+Sell xp: 216
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WG_sniperrifle.png (id:319)
+
+test
+sharpshooter, level 5
+Category: guns
+Price: 2200
+Craft xp: 75
+Sell xp: 300
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WG_sniperrifle.png (id:320)
+
+test
+escopette, level 8
+Category: guns
+Price: 1600
+Craft xp: 87
+Sell xp: 348
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WG_escopette.png (id:321)
+
+test
+lightning bolt, level 9
+Category: guns
+Price: 4700
+Craft xp: 284
+Sell xp: 1136
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WG_lightningbolt.png (id:322)
+
+test
+gold dragon, level 14
+Category: guns
+Price: 10000
+Craft xp: 935
+Sell xp: 3740
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WG_reddragon.png (id:323)
+
+test
+blue lagoon, level 17
+Category: guns
+Price: 20000
+Craft xp: 2269
+Sell xp: 9076
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WG_bluelagoon.png (id:324)
+
+test
+soul shooter, level 16
+Category: guns
+Price: 24000
+Craft xp: 2562
+Sell xp: 10248
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WG_soulsniper.png (id:325)
+
+test
+blackbeard, level 16
+Category: guns
+Price: 160000
+Craft xp: 17069
+Sell xp: 68276
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WG_blackbeard.png (id:326)
+
+test
+green dragon, level 16
+Category: guns
+Price: 37000
+Craft xp: 3949
+Sell xp: 15796
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WG_greendragon.png (id:327)
+
+test
+everlasting pistol, level 19
+Category: guns
+Price: 320000
+Craft xp: 40535
+Sell xp: 162140
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WG_everlastingpistol.png (id:328)
+
+test
+hand-of-god, level 20
+Category: guns
+Price: 630000
+Craft xp: 84002
+Sell xp: 336008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WG_handofgod.png (id:329)
+
+test
+darts, level 1
+Category: thrown
+Price: 100
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WK_darts.png (id:330)
+
+test
+shock darts, level 2
+Category: thrown
+Price: 200
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WK_darts.png (id:331)
+
+test
+sling, level 2
+Category: thrown
+Price: 185
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WK_sling.png (id:332)
+
+test
+throwing knives, level 3
+Category: thrown
+Price: 270
+Craft xp: 7
+Sell xp: 28
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WK_throwingknives.png (id:333)
+
+test
+breeze sling, level 4
+Category: thrown
+Price: 500
+Craft xp: 15
+Sell xp: 60
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WK_breezesling.png (id:334)
+
+test
+boomerang, level 5
+Category: thrown
+Price: 630
+Craft xp: 23
+Sell xp: 92
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WK_boomerang.png (id:335)
+
+test
+fine boomerang, level 7
+Category: thrown
+Price: 1300
+Craft xp: 63
+Sell xp: 252
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WK_fineboomerang.png (id:336)
+
+test
+lightning bolts, level 8
+Category: thrown
+Price: 19000
+Craft xp: 1015
+Sell xp: 4060
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WK_lightingbolts.png (id:337)
+
+test
+wounding knives, level 9
+Category: thrown
+Price: 5100
+Craft xp: 308
+Sell xp: 1232
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WK_woundingknives.png (id:338)
+
+test
+black bombs, level 10
+Category: thrown
+Price: 6500
+Craft xp: 435
+Sell xp: 1740
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WK_warboomerang.png (id:339)
+
+test
+circus knives, level 12
+Category: thrown
+Price: 9300
+Craft xp: 746
+Sell xp: 2984
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WK_circusknives.png (id:340)
+
+test
+shuriken, level 8
+Category: thrown
+Price: 12000
+Craft xp: 642
+Sell xp: 2568
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WK_shuriken.png (id:341)
+
+test
+frost shuriken, level 10
+Category: thrown
+Price: 100000
+Craft xp: 6669
+Sell xp: 26676
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WK_shuriken.png (id:342)
+
+test
+flux shuriken, level 10
+Category: thrown
+Price: 15000
+Craft xp: 1002
+Sell xp: 4008
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WK_fluxshurikens.png (id:343)
+
+test
+short fuses, level 9
+Category: thrown
+Price: 19000
+Craft xp: 1142
+Sell xp: 4568
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WK_forsaken.png (id:344)
+
+test
+depth charge, level 10
+Category: thrown
+Price: 28000
+Craft xp: 1869
+Sell xp: 7476
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WK_depthcharges.png (id:345)
+
+test
+blackout, level 19
+Category: thrown
+Price: 340000
+Craft xp: 43069
+Sell xp: 172276
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WK_depthcharges.png (id:346)
+
+test
+boomshaka, level 18
+Category: thrown
+Price: 210000
+Craft xp: 25202
+Sell xp: 100808
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WK_boomshaka.png (id:347)
+
+test
+golden shuriken, level 15
+Category: thrown
+Price: 33000
+Craft xp: 3302
+Sell xp: 13208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WK_goldenshuriken.png (id:348)
+
+test
+mithril shuriken, level 17
+Category: thrown
+Price: 51000
+Craft xp: 5782
+Sell xp: 23128
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WK_mithrilshuriken.png (id:349)
+
+test
+double infinity, level 13
+Category: thrown
+Price: 590000
+Craft xp: 51135
+Sell xp: 204540
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WK_shortfuses.png (id:350)
+
+test
+flute, level 1
+Category: music
+Price: 170
+Craft xp: 5
+Sell xp: 20
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WL_flute.png (id:351)
+
+test
+harp, level 2
+Category: music
+Price: 380
+Craft xp: 10
+Sell xp: 40
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WL_harp.png (id:352)
+
+test
+charmer's flute, level 3
+Category: music
+Price: 6200
+Craft xp: 126
+Sell xp: 504
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WL_charmersflute.png (id:353)
+
+test
+elven flute, level 3
+Category: music
+Price: 520
+Craft xp: 12
+Sell xp: 48
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WL_elvenflute.png (id:354)
+
+test
+lute, level 4
+Category: music
+Price: 740
+Craft xp: 22
+Sell xp: 88
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WL_lute.png (id:355)
+
+test
+harmonious harp, level 4
+Category: music
+Price: 16000
+Craft xp: 429
+Sell xp: 1716
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WL_harmoniousharp.png (id:356)
+
+test
+celestial harp, level 5
+Category: music
+Price: 2100
+Craft xp: 72
+Sell xp: 288
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WL_harmoniousharp.png (id:357)
+
+test
+drums, level 5
+Category: music
+Price: 950
+Craft xp: 34
+Sell xp: 136
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WL_drums.png (id:358)
+
+test
+performer's lute, level 6
+Category: music
+Price: 1300
+Craft xp: 54
+Sell xp: 216
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WL_plute.png (id:359)
+
+test
+harmonious flute, level 6
+Category: music
+Price: 27000
+Craft xp: 1082
+Sell xp: 4328
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WL_roundflute.png (id:360)
+
+test
+twin flute, level 7
+Category: music
+Price: 2800
+Craft xp: 133
+Sell xp: 532
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WL_twinflute.png (id:361)
+
+test
+bugle, level 8
+Category: music
+Price: 3400
+Craft xp: 183
+Sell xp: 732
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WL_bugle.png (id:362)
+
+test
+double flute, level 9
+Category: music
+Price: 4600
+Craft xp: 278
+Sell xp: 1112
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WL_dflute.png (id:363)
+
+test
+flute of wonder, level 10
+Category: music
+Price: 5900
+Craft xp: 395
+Sell xp: 1580
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WL_eternalflute.png (id:364)
+
+test
+war drums, level 10
+Category: music
+Price: 140000
+Craft xp: 9335
+Sell xp: 37340
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WL_wardrums.png (id:365)
+
+test
+bagpipes, level 11
+Category: music
+Price: 7400
+Craft xp: 545
+Sell xp: 2180
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WL_bagpipes.png (id:366)
+
+test
+dragon pipes, level 10
+Category: music
+Price: 78000
+Craft xp: 5202
+Sell xp: 20808
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WL_bagpipes.png (id:367)
+
+test
+bard's lute, level 12
+Category: music
+Price: 10000
+Craft xp: 802
+Sell xp: 3208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WL_bardslute.png (id:368)
+
+test
+celestial pipes, level 13
+Category: music
+Price: 14000
+Craft xp: 1215
+Sell xp: 4860
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WL_celestialpipes.png (id:369)
+
+test
+silence of the deep, level 15
+Category: music
+Price: 19000
+Craft xp: 1902
+Sell xp: 7608
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WL_ripieno.png (id:370)
+
+test
+ripieno, level 16
+Category: music
+Price: 26000
+Craft xp: 2775
+Sell xp: 11100
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WL_silencedeep.png (id:371)
+
+test
+phoenix flute, level 17
+Category: music
+Price: 94000
+Craft xp: 10655
+Sell xp: 42620
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WL_fluteofwonder.png (id:372)
+
+test
+horn of ages, level 18
+Category: music
+Price: 54000
+Craft xp: 6482
+Sell xp: 25928
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WL_hornofages.png (id:373)
+
+test
+eternal flute, level 19
+Category: music
+Price: 350000
+Craft xp: 44335
+Sell xp: 177340
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WL_fluteofwonder.png (id:374)
+
+test
+abyssal tranquility, level 20
+Category: music
+Price: 520000
+Craft xp: 69335
+Sell xp: 277340
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WL_abyssal.png (id:375)
+
+test
+club, level 1
+Category: maces
+Price: 25
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WM_wooden_club.png (id:376)
+
+test
+crushing bludgeon, level 1
+Category: maces
+Price: 60
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WM_skullcrusher.png (id:377)
+
+test
+hammer, level 2
+Category: maces
+Price: 105
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WM_hammer.png (id:378)
+
+test
+sledgehammer, level 3
+Category: maces
+Price: 190
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WM_sledgehammer.png (id:379)
+
+test
+Post maul, level 3
+Category: maces
+Price: 1600
+Craft xp: 34
+Sell xp: 136
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WM_sledgehammer.png (id:380)
+
+test
+soldier's mace, level 4
+Category: maces
+Price: 290
+Craft xp: 10
+Sell xp: 40
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WM_soldiermace.png (id:381)
+
+test
+thorn mace, level 5
+Category: maces
+Price: 415
+Craft xp: 16
+Sell xp: 64
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WM_thornmace.png (id:382)
+
+test
+flail, level 6
+Category: maces
+Price: 790
+Craft xp: 34
+Sell xp: 136
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WM_flail.png (id:383)
+
+test
+crushing sledgehammer, level 6
+Category: maces
+Price: 6000
+Craft xp: 242
+Sell xp: 968
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WM_crushsledgehammer.png (id:384)
+
+test
+steel mace, level 7
+Category: maces
+Price: 1200
+Craft xp: 58
+Sell xp: 232
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WM_steelmace.png (id:385)
+
+test
+great mace, level 7
+Category: maces
+Price: 9600
+Craft xp: 450
+Sell xp: 1800
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WM_steelmace.png (id:386)
+
+test
+orange hammer, level 9
+Category: maces
+Price: 1900
+Craft xp: 116
+Sell xp: 464
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WM_orangehammer.png (id:387)
+
+test
+skull crusher, level 9
+Category: maces
+Price: 2800
+Craft xp: 170
+Sell xp: 680
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WM_crushingbludgeon.png (id:388)
+
+test
+dark paladin hammer, level 10
+Category: maces
+Price: 4600
+Craft xp: 309
+Sell xp: 1236
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WM_paladinhammer.png (id:389)
+
+test
+crushing fist, level 11
+Category: maces
+Price: 5800
+Craft xp: 427
+Sell xp: 1708
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WM_crushingfist.png (id:390)
+
+test
+biomace, level 14
+Category: maces
+Price: 95000
+Craft xp: 8869
+Sell xp: 35476
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WM_biomace.png (id:391)
+
+test
+war priest's mace, level 12
+Category: maces
+Price: 6800
+Craft xp: 546
+Sell xp: 2184
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WM_warpriestmace.png (id:392)
+
+test
+transmundane hammer, level 14
+Category: maces
+Price: 11000
+Craft xp: 1029
+Sell xp: 4116
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WM_mithrilhammer.png (id:393)
+
+test
+simon's whip, level 14
+Category: maces
+Price: 14000
+Craft xp: 1309
+Sell xp: 5236
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WM_simonwhip.png (id:394)
+
+test
+abolishing mace, level 15
+Category: maces
+Price: 18000
+Craft xp: 1802
+Sell xp: 7208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WM_abolishingmace.png (id:395)
+
+test
+demon worshipper, level 15
+Category: maces
+Price: 170000
+Craft xp: 17002
+Sell xp: 68008
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WM_demonworshipper.png (id:396)
+
+test
+deathbringer, level 16
+Category: maces
+Price: 22000
+Craft xp: 2349
+Sell xp: 9396
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WM_deathbringer.png (id:397)
+
+test
+planet smasher, level 18
+Category: maces
+Price: 27000
+Craft xp: 3242
+Sell xp: 12968
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WM_planetsmasher.png (id:398)
+
+test
+dragon tooth, level 19
+Category: maces
+Price: 240000
+Craft xp: 30402
+Sell xp: 121608
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WM_dragontooth.png (id:399)
+
+test
+dragon skull, level 20
+Category: maces
+Price: 1250000
+Craft xp: 166669
+Sell xp: 666676
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WM_dragonhead.png (id:400)
+
+test
+Sharp Spear, level 1
+Category: spears
+Price: 40
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WP_sharpspear.png (id:401)
+
+test
+iron spear, level 1
+Category: spears
+Price: 50
+Craft xp: 3
+Sell xp: 12
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WP_ironspear.png (id:402)
+
+test
+slicer, level 2
+Category: spears
+Price: 135
+Craft xp: 5
+Sell xp: 20
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WP_ranseur.png (id:403)
+
+test
+trident, level 3
+Category: spears
+Price: 225
+Craft xp: 7
+Sell xp: 28
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WP_trident.png (id:404)
+
+test
+corrosive trident, level 4
+Category: spears
+Price: 1800
+Craft xp: 50
+Sell xp: 200
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WP_trident.png (id:405)
+
+test
+ranseur, level 4
+Category: spears
+Price: 360
+Craft xp: 12
+Sell xp: 48
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WP_warpike.png (id:406)
+
+test
+seeking tip, level 5
+Category: spears
+Price: 520
+Craft xp: 19
+Sell xp: 76
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WP_seekingtip.png (id:407)
+
+test
+trusty lance, level 10
+Category: spears
+Price: 1000
+Craft xp: 69
+Sell xp: 276
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WP_seekingtip.png (id:408)
+
+test
+flying partisan, level 6
+Category: spears
+Price: 990
+Craft xp: 42
+Sell xp: 168
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WP_flyingpartisan.png (id:409)
+
+test
+voulge, level 7
+Category: spears
+Price: 1100
+Craft xp: 53
+Sell xp: 212
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WP_voulge.png (id:410)
+
+test
+gladiator's trident, level 8
+Category: spears
+Price: 1600
+Craft xp: 87
+Sell xp: 348
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WP_gladiatortrident.png (id:411)
+
+test
+floating lance, level 9
+Category: spears
+Price: 1800
+Craft xp: 110
+Sell xp: 440
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WP_floatinglance.png (id:412)
+
+test
+moon lance, level 9
+Category: spears
+Price: 45000
+Craft xp: 2702
+Sell xp: 10808
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WP_floatinglance.png (id:413)
+
+test
+knight's ranseur, level 10
+Category: spears
+Price: 3000
+Craft xp: 202
+Sell xp: 808
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WP_knightranseur.png (id:414)
+
+test
+fine lance of the wolf, level 11
+Category: spears
+Price: 3900
+Craft xp: 288
+Sell xp: 1152
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WP_wolfspear.png (id:415)
+
+test
+fiery partisan, level 12
+Category: spears
+Price: 37000
+Craft xp: 2962
+Sell xp: 11848
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WP_fierypartisan.png (id:416)
+
+test
+sky partisan, level 17
+Category: spears
+Price: 150000
+Craft xp: 17002
+Sell xp: 68008
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WP_fierypartisan.png (id:417)
+
+test
+transmundane pike, level 13
+Category: spears
+Price: 5800
+Craft xp: 505
+Sell xp: 2020
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WP_mithrilpike.png (id:418)
+
+test
+poseidon, level 15
+Category: spears
+Price: 6200
+Craft xp: 622
+Sell xp: 2488
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WP_poseidon.png (id:419)
+
+test
+Gaia's spine, level 15
+Category: spears
+Price: 8500
+Craft xp: 852
+Sell xp: 3408
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WP_gaiaspine.png (id:420)
+
+test
+waterdancer, level 14
+Category: spears
+Price: 35000
+Craft xp: 3269
+Sell xp: 13076
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WP_waterdancer.png (id:421)
+
+test
+riviera, level 16
+Category: spears
+Price: 26000
+Craft xp: 2775
+Sell xp: 11100
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WP_riviera.png (id:422)
+
+test
+adamant spear, level 18
+Category: spears
+Price: 37000
+Craft xp: 4442
+Sell xp: 17768
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WP_adamantspear.png (id:423)
+
+test
+mithril rivera, level 18
+Category: spears
+Price: 64000
+Craft xp: 7682
+Sell xp: 30728
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WP_riviera.png (id:424)
+
+test
+gungnir, level 20
+Category: spears
+Price: 480000
+Craft xp: 64002
+Sell xp: 256008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WP_gungnir.png (id:425)
+
+test
+twilight, level 20
+Category: spears
+Price: 1180000
+Craft xp: 157335
+Sell xp: 629340
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WP_twilight.png (id:426)
+
+test
+oaken Staff, level 1
+Category: staves
+Price: 95
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WT_oakstaff.png (id:427)
+
+test
+ebonystaff, level 2
+Category: staves
+Price: 175
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WT_ebonystaff.png (id:428)
+
+test
+dryad staff, level 3
+Category: staves
+Price: 350
+Craft xp: 9
+Sell xp: 36
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WT_dryadstaff.png (id:429)
+
+test
+wood elf staff, level 4
+Category: staves
+Price: 550
+Craft xp: 17
+Sell xp: 68
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WT_woodelfstaff.png (id:430)
+
+test
+Combat Staff, level 5
+Category: staves
+Price: 670
+Craft xp: 24
+Sell xp: 96
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WT_metalstaff.png (id:431)
+
+test
+brightest rod, level 6
+Category: staves
+Price: 4800
+Craft xp: 194
+Sell xp: 776
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WT_brightestrod.png (id:432)
+
+test
+Enchanted Staff, level 7
+Category: staves
+Price: 990
+Craft xp: 48
+Sell xp: 192
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WT_rarestaff.png (id:433)
+
+test
+earth staff, level 8
+Category: staves
+Price: 1600
+Craft xp: 87
+Sell xp: 348
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WT_softstaff.png (id:434)
+
+test
+skeleton staff, level 9
+Category: staves
+Price: 2300
+Craft xp: 140
+Sell xp: 560
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WT_skeletonstaff.png (id:435)
+
+test
+healerstaff, level 10
+Category: staves
+Price: 2900
+Craft xp: 195
+Sell xp: 780
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WT_healersstaff.png (id:436)
+
+test
+dark staff, level 11
+Category: staves
+Price: 27000
+Craft xp: 1982
+Sell xp: 7928
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WT_darkstaff.png (id:437)
+
+test
+elemental rod, level 12
+Category: staves
+Price: 4100
+Craft xp: 330
+Sell xp: 1320
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WT_elementalrod.png (id:438)
+
+test
+cleansing staff, level 12
+Category: staves
+Price: 7900
+Craft xp: 634
+Sell xp: 2536
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WT_cleansingstaff.png (id:439)
+
+test
+sapphire staff, level 13
+Category: staves
+Price: 9900
+Craft xp: 860
+Sell xp: 3440
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WT_sapphirestaff.png (id:440)
+
+test
+dominus, level 14
+Category: staves
+Price: 12000
+Craft xp: 1122
+Sell xp: 4488
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WT_dominus.png (id:441)
+
+test
+healer's companion, level 15
+Category: staves
+Price: 25000
+Craft xp: 2502
+Sell xp: 10008
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WT_healerscompanion.png (id:442)
+
+test
+moon stone staff, level 14
+Category: staves
+Price: 220000
+Craft xp: 20535
+Sell xp: 82140
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WT_moonstonestaff.png (id:443)
+
+test
+breath of frost, level 15
+Category: staves
+Price: 110000
+Craft xp: 11002
+Sell xp: 44008
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WT_breathofcold.png (id:444)
+
+test
+anubis, level 19
+Category: staves
+Price: 360000
+Craft xp: 45602
+Sell xp: 182408
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WT_darkstaff.png (id:445)
+
+test
+dreadstick, level 16
+Category: staves
+Price: 110000
+Craft xp: 11735
+Sell xp: 46940
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WT_dreadstick.png (id:446)
+
+test
+devilish rod, level 14
+Category: staves
+Price: 180000
+Craft xp: 16802
+Sell xp: 67208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WT_devilishrod.png (id:447)
+
+test
+power of oceans, level 14
+Category: staves
+Price: 110000
+Craft xp: 10269
+Sell xp: 41076
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WT_powerofoceans.png (id:448)
+
+test
+phoenix baton, level 17
+Category: staves
+Price: 140000
+Craft xp: 15869
+Sell xp: 63476
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WT_phoenixbaton.png (id:449)
+
+test
+staff of destruction, level 20
+Category: staves
+Price: 400000
+Craft xp: 53335
+Sell xp: 213340
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WT_staffdestruction.png (id:450)
+
+test
+mindful staff, level 19
+Category: staves
+Price: 290000
+Craft xp: 36735
+Sell xp: 146940
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WT_mindfulstaff.png (id:451)
+
+test
+nexus, level 17
+Category: staves
+Price: 110000
+Craft xp: 12469
+Sell xp: 49876
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WT_mindfulstaff.png (id:452)
+
+test
+retribution, level 19
+Category: staves
+Price: 400000
+Craft xp: 50669
+Sell xp: 202676
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WT_dryadstaff.png (id:453)
+
+test
+staff of power, level 20
+Category: staves
+Price: 640000
+Craft xp: 85335
+Sell xp: 341340
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WT_powerstaff.png (id:454)
+
+test
+lucky amulet, level 1
+Category: amulets
+Price: 105
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XP_luckyamulet.png (id:455)
+
+test
+clerical mark, level 3
+Category: amulets
+Price: 160
+Craft xp: 5
+Sell xp: 20
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XP_priestmark.png (id:456)
+
+test
+priest's mark, level 4
+Category: amulets
+Price: 440
+Craft xp: 14
+Sell xp: 56
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XP_priestmark.png (id:457)
+
+test
+pendant of safety, level 5
+Category: amulets
+Price: 530
+Craft xp: 20
+Sell xp: 80
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XP_pendantthunder.png (id:458)
+
+test
+zazen amulet, level 6
+Category: amulets
+Price: 620
+Craft xp: 27
+Sell xp: 108
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XP_zazenamulet.png (id:459)
+
+test
+red charm, level 7
+Category: amulets
+Price: 990
+Craft xp: 48
+Sell xp: 192
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XP_redcharm.png (id:460)
+
+test
+perfect jade, level 8
+Category: amulets
+Price: 1500
+Craft xp: 82
+Sell xp: 328
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/XP_perfectjade.png (id:461)
+
+test
+elemental talisman, level 9
+Category: amulets
+Price: 130000
+Craft xp: 7802
+Sell xp: 31208
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/XP_elementaltalisman.png (id:462)
+
+test
+frost protector, level 9
+Category: amulets
+Price: 1900
+Craft xp: 116
+Sell xp: 464
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/XP_pendantice.png (id:463)
+
+test
+amulet of darkness, level 9
+Category: amulets
+Price: 2400
+Craft xp: 146
+Sell xp: 584
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/XP_amuletofdarkness.png (id:464)
+
+test
+amulet of life, level 10
+Category: amulets
+Price: 2600
+Craft xp: 175
+Sell xp: 700
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/XP_amuletoflife.png (id:465)
+
+test
+amulet of light, level 10
+Category: amulets
+Price: 4600
+Craft xp: 309
+Sell xp: 1236
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/XP_amuletoflight.png (id:466)
+
+test
+clairvoyance amulet, level 11
+Category: amulets
+Price: 6600
+Craft xp: 486
+Sell xp: 1944
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/XP_clearamulet.png (id:467)
+
+test
+amulet of evil protection, level 13
+Category: amulets
+Price: 190000
+Craft xp: 16469
+Sell xp: 65876
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/XP_amuletofevilprotection.png (id:468)
+
+test
+elemental pendant, level 12
+Category: amulets
+Price: 11000
+Craft xp: 882
+Sell xp: 3528
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/XP_elementalpendant.png (id:469)
+
+test
+pendant of thunder immunity, level 13
+Category: amulets
+Price: 16000
+Craft xp: 1389
+Sell xp: 5556
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/XP_pendantsafety.png (id:470)
+
+test
+storm pendant, level 13
+Category: amulets
+Price: 18000
+Craft xp: 1562
+Sell xp: 6248
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/XP_pendantsafety.png (id:471)
+
+test
+pendant of ice immunity, level 14
+Category: amulets
+Price: 180000
+Craft xp: 16802
+Sell xp: 67208
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/XP_pendanticeimmunity.png (id:472)
+
+test
+talisman of fear, level 15
+Category: amulets
+Price: 19000
+Craft xp: 1902
+Sell xp: 7608
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/XP_feartalisman.png (id:473)
+
+test
+rage token, level 15
+Category: amulets
+Price: 130000
+Craft xp: 13002
+Sell xp: 52008
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/XP_ragetoken.png (id:474)
+
+test
+holy talisman, level 15
+Category: amulets
+Price: 25000
+Craft xp: 2502
+Sell xp: 10008
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/XP_holytalisman.png (id:475)
+
+test
+pyramid lace, level 17
+Category: amulets
+Price: 37000
+Craft xp: 4195
+Sell xp: 16780
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/XP_pyramidtalisman.png (id:476)
+
+test
+unholy talisman, level 18
+Category: amulets
+Price: 350000
+Craft xp: 42002
+Sell xp: 168008
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/XP_unholytalisman.png (id:477)
+
+test
+symbol of the gods, level 17
+Category: amulets
+Price: 61000
+Craft xp: 6915
+Sell xp: 27660
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/XP_symbolgods.png (id:478)
+
+test
+death token, level 20
+Category: amulets
+Price: 650000
+Craft xp: 86669
+Sell xp: 346676
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/XP_deathtoken.png (id:479)
+
+test
+ring of Dexterity, level 1
+Category: rings
+Price: 115
+Craft xp: 4
+Sell xp: 16
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XR_foundationring.png (id:480)
+
+test
+iron ring, level 2
+Category: rings
+Price: 175
+Craft xp: 6
+Sell xp: 24
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XR_firering.png (id:481)
+
+test
+reactive ring, level 3
+Category: rings
+Price: 245
+Craft xp: 7
+Sell xp: 28
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XR_reactivering.png (id:482)
+
+test
+thief's mark, level 4
+Category: rings
+Price: 485
+Craft xp: 15
+Sell xp: 60
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XR_ringofthieves.png (id:483)
+
+test
+ring of wizardry, level 5
+Category: rings
+Price: 960
+Craft xp: 34
+Sell xp: 136
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XR_wizardryring.png (id:484)
+
+test
+ring of sorcery, level 10
+Category: rings
+Price: 1800
+Craft xp: 122
+Sell xp: 488
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/XR_wizardryring.png (id:485)
+
+test
+ring of the dice, level 5
+Category: rings
+Price: 3300
+Craft xp: 112
+Sell xp: 448
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XR_dicering.png (id:486)
+
+test
+warrior's ring, level 6
+Category: rings
+Price: 2200
+Craft xp: 90
+Sell xp: 360
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XR_warriorring.png (id:487)
+
+test
+ring of might, level 6
+Category: rings
+Price: 2700
+Craft xp: 110
+Sell xp: 440
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/XR_theonering.png (id:488)
+
+test
+scholar's mark, level 8
+Category: rings
+Price: 3500
+Craft xp: 189
+Sell xp: 756
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/XR_scholarring.png (id:489)
+
+test
+band of light, level 10
+Category: rings
+Price: 5500
+Craft xp: 369
+Sell xp: 1476
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/XR_bandoflight.png (id:490)
+
+test
+anti-elements band, level 10
+Category: rings
+Price: 50000
+Craft xp: 3335
+Sell xp: 13340
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/XR_antielementband.png (id:491)
+
+test
+banker's mark, level 11
+Category: rings
+Price: 9500
+Craft xp: 699
+Sell xp: 2796
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/XR_bankermark.png (id:492)
+
+test
+serpent band, level 12
+Category: rings
+Price: 13000
+Craft xp: 1042
+Sell xp: 4168
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/XR_serpentband.png (id:493)
+
+test
+viper band, level 17
+Category: rings
+Price: 110000
+Craft xp: 12469
+Sell xp: 49876
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/XR_serpentband.png (id:494)
+
+test
+ring of conservation, level 15
+Category: rings
+Price: 310000
+Craft xp: 31002
+Sell xp: 124008
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/XR_conservationring.png (id:495)
+
+test
+majestic ring, level 15
+Category: rings
+Price: 17000
+Craft xp: 1702
+Sell xp: 6808
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/XR_majesticring.png (id:496)
+
+test
+ring of kings, level 19
+Category: rings
+Price: 440000
+Craft xp: 55735
+Sell xp: 222940
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/XR_majesticring.png (id:497)
+
+test
+atmosring, level 19
+Category: rings
+Price: 380000
+Craft xp: 48135
+Sell xp: 192540
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/XR_atmosring.png (id:498)
+
+test
+foundation ring, level 16
+Category: rings
+Price: 52000
+Craft xp: 5549
+Sell xp: 22196
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/XR_dexring.png (id:499)
+
+test
+the one ring, level 20
+Category: rings
+Price: 630000
+Craft xp: 84002
+Sell xp: 336008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/XR_ringofmight.png (id:500)
+
+test
+Acid, level 0
+Category: rare resources
+Price: 750
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_acid.png (id:501)
+
+test
+Faery's Tear, level 0
+Category: rare resources
+Price: 1500
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_fairys_tear.png (id:502)
+
+test
+Volcanic Rock, level 0
+Category: rare resources
+Price: 2000
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_volcanic_rock.png (id:503)
+
+test
+Abyss Shell, level 0
+Category: rare resources
+Price: 3250
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_abyss_shell.png (id:504)
+
+test
+Phoenix Feather, level 0
+Category: rare resources
+Price: 4500
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_phoenix_feather.png (id:505)
+
+test
+Eternal Ice, level 0
+Category: rare resources
+Price: 6500
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_eternal_ice.png (id:506)
+
+test
+Demon Horn, level 0
+Category: rare resources
+Price: 7500
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_demon_horn.png (id:507)
+
+test
+Moon Stone, level 0
+Category: rare resources
+Price: 15000
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_moonstone.png (id:508)
+
+test
+Roaring Powder, level 0
+Category: rare resources
+Price: 20000
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_roar_powder.png (id:509)
+
+test
+Golden Silk, level 0
+Category: rare resources
+Price: 25000
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_golden_silk.png (id:510)
+
+test
+Shadow Essence, level 0
+Category: rare resources
+Price: 35000
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_shadow_essence.png (id:511)
+
+test
+Dragon Scale, level 0
+Category: rare resources
+Price: 45000
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_dragon_scale.png (id:512)
+
+test
+Rising Sun, level 0
+Category: rare resources
+Price: 55000
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_rising_sun.png (id:513)
+
+test
+Divine Leaf, level 0
+Category: rare resources
+Price: 75000
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_divine_leaf.png (id:514)
+
+test
+stone cleaver, level 13
+Category: axes
+Price: 18000
+Craft xp: 1562
+Sell xp: 6248
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WA_stoneaxe.png (id:515)
+
+test
+swift iron boots, level 10
+Category: heavy boots
+Price: 7400
+Craft xp: 495
+Sell xp: 1980
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/BH_ironboots.png (id:516)
+
+test
+antivenom, level 7
+Category: potions
+Price: 5700
+Craft xp: 268
+Sell xp: 1072
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UH_antidote.png (id:517)
+
+test
+survival knife, level 8
+Category: daggers
+Price: 3400
+Craft xp: 183
+Sell xp: 732
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WD_steelblade.png (id:518)
+
+test
+steel hauberk, level 11
+Category: heavy helmets
+Price: 7900
+Craft xp: 581
+Sell xp: 2324
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/HH_knighthauberk.png (id:519)
+
+test
+combat boots, level 13
+Category: boots
+Price: 9700
+Craft xp: 843
+Sell xp: 3372
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/BM_courierboots.png (id:520)
+
+test
+guideon robe, level 11
+Category: clothes
+Price: 20000
+Craft xp: 1469
+Sell xp: 5876
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/AL_richcloak.png (id:521)
+
+test
+magic dust, level 9
+Category: herbs
+Price: 2200
+Craft xp: 134
+Sell xp: 536
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/UH_alertdust.png (id:522)
+
+test
+cooling aid, level 6
+Category: potions
+Price: 2600
+Craft xp: 106
+Sell xp: 424
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/UP_vialmana.png (id:523)
+
+test
+civil bow, level 10
+Category: bows
+Price: 8300
+Craft xp: 555
+Sell xp: 2220
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WB_compositebow.png (id:524)
+
+test
+quickdraw pistol, level 14
+Category: guns
+Price: 15000
+Craft xp: 1402
+Sell xp: 5608
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WG_dragon.png (id:525)
+
+test
+celestial flute, level 8
+Category: music
+Price: 4000
+Craft xp: 215
+Sell xp: 860
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WL_charmersflute.png (id:526)
+
+test
+reinforced voulge, level 15
+Category: spears
+Price: 12000
+Craft xp: 1202
+Sell xp: 4808
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WP_voulge.png (id:527)
+
+test
+sage amulet, level 11
+Category: amulets
+Price: 8200
+Craft xp: 603
+Sell xp: 2412
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/XP_redcharm.png (id:528)
+
+test
+paladin sword, level 15
+Category: swords
+Price: 25000
+Craft xp: 2502
+Sell xp: 10008
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WS_soldiersword.png (id:529)
+
+test
+berserker's sabatons, level 10
+Category: heavy boots
+Price: 19000
+Craft xp: 1269
+Sell xp: 5076
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/BH_paladinsabaton.png (id:530)
+
+test
+artisan's gloves, level 16
+Category: gloves
+Price: 49000
+Craft xp: 5229
+Sell xp: 20916
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/GM_noblegloves.png (id:531)
+
+test
+questing shoes, level 9
+Category: shoes
+Price: 3000
+Craft xp: 182
+Sell xp: 728
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/BL_sturdyshoes.png (id:532)
+
+test
+dragon powder, level 17
+Category: herbs
+Price: 250000
+Craft xp: 28335
+Sell xp: 113340
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/UH_restorationpowder.png (id:533)
+
+test
+fireshield scroll, level 16
+Category: scrolls
+Price: 37000
+Craft xp: 3949
+Sell xp: 15796
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/US_lavascroll.png (id:534)
+
+test
+storm knives, level 7
+Category: thrown
+Price: 3000
+Craft xp: 142
+Sell xp: 568
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WK_circusknives.png (id:535)
+
+test
+archmage's mark, level 15
+Category: rings
+Price: 30000
+Craft xp: 3002
+Sell xp: 12008
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/XR_bankermark.png (id:536)
+
+test
+Moonlight fairy bow, level 12
+Category: bows
+Price: 120000
+Craft xp: 9602
+Sell xp: 38408
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WB_fairybow.png (id:537)
+
+test
+elfwood pole-axe, level 5
+Category: axes
+Price: 1700
+Craft xp: 59
+Sell xp: 236
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WA_voulge.png (id:538)
+
+test
+grand bow, level 8
+Category: bows
+Price: 3700
+Craft xp: 199
+Sell xp: 796
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WB_ebonybow.png (id:539)
+
+test
+rising dragon, level 17
+Category: guns
+Price: 560000
+Craft xp: 63469
+Sell xp: 253876
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/WG_blackbeard.png (id:540)
+
+test
+everlasting flute, level 10
+Category: music
+Price: 7900
+Craft xp: 529
+Sell xp: 2116
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/WL_eternalflute.png (id:541)
+
+test
+spiked mace, level 2
+Category: maces
+Price: 370
+Craft xp: 9
+Sell xp: 36
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WM_thornmace.png (id:542)
+
+test
+warrior's trident, level 6
+Category: spears
+Price: 2900
+Craft xp: 118
+Sell xp: 472
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/WP_gladiatortrident.png (id:543)
+
+test
+bishop's staff, level 12
+Category: staves
+Price: 15000
+Craft xp: 1202
+Sell xp: 4808
+Coupon cost to buy back: 3
+Image link: cdn.edgebee.com/static/shopr2/items/WT_healerscompanion.png (id:544)
+
+test
+Plate of the renown, level 20
+Category: heavy armor
+Price: 540000
+Craft xp: 72002
+Sell xp: 288008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/AH_dragoonarmor.png (id:545)
+
+test
+grand gauntlets, level 10
+Category: gauntlets
+Price: 5800
+Craft xp: 389
+Sell xp: 1556
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/GH_paladingauntlets.png (id:546)
+
+test
+blaze scroll, level 11
+Category: scrolls
+Price: 12000
+Craft xp: 882
+Sell xp: 3528
+Coupon cost to buy back: 2
+Image link: cdn.edgebee.com/static/shopr2/items/US_fireballscroll.png (id:547)
+
+test
+masamune, level 20
+Category: swords
+Price: 710000
+Craft xp: 94669
+Sell xp: 378676
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WS_murasame.png (id:548)
+
+test
+epic defender, level 18
+Category: shields
+Price: 400000
+Craft xp: 48002
+Sell xp: 192008
+Coupon cost to buy back: 4
+Image link: cdn.edgebee.com/static/shopr2/items/S_defender.png (id:549)
+
+test
+apocalyptic staff, level 20
+Category: staves
+Price: 1010000
+Craft xp: 134669
+Sell xp: 538676
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WT_staffdestruction.png (id:550)
+
+test
+enraging blade, level 21
+Category: daggers
+Price: 2400000
+Craft xp: 336002
+Sell xp: 1344008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WD_enragingblade.png (id:551)
+
+test
+staraxe, level 21
+Category: axes
+Price: 2100000
+Craft xp: 294002
+Sell xp: 1176008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WA_staraxe.png (id:552)
+
+test
+walking forteress, level 21
+Category: heavy armor
+Price: 2450000
+Craft xp: 343002
+Sell xp: 1372008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/AH_walkingforteress.png (id:553)
+
+test
+shadow armor, level 21
+Category: armor
+Price: 2150000
+Craft xp: 301002
+Sell xp: 1204008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/AM_shadowarmor.png (id:554)
+
+test
+plasmic robe, level 21
+Category: clothes
+Price: 2140000
+Craft xp: 299602
+Sell xp: 1198408
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/AL_plasmicrobe.png (id:555)
+
+test
+codex de genèse, level 21
+Category: scrolls
+Price: 2100000
+Craft xp: 294002
+Sell xp: 1176008
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/US_genesiscodex.png (id:556)
+
+test
+angel bow, level 21
+Category: bows
+Price: 2540000
+Craft xp: 355602
+Sell xp: 1422408
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WB_angelbow.png (id:557)
+
+test
+death star, level 21
+Category: thrown
+Price: 2010000
+Craft xp: 281402
+Sell xp: 1125608
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WK_deathstar.png (id:558)
+
+test
+crystal drum, level 21
+Category: music
+Price: 2030000
+Craft xp: 284202
+Sell xp: 1136808
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WL_crystaldrum.png (id:559)
+
+test
+divine judgement, level 21
+Category: maces
+Price: 2530000
+Craft xp: 354202
+Sell xp: 1416808
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WM_divinejudgement.png (id:560)
+
+test
+staff of creation, level 21
+Category: staves
+Price: 2340000
+Craft xp: 327602
+Sell xp: 1310408
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/WT_staffofcreation.png (id:561)
+
+test
+rage rune, level 21
+Category: amulets
+Price: 2080000
+Craft xp: 291202
+Sell xp: 1164808
+Coupon cost to buy back: 5
+Image link: cdn.edgebee.com/static/shopr2/items/XP_ragerune.png (id:562)
+
+test
+Dark Blood, level 0
+Category: rare resources
+Price: 100000
+Craft xp: 1
+Sell xp: 1
+Coupon cost to buy back: 1
+Image link: cdn.edgebee.com/static/shopr2/items/rareitem_dark_blood.png (id:563)
+

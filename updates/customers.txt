@@ -1,200 +1,171 @@
 change
-Rictus (Necromancer), color: 0x3f90ff (id:91)
-Level range: 10-14
-Favorite item types: daggers, bracers, shoes, herbs, scrolls
-Fame required: 30
-Appeal required: 7
-Unlocked by: Dark Spire 1
+Rictus (Necromancer)
+                 New                 Old
+Start level      10                  10
+Max level        14                  13
+Fame required    30                  30
+Appeal required  7                   7
+Color            0x3f90ff            0x3f90ff
+Unlocked by      Dark Spire 1        Dark Spire 1
+Favorite items: daggers, bracers, shoes, herbs, scrolls
+(id:91)
 
 change
-Rictus (Necromancer), color: 0x3f90ff (id:91)
-Level range: 10-13
-Favorite item types: daggers, bracers, shoes, herbs, scrolls
-Fame required: 30
-Appeal required: 7
-Unlocked by: Dark Spire 1
+Morphus (Necromancer)
+                 New                 Old
+Start level      11                  11
+Max level        14                  13
+Fame required    35                  35
+Appeal required  7                   7
+Color            0xff5e43            0xff5e43
+Unlocked by      Dark Spire 2        Dark Spire 2
+Favorite items: staves, clothes, hats, potions, herbs
+(id:92)
 
 change
-Morphus (Necromancer), color: 0xff5e43 (id:92)
-Level range: 11-14
-Favorite item types: staves, clothes, hats, potions, herbs
-Fame required: 35
-Appeal required: 7
-Unlocked by: Dark Spire 2
+Terrius (Necromancer)
+                 New                 Old
+Start level      12                  12
+Max level        15                  14
+Fame required    40                  40
+Appeal required  8                   8
+Color            0x85e855            0x85e855
+Unlocked by      Dark Spire 2        Dark Spire 2
+Favorite items: daggers, hats, bracers, shoes, potions, scrolls
+(id:93)
 
 change
-Morphus (Necromancer), color: 0xff5e43 (id:92)
-Level range: 11-13
-Favorite item types: staves, clothes, hats, potions, herbs
-Fame required: 35
-Appeal required: 7
-Unlocked by: Dark Spire 2
+Krull (Berserker)
+                 New                 Old
+Start level      11                  11
+Max level        19                  19
+Fame required    60                  60
+Appeal required  9                   9
+Color            0x555555            0x7cffe5
+Unlocked by      Berserker Camp 4    Berserker Camp 4
+Favorite items: axes, heavy helmets, gauntlets, heavy boots, rings, amulets
+(id:111)
 
 change
-Terrius (Necromancer), color: 0x85e855 (id:93)
-Level range: 12-15
-Favorite item types: daggers, hats, bracers, shoes, potions, scrolls
-Fame required: 40
-Appeal required: 8
-Unlocked by: Dark Spire 2
+Terek (Berserker)
+                 New                 Old
+Start level      12                  12
+Max level        20                  20
+Fame required    75                  75
+Appeal required  10                  10
+Color            0xaa6666            0xa1cad8
+Unlocked by      Berserker Camp 5    Berserker Camp 5
+Favorite items: axes, daggers, heavy armor, heavy helmets, heavy boots, rings, amulets
+(id:112)
 
 change
-Terrius (Necromancer), color: 0x85e855 (id:93)
-Level range: 12-14
-Favorite item types: daggers, hats, bracers, shoes, potions, scrolls
-Fame required: 40
-Appeal required: 8
-Unlocked by: Dark Spire 2
+Arthur (Paladin)
+                 New                 Old
+Start level      16                  16
+Max level        21                  20
+Fame required    75                  75
+Appeal required  10                  10
+Color            0xa1cad8            0xa1cad8
+Unlocked by      Castle 5            Castle 5
+Favorite items: maces, spears, heavy armor, heavy helmets, gauntlets, shields, herbs
+(id:119)
 
 change
-Krull (Berserker), color: 0x555555 (id:111)
-Level range: 11-19
-Favorite item types: axes, heavy helmets, gauntlets, heavy boots, rings, amulets
-Fame required: 60
-Appeal required: 9
-Unlocked by: Berserker Camp 4
+Zafer (Singing Axe)
+                 New                 Old
+Start level      15                  15
+Max level        21                  20
+Fame required    75                  75
+Appeal required  10                  10
+Color            0xa1cad8            0xa1cad8
+Unlocked by      Hanging Gardens 5   Hanging Gardens 5
+Favorite items: axes, music, armor, helmets, boots, rings, amulets
+(id:134)
 
 change
-Krull (Berserker), color: 0x7cffe5 (id:111)
-Level range: 11-19
-Favorite item types: axes, heavy helmets, gauntlets, heavy boots, rings, amulets
-Fame required: 60
-Appeal required: 9
-Unlocked by: Berserker Camp 4
+Marccus (Necromancer)
+                 New                 Old
+Start level      12                  12
+Max level        16                  15
+Fame required    45                  45
+Appeal required  8                   8
+Color            0xffe65d            0xffe65d
+Unlocked by      Dark Spire 3        Dark Spire 3
+Favorite items: daggers, staves, clothes, shoes, potions, scrolls
+(id:141)
 
 change
-Terek (Berserker), color: 0xaa6666 (id:112)
-Level range: 12-20
-Favorite item types: axes, daggers, heavy armor, heavy helmets, heavy boots, rings, amulets
-Fame required: 75
-Appeal required: 10
-Unlocked by: Berserker Camp 5
-
-change
-Terek (Berserker), color: 0xa1cad8 (id:112)
-Level range: 12-20
-Favorite item types: axes, daggers, heavy armor, heavy helmets, heavy boots, rings, amulets
-Fame required: 75
-Appeal required: 10
-Unlocked by: Berserker Camp 5
-
-change
-Arthur (Paladin), color: 0xa1cad8 (id:119)
-Level range: 16-21
-Favorite item types: maces, spears, heavy armor, heavy helmets, gauntlets, shields, herbs
-Fame required: 75
-Appeal required: 10
-Unlocked by: Castle 5
-
-change
-Arthur (Paladin), color: 0xa1cad8 (id:119)
-Level range: 16-20
-Favorite item types: maces, spears, heavy armor, heavy helmets, gauntlets, shields, herbs
-Fame required: 75
-Appeal required: 10
-Unlocked by: Castle 5
-
-change
-Zafer (Singing Axe), color: 0xa1cad8 (id:134)
-Level range: 15-21
-Favorite item types: axes, music, armor, helmets, boots, rings, amulets
-Fame required: 75
-Appeal required: 10
-Unlocked by: Hanging Gardens 5
-
-change
-Zafer (Singing Axe), color: 0xa1cad8 (id:134)
-Level range: 15-20
-Favorite item types: axes, music, armor, helmets, boots, rings, amulets
-Fame required: 75
-Appeal required: 10
-Unlocked by: Hanging Gardens 5
-
-change
-Marccus (Necromancer), color: 0xffe65d (id:141)
-Level range: 12-16
-Favorite item types: daggers, staves, clothes, shoes, potions, scrolls
-Fame required: 45
-Appeal required: 8
-Unlocked by: Dark Spire 3
-
-change
-Marccus (Necromancer), color: 0xffe65d (id:141)
-Level range: 12-15
-Favorite item types: daggers, staves, clothes, shoes, potions, scrolls
-Fame required: 45
-Appeal required: 8
-Unlocked by: Dark Spire 3
-
-change
-Pirpiri (Channeler), color: 0xa1cad8 (id:158)
-Level range: 16-21
-Favorite item types: spears, bows, clothes, hats, shoes, potions, rings
-Fame required: 75
-Appeal required: 10
-Unlocked by: Mage Tower 5
-
-change
-Pirpiri (Channeler), color: 0xa1cad8 (id:158)
-Level range: 16-20
-Favorite item types: spears, bows, clothes, hats, shoes, potions, rings
-Fame required: 75
-Appeal required: 10
-Unlocked by: Mage Tower 5
+Pirpiri (Channeler)
+                 New                 Old
+Start level      16                  16
+Max level        21                  20
+Fame required    75                  75
+Appeal required  10                  10
+Color            0xa1cad8            0xa1cad8
+Unlocked by      Mage Tower 5        Mage Tower 5
+Favorite items: spears, bows, clothes, hats, shoes, potions, rings
+(id:158)
 
 add
-Chivote (Guard), color: 0xaa6666 (id:159)
+Chivote (Guard)
 Level range: 12-19
 Favorite item types: axes, spears, heavy armor, heavy helmets
 Fame required: 40
 Appeal required: 9
 Unlocked by: Barracks 5
+Color: 0xaa6666 (id:159)
 
 add
-Kerbos (Guard), color: 0x555555 (id:160)
+Kerbos (Guard)
 Level range: 15-20
 Favorite item types: axes, heavy armor, heavy helmets, shields
 Fame required: 65
 Appeal required: 10
 Unlocked by: Barracks 6
+Color: 0x555555 (id:160)
 
 add
-Cid (Knight), color: 0x222222 (id:161)
+Cid (Knight)
 Level range: 15-20
 Favorite item types: spears, heavy helmets, gauntlets, shields
 Fame required: 65
 Appeal required: 10
 Unlocked by: Stables 3
+Color: 0x222222 (id:161)
 
 add
-Snorri (Berserker), color: 0x7cffe5 (id:162)
+Snorri (Berserker)
 Level range: 11-18
 Favorite item types: axes, heavy armor, heavy helmets, rings
 Fame required: 55
 Appeal required: 8
 Unlocked by: Berserker Camp 4
+Color: 0x7cffe5 (id:162)
 
 add
-Harald (Berserker), color: 0x222222 (id:163)
+Harald (Berserker)
 Level range: 18-21
 Favorite item types: daggers, heavy helmets, heavy boots, amulets
 Fame required: 80
 Appeal required: 10
 Unlocked by: Berserker Camp 6
+Color: 0x222222 (id:163)
 
 add
-Iga (Ninja), color: 0x22cc22 (id:164)
+Iga (Ninja)
 Level range: 18-21
 Favorite item types: swords, thrown, armor, gloves
 Fame required: 80
 Appeal required: 10
 Unlocked by: Far East Traders 6
+Color: 0x22cc22 (id:164)
 
 add
-Paul (War Wizard), color: 0x555555 (id:165)
+Paul (War Wizard)
 Level range: 18-21
 Favorite item types: staves, bracers, scrolls
 Fame required: 80
 Appeal required: 10
 Unlocked by: War College 6
+Color: 0x555555 (id:165)
 

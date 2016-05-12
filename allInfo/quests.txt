@@ -1,0 +1,585 @@
+test
+Gerbip Problem
+Intro text: "Gerbips are running wild in the city, please assemble a group that can deal with them!"
+Outro test: "Well that was quick! Here's a reward for your trouble."
+Unlocked at level: 6
+Duration: 4 hrs
+XP per customer: 20
+Reward: 1 zazen amulet
+Previous quest in line: none
+Customers to send: Mercenary, hunter, Evoker
+Items needed: iron bracers, Healing Herbs, knife
+Icon link: cdn.edgebee.com/static/shopr2/quests/gerbip.png (id:1)
+
+test
+Butterly Pests
+Intro text: "Butterbats have been buttering up our crops, please rid us of them!"
+Outro test: "Thank you for your help!"
+Unlocked at level: 8
+Duration: 8 hrs
+XP per customer: 69
+Reward: 1 brightest rod
+Previous quest in line: Gerbip Problem
+Customers to send: Barbarian, Thief, Healer
+Items needed: club, antidote, Healing Herbs
+Icon link: cdn.edgebee.com/static/shopr2/quests/butterbat.png (id:2)
+
+test
+Mushrhum Rampage
+Intro text: "Mushrhums are rampant outside the city gates, please stop them!"
+Outro test: "Great the Mushrhums are gone now!"
+Unlocked at level: 10
+Duration: 16 hrs
+XP per customer: 160
+Reward: 2 Acid
+Previous quest in line: Butterly Pests
+Customers to send: Mercenary, Guard, Healer, Evoker
+Items needed: wooden buckler, Sharp Spear, antidote, oaken Staff
+Icon link: cdn.edgebee.com/static/shopr2/quests/mushrhum.png (id:3)
+
+test
+Mushrhum Rampage 2
+Intro text: "A steel mushrhum is breaking all of our weapons!"
+Outro test: "Thanks, If only the city guard knew spells!"
+Unlocked at level: 11
+Duration: 18 hrs
+XP per customer: 220
+Reward: 1 mystical_hourglass
+Previous quest in line: Mushrhum Rampage
+Customers to send: Mercenary, Engineer, Evoker, hunter
+Items needed: claymore, studded Leather armor, oaken Staff, bow of precision
+Icon link: cdn.edgebee.com/static/shopr2/quests/mushrhum.png (id:4)
+
+test
+Furry Spiders
+Intro text: "Furry Spiders have infested the market place for long enough, find someone to root them out!"
+Outro test: "You squashed them good, thank you!"
+Unlocked at level: 12
+Duration: 20 hrs
+XP per customer: 245
+Reward: 1 platinum_hammer
+Previous quest in line: Mushrhum Rampage 2
+Customers to send: Barbarian, Barbarian, Healer, Evoker
+Items needed: hand Axe, leather shield, ebonystaff, Herbs Bundle
+Icon link: cdn.edgebee.com/static/shopr2/quests/spider.png (id:5)
+
+test
+Gerbip Problem 2
+Intro text: "A large Gerbip is destroying the city sewer! Please send someone to stop it."
+Outro test: "Thanks! There must be alot of cheese in the sewer for a gerbip to get that big."
+Unlocked at level: 14
+Duration: 10 hrs
+XP per customer: 140
+Reward: 1 platinum_hammer
+Previous quest in line: Furry Spiders
+Customers to send: Evoker, Guard, Healer, bard
+Items needed: dryad staff, broad-axe, sturdy shoes, Health Vial
+Icon link: cdn.edgebee.com/static/shopr2/quests/gerbip.png (id:6)
+
+test
+Losing Drums
+Intro text: "A set of Lost Drums are deafening the townsfolk, please do something!"
+Outro test: "I hope everyone can recover their hearing in time for my outdoors concert!"
+Unlocked at level: 15
+Duration: 25 hrs
+XP per customer: 312
+Reward: 2 Volcanic Rock
+Previous quest in line: Furry Spiders
+Customers to send: bard, Mercenary, Barbarian, Guard
+Items needed: lute, chain mail, brass helmet, trident
+Icon link: cdn.edgebee.com/static/shopr2/quests/drums.png (id:7)
+
+test
+Fairy Dusty
+Intro text: "Tiny fairies with dusters are dusting the city... They are creating dangerous whirlwinds!"
+Outro test: "Everyone can see my glorious self once again!"
+Unlocked at level: 16
+Duration: 30 hrs
+XP per customer: 400
+Reward: 1 mystical_hourglass
+Previous quest in line: Losing Drums
+Customers to send: Evoker, Evoker, Healer, Healer
+Items needed: wood elf staff, evoker's robe, sturdy shoes, earth scroll
+Icon link: cdn.edgebee.com/static/shopr2/quests/fairy.png (id:8)
+
+test
+Losing Drums 2
+Intro text: "Dark drums are playing awful music at night. Townsfolk won't be able to sleep at this rate!"
+Outro test: "We can finally get a good night's rest."
+Unlocked at level: 17
+Duration: 32 hrs
+XP per customer: 612
+Reward: 1 platinum_hammer
+Previous quest in line: Fairy Dusty
+Customers to send: Thief, Evoker, Healer, bard, bard
+Items needed: fine boomerang, Combat Staff, priest's robe, heavenly sandals, piercer
+Icon link: cdn.edgebee.com/static/shopr2/quests/drums.png (id:9)
+
+test
+Thieving Fox
+Intro text: "There is a thieving fox in our midst, we need someone to match his wit and root him out for once and for good!"
+Outro test: "Who says you can't out-thief a thieving fox?"
+Unlocked at level: 18
+Duration: 35 hrs
+XP per customer: 612
+Reward: 2 Faery's Tear
+Previous quest in line: Losing Drums 2
+Customers to send: Thief, Thief, Thief, Mercenary, bard
+Items needed: fire dagger, steel blade, cow leather armor, long gloves, brisk Beverage
+Icon link: cdn.edgebee.com/static/shopr2/quests/ninjafox.png (id:10)
+
+test
+Thieving Fox 2
+Intro text: "Fox Ninjas are mocking our archers during training but we aren't fast enough to stop them!"
+Outro test: "Thanks for teaching those ninjas a lesson!"
+Unlocked at level: 20
+Duration: 40 hrs
+XP per customer: 960
+Reward: 2 Volcanic Rock
+Previous quest in line: Thieving Fox
+Customers to send: Illusionist, Thief, Thief, Mercenary, Healer
+Items needed: wounding knives, gambeson, soft boots, guard mail, cleric's robe
+Icon link: cdn.edgebee.com/static/shopr2/quests/ninjafox.png (id:11)
+
+test
+Frock's Rocks
+Intro text: "The mining crew has uncovered a den of Frocks, they are probably hiding treasure."
+Outro test: "They were just protecting rocks? I guess that's what Frocks find valuable."
+Unlocked at level: 21
+Duration: 45 hrs
+XP per customer: 825
+Reward: 3 Gems
+Previous quest in line: Thieving Fox 2
+Customers to send: Mercenary, Guard, Engineer, hunter, Healer
+Items needed: zhanmadao, knight's hauberk, soldier's helmet, bow of precision, zazen amulet
+Icon link: cdn.edgebee.com/static/shopr2/quests/frock.png (id:12)
+
+test
+Captain Cacti's Crew
+Intro text: "We've plotted an expedition through the desert, we need protection from the Captain Cacti crew!"
+Outro test: "They made it safetly, thanks for your assistance!"
+Unlocked at level: 24
+Duration: 60 hrs
+XP per customer: 1380
+Reward: 2 Abyss Shell
+Previous quest in line: Frock's Rocks
+Customers to send: Guard, Guard, hunter, Engineer, Healer, Healer
+Items needed: full plate, sturdy pole-axe, insulated fur boots, noble leather, elfwood vambrace, dark staff
+Icon link: cdn.edgebee.com/static/shopr2/quests/captaincactus.png (id:13)
+
+test
+Frock's Rocks 2
+Intro text: "There are rumors of a Frock covered in gold! It must be worth invaluable."
+Outro test: "There was no trace of a golden frock? Someone must have confused a gold lump for Frock."
+Unlocked at level: 30
+Duration: 50 hrs
+XP per customer: 2100
+Reward: 1 star_ticket
+Previous quest in line: Captain Cacti's Crew
+Customers to send: Illusionist, Guard, hunter, Engineer, Engineer, bard
+Items needed: black bombs, kabuto, civil bow, plated leather armor, gold dragon, twin flute
+Icon link: cdn.edgebee.com/static/shopr2/quests/frock.png (id:14)
+
+test
+Annoying Belicans
+Intro text: "Belicans are causing trouble for citizens travelling to and from the city, please do something about it."
+Outro test: "Thanks, people will be able to work hard and pay their taxes again!"
+Unlocked at level: 35
+Duration: 80 hrs
+XP per customer: 2241
+Reward: 3 Phoenix Feather
+Previous quest in line: Frock's Rocks 2
+Customers to send: Mercenary, Barbarian, Thief, hunter, bard, Evoker
+Items needed: spider shield, enchanted labrys, boomerang, elf bow, harmonious flute, ring of wizardry
+Icon link: cdn.edgebee.com/static/shopr2/quests/belican.png (id:15)
+
+test
+Charming Snakes
+Intro text: "Please find someone to tame the Snake Charmers, they're unstoppable!"
+Outro test: "Thanks for sending us a bard, it really helped."
+Unlocked at level: 15
+Duration: 40 hrs
+XP per customer: 480
+Reward: 2 Phoenix Feather
+Previous quest in line: none
+Customers to send: bard, Evoker, Guard
+Items needed: elven flute, evoker's robe, dolphin buckler
+Icon link: cdn.edgebee.com/static/shopr2/quests/charmer.png (id:16)
+
+test
+Scared-Kurtey
+Intro text: "A flock of Kurteys are scaring the livestock, please send someone to drive them away."
+Outro test: "Thanks, I hope they won't come back."
+Unlocked at level: 19
+Duration: 60 hrs
+XP per customer: 912
+Reward: 3 poison blade
+Previous quest in line: Charming Snakes
+Customers to send: hunter, Mercenary, hunter
+Items needed: composite bow, highlander, gambeson
+Icon link: cdn.edgebee.com/static/shopr2/quests/kurtey.png (id:17)
+
+test
+Scared-Kurtey 2
+Intro text: "The kurteys are back! Please find and destroy their den."
+Outro test: "I hope thats the last we'll hear of them."
+Unlocked at level: 21
+Duration: 65 hrs
+XP per customer: 1470
+Reward: 2 Eternal Ice
+Previous quest in line: Scared-Kurtey
+Customers to send: Healer, hunter, hunter, Thief
+Items needed: brightest rod, soft boots, fairy bow, boomerang
+Icon link: cdn.edgebee.com/static/shopr2/quests/kurtey.png (id:18)
+
+test
+Definitely Not-a-Rat
+Intro text: "Rats walk among us disguised as humans... Please find them and chase them out!"
+Outro test: "Wow you must have someone skilled in detection because they're all gone."
+Unlocked at level: 25
+Duration: 75 hrs
+XP per customer: 2000
+Reward: 1 magical_key
+Previous quest in line: Scared-Kurtey 2
+Customers to send: Healer, Thief, hunter, Thief
+Items needed: healerstaff, lightning bolts, silk bow, captain's helmet
+Icon link: cdn.edgebee.com/static/shopr2/quests/notarat.png (id:19)
+
+test
+Lost Explorers
+Intro text: "I heard there is a deposit of mithril guarded by Lost Explorers, it'd be worth the trouble. "
+Outro test: "Those explorers didn't stand a chance!"
+Unlocked at level: 30
+Duration: 80 hrs
+XP per customer: 2400
+Reward: 2 platinum_hammer
+Previous quest in line: Definitely Not-a-Rat
+Customers to send: Engineer, Mercenary, bard, Engineer
+Items needed: lightning bolt, crushing sledgehammer, bagpipes, resistance gloves
+Icon link: cdn.edgebee.com/static/shopr2/quests/lostexplorer.png (id:20)
+
+test
+Lost Explorers 2
+Intro text: "Lost explorers are destroying the mine, please send a party to help!. "
+Outro test: "Those explorers didn't stand a chance!"
+Unlocked at level: 35
+Duration: 85 hrs
+XP per customer: 3150
+Reward: 2 Demon Horn
+Previous quest in line: Lost Explorers
+Customers to send: hunter, Illusionist, Musketeer, Barbarian
+Items needed: fairy bow, quickdraw pistol, mailbreaker, war labrys
+Icon link: cdn.edgebee.com/static/shopr2/quests/lostexplorer.png (id:21)
+
+test
+Dangerous Slopes
+Intro text: "Citizens have reported trouble a top the mountain, reports warn of... Penguins... Rifles... And skiis?"
+Outro test: "Penguins... With rifles on skiis... Now I've heard everything!"
+Unlocked at level: 40
+Duration: 90 hrs
+XP per customer: 3600
+Reward: 1 magical_key
+Previous quest in line: Lost Explorers 2
+Customers to send: hunter, Evoker, Thief, Guard
+Items needed: ebony bow, cloak of concealment, crimson heart, Gaia's spine
+Icon link: cdn.edgebee.com/static/shopr2/quests/sniperoo.png (id:22)
+
+test
+Dangerous Slopes 2
+Intro text: "Sniperoos have stolen our scarf stash! Travelers will freeze to death without them."
+Outro test: "Thanks for returning our scarfs! They will save many lives."
+Unlocked at level: 45
+Duration: 95 hrs
+XP per customer: 5400
+Reward: 2 dark staff
+Previous quest in line: Dangerous Slopes
+Customers to send: Illusionist, hunter, bard, Thief, Musketeer
+Items needed: wounding knives, gladiator's helmet, bagpipes, frost shuriken, sacrificial blade
+Icon link: cdn.edgebee.com/static/shopr2/quests/sniperoo.png (id:23)
+
+test
+Tricloptic Mayhem
+Intro text: "Triclops have been trashing the Fairy's forest, nobody can stand up to them! What will we do!?"
+Outro test: "You managed to save the forest, the fairys are greatful!"
+Unlocked at level: 50
+Duration: 105 hrs
+XP per customer: 6600
+Reward: 3 Faery's Tear
+Previous quest in line: Dangerous Slopes 2
+Customers to send: Mercenary, Evoker, hunter, Mercenary, Engineer
+Items needed: murasame, sapphire staff, gemini, paladin's helmet, heat gloves
+Icon link: cdn.edgebee.com/static/shopr2/quests/triclops.png (id:24)
+
+test
+Tricloptic Mayhem 2
+Intro text: "A cyclop outcast has riled up a group of triclops. They are destroying everything in their path!"
+Outro test: "The triclops dispersed after their leader was defeated. We're safe... for now."
+Unlocked at level: 55
+Duration: 110 hrs
+XP per customer: 7260
+Reward: 1 mystical_hourglass
+Previous quest in line: Tricloptic Mayhem
+Customers to send: bard, hunter, Thief, Musketeer, Musketeer
+Items needed: dragon pipes, double shot, flux shuriken, crimson heart, demonsbane
+Icon link: cdn.edgebee.com/static/shopr2/quests/triclops.png (id:25)
+
+test
+Bugging Miners
+Intro text: "The mine is full of Staglamites, they are making it difficult for our workers. Please get rid of them."
+Outro test: "The mites are all gone, our workers can work in peace."
+Unlocked at level: 60
+Duration: 120 hrs
+XP per customer: 8640
+Reward: 2 Moon Stone
+Previous quest in line: Tricloptic Mayhem 2
+Customers to send: Engineer, Guard, Engineer, Healer, Evoker
+Items needed: artisan's gloves, lionheart, traveling boots, holy spray, sky mantle
+Icon link: cdn.edgebee.com/static/shopr2/quests/stalagmite.png (id:26)
+
+test
+The Abobinable
+Intro text: "People claim to have seen the Abobinable, send a group to investigate."
+Outro test: "The Abobinable exists... Erm, existed. I'm glad that was avoided!"
+Unlocked at level: 65
+Duration: 130 hrs
+XP per customer: 11830
+Reward: 2 Golden Silk
+Previous quest in line: Bugging Miners
+Customers to send: Engineer, Musketeer, hunter, Thief, Illusionist, Guard
+Items needed: soul shooter, divine leather, sasquatch wear, short fuses, circus knives, asunder
+Icon link: cdn.edgebee.com/static/shopr2/quests/abominable.png (id:27)
+
+test
+Bugging Miners 2
+Intro text: "Earth beettles are destroying the mine. Please get rid of them before it's too late!"
+Outro test: "The beetles have been defeated! They didn't get the chance to cause major damage."
+Unlocked at level: 70
+Duration: 140 hrs
+XP per customer: 13720
+Reward: 1 star_ticket
+Previous quest in line: The Abobinable
+Customers to send: Guard, Engineer, hunter, Evoker, Healer, hunter
+Items needed: paladin's sabatons, blue lagoon, calamitous bow, elemental wonder, rebirth potion, traveling boots
+Icon link: cdn.edgebee.com/static/shopr2/quests/stalagmite.png (id:28)
+
+test
+Summit Witch
+Intro text: "There's a mad witch on the summit, please find people to stop her alchemy!"
+Outro test: "She would have done something, I'm sure of it. Thanks!"
+Unlocked at level: 75
+Duration: 160 hrs
+XP per customer: 16800
+Reward: 2 Rising Sun
+Previous quest in line: Bugging Miners 2
+Customers to send: Evoker, Guard, Healer, Healer, hunter, bard
+Items needed: dreadstick, rock armor, dominus, soft potion, heavy crossbow, ripieno
+Icon link: cdn.edgebee.com/static/shopr2/quests/witch.png (id:29)
+
+test
+Demon in the Mist
+Intro text: "An evening mist has carried in a vengeful demon! People are afraid, we need to destroy it."
+Outro test: "Even the mist carries danger. At least we're safe again... For now."
+Unlocked at level: 80
+Duration: 180 hrs
+XP per customer: 20160
+Reward: 1 mithril_gear
+Previous quest in line: Summit Witch
+Customers to send: Engineer, hunter, Mercenary, Mercenary, Evoker, Healer
+Items needed: blackbeard, scorpion, planet smasher, dragon leather, staff of destruction, staff of destruction
+Icon link: cdn.edgebee.com/static/shopr2/quests/musculard.png (id:30)
+
+test
+Phantom Shield
+Intro text: "There are phantoms in the barrack's cellar but nobody is brave enough to face them!"
+Outro test: "Thank you so much, the guards can now sleep easier."
+Unlocked at level: 22
+Duration: 68 hrs
+XP per customer: 1540
+Reward: 2 platinum_hammer
+Previous quest in line: none
+Customers to send: Mercenary, Mercenary, Guard, Barbarian
+Items needed: fine sabaton, Soldier's Sword, gladiator's trident, Pole-axe
+Icon link: cdn.edgebee.com/static/shopr2/quests/ghostshield.png (id:31)
+
+test
+Bloglodyte Invasion?
+Intro text: "Bloglodytes are trying to invade the capital, send someone fast!"
+Outro test: "It seems they were only there to discuss politics, sorry."
+Unlocked at level: 24
+Duration: 72 hrs
+XP per customer: 1680
+Reward: 2 Eternal Ice
+Previous quest in line: Phantom Shield
+Customers to send: Barbarian, Barbarian, Mercenary, Healer
+Items needed: half-plate, steel battle-axe, white great sword, energy drink
+Icon link: cdn.edgebee.com/static/shopr2/quests/imp.png (id:32)
+
+test
+Phantom Shield 2
+Intro text: "The phantoms are back in the barrack's cellar but nobody is still brave enough to face them!"
+Outro test: "Thank you so much, the guards can now sleep easier."
+Unlocked at level: 26
+Duration: 75 hrs
+XP per customer: 2080
+Reward: 1 Golden Silk
+Previous quest in line: Bloglodyte Invasion?
+Customers to send: Mercenary, Guard, Barbarian, Knight
+Items needed: flexible plate, spectacular gauntlets, steel battle-axe, gladiator's trident
+Icon link: cdn.edgebee.com/static/shopr2/quests/ghostshield.png (id:33)
+
+test
+Ninjusurtle
+Intro text: "There's a turtle ninja mutant on the rampage in the city, find a way to stop it!"
+Outro test: "The turtle was a boy transformed? Unbelievable."
+Unlocked at level: 27
+Duration: 78 hrs
+XP per customer: 2160
+Reward: 2 Abyss Shell
+Previous quest in line: Phantom Shield 2
+Customers to send: Thief, Barbarian, bard, Engineer
+Items needed: kris, sturdy pole-axe, lute, sniper rifle
+Icon link: cdn.edgebee.com/static/shopr2/quests/ninjaturtle.png (id:34)
+
+test
+Snail With Mail
+Intro text: "We've armed a snail with mail and now it's turning on us! Help!"
+Outro test: "Who would have thought that would be so dangerous. Thank you!"
+Unlocked at level: 31
+Duration: 82 hrs
+XP per customer: 2976
+Reward: 2 mystical_hourglass
+Previous quest in line: Ninjusurtle
+Customers to send: Guard, Guard, Evoker, Healer, Engineer
+Items needed: fine lance of the wolf, blessed helm, skeleton staff, healerstaff, sharpshooter
+Icon link: cdn.edgebee.com/static/shopr2/quests/snailmail.png (id:35)
+
+test
+Ninjusurtle 2
+Intro text: "There are three turtle ninja mutants on the rampage in the city, find a way to stop it!"
+Outro test: "The turtles were siblings of the last one? Unbelievable!"
+Unlocked at level: 32
+Duration: 83 hrs
+XP per customer: 3072
+Reward: 2 Demon Horn
+Previous quest in line: Snail With Mail
+Customers to send: Knight, Barbarian, Guard, Healer, Mercenary
+Items needed: trusty lance, pirate axe, plate of the moon, elfwood vambrace, full plate
+Icon link: cdn.edgebee.com/static/shopr2/quests/ninjaturtle.png (id:36)
+
+test
+Zombullying
+Intro text: "There are zombulls wreaking havoc all over town! We need brute force to stop them!"
+Outro test: "The city is safe... Thanks to you!"
+Unlocked at level: 36
+Duration: 85 hrs
+XP per customer: 3888
+Reward: 1 star_ticket
+Previous quest in line: Ninjusurtle 2
+Customers to send: Knight, Knight, Knight, Mercenary, Healer
+Items needed: frost axe, iron plate armor, spectacular gauntlets, war mask, elemental rod
+Icon link: cdn.edgebee.com/static/shopr2/quests/zombiebull.png (id:37)
+
+test
+Snail With Mail 2
+Intro text: "An army of snail mails are running amok in the city! Help!"
+Outro test: "We'll never experiment with snails again. Thank you!"
+Unlocked at level: 38
+Duration: 90 hrs
+XP per customer: 4104
+Reward: 20 Mithril Lumps
+Previous quest in line: Zombullying
+Customers to send: Barbarian, Guard, Knight, Evoker, Engineer
+Items needed: stone Axe, great armor, flying partisan, stone hands, noble's gloves
+Icon link: cdn.edgebee.com/static/shopr2/quests/snailmail.png (id:38)
+
+test
+Dizzy Gloats
+Intro text: "A bunch of dizzy Gloats are damaging the city walls, please get rid of them."
+Outro test: "The Gloats are all gone, thanks!"
+Unlocked at level: 41
+Duration: 92 hrs
+XP per customer: 4428
+Reward: 2 Moon Stone
+Previous quest in line: Snail With Mail 2
+Customers to send: Thief, Thief, Mercenary, Guard, bard
+Items needed: fire dagger, evasive armor, war priest's mace, transmundane pike, celestial harp
+Icon link: cdn.edgebee.com/static/shopr2/quests/dizzygloat.png (id:39)
+
+test
+Wolf Riders Riding
+Intro text: "Wolf riders have been seen on the horizon, it must be a front for an attack! We must prepare!"
+Outro test: "The riders were seen riding off to the west, they were obviously no match for us."
+Unlocked at level: 43
+Duration: 95 hrs
+XP per customer: 6020
+Reward: 2 Golden Silk
+Previous quest in line: Dizzy Gloats
+Customers to send: bard, Barbarian, Mercenary, Barbarian, Guard, Thief
+Items needed: lord's robe, war priest's mace, man handlers, warrior's sabaton, poseidon, toxic blade
+Icon link: cdn.edgebee.com/static/shopr2/quests/wolfrider.png (id:40)
+
+test
+Leezard Leeder
+Intro text: "The Leezard leader is out for mayhem, please stop him in his tracks."
+Outro test: "They'll never come back, you made sure of that."
+Unlocked at level: 46
+Duration: 100 hrs
+XP per customer: 6440
+Reward: 25 Gems
+Previous quest in line: Wolf Riders Riding
+Customers to send: Musketeer, Guard, bard, Barbarian, Thief, Healer
+Items needed: bile jar, guard mail, twin flute, vicious chopper, curver blade, cleric's robe
+Icon link: cdn.edgebee.com/static/shopr2/quests/leezard.png (id:41)
+
+test
+Wolf Riders Riding 2
+Intro text: "The wolf riders are back in bigger numbers! We must prepare!"
+Outro test: "The riders were seen riding off to the east, hopefully they won't come back."
+Unlocked at level: 50
+Duration: 105 hrs
+XP per customer: 7700
+Reward: 2 Dragon Scale
+Previous quest in line: Leezard Leeder
+Customers to send: Knight, Knight, Guard, bard, Barbarian, Engineer
+Items needed: fiery partisan, transmundane pike, demon plate, frost axe, steel battle-axe, traveling boots
+Icon link: cdn.edgebee.com/static/shopr2/quests/wolfrider.png (id:42)
+
+test
+Old Bones
+Intro text: "The warrior of legend stands at our gate... As a skeleton! Please, we need defenders!"
+Outro test: "At least he can rest in pieces now. We're grateful!"
+Unlocked at level: 53
+Duration: 110 hrs
+XP per customer: 8162
+Reward: 2 Shadow Essence
+Previous quest in line: Wolf Riders Riding 2
+Customers to send: Musketeer, bard, Illusionist, Mercenary, Knight, Guard
+Items needed: escopette, bard's lute, cleansing staff, transmundane full helmet, full plate, great armor
+Icon link: cdn.edgebee.com/static/shopr2/quests/skeleton.png (id:43)
+
+test
+Leezard Leeder 2
+Intro text: "I was wrong! The Leezard leader is back with a vengeance, please stop him in his tracks."
+Outro test: "That's the last we'll see of him, I'm sure of it."
+Unlocked at level: 55
+Duration: 112 hrs
+XP per customer: 8470
+Reward: 1 Divine Leaf
+Previous quest in line: Old Bones
+Customers to send: Knight, Barbarian, Engineer, Guard, Thief, Illusionist
+Items needed: Gaia's spine, ice brand, dual wielder's gloves, belial, enabling vambrace, sky mantle
+Icon link: cdn.edgebee.com/static/shopr2/quests/leezard.png (id:44)
+
+test
+Not-so Admirable Eagle
+Intro text: "Admiral Eagle is planning a revolt against the capital! Find people to stop him!"
+Outro test: "Can't believe you stopped the Admiral, I thought he was undefeatable."
+Unlocked at level: 58
+Duration: 115 hrs
+XP per customer: 9744
+Reward: 1 mithril_gear
+Previous quest in line: Leezard Leeder 2
+Customers to send: hunter, Illusionist, Musketeer, Musketeer, Knight, Barbarian
+Items needed: elven brigandine, celestial pipes, lightning bolt, dragon leather, simon's whip, enchanted labrys
+Icon link: cdn.edgebee.com/static/shopr2/quests/admiral.png (id:45)
+

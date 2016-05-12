@@ -1,0 +1,759 @@
+change
+                New        Old
+Name            Oil Bin 3  Oil Bin 3
+Tier            3          3
+Level unlocked  1          1
+Max w/gold      3          3
+Hammer cost     30         35
+Unlocked by     Oil Bin 2  Oil Bin 2
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_oil
+1       150,000  	1d        	12.0
+2       200,000  	2d        	14.0
+3       250,000  	3d        	16.0
+4       300,000  	4d        	20.0
+5       500,000  	5d        	25.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_oil
+1       150,000  	1d        	12.0
+2       200,000  	2d        	14.0
+3       250,000  	3d        	16.0
+4       300,000  	4d        	20.0
+5       500,000  	5d        	25.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/bin_oil_4_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/bin_oil_4_t.png
+(id:30)
+
+change
+                New             Old
+Name            Ironwood Bin 3  Ironwood Bin 3
+Tier            3               3
+Level unlocked  1               1
+Max w/gold      3               3
+Hammer cost     30              35
+Unlocked by     Ironwood Bin 2  Ironwood Bin 2
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_ironwood
+1       150,000  	1d        	12.0
+2       200,000  	2d        	14.0
+3       250,000  	3d        	16.0
+4       300,000  	4d        	20.0
+5       500,000  	5d        	25.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_ironwood
+1       150,000  	1d        	12.0
+2       200,000  	2d        	14.0
+3       250,000  	3d        	16.0
+4       300,000  	4d        	20.0
+5       500,000  	5d        	25.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/bin_ironwood_4_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/bin_ironwood_4_t.png
+(id:33)
+
+change
+                New          Old
+Name            Steel Bin 3  Steel Bin 3
+Tier            3            3
+Level unlocked  1            1
+Max w/gold      3            3
+Hammer cost     30           35
+Unlocked by     Steel Bin 2  Steel Bin 2
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_steel
+1       150,000  	1d        	12.0
+2       200,000  	2d        	14.0
+3       250,000  	3d        	16.0
+4       300,000  	4d        	20.0
+5       500,000  	5d        	25.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_steel
+1       150,000  	1d        	12.0
+2       200,000  	2d        	14.0
+3       250,000  	3d        	16.0
+4       300,000  	4d        	20.0
+5       500,000  	5d        	25.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/bin_steel_4_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/bin_steel_4_t.png
+(id:36)
+
+change
+                New         Old
+Name            Gems Bin 2  Gems Bin 2
+Tier            2           2
+Level unlocked  1           1
+Max w/gold      3           3
+Hammer cost     25          30
+Unlocked by     Gems Bin    Gems Bin
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_gems
+1       100,000  	1d        	6.0
+2       125,000  	1d        	7.0
+3       150,000  	2d        	8.0
+4       175,000  	3d        	9.0
+5       300,000  	4d        	10.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_gems
+1       100,000  	1d        	6.0
+2       125,000  	1d        	7.0
+3       150,000  	2d        	8.0
+4       175,000  	3d        	9.0
+5       300,000  	4d        	10.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/bin_gems_2_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/bin_gems_2_t.png
+(id:38)
+
+change
+                New         Old
+Name            Gems Bin 3  Gems Bin 3
+Tier            3           3
+Level unlocked  1           1
+Max w/gold      3           3
+Hammer cost     40          90
+Unlocked by     Gems Bin 2  Gems Bin 2
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_gems
+1       500,000  	2d        	11.0
+2       650,000  	3d        	12.0
+3       800,000  	4d        	13.0
+4       1,000,000	5d        	14.0
+5       5,000,000	10d       	16.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_gems
+1       500,000  	2d        	11.0
+2       650,000  	3d        	12.0
+3       800,000  	4d        	13.0
+4       1,000,000	5d        	14.0
+5       5,000,000	10d       	16.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/bin_gems_3_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/bin_gems_3_t.png
+(id:39)
+
+change
+                New            Old
+Name            Crystal Bin 2  Crystal Bin 2
+Tier            2              2
+Level unlocked  1              1
+Max w/gold      3              3
+Hammer cost     25             30
+Unlocked by     Crystal Bin    Crystal Bin
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_crystal
+1       100,000  	1d        	6.0
+2       125,000  	1d        	7.0
+3       150,000  	2d        	8.0
+4       175,000  	3d        	9.0
+5       300,000  	4d        	10.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_crystal
+1       100,000  	1d        	6.0
+2       125,000  	1d        	7.0
+3       150,000  	2d        	8.0
+4       175,000  	3d        	9.0
+5       300,000  	4d        	10.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/bin_crystals_2_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/bin_crystals_2_t.png
+(id:41)
+
+change
+                New            Old
+Name            Crystal Bin 3  Crystal Bin 3
+Tier            3              3
+Level unlocked  1              1
+Max w/gold      3              3
+Hammer cost     40             90
+Unlocked by     Crystal Bin 2  Crystal Bin 2
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_crystal
+1       500,000  	2d        	11.0
+2       650,000  	3d        	12.0
+3       800,000  	4d        	13.0
+4       1,000,000	5d        	14.0
+5       5,000,000	10d       	16.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_crystal
+1       500,000  	2d        	11.0
+2       650,000  	3d        	12.0
+3       800,000  	4d        	13.0
+4       1,000,000	5d        	14.0
+5       5,000,000	10d       	16.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/bin_crystals_3_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/bin_crystals_3_t.png
+(id:42)
+
+change
+                New            Old
+Name            Mithril Bin 2  Mithril Bin 2
+Tier            2              2
+Level unlocked  1              1
+Max w/gold      3              3
+Hammer cost     25             30
+Unlocked by     Mithril Bin    Mithril Bin
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_mithril
+1       100,000  	1d        	6.0
+2       125,000  	1d        	7.0
+3       150,000  	2d        	8.0
+4       175,000  	3d        	9.0
+5       300,000  	4d        	10.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_mithril
+1       100,000  	1d        	6.0
+2       125,000  	1d        	7.0
+3       150,000  	2d        	8.0
+4       175,000  	3d        	9.0
+5       300,000  	4d        	10.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/bin_mithril_2_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/bin_mithril_2_t.png
+(id:44)
+
+change
+                New            Old
+Name            Mithril Bin 3  Mithril Bin 3
+Tier            3              3
+Level unlocked  1              1
+Max w/gold      3              3
+Hammer cost     40             90
+Unlocked by     Mithril Bin 2  Mithril Bin 2
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_mithril
+1       500,000  	2d        	11.0
+2       650,000  	3d        	12.0
+3       800,000  	4d        	13.0
+4       1,000,000	5d        	14.0
+5       5,000,000	10d       	16.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_mithril
+1       500,000  	2d        	11.0
+2       650,000  	3d        	12.0
+3       800,000  	4d        	13.0
+4       1,000,000	5d        	14.0
+5       5,000,000	10d       	16.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/bin_mithril_4_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/bin_mithril_4_t.png
+(id:45)
+
+change
+                New              Old
+Name            Luxurious Table  Luxurious Table
+Tier            3                3
+Level unlocked  1                1
+Max w/gold      3                3
+Hammer cost     60               60
+Unlocked by     Spacious Table   Spacious Table
+New stats
+Level   Gold cost	Build time	critical.tinkerer	critical.jeweler
+1       75,000   	1d        	0.032            	0.032
+2       150,000  	1d        	0.034            	0.034
+3       350,000  	2d        	0.036            	0.036
+4       750,000  	3d        	0.038            	0.038
+5       2,500,000	4d        	0.04             	0.04
+6       5,000,000	4d        	0.042            	0.042
+Old stats
+Level   Gold cost	Build time	critical.tinkerer	critical.jeweler
+1       75,000   	1d        	0.032            	0.032
+2       150,000  	1d        	0.034            	0.034
+3       350,000  	2d        	0.036            	0.036
+4       750,000  	3d        	0.038            	0.038
+5       2,500,000	4d        	0.04             	0.04
+New image: cdn.edgebee.com/static/shopr2/shop/icons/worktable_3_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/worktable_3_t.png
+(id:48)
+
+change
+                New            Old
+Name            Mithril Anvil  Mithril Anvil
+Tier            3              3
+Level unlocked  1              1
+Max w/gold      3              3
+Hammer cost     85             85
+Unlocked by     Steel Anvil    Steel Anvil
+New stats
+Level   Gold cost	Build time	critical.blacksmith	critical.armorer
+1       100,000  	2d        	0.032              	0.032
+2       250,000  	3d        	0.034              	0.034
+3       500,000  	4d        	0.036              	0.036
+4       1,000,000	5d        	0.038              	0.038
+5       5,000,000	10d       	0.04               	0.04
+6       10,000,000	10d       	0.042              	0.042
+Old stats
+Level   Gold cost	Build time	critical.blacksmith	critical.armorer
+1       100,000  	2d        	0.032              	0.032
+2       250,000  	3d        	0.034              	0.034
+3       500,000  	4d        	0.036              	0.036
+4       1,000,000	5d        	0.038              	0.038
+5       5,000,000	10d       	0.04               	0.04
+New image: cdn.edgebee.com/static/shopr2/shop/icons/anvil_3_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/anvil_3_t.png
+(id:51)
+
+change
+                New                Old
+Name            Mystical Cauldron  Mystical Cauldron
+Tier            3                  3
+Level unlocked  1                  1
+Max w/gold      3                  3
+Hammer cost     85                 85
+Unlocked by     Magic Cauldron     Magic Cauldron
+New stats
+Level   Gold cost	Build time	critical.druid	critical.sorceress	critical.enchanter
+1       100,000  	2d        	0.032         	0.032             	0.032
+2       250,000  	3d        	0.034         	0.034             	0.034
+3       500,000  	4d        	0.036         	0.036             	0.036
+4       1,000,000	5d        	0.038         	0.038             	0.038
+5       5,000,000	10d       	0.04          	0.04              	0.04
+6       10,000,000	10d       	0.042         	0.042             	0.042
+Old stats
+Level   Gold cost	Build time	critical.druid	critical.sorceress	critical.enchanter
+1       100,000  	2d        	0.032         	0.032             	0.032
+2       250,000  	3d        	0.034         	0.034             	0.034
+3       500,000  	4d        	0.036         	0.036             	0.036
+4       1,000,000	5d        	0.038         	0.038             	0.038
+5       5,000,000	10d       	0.04          	0.04              	0.04
+New image: cdn.edgebee.com/static/shopr2/shop/icons/chauldron_3_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/chauldron_3_t.png
+(id:54)
+
+change
+                New               Old
+Name            Quality Sawbench  Quality Sawbench
+Tier            3                 3
+Level unlocked  1                 1
+Max w/gold      3                 3
+Hammer cost     85                85
+Unlocked by     Sturdy Sawbench   Sturdy Sawbench
+New stats
+Level   Gold cost	Build time	critical.carpenter	critical.bowyer	critical.luthier
+1       100,000  	2d        	0.032             	0.032          	0.032
+2       250,000  	3d        	0.034             	0.034          	0.034
+3       500,000  	4d        	0.036             	0.036          	0.036
+4       1,000,000	5d        	0.038             	0.038          	0.038
+5       5,000,000	10d       	0.04              	0.04           	0.04
+6       10,000,000	10d       	0.042             	0.042          	0.042
+Old stats
+Level   Gold cost	Build time	critical.carpenter	critical.bowyer	critical.luthier
+1       100,000  	2d        	0.032             	0.032          	0.032
+2       250,000  	3d        	0.034             	0.034          	0.034
+3       500,000  	4d        	0.036             	0.036          	0.036
+4       1,000,000	5d        	0.038             	0.038          	0.038
+5       5,000,000	10d       	0.04              	0.04           	0.04
+New image: cdn.edgebee.com/static/shopr2/shop/icons/sawbench_3_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/sawbench_3_t.png
+(id:57)
+
+change
+                New                 Old
+Name            Fine Cutting Table  Fine Cutting Table
+Tier            3                   3
+Level unlocked  1                   1
+Max w/gold      3                   3
+Hammer cost     85                  85
+Unlocked by     Good Cutting Table  Good Cutting Table
+New stats
+Level   Gold cost	Build time	critical.tailor	critical.leatherworker
+1       100,000  	2d        	0.032          	0.032
+2       250,000  	3d        	0.034          	0.034
+3       500,000  	4d        	0.036          	0.036
+4       1,000,000	5d        	0.038          	0.038
+5       5,000,000	10d       	0.04           	0.04
+6       10,000,000	10d       	0.042          	0.042
+Old stats
+Level   Gold cost	Build time	critical.tailor	critical.leatherworker
+1       100,000  	2d        	0.032          	0.032
+2       250,000  	3d        	0.034          	0.034
+3       500,000  	4d        	0.036          	0.036
+4       1,000,000	5d        	0.038          	0.038
+5       5,000,000	10d       	0.04           	0.04
+New image: cdn.edgebee.com/static/shopr2/shop/icons/cutting_table_3_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/cutting_table_3_t.png
+(id:60)
+
+change
+                New               Old
+Name            Magical Wood Bin  Magical Wood Bin
+Tier            4                 4
+Level unlocked  1                 1
+Max w/gold      3                 3
+Hammer cost     40                50
+Unlocked by     Wood Bin 3        Wood Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_wood
+1       -1       	2d        	45.0
+2       -1       	3d        	50.0
+3       -1       	4d        	55.0
+4       -1       	5d        	60.0
+5       -1       	10d       	70.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_wood
+1       -1       	2d        	42.0
+2       -1       	3d        	44.0
+3       -1       	4d        	46.0
+4       -1       	5d        	48.0
+5       -1       	10d       	50.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_wood_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_wood_t.png
+(id:136)
+
+change
+                New               Old
+Name            Magical Herb Bin  Magical Herb Bin
+Tier            4                 4
+Level unlocked  1                 1
+Max w/gold      3                 3
+Hammer cost     40                50
+Unlocked by     Herb Bin 3        Herb Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_herbs
+1       -1       	2d        	45.0
+2       -1       	3d        	50.0
+3       -1       	4d        	55.0
+4       -1       	5d        	60.0
+5       -1       	10d       	70.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_herbs
+1       -1       	2d        	42.0
+2       -1       	3d        	44.0
+3       -1       	4d        	46.0
+4       -1       	5d        	48.0
+5       -1       	10d       	50.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_herbs_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_herbs_t.png
+(id:137)
+
+change
+                New               Old
+Name            Magical Iron Bin  Magical Iron Bin
+Tier            4                 4
+Level unlocked  1                 1
+Max w/gold      3                 3
+Hammer cost     40                50
+Unlocked by     Iron Bin 3        Iron Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_iron
+1       -1       	2d        	45.0
+2       -1       	3d        	50.0
+3       -1       	4d        	55.0
+4       -1       	5d        	60.0
+5       -1       	10d       	70.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_iron
+1       -1       	2d        	42.0
+2       -1       	3d        	44.0
+3       -1       	4d        	46.0
+4       -1       	5d        	48.0
+5       -1       	10d       	50.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_iron_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_iron_t.png
+(id:138)
+
+change
+                New                  Old
+Name            Magical Leather Bin  Magical Leather Bin
+Tier            4                    4
+Level unlocked  1                    1
+Max w/gold      3                    3
+Hammer cost     40                   50
+Unlocked by     Leather Bin 3        Leather Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_leather
+1       -1       	2d        	45.0
+2       -1       	3d        	50.0
+3       -1       	4d        	55.0
+4       -1       	5d        	60.0
+5       -1       	10d       	70.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_leather
+1       -1       	2d        	42.0
+2       -1       	3d        	44.0
+3       -1       	4d        	46.0
+4       -1       	5d        	48.0
+5       -1       	10d       	50.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_leather_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_leather_t.png
+(id:139)
+
+change
+                New                 Old
+Name            Magical Fabric Bin  Magical Fabric Bin
+Tier            4                   4
+Level unlocked  1                   1
+Max w/gold      3                   3
+Hammer cost     40                  75
+Unlocked by     Fabric Bin 3        Fabric Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_fabric
+1       -1       	2d        	45.0
+2       -1       	3d        	50.0
+3       -1       	4d        	55.0
+4       -1       	5d        	60.0
+5       -1       	10d       	70.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_fabric
+1       -1       	2d        	42.0
+2       -1       	3d        	44.0
+3       -1       	4d        	46.0
+4       -1       	5d        	48.0
+5       -1       	10d       	50.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_fabric_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_fabric_t.png
+(id:140)
+
+change
+                New                 Old
+Name            Magical Powder Bin  Magical Powder Bin
+Tier            4                   4
+Level unlocked  1                   1
+Max w/gold      3                   3
+Hammer cost     40                  75
+Unlocked by     Powder Bin 3        Powder Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_powder
+1       -1       	2d        	27.0
+2       -1       	3d        	31.0
+3       -1       	4d        	35.0
+4       -1       	5d        	39.0
+5       -1       	10d       	45.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_powder
+1       -1       	2d        	28.0
+2       -1       	3d        	30.0
+3       -1       	4d        	32.0
+4       -1       	5d        	34.0
+5       -1       	10d       	36.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_powder_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_powder_t.png
+(id:141)
+
+change
+                New              Old
+Name            Magical Dye Bin  Magical Dye Bin
+Tier            4                4
+Level unlocked  1                1
+Max w/gold      3                3
+Hammer cost     40               75
+Unlocked by     Dye Bin 3        Dye Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_dyes
+1       -1       	2d        	27.0
+2       -1       	3d        	31.0
+3       -1       	4d        	35.0
+4       -1       	5d        	39.0
+5       -1       	10d       	45.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_dyes
+1       -1       	2d        	28.0
+2       -1       	3d        	30.0
+3       -1       	4d        	32.0
+4       -1       	5d        	34.0
+5       -1       	10d       	36.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_dye_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_dye_t.png
+(id:142)
+
+change
+                New                  Old
+Name            Magical Elfwood Bin  Magical Elfwood Bin
+Tier            4                    4
+Level unlocked  1                    1
+Max w/gold      3                    3
+Hammer cost     40                   75
+Unlocked by     Elfwood Bin 3        Elfwood Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_elfwood
+1       -1       	2d        	27.0
+2       -1       	3d        	31.0
+3       -1       	4d        	35.0
+4       -1       	5d        	39.0
+5       -1       	10d       	45.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_elfwood
+1       -1       	2d        	28.0
+2       -1       	3d        	30.0
+3       -1       	4d        	32.0
+4       -1       	5d        	34.0
+5       -1       	10d       	36.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_elfwood_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_elfwood_t.png
+(id:143)
+
+change
+                New                Old
+Name            Magical Glass Bin  Magical Glass Bin
+Tier            4                  4
+Level unlocked  1                  1
+Max w/gold      3                  3
+Hammer cost     40                 75
+Unlocked by     Glass Bin 3        Glass Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_glass
+1       -1       	2d        	27.0
+2       -1       	3d        	31.0
+3       -1       	4d        	35.0
+4       -1       	5d        	39.0
+5       -1       	10d       	45.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_glass
+1       -1       	2d        	28.0
+2       -1       	3d        	30.0
+3       -1       	4d        	32.0
+4       -1       	5d        	34.0
+5       -1       	10d       	36.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_glass_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_glass_t.png
+(id:144)
+
+change
+                New              Old
+Name            Magical Oil Bin  Magical Oil Bin
+Tier            4                4
+Level unlocked  1                1
+Max w/gold      3                3
+Hammer cost     40               100
+Unlocked by     Oil Bin 3        Oil Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_oil
+1       -1       	2d        	27.0
+2       -1       	3d        	31.0
+3       -1       	4d        	35.0
+4       -1       	5d        	39.0
+5       -1       	10d       	45.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_oil
+1       -1       	2d        	27.0
+2       -1       	3d        	29.0
+3       -1       	4d        	31.0
+4       -1       	5d        	33.0
+5       -1       	10d       	35.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_oil_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_oil_t.png
+(id:145)
+
+change
+                New                   Old
+Name            Magical Ironwood Bin  Magical Ironwood Bin
+Tier            4                     4
+Level unlocked  1                     1
+Max w/gold      3                     3
+Hammer cost     40                    100
+Unlocked by     Ironwood Bin 3        Ironwood Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_ironwood
+1       -1       	2d        	27.0
+2       -1       	3d        	31.0
+3       -1       	4d        	35.0
+4       -1       	5d        	39.0
+5       -1       	10d       	45.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_ironwood
+1       -1       	2d        	27.0
+2       -1       	3d        	29.0
+3       -1       	4d        	31.0
+4       -1       	5d        	33.0
+5       -1       	10d       	35.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_ironwood_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_ironwood_t.png
+(id:146)
+
+change
+                New                Old
+Name            Magical Steel Bin  Magical Steel Bin
+Tier            4                  4
+Level unlocked  1                  1
+Max w/gold      3                  3
+Hammer cost     40                 100
+Unlocked by     Steel Bin 3        Steel Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_steel
+1       -1       	2d        	27.0
+2       -1       	3d        	31.0
+3       -1       	4d        	35.0
+4       -1       	5d        	39.0
+5       -1       	10d       	45.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_steel
+1       -1       	2d        	27.0
+2       -1       	3d        	29.0
+3       -1       	4d        	31.0
+4       -1       	5d        	33.0
+5       -1       	10d       	35.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_steel_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_steel_t.png
+(id:147)
+
+change
+                New               Old
+Name            Magical Gems Bin  Magical Gems Bin
+Tier            4                 4
+Level unlocked  1                 1
+Max w/gold      3                 3
+Hammer cost     40                250
+Unlocked by     Gems Bin 3        Gems Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_gems
+1       -1       	4d        	17.0
+2       -1       	5d        	20.0
+3       -1       	10d       	23.0
+4       -1       	12d       	26.0
+5       -1       	15d       	30.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_gems
+1       -1       	4d        	17.0
+2       -1       	5d        	18.0
+3       -1       	10d       	19.0
+4       -1       	12d       	20.0
+5       -1       	15d       	22.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_gem_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_gem_t.png
+(id:148)
+
+change
+                New                  Old
+Name            Magical Crystal Bin  Magical Crystal Bin
+Tier            4                    4
+Level unlocked  1                    1
+Max w/gold      3                    3
+Hammer cost     40                   250
+Unlocked by     Crystal Bin 3        Crystal Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_crystal
+1       -1       	4d        	17.0
+2       -1       	5d        	20.0
+3       -1       	10d       	23.0
+4       -1       	12d       	26.0
+5       -1       	15d       	30.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_crystal
+1       -1       	4d        	17.0
+2       -1       	5d        	18.0
+3       -1       	10d       	19.0
+4       -1       	12d       	20.0
+5       -1       	15d       	22.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_crystal_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_crystal_t.png
+(id:149)
+
+change
+                New                  Old
+Name            Magical Mithril Bin  Magical Mithril Bin
+Tier            4                    4
+Level unlocked  1                    1
+Max w/gold      3                    3
+Hammer cost     40                   250
+Unlocked by     Mithril Bin 3        Mithril Bin 3
+New stats
+Level   Gold cost	Build time	resource.max_count.raw_mithril
+1       -1       	4d        	17.0
+2       -1       	5d        	20.0
+3       -1       	10d       	23.0
+4       -1       	12d       	26.0
+5       -1       	15d       	30.0
+Old stats
+Level   Gold cost	Build time	resource.max_count.raw_mithril
+1       -1       	4d        	17.0
+2       -1       	5d        	18.0
+3       -1       	10d       	19.0
+4       -1       	12d       	20.0
+5       -1       	15d       	22.0
+New image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_mithril_t.png
+Old image: cdn.edgebee.com/static/shopr2/shop/icons/magic_bin_mithril_t.png
+(id:150)
+

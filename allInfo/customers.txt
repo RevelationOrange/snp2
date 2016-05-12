@@ -1,0 +1,1350 @@
+test
+Ida (Mercenary)
+Level range: 1-5
+Favorite item types: swords, maces, shields, potions
+Fame required: 1
+Appeal required: 1
+Unlocked by: City Hall 1
+Color: 0x3f90ff (id:1)
+
+test
+Tabita (Mercenary)
+Level range: 2-5
+Favorite item types: swords, maces, heavy armor, shields
+Fame required: 1
+Appeal required: 2
+Unlocked by: City Hall 1
+Color: 0xff5e43 (id:2)
+
+test
+Wanda (Mercenary)
+Level range: 2-8
+Favorite item types: swords, maces, heavy helmets, shields
+Fame required: 1
+Appeal required: 1
+Unlocked by: City Hall 2
+Color: 0x85e855 (id:3)
+
+test
+Mora (Mercenary)
+Level range: 3-10
+Favorite item types: swords, heavy armor, heavy helmets, gauntlets
+Fame required: 1
+Appeal required: 3
+Unlocked by: Training Grounds 1
+Color: 0xffe65d (id:4)
+
+test
+Rioni (Mercenary)
+Level range: 4-10
+Favorite item types: maces, heavy armor, heavy boots, shields
+Fame required: 1
+Appeal required: 4
+Unlocked by: Training Grounds 1
+Color: 0xf8c0ff (id:5)
+
+test
+Berangel (Mercenary)
+Level range: 5-12
+Favorite item types: swords, maces, heavy helmets, gauntlets, heavy boots
+Fame required: 1
+Appeal required: 5
+Unlocked by: Training Grounds 2
+Color: 0x7cffe5 (id:6)
+
+test
+Galadrun (Mercenary)
+Level range: 7-15
+Favorite item types: swords, maces, heavy armor, gauntlets, shields
+Fame required: 1
+Appeal required: 6
+Unlocked by: Training Grounds 3
+Color: 0xa1cad8 (id:7)
+
+test
+Sonja (Barbarian)
+Level range: 1-5
+Favorite item types: swords, heavy helmets, shields, herbs
+Fame required: 1
+Appeal required: 1
+Unlocked by: City Hall 1
+Color: 0x3f90ff (id:8)
+
+test
+Redde (Barbarian)
+Level range: 2-5
+Favorite item types: maces, spears, gauntlets, heavy boots
+Fame required: 1
+Appeal required: 2
+Unlocked by: City Hall 1
+Color: 0xff5e43 (id:9)
+
+test
+Edma (Barbarian)
+Level range: 2-8
+Favorite item types: swords, axes, heavy armor, heavy helmets
+Fame required: 1
+Appeal required: 1
+Unlocked by: City Hall 2
+Color: 0x85e855 (id:10)
+
+test
+Freya (Barbarian)
+Level range: 3-10
+Favorite item types: axes, spears, heavy armor, heavy boots
+Fame required: 1
+Appeal required: 3
+Unlocked by: Barbarian hideout 1
+Color: 0xffe65d (id:11)
+
+test
+Ovea (Barbarian)
+Level range: 4-10
+Favorite item types: axes, maces, gauntlets, heavy boots
+Fame required: 1
+Appeal required: 4
+Unlocked by: Barbarian hideout 1
+Color: 0xf8c0ff (id:12)
+
+test
+Conana (Barbarian)
+Level range: 5-12
+Favorite item types: swords, spears, heavy helmets, gauntlets, herbs
+Fame required: 1
+Appeal required: 5
+Unlocked by: Barbarian hideout 2
+Color: 0x7cffe5 (id:13)
+
+test
+Dominia (Barbarian)
+Level range: 7-15
+Favorite item types: swords, axes, spears, heavy armor, heavy helmets
+Fame required: 1
+Appeal required: 6
+Unlocked by: Barbarian hideout 3
+Color: 0xa1cad8 (id:14)
+
+test
+Chuck (Guard)
+Level range: 1-5
+Favorite item types: spears, heavy helmets, heavy boots, shields
+Fame required: 5
+Appeal required: 2
+Unlocked by: City Hall 1
+Color: 0x3f90ff (id:15)
+
+test
+Chris (Guard)
+Level range: 2-5
+Favorite item types: axes, heavy armor, gauntlets, shields
+Fame required: 5
+Appeal required: 3
+Unlocked by: City Hall 1
+Color: 0xff5e43 (id:16)
+
+test
+Mateo (Guard)
+Level range: 2-8
+Favorite item types: spears, heavy armor, heavy helmets, gauntlets
+Fame required: 5
+Appeal required: 2
+Unlocked by: City Hall 2
+Color: 0x85e855 (id:17)
+
+test
+Garth (Guard)
+Level range: 3-10
+Favorite item types: axes, gauntlets, heavy boots, shields
+Fame required: 5
+Appeal required: 3
+Unlocked by: Barracks 1
+Color: 0xffe65d (id:18)
+
+test
+Tim (Guard)
+Level range: 4-10
+Favorite item types: spears, gauntlets, heavy boots, shields
+Fame required: 5
+Appeal required: 4
+Unlocked by: Barracks 1
+Color: 0xf8c0ff (id:19)
+
+test
+Ernest (Guard)
+Level range: 5-12
+Favorite item types: spears, heavy armor, heavy helmets, heavy boots, shields
+Fame required: 5
+Appeal required: 5
+Unlocked by: Barracks 2
+Color: 0x7cffe5 (id:20)
+
+test
+Ferdinand (Guard)
+Level range: 7-15
+Favorite item types: axes, heavy armor, heavy helmets, gauntlets, heavy boots
+Fame required: 5
+Appeal required: 7
+Unlocked by: Barracks 3
+Color: 0xa1cad8 (id:21)
+
+test
+Keler (Knight)
+Level range: 5-10
+Favorite item types: swords, heavy armor, heavy boots, shields
+Fame required: 15
+Appeal required: 5
+Unlocked by: City Hall 4
+Color: 0x3f90ff (id:22)
+
+test
+Powle (Knight)
+Level range: 5-10
+Favorite item types: spears, heavy armor, heavy helmets, gauntlets, shields
+Fame required: 20
+Appeal required: 5
+Unlocked by: City Hall 5
+Color: 0xff5e43 (id:23)
+
+test
+Edmund (Knight)
+Level range: 6-12
+Favorite item types: swords, spears, heavy helmets, heavy boots, shields
+Fame required: 25
+Appeal required: 6
+Unlocked by: City Hall 6
+Color: 0x85e855 (id:24)
+
+test
+Cyrano (Knight)
+Level range: 7-14
+Favorite item types: swords, heavy armor, heavy boots, potions, amulets
+Fame required: 25
+Appeal required: 6
+Unlocked by: Stables 1
+Color: 0xffe65d (id:25)
+
+test
+Lancaster (Knight)
+Level range: 8-15
+Favorite item types: spears, heavy armor, gauntlets, heavy boots, shields, amulets
+Fame required: 35
+Appeal required: 7
+Unlocked by: Stables 1
+Color: 0xf8c0ff (id:26)
+
+test
+Gallad (Knight)
+Level range: 9-16
+Favorite item types: swords, spears, heavy helmets, gauntlets, shields, potions
+Fame required: 40
+Appeal required: 8
+Unlocked by: Stables 2
+Color: 0x7cffe5 (id:27)
+
+test
+Orthur (Knight)
+Level range: 10-18
+Favorite item types: spears, heavy armor, heavy helmets, gauntlets, heavy boots, shields, amulets
+Fame required: 50
+Appeal required: 9
+Unlocked by: Stables 3
+Color: 0xa1cad8 (id:28)
+
+test
+Eve (hunter)
+Level range: 1-5
+Favorite item types: bows, gloves, boots, herbs
+Fame required: 1
+Appeal required: 1
+Unlocked by: City Hall 1
+Color: 0x3f90ff (id:29)
+
+test
+Gabrielle (hunter)
+Level range: 2-5
+Favorite item types: bows, armor, helmets, herbs
+Fame required: 1
+Appeal required: 2
+Unlocked by: City Hall 1
+Color: 0xff5e43 (id:30)
+
+test
+Turine (hunter)
+Level range: 2-8
+Favorite item types: axes, bows, armor, potions
+Fame required: 1
+Appeal required: 3
+Unlocked by: City Hall 2
+Color: 0x85e855 (id:31)
+
+test
+Abette (hunter)
+Level range: 3-10
+Favorite item types: bows, helmets, gloves, potions
+Fame required: 1
+Appeal required: 3
+Unlocked by: Archery Range 1
+Color: 0xffe65d (id:32)
+
+test
+Riopelle (hunter)
+Level range: 4-10
+Favorite item types: bows, helmets, gloves, herbs
+Fame required: 1
+Appeal required: 4
+Unlocked by: Archery Range 1
+Color: 0xf8c0ff (id:33)
+
+test
+Anna (hunter)
+Level range: 5-14
+Favorite item types: bows, armor, boots, potions, rings
+Fame required: 1
+Appeal required: 5
+Unlocked by: Archery Range 2
+Color: 0x7cffe5 (id:34)
+
+test
+Viola (hunter)
+Level range: 7-15
+Favorite item types: axes, bows, helmets, gloves, herbs
+Fame required: 1
+Appeal required: 6
+Unlocked by: Archery Range 3
+Color: 0xa1cad8 (id:35)
+
+test
+Algot (Thief)
+Level range: 1-5
+Favorite item types: daggers, helmets, boots, herbs
+Fame required: 1
+Appeal required: 1
+Unlocked by: City Hall 1
+Color: 0x3f90ff (id:36)
+
+test
+Demos (Thief)
+Level range: 2-5
+Favorite item types: daggers, armor, gloves, herbs
+Fame required: 1
+Appeal required: 2
+Unlocked by: City Hall 1
+Color: 0xff5e43 (id:37)
+
+test
+Trougor (Thief)
+Level range: 2-8
+Favorite item types: daggers, helmets, boots, potions
+Fame required: 1
+Appeal required: 3
+Unlocked by: City Hall 2
+Color: 0x85e855 (id:38)
+
+test
+Loden (Thief)
+Level range: 3-10
+Favorite item types: daggers, thrown, boots, rings
+Fame required: 1
+Appeal required: 3
+Unlocked by: Inn 1
+Color: 0xffe65d (id:39)
+
+test
+Trin (Thief)
+Level range: 4-10
+Favorite item types: thrown, helmets, gloves, herbs
+Fame required: 1
+Appeal required: 4
+Unlocked by: Inn 1
+Color: 0xf8c0ff (id:40)
+
+test
+Durin (Thief)
+Level range: 5-12
+Favorite item types: daggers, thrown, armor, boots, amulets
+Fame required: 1
+Appeal required: 5
+Unlocked by: Inn 2
+Color: 0x7cffe5 (id:41)
+
+test
+Rubert (Thief)
+Level range: 7-15
+Favorite item types: daggers, armor, gloves, boots, potions
+Fame required: 1
+Appeal required: 6
+Unlocked by: Inn 3
+Color: 0xa1cad8 (id:42)
+
+test
+Jocasa (Engineer)
+Level range: 2-5
+Favorite item types: maces, armor, gloves, boots
+Fame required: 5
+Appeal required: 3
+Unlocked by: City Hall 2
+Color: 0x3f90ff (id:43)
+
+test
+Lana (Engineer)
+Level range: 3-5
+Favorite item types: guns, armor, helmets, boots
+Fame required: 5
+Appeal required: 3
+Unlocked by: City Hall 2
+Color: 0xff5e43 (id:44)
+
+test
+Olga (Engineer)
+Level range: 3-8
+Favorite item types: guns, helmets, gloves, boots
+Fame required: 5
+Appeal required: 3
+Unlocked by: City Hall 2
+Color: 0x85e855 (id:45)
+
+test
+Braya (Engineer)
+Level range: 3-10
+Favorite item types: maces, guns, armor, gloves
+Fame required: 5
+Appeal required: 4
+Unlocked by: University 1
+Color: 0xffe65d (id:46)
+
+test
+Marine (Engineer)
+Level range: 4-10
+Favorite item types: guns, armor, helmets, gloves
+Fame required: 5
+Appeal required: 5
+Unlocked by: University 1
+Color: 0xf8c0ff (id:47)
+
+test
+Rametta (Engineer)
+Level range: 5-12
+Favorite item types: maces, guns, armor, helmets, boots
+Fame required: 5
+Appeal required: 7
+Unlocked by: University 2
+Color: 0x7cffe5 (id:48)
+
+test
+Tina (Engineer)
+Level range: 7-15
+Favorite item types: guns, armor, helmets, gloves, boots
+Fame required: 5
+Appeal required: 8
+Unlocked by: University 3
+Color: 0xa1cad8 (id:49)
+
+test
+Isla (Musketeer)
+Level range: 5-10
+Favorite item types: swords, daggers, helmets, boots
+Fame required: 15
+Appeal required: 5
+Unlocked by: City Hall 4
+Color: 0x3f90ff (id:50)
+
+test
+Letia (Musketeer)
+Level range: 5-10
+Favorite item types: guns, armor, helmets, gloves, herbs
+Fame required: 20
+Appeal required: 5
+Unlocked by: City Hall 5
+Color: 0xff5e43 (id:51)
+
+test
+Aramicia (Musketeer)
+Level range: 6-12
+Favorite item types: swords, daggers, guns, armor, boots
+Fame required: 25
+Appeal required: 6
+Unlocked by: City Hall 6
+Color: 0x85e855 (id:52)
+
+test
+Diane (Musketeer)
+Level range: 7-14
+Favorite item types: helmets, gloves, potions, herbs, rings
+Fame required: 25
+Appeal required: 6
+Unlocked by: Barracks 4
+Color: 0xffe65d (id:53)
+
+test
+Lauranna (Musketeer)
+Level range: 8-15
+Favorite item types: swords, guns, armor, helmets, boots, rings
+Fame required: 35
+Appeal required: 7
+Unlocked by: Barracks 4
+Color: 0xf8c0ff (id:54)
+
+test
+Bellisa (Musketeer)
+Level range: 9-19
+Favorite item types: daggers, guns, armor, gloves, potions, rings
+Fame required: 40
+Appeal required: 8
+Unlocked by: Barracks 5
+Color: 0x7cffe5 (id:55)
+
+test
+Romaneil (Musketeer)
+Level range: 10-20
+Favorite item types: swords, guns, armor, helmets, gloves, boots, rings
+Fame required: 50
+Appeal required: 9
+Unlocked by: Barracks 6
+Color: 0xa1cad8 (id:56)
+
+test
+Felise (Healer)
+Level range: 1-5
+Favorite item types: staves, clothes, hats, bracers
+Fame required: 1
+Appeal required: 1
+Unlocked by: City Hall 1
+Color: 0x3f90ff (id:57)
+
+test
+Rosa (Healer)
+Level range: 2-5
+Favorite item types: staves, bracers, shoes, scrolls
+Fame required: 1
+Appeal required: 2
+Unlocked by: City Hall 1
+Color: 0xff5e43 (id:58)
+
+test
+Hariane (Healer)
+Level range: 2-8
+Favorite item types: staves, clothes, shoes, scrolls
+Fame required: 1
+Appeal required: 1
+Unlocked by: City Hall 2
+Color: 0x85e855 (id:59)
+
+test
+Disa (Healer)
+Level range: 3-10
+Favorite item types: staves, hats, bracers, rings
+Fame required: 1
+Appeal required: 3
+Unlocked by: Temple 1
+Color: 0xffe65d (id:60)
+
+test
+Cecilia (Healer)
+Level range: 4-10
+Favorite item types: staves, clothes, hats, amulets
+Fame required: 1
+Appeal required: 4
+Unlocked by: Temple 1
+Color: 0xf8c0ff (id:61)
+
+test
+Louisa (Healer)
+Level range: 5-12
+Favorite item types: staves, clothes, hats, shoes, rings
+Fame required: 1
+Appeal required: 5
+Unlocked by: Temple 2
+Color: 0x7cffe5 (id:62)
+
+test
+Rianna (Healer)
+Level range: 7-15
+Favorite item types: staves, clothes, bracers, shoes, amulets
+Fame required: 1
+Appeal required: 6
+Unlocked by: Temple 3
+Color: 0xa1cad8 (id:63)
+
+test
+Omet (Evoker)
+Level range: 1-5
+Favorite item types: hats, bracers, shoes, scrolls
+Fame required: 1
+Appeal required: 1
+Unlocked by: City Hall 1
+Color: 0x3f90ff (id:64)
+
+test
+Gamut (Evoker)
+Level range: 2-5
+Favorite item types: daggers, staves, clothes, potions
+Fame required: 1
+Appeal required: 2
+Unlocked by: City Hall 1
+Color: 0xff5e43 (id:65)
+
+test
+Togo (Evoker)
+Level range: 2-8
+Favorite item types: staves, hats, scrolls, rings
+Fame required: 1
+Appeal required: 3
+Unlocked by: City Hall 2
+Color: 0x85e855 (id:66)
+
+test
+Rehes (Evoker)
+Level range: 3-10
+Favorite item types: staves, shoes, scrolls, amulets
+Fame required: 1
+Appeal required: 3
+Unlocked by: Library 1
+Color: 0xffe65d (id:67)
+
+test
+Roritch (Evoker)
+Level range: 4-10
+Favorite item types: daggers, hats, bracers, rings
+Fame required: 1
+Appeal required: 4
+Unlocked by: Library 1
+Color: 0xf8c0ff (id:68)
+
+test
+Monstan (Evoker)
+Level range: 5-12
+Favorite item types: daggers, staves, clothes, scrolls, amulets
+Fame required: 1
+Appeal required: 5
+Unlocked by: Library 2
+Color: 0x7cffe5 (id:69)
+
+test
+Raistlen (Evoker)
+Level range: 7-15
+Favorite item types: staves, clothes, hats, shoes, scrolls
+Fame required: 1
+Appeal required: 6
+Unlocked by: Library 3
+Color: 0xa1cad8 (id:70)
+
+test
+Julie (bard)
+Level range: 3-7
+Favorite item types: music, clothes, shoes, potions
+Fame required: 5
+Appeal required: 4
+Unlocked by: City Hall 2
+Color: 0x3f90ff (id:71)
+
+test
+Serena (bard)
+Level range: 3-7
+Favorite item types: music, hats, herbs, scrolls, rings
+Fame required: 5
+Appeal required: 4
+Unlocked by: City Hall 3
+Color: 0xff5e43 (id:72)
+
+test
+Rosie (bard)
+Level range: 4-8
+Favorite item types: bows, music, clothes, hats, amulets
+Fame required: 5
+Appeal required: 5
+Unlocked by: City Hall 3
+Color: 0x85e855 (id:73)
+
+test
+Onilda (bard)
+Level range: 4-10
+Favorite item types: music, bracers, shoes, scrolls, rings
+Fame required: 5
+Appeal required: 5
+Unlocked by: Inn 1
+Color: 0xffe65d (id:74)
+
+test
+Celine (bard)
+Level range: 5-10
+Favorite item types: bows, music, hats, bracers, scrolls
+Fame required: 5
+Appeal required: 6
+Unlocked by: Inn 1
+Color: 0xf8c0ff (id:75)
+
+test
+Joan (bard)
+Level range: 6-12
+Favorite item types: bows, music, clothes, potions, amulets
+Fame required: 5
+Appeal required: 7
+Unlocked by: Inn 2
+Color: 0x7cffe5 (id:76)
+
+test
+Pauline (bard)
+Level range: 8-16
+Favorite item types: music, bracers, shoes, herbs, amulets
+Fame required: 5
+Appeal required: 8
+Unlocked by: Inn 3
+Color: 0xa1cad8 (id:77)
+
+test
+Christian (Illusionist)
+Level range: 5-10
+Favorite item types: thrown, clothes, bracers, rings
+Fame required: 15
+Appeal required: 5
+Unlocked by: City Hall 4
+Color: 0x3f90ff (id:78)
+
+test
+Fritz (Illusionist)
+Level range: 5-10
+Favorite item types: thrown, hats, shoes, rings, amulets
+Fame required: 20
+Appeal required: 5
+Unlocked by: City Hall 5
+Color: 0xff5e43 (id:79)
+
+test
+Anthony (Illusionist)
+Level range: 6-12
+Favorite item types: staves, clothes, bracers, shoes, rings
+Fame required: 25
+Appeal required: 6
+Unlocked by: City Hall 6
+Color: 0x85e855 (id:80)
+
+test
+Doug (Illusionist)
+Level range: 7-14
+Favorite item types: staves, thrown, clothes, hats, rings
+Fame required: 25
+Appeal required: 6
+Unlocked by: Inn 4
+Color: 0xffe65d (id:81)
+
+test
+Harry (Illusionist)
+Level range: 8-15
+Favorite item types: staves, thrown, hats, bracers, shoes, rings
+Fame required: 35
+Appeal required: 7
+Unlocked by: Inn 4
+Color: 0xf8c0ff (id:82)
+
+test
+Penn (Illusionist)
+Level range: 9-16
+Favorite item types: thrown, clothes, hats, shoes, rings, amulets
+Fame required: 40
+Appeal required: 8
+Unlocked by: Inn 5
+Color: 0x7cffe5 (id:83)
+
+test
+Tell (Illusionist)
+Level range: 10-18
+Favorite item types: staves, thrown, clothes, hats, bracers, shoes, rings
+Fame required: 50
+Appeal required: 9
+Unlocked by: Inn 6
+Color: 0xa1cad8 (id:84)
+
+test
+Chizu (Ninja)
+Level range: 10-15
+Favorite item types: thrown, helmets, boots, herbs
+Fame required: 45
+Appeal required: 8
+Unlocked by: Far East Traders 1
+Color: 0x3f90ff (id:88)
+
+test
+Mai (Ninja)
+Level range: 10-15
+Favorite item types: swords, thrown, armor, gloves, potions
+Fame required: 50
+Appeal required: 8
+Unlocked by: Far East Traders 1
+Color: 0xff5e43 (id:89)
+
+test
+Mimi (Ninja)
+Level range: 11-16
+Favorite item types: swords, thrown, armor, helmets, potions, herbs
+Fame required: 55
+Appeal required: 8
+Unlocked by: Far East Traders 2
+Color: 0x85e855 (id:90)
+
+test
+Rictus (Necromancer)
+Level range: 10-14
+Favorite item types: daggers, bracers, shoes, herbs, scrolls
+Fame required: 30
+Appeal required: 7
+Unlocked by: Dark Spire 1
+Color: 0x3f90ff (id:91)
+
+test
+Morphus (Necromancer)
+Level range: 11-14
+Favorite item types: staves, clothes, hats, potions, herbs
+Fame required: 35
+Appeal required: 7
+Unlocked by: Dark Spire 2
+Color: 0xff5e43 (id:92)
+
+test
+Terrius (Necromancer)
+Level range: 12-15
+Favorite item types: daggers, hats, bracers, shoes, potions, scrolls
+Fame required: 40
+Appeal required: 8
+Unlocked by: Dark Spire 2
+Color: 0x85e855 (id:93)
+
+test
+Graf (Berserker)
+Level range: 10-14
+Favorite item types: axes, heavy armor, heavy helmets, amulets
+Fame required: 30
+Appeal required: 7
+Unlocked by: Barbarian hideout 4
+Color: 0x3f90ff (id:94)
+
+test
+Thork (Berserker)
+Level range: 10-15
+Favorite item types: daggers, heavy armor, gauntlets, heavy boots, amulets
+Fame required: 35
+Appeal required: 7
+Unlocked by: Berserker Camp 1
+Color: 0xff5e43 (id:95)
+
+test
+Rhuff (Berserker)
+Level range: 10-15
+Favorite item types: axes, heavy armor, heavy helmets, heavy boots, rings
+Fame required: 40
+Appeal required: 8
+Unlocked by: Berserker Camp 1
+Color: 0x85e855 (id:96)
+
+test
+Pripik (Berserker)
+Level range: 10-16
+Favorite item types: daggers, heavy helmets, gauntlets, heavy boots, amulets
+Fame required: 45
+Appeal required: 8
+Unlocked by: Berserker Camp 2
+Color: 0xffe65d (id:109)
+
+test
+Lark (Berserker)
+Level range: 10-17
+Favorite item types: axes, daggers, heavy armor, heavy helmets, gauntlets, rings
+Fame required: 50
+Appeal required: 8
+Unlocked by: Berserker Camp 3
+Color: 0xf8c0ff (id:110)
+
+test
+Krull (Berserker)
+Level range: 11-19
+Favorite item types: axes, heavy helmets, gauntlets, heavy boots, rings, amulets
+Fame required: 60
+Appeal required: 9
+Unlocked by: Berserker Camp 4
+Color: 0x555555 (id:111)
+
+test
+Terek (Berserker)
+Level range: 12-20
+Favorite item types: axes, daggers, heavy armor, heavy helmets, heavy boots, rings, amulets
+Fame required: 75
+Appeal required: 10
+Unlocked by: Berserker Camp 5
+Color: 0xaa6666 (id:112)
+
+test
+Bors (Paladin)
+Level range: 10-15
+Favorite item types: maces, gauntlets, heavy boots, shields
+Fame required: 45
+Appeal required: 8
+Unlocked by: Castle 1
+Color: 0x3f90ff (id:113)
+
+test
+Lucan (Paladin)
+Level range: 10-17
+Favorite item types: spears, heavy armor, heavy helmets, heavy boots, shields
+Fame required: 50
+Appeal required: 8
+Unlocked by: Castle 2
+Color: 0xff5e43 (id:114)
+
+test
+Gawain (Paladin)
+Level range: 12-18
+Favorite item types: maces, heavy armor, heavy helmets, gauntlets, shields
+Fame required: 55
+Appeal required: 8
+Unlocked by: Castle 3
+Color: 0x85e855 (id:115)
+
+test
+Tristram (Paladin)
+Level range: 13-18
+Favorite item types: spears, heavy helmets, gauntlets, heavy boots, herbs
+Fame required: 60
+Appeal required: 9
+Unlocked by: Castle 4
+Color: 0xffe65d (id:116)
+
+test
+Lancelot (Paladin)
+Level range: 13-19
+Favorite item types: maces, heavy armor, heavy helmets, gauntlets, heavy boots, shields
+Fame required: 65
+Appeal required: 9
+Unlocked by: Castle 4
+Color: 0xf8c0ff (id:117)
+
+test
+Percival (Paladin)
+Level range: 14-20
+Favorite item types: maces, heavy armor, gauntlets, heavy boots, shields, herbs
+Fame required: 70
+Appeal required: 9
+Unlocked by: Castle 5
+Color: 0x7cffe5 (id:118)
+
+test
+Arthur (Paladin)
+Level range: 16-21
+Favorite item types: maces, spears, heavy armor, heavy helmets, gauntlets, shields, herbs
+Fame required: 75
+Appeal required: 10
+Unlocked by: Castle 5
+Color: 0xa1cad8 (id:119)
+
+test
+Rodolfa (Engineer)
+Level range: 11-20
+Favorite item types: maces, guns, armor, helmets, gloves, boots
+Fame required: 50
+Appeal required: 10
+Unlocked by: Castle 3
+Color: 0x555555 (id:120)
+
+test
+Kunga (Monk)
+Level range: 5-14
+Favorite item types: clothes, shoes, potions, herbs, amulets
+Fame required: 15
+Appeal required: 6
+Unlocked by: Temple 4
+Color: 0x3f90ff (id:121)
+
+test
+Laoa (Monk)
+Level range: 6-15
+Favorite item types: spears, clothes, bracers, herbs, scrolls, rings
+Fame required: 20
+Appeal required: 6
+Unlocked by: Temple 4
+Color: 0xff5e43 (id:122)
+
+test
+Jeti (Monk)
+Level range: 6-16
+Favorite item types: spears, hats, shoes, potions, rings, amulets
+Fame required: 25
+Appeal required: 6
+Unlocked by: Temple 5
+Color: 0x85e855 (id:123)
+
+test
+Leea (Monk)
+Level range: 8-17
+Favorite item types: hats, shoes, potions, herbs, scrolls, amulets
+Fame required: 25
+Appeal required: 7
+Unlocked by: Temple 5
+Color: 0xffe65d (id:124)
+
+test
+Jackie (Monk)
+Level range: 9-18
+Favorite item types: spears, clothes, hats, bracers, herbs, scrolls, rings
+Fame required: 35
+Appeal required: 7
+Unlocked by: Temple 5
+Color: 0xf8c0ff (id:125)
+
+test
+Chan (Monk)
+Level range: 10-19
+Favorite item types: hats, shoes, potions, herbs, scrolls, rings, amulets
+Fame required: 40
+Appeal required: 8
+Unlocked by: Temple 6
+Color: 0x7cffe5 (id:126)
+
+test
+Dalma (Monk)
+Level range: 12-20
+Favorite item types: spears, clothes, bracers, shoes, potions, herbs, scrolls, rings, amulets
+Fame required: 50
+Appeal required: 8
+Unlocked by: Temple 6
+Color: 0xa1cad8 (id:127)
+
+test
+Fahim (Singing Axe)
+Level range: 8-14
+Favorite item types: axes, music, armor, gloves
+Fame required: 30
+Appeal required: 7
+Unlocked by: Hanging Gardens 1
+Color: 0x3f90ff (id:128)
+
+test
+Levent (Singing Axe)
+Level range: 8-15
+Favorite item types: axes, music, helmets, boots, rings
+Fame required: 35
+Appeal required: 7
+Unlocked by: Hanging Gardens 1
+Color: 0xff5e43 (id:129)
+
+test
+Recep (Singing Axe)
+Level range: 9-15
+Favorite item types: axes, armor, boots, rings, amulets
+Fame required: 40
+Appeal required: 8
+Unlocked by: Hanging Gardens 2
+Color: 0x85e855 (id:130)
+
+test
+Takat (Singing Axe)
+Level range: 9-16
+Favorite item types: music, helmets, gloves, boots, amulets
+Fame required: 45
+Appeal required: 8
+Unlocked by: Hanging Gardens 2
+Color: 0xffe65d (id:131)
+
+test
+Jefi (Singing Axe)
+Level range: 12-18
+Favorite item types: axes, music, armor, helmets, gloves, amulets
+Fame required: 50
+Appeal required: 8
+Unlocked by: Hanging Gardens 3
+Color: 0xf8c0ff (id:132)
+
+test
+Idris (Singing Axe)
+Level range: 13-19
+Favorite item types: music, armor, helmets, gloves, boots, rings
+Fame required: 60
+Appeal required: 9
+Unlocked by: Hanging Gardens 4
+Color: 0x7cffe5 (id:133)
+
+test
+Zafer (Singing Axe)
+Level range: 15-21
+Favorite item types: axes, music, armor, helmets, boots, rings, amulets
+Fame required: 75
+Appeal required: 10
+Unlocked by: Hanging Gardens 5
+Color: 0xa1cad8 (id:134)
+
+test
+Emi (Ninja)
+Level range: 11-17
+Favorite item types: swords, thrown, gloves, boots, potions, herbs
+Fame required: 60
+Appeal required: 9
+Unlocked by: Far East Traders 2
+Color: 0xffe65d (id:135)
+
+test
+Yuko (Ninja)
+Level range: 12-18
+Favorite item types: swords, thrown, armor, boots, potions, herbs
+Fame required: 65
+Appeal required: 9
+Unlocked by: Far East Traders 3
+Color: 0xf8c0ff (id:136)
+
+test
+Aki (Ninja)
+Level range: 13-19
+Favorite item types: swords, thrown, armor, helmets, gloves, potions
+Fame required: 70
+Appeal required: 10
+Unlocked by: Far East Traders 4
+Color: 0x7cffe5 (id:137)
+
+test
+Sakura (Ninja)
+Level range: 15-20
+Favorite item types: swords, thrown, armor, gloves, boots, potions, herbs
+Fame required: 75
+Appeal required: 10
+Unlocked by: Far East Traders 5
+Color: 0xa1cad8 (id:138)
+
+test
+Natila (bard)
+Level range: 12-20
+Favorite item types: bows, music, clothes, bracers, shoes, herbs, scrolls, amulets
+Fame required: 50
+Appeal required: 9
+Unlocked by: Hanging Gardens 3
+Color: 0x555555 (id:139)
+
+test
+Zhiao (Illusionist)
+Level range: 12-20
+Favorite item types: staves, thrown, clothes, hats, bracers, shoes, rings, amulets
+Fame required: 65
+Appeal required: 10
+Unlocked by: Far East Traders 3
+Color: 0x222222 (id:140)
+
+test
+Marccus (Necromancer)
+Level range: 12-16
+Favorite item types: daggers, staves, clothes, shoes, potions, scrolls
+Fame required: 45
+Appeal required: 8
+Unlocked by: Dark Spire 3
+Color: 0xffe65d (id:141)
+
+test
+Viirus (Necromancer)
+Level range: 13-17
+Favorite item types: staves, clothes, hats, bracers, potions, herbs, scrolls
+Fame required: 50
+Appeal required: 8
+Unlocked by: Dark Spire 3
+Color: 0xf8c0ff (id:142)
+
+test
+Rolentus (Necromancer)
+Level range: 14-19
+Favorite item types: daggers, hats, bracers, shoes, potions, herbs, scrolls
+Fame required: 60
+Appeal required: 9
+Unlocked by: Dark Spire 4
+Color: 0x7cffe5 (id:143)
+
+test
+Dolorus (Necromancer)
+Level range: 15-20
+Favorite item types: daggers, staves, clothes, hats, bracers, potions, scrolls
+Fame required: 75
+Appeal required: 10
+Unlocked by: Dark Spire 5
+Color: 0xa1cad8 (id:144)
+
+test
+Hightower (War Wizard)
+Level range: 10-14
+Favorite item types: swords, heavy armor, hats, gauntlets, heavy boots
+Fame required: 30
+Appeal required: 7
+Unlocked by: War College 1
+Color: 0x3f90ff (id:145)
+
+test
+Greenlake (War Wizard)
+Level range: 11-15
+Favorite item types: staves, heavy armor, gauntlets, heavy boots, scrolls
+Fame required: 35
+Appeal required: 7
+Unlocked by: War College 2
+Color: 0xff5e43 (id:146)
+
+test
+Strongarm (War Wizard)
+Level range: 12-15
+Favorite item types: swords, heavy armor, hats, heavy boots, scrolls
+Fame required: 40
+Appeal required: 8
+Unlocked by: War College 2
+Color: 0x85e855 (id:147)
+
+test
+Wideshield (War Wizard)
+Level range: 12-16
+Favorite item types: staves, hats, gauntlets, heavy boots, shields, scrolls
+Fame required: 45
+Appeal required: 8
+Unlocked by: War College 3
+Color: 0xffe65d (id:148)
+
+test
+Longlance (War Wizard)
+Level range: 13-17
+Favorite item types: swords, heavy armor, gauntlets, shields, scrolls
+Fame required: 50
+Appeal required: 8
+Unlocked by: War College 3
+Color: 0xf8c0ff (id:149)
+
+test
+Tornhedges (War Wizard)
+Level range: 14-19
+Favorite item types: staves, heavy armor, hats, gauntlets, heavy boots, shields
+Fame required: 60
+Appeal required: 9
+Unlocked by: War College 4
+Color: 0x7cffe5 (id:150)
+
+test
+Whitespell (War Wizard)
+Level range: 15-20
+Favorite item types: swords, staves, hats, gauntlets, heavy boots, shields, scrolls
+Fame required: 75
+Appeal required: 10
+Unlocked by: War College 5
+Color: 0xa1cad8 (id:151)
+
+test
+Ogal (Channeler)
+Level range: 10-15
+Favorite item types: spears, bows, clothes, shoes, amulets
+Fame required: 45
+Appeal required: 8
+Unlocked by: Mage Tower 1
+Color: 0x3f90ff (id:152)
+
+test
+Toba (Channeler)
+Level range: 11-15
+Favorite item types: staves, clothes, hats, rings, amulets
+Fame required: 50
+Appeal required: 8
+Unlocked by: Mage Tower 2
+Color: 0xff5e43 (id:153)
+
+test
+Borroba (Channeler)
+Level range: 12-16
+Favorite item types: bows, bracers, shoes, potions, rings
+Fame required: 55
+Appeal required: 8
+Unlocked by: Mage Tower 2
+Color: 0x85e855 (id:154)
+
+test
+Anjira (Channeler)
+Level range: 12-18
+Favorite item types: spears, clothes, hats, potions, amulets
+Fame required: 60
+Appeal required: 9
+Unlocked by: Mage Tower 3
+Color: 0xffe65d (id:155)
+
+test
+Kokori (Channeler)
+Level range: 13-19
+Favorite item types: spears, bows, clothes, bracers, potions, amulets
+Fame required: 65
+Appeal required: 9
+Unlocked by: Mage Tower 3
+Color: 0xf8c0ff (id:156)
+
+test
+Lunaba (Channeler)
+Level range: 14-20
+Favorite item types: spears, staves, bows, clothes, bracers, potions, rings
+Fame required: 70
+Appeal required: 10
+Unlocked by: Mage Tower 4
+Color: 0x7cffe5 (id:157)
+
+test
+Pirpiri (Channeler)
+Level range: 16-21
+Favorite item types: spears, bows, clothes, hats, shoes, potions, rings
+Fame required: 75
+Appeal required: 10
+Unlocked by: Mage Tower 5
+Color: 0xa1cad8 (id:158)
+
+test
+Chivote (Guard)
+Level range: 12-19
+Favorite item types: axes, spears, heavy armor, heavy helmets
+Fame required: 40
+Appeal required: 9
+Unlocked by: Barracks 5
+Color: 0xaa6666 (id:159)
+
+test
+Kerbos (Guard)
+Level range: 15-20
+Favorite item types: axes, heavy armor, heavy helmets, shields
+Fame required: 65
+Appeal required: 10
+Unlocked by: Barracks 6
+Color: 0x555555 (id:160)
+
+test
+Cid (Knight)
+Level range: 15-20
+Favorite item types: spears, heavy helmets, gauntlets, shields
+Fame required: 65
+Appeal required: 10
+Unlocked by: Stables 3
+Color: 0x222222 (id:161)
+
+test
+Snorri (Berserker)
+Level range: 11-18
+Favorite item types: axes, heavy armor, heavy helmets, rings
+Fame required: 55
+Appeal required: 8
+Unlocked by: Berserker Camp 4
+Color: 0x7cffe5 (id:162)
+
+test
+Harald (Berserker)
+Level range: 18-21
+Favorite item types: daggers, heavy helmets, heavy boots, amulets
+Fame required: 80
+Appeal required: 10
+Unlocked by: Berserker Camp 6
+Color: 0x222222 (id:163)
+
+test
+Iga (Ninja)
+Level range: 18-21
+Favorite item types: swords, thrown, armor, gloves
+Fame required: 80
+Appeal required: 10
+Unlocked by: Far East Traders 6
+Color: 0x22cc22 (id:164)
+
+test
+Paul (War Wizard)
+Level range: 18-21
+Favorite item types: staves, bracers, scrolls
+Fame required: 80
+Appeal required: 10
+Unlocked by: War College 6
+Color: 0x555555 (id:165)
+

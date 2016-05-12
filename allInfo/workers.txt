@@ -1,0 +1,91 @@
+test
+Worker
+Unlocked at level 0
+Cost to hire:
+0 gold or 0 coupons
+(id:1)
+
+test
+Blacksmith
+Unlocked at level 2
+Cost to hire:
+100 gold or 1 coupons
+(id:2)
+
+test
+Armorer
+Unlocked at level 10
+Cost to hire:
+10,000 gold or 3 coupons
+(id:3)
+
+test
+Tinkerer
+Unlocked at level 16
+Cost to hire:
+125,000 gold or 10 coupons
+(id:4)
+
+test
+Carpenter
+Unlocked at level 2
+Cost to hire:
+100 gold or 1 coupons
+(id:5)
+
+test
+Bowyer
+Unlocked at level 14
+Cost to hire:
+10,000 gold or 3 coupons
+(id:6)
+
+test
+Luthier
+Unlocked at level 18
+Cost to hire:
+125,000 gold or 10 coupons
+(id:7)
+
+test
+Tailor
+Unlocked at level 7
+Cost to hire:
+100 gold or 1 coupons
+(id:8)
+
+test
+Leather-worker
+Unlocked at level 10
+Cost to hire:
+10,000 gold or 3 coupons
+(id:9)
+
+test
+Jeweler
+Unlocked at level 17
+Cost to hire:
+125,000 gold or 10 coupons
+(id:10)
+
+test
+Sorceress
+Unlocked at level 15
+Cost to hire:
+25,000 gold or 5 coupons
+(id:11)
+
+test
+Druid
+Unlocked at level 2
+Cost to hire:
+100 gold or 1 coupons
+(id:12)
+
+test
+Enchanter
+Unlocked at level 40
+Cost to hire:
+450,000 gold or 25 coupons
+(id:13)
+
