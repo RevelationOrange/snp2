@@ -1,0 +1,22 @@
+Instructions for running the various programs here
+
+keying.py
+like keyingAuto, only you have to use checkedRecs.csv, and put 1 next to recipes you still have yet to craft, 0 next to the ones you've finished
+
+keyingAuto.py
+this uses rareRates.txt and startPacket.txt to output all the info about rare recipes you still need to craft, including rare resource
+counts based on your inventory and already crafted items.
+simply copy the first client_action after the static dump (it will have id=2),
+paste it into startPacket.txt, and run keyingAuto.py
+then, check keyingInfo.csv for the output information. it should open with excel (or whatever spreadsheet reader you have), and it should
+know how to handle a csv file.
+
+krownChestSim.py
+this simulates opening krown chests over and over, starting with 1M krowns, going after 'target' items. you set the weights for each
+target (0 if you don't want it) in relWeights, and it prints average krowns spent per target received.
+
+staticDumpDiffCheck.py
+this was the main thrust of this project originally. for it to work, put the latest two static dumps in the main folder, saved as
+sd#####.json, and then put the latest two numbers in sdFileNums as the last two entries (or as the only two, either way), then run it.
+it outputs any info to the updates folder, with changes.txt for an overview of all the changes, and detailed changes for each section
+in their own txt files.
